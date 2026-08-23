@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T10:24:37.926Z",
+  "generatedAt": "2026-08-23T10:25:09.255Z",
   "colombia": [
     {
       "city": "Bogotá",
-      "temp": 13,
+      "temp": 11,
       "description": "Nublado",
       "icon": "☁️"
     },
@@ -21,7 +21,7 @@
     },
     {
       "city": "Cartagena",
-      "temp": 28,
+      "temp": 27,
       "description": "Nublado",
       "icon": "☁️"
     },
@@ -35,19 +35,19 @@
   "mundo": [
     {
       "city": "Nueva York",
-      "temp": 19,
+      "temp": 21,
       "description": "Nublado",
       "icon": "☁️"
     },
     {
       "city": "Londres",
       "temp": 18,
-      "description": "Parcialmente nublado",
-      "icon": "⛅"
+      "description": "Mayormente despejado",
+      "icon": "🌤️"
     },
     {
       "city": "Madrid",
-      "temp": 26,
+      "temp": 27,
       "description": "Parcialmente nublado",
       "icon": "⛅"
     },
@@ -60,8 +60,8 @@
     {
       "city": "Ciudad de México",
       "temp": 14,
-      "description": "Llovizna ligera",
-      "icon": "🌦️"
+      "description": "Nublado",
+      "icon": "☁️"
     }
   ]
 }
