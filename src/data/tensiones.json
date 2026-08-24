@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-21T10:31:36.378Z",
+  "generatedAt": "2026-08-24T10:38:18.519Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada Rusia-Japón en las Islas Kuriles",
-      "region": "Asia-Pacífico",
+      "titulo": "Escalada comercial EE.UU.-Canadá",
+      "region": "América del Norte",
       "noticia": {
-        "titulo": "Rusia eleva la tensión con Japón al confirmar pruebas con misiles en las islas Kuriles",
-        "link": "https://elpais.com/internacional/2026-08-21/rusia-eleva-la-tension-con-japon-al-confirmar-pruebas-con-misiles-en-las-islas-kuriles.html",
-        "fuente": "El País"
+        "titulo": "Canada sets retaliatory tariffs in response to 50% U.S. levies as trade talks fail",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUpHSzVFU2ZTNXZoRGw0MVZQVnRLR2lDdU9UeUdveVBZTzhzSm04UHdBUGZ1SUJsczZ6UGlESGpsZW1lZ1ZUV0ktWDU0RHkzVVBfOHk0dnJTV2lXeGpEQlFKYzZIdVBaeFlocm16NDdtaEdxd05ROGtlM2RCOV92U0NyUGUzVFZ2MFp0b0J3ZkRNM3VEMlRCRWdFV0dRck1IREFsa1dRMXYxdUFIU1NMM2F3NTg3MjdZdEVELXUydm1hRS1xbDZ6Rg",
+        "fuente": "The Washington Post"
       },
-      "analisis": "Las pruebas de misiles rusos en territorio disputado refuerzan la militarización del Pacífico occidental en un contexto de alianzas cambiantes post-Ucrania, señalando la intención de Moscú de consolidar control sobre posiciones estratégicas. Esta demostración de fuerza presiona directamente sobre Japón, que lidia simultáneamente con la incertidumbre sobre compromisos de seguridad estadounidenses bajo la administración Trump."
+      "analisis": "Trump ha impuesto aranceles del 50% a Canadá y Trump canceló driles militares con Corea del Sur por demandas de Irán, reflejando una estrategia de presión económica simultánea en múltiples frentes. La ruptura de negociaciones comerciales con Canadá señala el fin de la diplomacia comercial tradicional en la administración Trump y podría desestabilizar cadenas de suministro críticas en América del Norte."
     },
     {
       "rank": 2,
-      "titulo": "Colapso del sistema hospitalario palestino bajo bloqueo israelí en Gaza",
-      "region": "Medio Oriente",
+      "titulo": "Crisis de sanciones e intentos de disuasión contra Irán",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "La falta de aceite y de recambios para los generadores de los hospitales de Gaza, por el bloqueo israelí, amenaza la vida de los pacientes",
-        "link": "https://elpais.com/planeta-futuro/2026-08-21/la-falta-de-aceite-y-de-recambios-para-los-generadores-de-los-hospitales-de-gaza-por-el-bloqueo-israeli-amenaza-la-vida-de-los-pacientes.html",
+        "titulo": "Estados Unidos anuncia hoy nuevas sanciones económicas contra Irán",
+        "link": "https://elpais.com/internacional/2026-08-24/estados-unidos-anuncia-este-lunes-nuevas-sanciones-economicas-contra-iran.html",
         "fuente": "El País"
       },
-      "analisis": "El deterioro crítico de la infraestructura médica palestina representa una crisis humanitaria con potencial de generar nuevas olas de violencia y radicalización en la región. La escasez sistémica de recursos vitales alimenta narrativas de castigo colectivo que podrían precipitar un nuevo ciclo de intifada, especialmente dado el aumento documentado de ataques de colonos en áreas palestinas bajo control directo."
+      "analisis": "Trump anuncia nuevas sanciones contra Irán mientras reconoce que el país ha mostrado una capacidad para resistir presión económica extrema, lo que sugiere un límite en la efectividad de las medidas coercitivas unilaterales. La combinación de sanciones renovadas y la cancelación de ejercicios militares con aliados clave indica una estrategia de contención pero también revela fracturas en la coordinación de seguridad aliada."
     },
     {
       "rank": 3,
-      "titulo": "Ofensiva diplomática y amenazas económicas de Trump contra Irán y sus socios comerciales",
-      "region": "Medio Oriente y Asia",
+      "titulo": "Guerra de attrición económica Rusia-Ucrania",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Trump's Economic Threat Puts Focus on Iran's Trading Partners",
-        "link": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html",
-        "fuente": "The New York Times"
+        "titulo": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
+        "link": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
+        "fuente": "El País"
       },
-      "analisis": "La amenaza explícita de Trump de castigar económicamente a los socios comerciales de Irán (particularmente China) busca aislar Teherán antes de potenciales negociaciones, reposicionando la presión sobre actores clave como Pekín que podrían abandonar compromisos con Irán bajo presión. Esta estrategia de coerción económica global incrementa la volatilidad en los mercados energéticos y obliga a realineamientos geopolíticos en Asia Central y el Golfo Pérsico."
+      "analisis": "Ucrania ha escalado su estrategia de guerra económica atacando infraestructura civil comercial rusa, combinada con la introducción de drones autónomos con IA para eliminar objetivos, lo que indica una intensificación tecnológica del conflicto. Esta mutualización de objetivos económicos con innovación militar autónoma sugiere una prolongación indefinida del conflicto y transformaciones fundamentales en la naturaleza de la guerra moderna."
     }
   ]
 }
