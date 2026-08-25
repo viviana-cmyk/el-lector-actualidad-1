@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:31:47.021Z",
+  "generatedAt": "2026-08-25T02:39:19.239Z",
   "outlets": [
     {
       "name": "CNN en Español",
@@ -25,13 +25,6 @@
           "pubDate": "2026-08-24T23:44:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
-        },
-        {
-          "title": "El secretario del Tesoro de EE.UU. anuncia nuevas sanciones contra Irán",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEY0Wll1VW5KZDRCeF8tMnVCZEpiU0JPRE5rQnNLWW45bjRoUFFXMmpWYU0yWWtycEpxYUZqeWZHMnI5MDlsbXpRMTBnSHFhSi04Vks5d0JadTYyNzdpVFd5M29XWF8yMVlfV1dpN1F2WXhtc1gwOFk5eURSdTM4YmdnZVhIUXFWX3FQdjJfNXAyaXpubjh2M08tMHFVbXJ6NkR0OUloSlRBQQ?oc=5",
-          "pubDate": "2026-08-24T19:05:14.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
         }
       ]
     },
@@ -40,13 +33,6 @@
       "color": "sky",
       "items": [
         {
-          "title": "Abelardo de la Espriella ordena la deportación inmediata de los inmigrantes irregulares: “Se van, es una decisión política”",
-          "link": "https://elpais.com/america-colombia/2026-08-24/abelardo-de-la-espriella-ordena-la-deportacion-inmediata-de-los-inmigrantes-irregulares-se-van-es-una-decision-politica.html",
-          "pubDate": "2026-08-24T19:59:40.000Z",
-          "snippet": "El presidente de Colombia anuncia operativos coordinados entre la Policía y Migración Colombia para expulsar “esta misma semana” a los extranjeros que “estén cometiendo delitos” o “que no tengan regularizada su situación”",
-          "_priority": "ALTA"
-        },
-        {
           "title": "Milei atribuye el caso de su exasesor preso en Bolivia a una conspiración de Lula, Evo Morales y “el castrochavismo”",
           "link": "https://elpais.com/argentina/2026-08-24/milei-atribuye-el-caso-de-su-exasesor-preso-en-bolivia-a-una-conspiracion-de-lula-evo-morales-y-el-castrochavismo.html",
           "pubDate": "2026-08-24T19:43:17.000Z",
@@ -54,10 +40,24 @@
           "_priority": "ALTA"
         },
         {
+          "title": "Abelardo de la Espriella ordena la deportación inmediata de los inmigrantes irregulares: “Se van, es una decisión política”",
+          "link": "https://elpais.com/america-colombia/2026-08-24/abelardo-de-la-espriella-ordena-la-deportacion-inmediata-de-los-inmigrantes-irregulares-se-van-es-una-decision-politica.html",
+          "pubDate": "2026-08-24T19:59:40.000Z",
+          "snippet": "El presidente de Colombia anuncia operativos coordinados entre la Policía y Migración Colombia para expulsar “esta misma semana” a los extranjeros que “estén cometiendo delitos” o “que no tengan regularizada su situación”",
+          "_priority": "ALTA"
+        },
+        {
           "title": "Macron anuncia tres parques “como Disneyland” en París financiados por Arabia Saudí",
           "link": "https://elpais.com/internacional/2026-08-24/macron-anuncia-tres-parques-como-disneyland-en-paris-financiados-por-arabia-saudi.html",
           "pubDate": "2026-08-24T19:41:00.000Z",
           "snippet": "El presidente francés recibe en visita oficial al príncipe heredero Mohamed Bin Salmán, con el que ha cerrado varios acuerdos comerciales con empresas como Aramco o Alstom",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Foro Madrid, la cumbre de la ultraderecha internacional, llega a Chile en medio del debate sobre el iliberalismo de Kast",
+          "link": "https://elpais.com/chile/2026-08-24/foro-madrid-la-cumbre-de-la-ultraderecha-internacional-llega-a-chile-en-medio-del-debate-sobre-el-iliberalismo-de-kast.html",
+          "pubDate": "2026-08-24T19:31:12.000Z",
+          "snippet": "La Fundación Disenso, impulsora del foro liderado por Vox, celebra su quinta edición los días 3 y 4 de septiembre en Santiago",
           "_priority": "ALTA"
         },
         {
@@ -72,13 +72,6 @@
           "link": "https://elpais.com/internacional/2026-08-24/dos-cascos-azules-de-la-onu-mueren-en-una-emboscada-en-sudan-del-sur.html",
           "pubDate": "2026-08-24T19:17:38.000Z",
           "snippet": "El balance de víctimas mortales entre las fuerzas de paz de la organización se eleva a nueve en lo que va de año",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Armenia acelera su acercamiento a la UE pese a la presión de Rusia",
-          "link": "https://elpais.com/internacional/2026-08-24/armenia-acelera-su-acercamiento-a-la-ue-pese-a-la-presion-de-rusia.html",
-          "pubDate": "2026-08-24T18:31:01.000Z",
-          "snippet": "El distanciamiento con Moscú abre interrogantes sobre las consecuencias económicas y políticas de abandonar progresivamente su órbita",
           "_priority": "ALTA"
         }
       ]
@@ -102,13 +95,6 @@
           "_priority": "ALTA"
         },
         {
-          "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
-          "link": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
-          "pubDate": "2026-08-25T01:45:55.000Z",
-          "snippet": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The commonwealth and ACT ombudsman has criticised the…",
-          "_priority": "ALTA"
-        },
-        {
           "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
           "link": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
           "pubDate": "2026-08-25T01:45:35.000Z",
@@ -127,6 +113,13 @@
           "link": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
           "pubDate": "2026-08-24T18:57:57.000Z",
           "snippet": "Washington launches campaign to isolate Tehran but it is unclear whether it will apply measures to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with Iran, hoping to achieve with economic measures what military mean…",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+          "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+          "pubDate": "2026-08-24T18:55:43.000Z",
+          "snippet": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest deterioration in trade relations between the two neighbors with histor…",
           "_priority": "ALTA"
         }
       ]
@@ -186,21 +179,7 @@
         {
           "title": "Bessent unveils sweeping new Iran sanctions but delays toughest blow",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFhKYWdzQ1RSVzB5dEs3NDRxTmZ6MzBPZXpidVhlSmp1YXEyUXhXa1Q4bEZTRC1NTE90VmxfT05ZMFZUXzlrNHA1Q0xsQmQ1NFUxWUNmdE8xUGI4UEZIbUM1VzJxenp6a3RJU09RY1dQRmtlb2VjTXZqMDdCOFg5X2w1S1JQdGVoRTJ6dDFxcW5QSWs0LTBBRlk3aW51Z24tall0SzhqYw?oc=5",
-          "pubDate": "2026-08-25T02:02:43.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Some Texas conservatives are breaking ranks and pledging to vote Democratic",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3dFb1FYbHZxYjNoQjBvU2tiMDBCMW90ekZEWlI2VUFaYnhzNDlHeVUtUkVVZWZlcUF3bWhsQUE2SHQwYXNhTmpteWdMZlR5TjlIWXg0RlJDUUJlYmx6Znd4ZlZROUxUY1J1NmRhekNYTWlLUnM3TFFwcGstaGZoNmdBTXVFZUp2ZzROYUtDMEUyeUtRT19WeWQ2QWdTbm1fNDlj?oc=5",
-          "pubDate": "2026-08-24T16:00:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Leaked memo shows how U.S. aims to weaken global limits on plastic production",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLXB2QjBDa3liUlp0SXk1ZEFNTEFwWHBoNGdIY3JWT1h3eHdhWG9rdnRmRU9KWHdOcnV5V1ZsVGdiclV0cUpfdDE4aHJZV0NXbVBMZWZkNkpHeUdkOXFOQjluUkNOdWV1SEFjWTUwbUZZR0Y2dUNoeDR2c0s2djBSaXVOSnVYODNsM0h6cHFwMnR5ZGpVNzU1d0RtOW5TOWNXOUdCN2UwR3RwLUh3WGxaekRUVklEVHViQ3lrcml0OEJESXZURDZoLTdOVQ?oc=5",
-          "pubDate": "2026-08-24T16:00:00.000Z",
+          "pubDate": "2026-08-25T02:28:08.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -212,9 +191,16 @@
           "_priority": "ALTA"
         },
         {
-          "title": "The ocean just broke a temperature record that may have stood for millennia",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEVRaXlzdWZCODlOdHIzY1M2eENZUHFCUWg5VXhPSEF6QWJ2aUNhdGhJWjdrSmZEY2lmN1FYSFlqWEQ3UWZacW9ZRm1uNHp4eXhJaTFkbUhJZjU1NjhPVkozXzluZDc0a2dWZnlhSm5JWS05U3N6UnpMUkdIMldYODUxcjY1TXN6eE9PNHZmMC1hTnFORDlPclBFd2Q5TFUxczRpbmFrY0lGRFBDdGFwdWNDQk5zWE0?oc=5",
-          "pubDate": "2026-08-24T20:08:00.000Z",
+          "title": "Some Texas conservatives are breaking ranks and pledging to vote Democratic",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3dFb1FYbHZxYjNoQjBvU2tiMDBCMW90ekZEWlI2VUFaYnhzNDlHeVUtUkVVZWZlcUF3bWhsQUE2SHQwYXNhTmpteWdMZlR5TjlIWXg0RlJDUUJlYmx6Znd4ZlZROUxUY1J1NmRhekNYTWlLUnM3TFFwcGstaGZoNmdBTXVFZUp2ZzROYUtDMEUyeUtRT19WeWQ2QWdTbm1fNDlj?oc=5",
+          "pubDate": "2026-08-24T16:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "U.S.-Canada breakdown shows limits of Trump’s aggressive trade strategy",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHA3eFdqa3YwMDlIZ3o1U2Ntc3VBMk94YUl4aTBlSWpLYk9lRkRMU0czdi1hbVBYRXVSWVNxYlFsVnJldVVIS2ViZzZhZG5HZ0I5Sk1EbF9EOWI3MEtEdTc4cjc4b3NTUlNEZlVkSzRuOU9DanRhWjV2VUstaW54NzFfdXR3VXdlcm9OOF9mR0I2XzVXd0F5VVlOeXprRElrVXMxRTBLNnZTbWkwaDQ3U0cwLUFXWkt4?oc=5",
+          "pubDate": "2026-08-23T17:00:01.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -246,13 +232,6 @@
           "_priority": "ALTA"
         },
         {
-          "title": "While Ukraine is under fire, corruption and political chaos abound",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlkySFNXYlpLeE5UVFUxQW5FYUtjUnNjZ1RSajVZMU5uQmc5aFpkNzNYNEVKTE5uRzJST19uUkJOSEpZbk1KQkRlM1dUSG4yVmpXVktLbXQ5UTdkdTBQS183RGxCOWIwb1hndHN4VHVMbUttZUo1M3FzbGFIVTQ3bGFHNlp4ZXR0YXNGeDZFTVJpX1laOGloblRZVTI1WlI5cV9QU1IwUlZpLXpyNUE?oc=5",
-          "pubDate": "2026-08-24T01:57:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "The costs of defying Donald Trump are mounting for Canada",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkpIb3RpT2lFalBMc1Jnd3RjUUoxaVZWR0d6Qk5PX3Zsa1JnMFVscEhyQmpVeTNaRlJ5UXNfNlpWNF90c2NxWG5JZXM3WVdrWG1uVG40eDg0OFBjTVpTLU1NaWk5dlJ3SVlIRUlzWTVJTlh4R0dPWlRMaTk1bXVHVzl2LXBlMVNkZC04UEVaaEJsNGQzWWxocDVRVDlTaTA0MHBsM01sR0NUMGM?oc=5",
           "pubDate": "2026-08-23T10:17:45.000Z",
@@ -263,6 +242,13 @@
           "title": "World in Brief: America due to unveil sanctions on Iran’s trade partners; Mark Carney vows retaliation",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmZMeW9ycUJ5SW5RdGdzcDVIdTFZRWxwVkhjY2FfaGpOTy1xR0JyMkF2bHpKajd6TFB4ZHlSYUxkWEJIclNLZEYybWNUSThkRnN1dFBGLUlVQ29kakhsTEVXNjhVemhvMG5KWWxxeU5ZZUMzbnVMNXZpZy1TRmlmNmlrWnppenMxQ0JrUmRNeWdlQ3JOY3Z3?oc=5",
           "pubDate": "2026-08-22T07:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Montenegro takes a step closer to EU membership",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnNUTE9pOGE4aTRBU2pVWEFHalNjek1jTVNxY2FRYUFZQU15Z0VhWUNrRkwyNEl4RkRjTkZreVVCVkxBUmVTb2ZlX3h0NVNxUjdkTm1sRmRNeGQ1Q21vNjhRLXJ1UU1yMHBFMFhmZUxnd2sySE53c0JoSjhkNW43QmhQSmN4RVdjaXg5ekdpRXh1eWR2UmpF?oc=5",
+          "pubDate": "2026-08-22T05:17:49.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -294,16 +280,16 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Terry Cole afirma que “hay funcionarios de alto nivel en México que trabajan con los cárteles”",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ05GQU1GalE0d3h6MjB5b2U2cU1lenZOMEdXTEtxZjhlWjBkUjdxXzg2Z2NjWjNBRTBXVHZsek5OZS0xOEp6UWR1ZzBhQm0tb216UWc1S194ejVua0VwRGhqRGV4MGJYN0wyLWpzUkNtdDdBdHYtemgwSnNKX1RVcjNYTURWZnp6bnI0V05BdjlsS2IxUWJKRlN3M0kxOU00a1pWR1pqeDdBNGFDRmI3M2FNQlc2OWthbDhCTHRfZnlDdmp4WDNoUmR3WV9ZM09Ga09BNHFBLUl6aTlRV3dDNGlKX05IczBZRjhFdHY1V1JaVDljMVHSAYoCQVVfeXFMT2l1WkZ0UGFKTElKYlFxZXdBVS05eWFWa244dy1zOEYtOUhicks0VWQ5Q3JIZWozZHZlZXpyUk53YS1COWRZSVR3SGRlNG1fRWFtaDFDdGliejFjczVRRmR0b2RFZW8xMFFYc2M1UDZxZmxxUnhUVlRyNjVFY2tpdFpmMXhoSS1heXk4OVk2WGhWb1Y2X1ByWDNnNm9MbF9HdUtRNHZCYlZmVlFESllVUkpNY2RzcDNTeWI5dFNBR0VpSVgySzN5T211dDhkekd6c2MzNE5QcHJYZ0E5SHRITWxVVjRKdXlFU2J4Ung0XzFqT0dDM1BHR09qcm5HN2hDcnpQbXpwSEdFYkE?oc=5",
-          "pubDate": "2026-08-23T18:55:00.000Z",
+          "title": "Sheinbaum se impone: frena rebelión de los duros, escribe Salvador García Soto",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjFGTVRQdEFtMjhPS2I4c0FxQ016ZnVNVWdCWFFUQmdTQzZiR05LUVNzTlAwdDhEMEtSbTY1THRwTmd5S0dXcG91bDhKMGFfZFFoQ1FiQmJYSkxDUHVxRndzTlQtbjBmNTk5VUZrQmxvLTNtUW5INllzWndfX2ZXdW5iaml5ek50MzlHd0pMN2JHblhkRE9Va3F2WHQ4c09EeWtXbXFmREJOOUpl?oc=5",
+          "pubDate": "2026-08-24T09:52:23.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Sheinbaum se impone: frena rebelión de los duros, escribe Salvador García Soto",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjFGTVRQdEFtMjhPS2I4c0FxQ016ZnVNVWdCWFFUQmdTQzZiR05LUVNzTlAwdDhEMEtSbTY1THRwTmd5S0dXcG91bDhKMGFfZFFoQ1FiQmJYSkxDUHVxRndzTlQtbjBmNTk5VUZrQmxvLTNtUW5INllzWndfX2ZXdW5iaml5ek50MzlHd0pMN2JHblhkRE9Va3F2WHQ4c09EeWtXbXFmREJOOUpl?oc=5",
-          "pubDate": "2026-08-24T09:52:23.000Z",
+          "title": "Terry Cole afirma que “hay funcionarios de alto nivel en México que trabajan con los cárteles”",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ05GQU1GalE0d3h6MjB5b2U2cU1lenZOMEdXTEtxZjhlWjBkUjdxXzg2Z2NjWjNBRTBXVHZsek5OZS0xOEp6UWR1ZzBhQm0tb216UWc1S194ejVua0VwRGhqRGV4MGJYN0wyLWpzUkNtdDdBdHYtemgwSnNKX1RVcjNYTURWZnp6bnI0V05BdjlsS2IxUWJKRlN3M0kxOU00a1pWR1pqeDdBNGFDRmI3M2FNQlc2OWthbDhCTHRfZnlDdmp4WDNoUmR3WV9ZM09Ga09BNHFBLUl6aTlRV3dDNGlKX05IczBZRjhFdHY1V1JaVDljMVHSAYoCQVVfeXFMT2l1WkZ0UGFKTElKYlFxZXdBVS05eWFWa244dy1zOEYtOUhicks0VWQ5Q3JIZWozZHZlZXpyUk53YS1COWRZSVR3SGRlNG1fRWFtaDFDdGliejFjczVRRmR0b2RFZW8xMFFYc2M1UDZxZmxxUnhUVlRyNjVFY2tpdFpmMXhoSS1heXk4OVk2WGhWb1Y2X1ByWDNnNm9MbF9HdUtRNHZCYlZmVlFESllVUkpNY2RzcDNTeWI5dFNBR0VpSVgySzN5T211dDhkekd6c2MzNE5QcHJYZ0E5SHRITWxVVjRKdXlFU2J4Ung0XzFqT0dDM1BHR09qcm5HN2hDcnpQbXpwSEdFYkE?oc=5",
+          "pubDate": "2026-08-23T18:55:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -328,6 +314,20 @@
           "_priority": "ALTA"
         },
         {
+          "title": "El Diario en 90 segundos: Candidatos republicanos anuncian presentación de planes para futuro económico de Florida",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWmp6ZDVrV29PcEFUSlJHNl9kRU9rMUtHRkYtVl9SMXc1WHF5d1JXc05Vc1JHVEpLZ1BBMHpDU3hqS1YzY2NBclNiVDlJZXBnTVlwU2k1X3JtUDJsUkEwSkFjb3Q2ODU5NmlqTGtsSGFaVHVQclY3WEVWcGplTDBDcEF6Y0dmbzByTkNQcGVDTzRGYUlNV1lIVXdLT0NHWlJKc2ZBWVpGZ3Vuemh4ZHd4c2dZU3pIQ201QW9RS1Y1Vk5KaTNPcXo1U3BBTnJYT241cTY1U1pKbGVpamEwMG92Z09qRdIB6AFBVV95cUxNQ2pZYVlHMS05UXc4RTY2WjF4amxoMEU4VlVjLUJRcm5WZ08tdXZSMkdqRHVreUVRMmpYVkQ3RU1RSlV6QnJKTjZiQ2JkOEpwNzVwZFdabmRKNjhRNjBNbmdCMzMyWXREUnVkUlduU0lBMXIwYmpGUTdPOFh3UC1XeGJGM0x3N09QRzNkUG5scUlCMWpmZDVuNnJmaDZBN3RVcm9NZkx3NHd5RUVMR1NTUVoySVUyejlFSS1za2tEdEpFQXFHTE1ycG5KcnZfUEFFVVl5aEFiaVRnT0plRkZBeWJHQzd4b3Zv?oc=5",
+          "pubDate": "2026-08-24T16:48:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Alcaldesa de Miami-Dade defiende presupuesto de $978 millones para oficina de la Sheriff",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3BYSVNKRUt4WUd1czJ3MG52NVlzN2JkZUpILXMzcV9yVnZDTjAyeEctMW9HRkQtdU5DZlR6dXM5Yi1ZQnBBSkxzdm5xWFdGX1c0YXN5b1FHejJnUGJZX2g5OUg2QU9ybkdaVWJwaWF0ZDBpZFlON0h3X0dJWjlsNlNPTE9NV3ZZRF9ULVZpdUVmdzZOMVJ5a3pVYTAxeXBVcGNTMllWN1hwbmxkZ2QwWldlUjZYVmkzVkdEOXN1QzhNUdIBxwFBVV95cUxON0J5WnhPUXBoVEJQZHhkVW9lUzZhM2REdnB0ZmVJeWM5YU5Db3hZN0k1eHVQdElLVVJ6VFdfQjdma0RYaWxxWklKcFF6YkdvejRRYk9xTzVkRWZMZVJXeWVJUW1sOExuQ3FiR2lWT09vRkwyMHhiMkZIRThlNmFIaU1nY1FuRHlpcTBjOVlJVk5UME9hSTJoSFV0bm9ucTd3UXV6ZHhBLUIwTnNHUHVSdVpWMGdQWlRpZENsd1l3aUlhOEdrN3FF?oc=5",
+          "pubDate": "2026-08-24T14:40:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Informes de Inteligencia revelan estrategia para desestabilizar al gobierno de Colombia",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbkR5OG1xR2JUUEN6QkwtbDdab2dBeUFXSG9kdFB1cVN0d0syaEVydVY3Z0liUEdLRU5MNEU0X3ZKeHVjVlZMaExxWS15WGxfRUNEdno5dTFKeU50SVhoN2hkczJxcGozTnZPdGI3Q1BnUU54bmx1Mk9HR2MtRUo2bXotSEZZLURHTzd0dzVEVGNuU1FtakhGcHBIQjM1Wm43MnBmWVBKZU5SeVZvdGdFamQ4RG5Yek9rR1FEV2JzS1lfTHVGOW5peDF6MlhSUjDSAdQBQVVfeXFMTXEwNk1ERHBlcVBtVENrYkFpU3Vtb0J1ck4zcHduOWJkTkc5dzhxbUZxZVVJWXhqb1BycG9jdWllSjFMS3FVazVqMzdINU5QQ3F5SjA4TzNFWkhzMEwtc2ZNMFNrTVduOXR4N2tVT3Q1NXdnSmZHY3V5REF1ajZaODFQT3ZsV0dkendvVGJCdm5JTGROMUV0dzJieG9qa2JQSWJjcGN0cTFDbDRZRmJGN0ZWN2MtY1RXaE9FRUNLQXI3cktWcVVjbk5GX3NqTlRacm85S0g?oc=5",
           "pubDate": "2026-08-23T18:57:00.000Z",
@@ -338,13 +338,6 @@
           "title": "Rick Scott: María Corina Machado debe volver a Venezuela y competir en las elecciones",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMHZtQzF0MDd1TWNmcWFRMVVXdHl3bjdiRHluMXN3cmZnVTJOTzd0TEhkejhkUE8wLVgzMnNpRVM5TTBRY1R2SG5POUJ4bU4zdVY3U2dTV0J3a09Rb0p5eGdNM0FvUk5sWXV1eDl0dEY5cEx3TWs5Ty1hWXJKWGtnVTRLWVQ4VDZ3cmpONHJKM0RhWWVBdGpHOHV1T0ZoWUNwYlFCbE5ySWo5X00yVld4R2tRQzVKMnkzTGlnenMyNFBBZXBhWE5VUHpOSkNmOThNRGdZ0gHYAUFVX3lxTE5QM2piZnNRYnJVUFFPbHE5R0NsejBBSlZnME1hMTBSX2ZhRGhqR3Q3Zlc2Q2daQ3l1bmdzSThwQ0Zub0FnMU9kMUY5WV83Y0U0WVBHVWdFYThFUE5MSlFTTWs1VFc4MDNPcE0yZGtCR0VvNGtlcFZKTzZvRmdMQm91SVVTbHpGYlhRUHA5RFpqT1VZczc2WGFoRkxybm5VTWpVT2lkbHBGM0FNMzJjd2Q0dHpISk1RelpDUUkxNGlfSThPU3lBNmtkTkV1VFB0VFREc1ltaHZ6UQ?oc=5",
           "pubDate": "2026-08-22T21:18:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Rusia congela entrega del depuesto exdictador de Siria condenado a muerte por crímenes de lesa humanidad",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDlzSDA4SFFnVGVVZ3FsNk1lMWpvLXk2RkVodUdqcDN1b1BFeDJqVi1OTU9sbllqQi1xVXBPd3AzUEVTZW04Z3lkSHdHTGxsdUNrUnJfTEFTTFMwTmxuSDkwdy1pdWRwVXJkZ25DZnRzTmNxb3EtYV8xb2FhMFlRQXNCMHVJNUlRbC1VRkctTi1YSnQ3d0p5ejJQeVFsUjRONXFiM3poVGNsVm1nVnVNRE5qUGZYVDZ0NDFDa3VmQzRpTE5RWFJWSTFTTFdvRUxLOXlmeFNfeEjSAd4BQVVfeXFMT1QzZzNpLVg1eEstbXR2ajVkYlZBU192UmQtWEhvOUpxUi1tcGJlem1FUG1lNTllNGo0NnVfWXh0QlJxeHFNNlIwN1lldkFTVkJyZEIzMHVITzlDUUNkRXVYaFNvQ0RMdGJKZ2V3b2YwVGdyLWpLX250cC04R2tUUUV1YTVoNHllOG04QUNEYmM0dzlmSEh2TGVmU1NUYmNmVWpoWjNoWF84QTdHMDFBaDhxNHIyUXdVM21Ba2txUDM2QVMwZWZTUUUwLTZwRERrdlhJaWtSTUNpeDV1N2ln?oc=5",
-          "pubDate": "2026-08-22T18:48:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }

@@ -1,22 +1,10 @@
 {
-  "generatedAt": "2026-08-25T02:31:47.021Z",
+  "generatedAt": "2026-08-25T02:39:19.239Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
-        {
-          "title": "Los Choneros",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/los-choneros/",
-          "pubDate": "2026-08-21T16:40:10.000Z",
-          "snippet": "Los Choneros Los Choneros son uno de los grupos criminales más prominentes de Ecuador y un actor principal en la violencia que ha desestabilizado al país en los últimos años. Los Choneros surgieron por primera vez en la década de 1990 como una banda local en la provincia occident…"
-        },
-        {
-          "title": "Los Lobos",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/lobos/",
-          "pubDate": "2026-08-21T16:38:22.000Z",
-          "snippet": "Los Lobos Los Lobos han pasado de ser un grupo disidente de Los Choneros a una de las organizaciones criminales más poderosas e innovadoras de Ecuador. The post Los Lobos appeared first on InSight Crime."
-        },
         {
           "title": "Tío Lako, jefe regional del CJNG, vuelve a evadir su captura",
           "link": "https://insightcrime.org/es/noticias/jefe-regional-del-cjng-tio-lako-vuelve-a-evadir-captura/",
@@ -40,6 +28,18 @@
           "link": "https://insightcrime.org/es/noticias/the-insight-take-escudo-de-americas-crece-pero-tiene-una-estrategia/",
           "pubDate": "2026-08-18T22:26:41.000Z",
           "snippet": "The InSight Take: El Escudo de las Américas crece, pero ¿tiene una estrategia? Colombia acaba de sumarse al Escudo de las Américas, pocos días después de que el secretario de Defensa de Estados Unidos, Pete Hegseth, viajara a Panamá para proclamar su nuevo lema: “Hacemos cosas ma…"
+        },
+        {
+          "title": "Familias desplazadas por Los Ardillos regresan a sus hogares en Guerrero, México",
+          "link": "https://insightcrime.org/es/noticias/ardillos-grupo-criminal-provocado-desplazamientos-masivos-mexico/",
+          "pubDate": "2026-08-17T19:01:55.000Z",
+          "snippet": "Familias desplazadas por Los Ardillos regresan a sus hogares en Guerrero, México Los Ardillos provocaron el desplazamiento de más de 1.000 personas en Guerrero y ahora algunas familias comienzan a regresar. ¿Quiénes son, cómo operan y cómo ganó poder este grupo criminal? The post…"
+        },
+        {
+          "title": "Por qué el crimen organizado en Venezuela no desaparece tras la captura de Maduro",
+          "link": "https://insightcrime.org/es/noticias/por-que-crimen-organizado-venezuela-no-desaparece-tras-captura-maduro/",
+          "pubDate": "2026-08-14T15:49:15.000Z",
+          "snippet": "Por qué el crimen organizado en Venezuela no desaparece tras la captura de Maduro Nuestro más reciente video explica cómo evolucionó el crimen organizado en Venezuela y qué tendría que ocurrir para realmente debilitar las redes y economías criminales del país. The post Por qué el…"
         }
       ]
     },
@@ -48,40 +48,10 @@
       "color": "teal",
       "items": [
         {
-          "title": "Bahrain 29 July 2026 #1",
-          "link": "https://www.crisisgroup.org/content/bahrain-29-july-2026-1",
-          "pubDate": "2026-07-30T21:36:21.000Z",
-          "snippet": "Bahrain 29 July 2026 #1 lalasor Thu, 07/30/2026 - 23:36 Bahrain Thu, 07/30/2026 - 12:00 29 July 2026 U.S. Central Command that it had conducted “a heavy wave of strikes against Iran”, targeting “military command centres, missile and drone facilities, coastal surveillance and defe…"
-        },
-        {
-          "title": "Washington 29 July 2026 #3",
-          "link": "https://www.crisisgroup.org/content/washington-29-july-2026-3",
-          "pubDate": "2026-07-30T21:35:21.000Z",
-          "snippet": "Washington 29 July 2026 #3 lalasor Thu, 07/30/2026 - 23:35 Washington Thu, 07/30/2026 - 12:00 29 July 2026 U.S. Central Command that it had conducted “a heavy wave of strikes against Iran”, targeting “military command centres, missile and drone facilities, coastal surveillance an…"
-        },
-        {
-          "title": "Tehran 29 July 2026 #3",
-          "link": "https://www.crisisgroup.org/content/tehran-29-july-2026-3",
-          "pubDate": "2026-07-30T21:34:42.000Z",
-          "snippet": "Tehran 29 July 2026 #3 lalasor Thu, 07/30/2026 - 23:34 Tehran Thu, 07/30/2026 - 12:00 29 July 2026 U.S. Central Command that it had conducted “a heavy wave of strikes against Iran”, targeting “military command centres, missile and drone facilities, coastal surveillance and defenc…"
-        },
-        {
-          "title": "Hormuz 30 July 2026 #1",
-          "link": "https://www.crisisgroup.org/content/hormuz-30-july-2026-1",
-          "pubDate": "2026-07-30T21:34:03.000Z",
-          "snippet": "Hormuz 30 July 2026 #1 lalasor Thu, 07/30/2026 - 23:34 Strait of Hormuz Thu, 07/30/2026 - 12:00 30 July 2026 The IRGC that “the Strait of Hormuz is not reopenable as long as the excessive rhetoric and threats by U.S. officials and their interference in maritime movements in the r…"
-        },
-        {
-          "title": "Tehran 30 July 2026 #1",
-          "link": "https://www.crisisgroup.org/content/tehran-30-july-2026-1",
-          "pubDate": "2026-07-30T21:33:29.000Z",
-          "snippet": "Tehran 30 July 2026 #1 lalasor Thu, 07/30/2026 - 23:33 Tehran Thu, 07/30/2026 - 12:00 30 July 2026 The IRGC that “the Strait of Hormuz is not reopenable as long as the excessive rhetoric and threats by U.S. officials and their interference in maritime movements in the region cont…"
-        },
-        {
-          "title": "Washington 30 July 2026 #2",
-          "link": "https://www.crisisgroup.org/content/washington-30-july-2026-2",
-          "pubDate": "2026-07-30T21:32:45.000Z",
-          "snippet": "Washington 30 July 2026 #2 lalasor Thu, 07/30/2026 - 23:32 Washington Thu, 07/30/2026 - 12:00 30 July 2026 The IRGC that “the Strait of Hormuz is not reopenable as long as the excessive rhetoric and threats by U.S. officials and their interference in maritime movements in the reg…"
+          "title": "War, Politics and Chauvinism in Russia and Europe",
+          "link": "https://www.crisisgroup.org/pod/europe/russia/war-politics-and-chauvinism-russia-and-europe",
+          "pubDate": "2026-07-30T13:47:23.000Z",
+          "snippet": "War, Politics and Chauvinism in Russia and Europe pzeiler Thu, 07/30/2026 - 15:47 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Europe 30 July 2026 1 minutes This…"
         }
       ]
     },
@@ -96,24 +66,6 @@
           "snippet": null
         },
         {
-          "title": "Colaboradores de la Agenda",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLYko2bkxQMmx3LWZyUG5xdjJwd0hDNU4wbFNkMi1CM1BjdTdzYUROS1BHT0tvRkc1WEtLaVhaN1Z5Xy0zVDU0ME5UTW1ZQlFpZ2FBRV9YNXZqZkhX?oc=5",
-          "pubDate": "2026-08-18T15:21:03.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Colaboradores de la Agenda",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10dTNDUzZoQWpWM2p1dTZLakxZb1pQWC1Hd29VNDhUczhhRVRnbjg1RnR1eFdYbzRHdVFialhyN3FQMEpnOTVVcXIzNEFNZ3U3ZUM0SHdQYlp0S1Bs?oc=5",
-          "pubDate": "2026-08-18T07:04:23.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Colaboradores de la Agenda",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WWlZ5Z0RTa2JhTWFFZjdWdFdRdVQwOGNoWWw1UDFUeTV3cHJwdnBCUndmWkdSVkh2MEp5NDVUSFB0TVRDMEJmTmhXazJjSnBfRThxVlZ6QlVmejEx?oc=5",
-          "pubDate": "2026-08-18T05:49:23.000Z",
-          "snippet": null
-        },
-        {
           "title": "Reading still matters. The books that shaped 5 tech founders",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejZEQnRxUmJxdU1pOUJTTjZVRjRJdFpMeV9QVFAxYlpGMkIzN0RHMGp3Z3ZuXzhSM1BjZ3plOG5xeVhOVU9OMDV6VS1HQjJFa2ZuS1NPQWNIaTVxUHlEQnhoYTBYR3F6TnhYOEJmcEZUQXMtdzVsTGNEdEZFaGFyaGNyOXA0QnBYejQ0Zmxlejl2RUFKTF9XVk83Yw?oc=5",
           "pubDate": "2026-08-18T04:44:39.000Z",
@@ -123,6 +75,24 @@
           "title": "En China Se Ha Construido La Mayor Central De Energía Renovable Del Mundo",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYl9lLWFaV1huZE9odUdjb1czRi1CZnM1T0d3Wms2R1VSM2tCTGtsTmVMeXRsWUVMNEJ2RmxnaS04OVlTUXhCYmlQWTZNT3pyWkh3dXFyNnRmcVpwMjhQT0I3ZVctaU05bzVDdUdsTzRZQmZwSkxsR0tKX2wxM0ZiZDNDTHY4bHp4end0cDloekpIRDlmeTBVZ016dHlBODh6XzVNalBFeHc?oc=5",
           "pubDate": "2026-08-17T10:00:00.000Z",
+          "snippet": null
+        },
+        {
+          "title": "AMNC26: What's the Limit for AI-First Enterprises?",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZURRQmFNYTJWNERMSTlGQXNyRGZhU3BmazVqVlFyai1HbFloTGM0TG9JRU1BRmtGLU9xaUx2RndUbVdZNDRsSjlWM3RMd2hjbll3U3B2ZzAxNVF3RE0zQjBwVVRYNEYtcnRQeVltbVdjd0lIU2NJTVVZYVNmRDJNaUphUW8tWnZ1NVZoRnFVU0cwZjh2Q0IyZG82X2lCdDFUYmxTNzNPem9VZw?oc=5",
+          "pubDate": "2026-08-17T07:05:31.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Entrevistamos a 4600 jóvenes sobre la situación actual del mundo. Esto es lo que dijeron.",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0FGN0phcXlOeWFOYWtxZGEwN2pUYkFKci01SHVoSE1rYVIyRU9QQ1piNzJGblpXWWJDN3dQamxCVlBTZGxFa19yUkxBRW53WVFISm5DbU9NMnVrLXRpV2pDbjRpVmZPMEJ5dDJsbGt1UFBEaUJfUDlHQlI0djZxUjV4QWFvWml2NVVNWnVWdk9zOE5jSkRwUHhCY1lGelhNMHVqdGN1TC1VNUYzNHl5REZDbDN4QlVULVA4?oc=5",
+          "pubDate": "2026-06-21T20:04:57.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Davos 2026: Where Can New Growth Come From?",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb29WZGlWQ3pvWXNCeFBxX3VFLVZLd1R3QjFiYlJwVm8yT0lONHZqeGxhLURGZGxvejl6NWNtLVBFRHg0RUNCR1hDODFNMWdJN0I4blN1bGZ4R1JuOTN4d1M1SjZLNWxnaktCc3NVeDhXRGd1SWlxQkk0cGM4dEJMM1J6WE9ybG5ZSTlINGNpNFZVOFRNWExrRmFRR2o1STluOWc?oc=5",
+          "pubDate": "2026-02-09T12:03:58.000Z",
           "snippet": null
         }
       ]
