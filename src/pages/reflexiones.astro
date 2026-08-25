@@ -12,7 +12,180 @@ import analisis from "../data/analisis.json";
   <section class="section wrap">
     <h2 class="section__title" data-i18n="page_reflections">Reflexiones del Lector</h2>
     <p class="section__byline">El LECTOR</p>
+
+    <div class="audio-player" id="audio-player">
+      <button class="audio-play-btn" id="audio-play">
+        <span class="audio-play-btn__icon">▶</span>
+        <span data-i18n="audio_play">Escuchar análisis</span>
+      </button>
+      <div class="audio-controls" id="audio-controls">
+        <button class="audio-ctrl" id="audio-pause" data-i18n="audio_pause">Pausar</button>
+        <button class="audio-ctrl audio-ctrl--stop" id="audio-stop" data-i18n="audio_stop">Detener</button>
+        <span class="audio-progress-text" id="audio-progress"></span>
+      </div>
+    </div>
+
     <AnalysisGrid />
     <UpdatedNote generatedAt={analisis.generatedAt} />
   </section>
 </Layout>
+
+<style>
+.audio-player {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.25rem 0 1.75rem;
+  flex-wrap: wrap;
+}
+.audio-play-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  color: var(--accent);
+  border-radius: 24px;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: var(--font-body);
+  transition: background 0.15s;
+  letter-spacing: 0.02em;
+}
+.audio-play-btn:hover { background: color-mix(in srgb, var(--accent) 22%, transparent); }
+.audio-play-btn__icon { font-size: 0.75rem; }
+.audio-controls {
+  display: none;
+  align-items: center;
+  gap: 0.5rem;
+}
+.audio-controls.visible { display: flex; }
+.audio-ctrl {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--ink-soft);
+  border-radius: 8px;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: var(--font-body);
+  transition: color 0.15s, border-color 0.15s;
+}
+.audio-ctrl:hover { color: var(--ink); border-color: rgba(255,255,255,0.3); }
+.audio-ctrl--stop:hover { color: #ef4444; border-color: #ef4444; }
+.audio-progress-text {
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  font-style: italic;
+  max-width: 280px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+</style>
+
+<script>
+(function () {
+  const synth = typeof window !== "undefined" && window.speechSynthesis;
+  if (!synth) return;
+
+  const playBtn   = document.getElementById("audio-play");
+  const pauseBtn  = document.getElementById("audio-pause");
+  const stopBtn   = document.getElementById("audio-stop");
+  const controls  = document.getElementById("audio-controls");
+  const progress  = document.getElementById("audio-progress");
+
+  let paused = false;
+  let keepAlive: ReturnType<typeof setInterval> | null = null;
+
+  function getLang() {
+    try { return localStorage.getItem("lang") || "es"; } catch { return "es"; }
+  }
+
+  function collectSegments() {
+    const lang = getLang();
+    const segs: string[] = [];
+    document.querySelectorAll<HTMLElement>(".analysis-card").forEach((card) => {
+      const title = card.querySelector(".analysis-card__title")?.textContent?.trim();
+      if (title) segs.push(title + ".");
+
+      card.querySelectorAll<HTMLElement>(".analysis-card__intro, .analysis-card__item").forEach((el) => {
+        const dl = el.dataset.l;
+        if (dl && dl !== lang) return;
+        if (el.classList.contains("analysis-card__intro")) {
+          const t = el.textContent?.trim();
+          if (t) segs.push(t);
+        } else {
+          const cat = el.querySelector(".analysis-card__category")?.textContent?.trim() ?? "";
+          const body = el.querySelector("p")?.textContent?.trim() ?? "";
+          if (body) segs.push(cat ? `${cat}. ${body}` : body);
+        }
+      });
+    });
+    return segs;
+  }
+
+  function stopAll() {
+    if (keepAlive) { clearInterval(keepAlive); keepAlive = null; }
+    synth.cancel();
+    paused = false;
+    if (controls) controls.classList.remove("visible");
+    if (progress) progress.textContent = "";
+    if (playBtn) {
+      const lang = getLang();
+      const span = playBtn.querySelector("[data-i18n='audio_play']");
+      if (span) span.textContent = lang === "en" ? "Listen to analysis" : "Escuchar análisis";
+    }
+  }
+
+  playBtn?.addEventListener("click", () => {
+    if (paused) {
+      synth.resume();
+      paused = false;
+      const span = playBtn.querySelector("[data-i18n='audio_play']");
+      if (span) span.textContent = getLang() === "en" ? "Listen to analysis" : "Escuchar análisis";
+      return;
+    }
+    synth.cancel();
+    const lang = getLang();
+    const voiceLang = lang === "en" ? "en-US" : "es-419";
+    const segs = collectSegments();
+    if (!segs.length) return;
+
+    controls?.classList.add("visible");
+
+    let idx = 0;
+    function next() {
+      if (idx >= segs.length) { stopAll(); return; }
+      const u = new SpeechSynthesisUtterance(segs[idx]);
+      u.lang = voiceLang;
+      u.rate = 0.92;
+      if (progress) progress.textContent = segs[idx].length > 55 ? segs[idx].slice(0, 55) + "…" : segs[idx];
+      u.onend = () => { idx++; next(); };
+      u.onerror = () => { idx++; next(); };
+      idx++;
+      synth.speak(u);
+    }
+    next();
+
+    // Chrome bug: speechSynthesis stops after ~15s — keep it alive
+    keepAlive = setInterval(() => {
+      if (synth.speaking && !synth.paused) { synth.pause(); synth.resume(); }
+    }, 12000);
+  });
+
+  pauseBtn?.addEventListener("click", () => {
+    if (synth.speaking && !synth.paused) {
+      synth.pause();
+      paused = true;
+      const span = playBtn?.querySelector("[data-i18n='audio_play']");
+      if (span) span.textContent = getLang() === "en" ? "Resume" : "Reanudar";
+    }
+  });
+
+  stopBtn?.addEventListener("click", stopAll);
+})();
+</script>
