@@ -62,7 +62,11 @@ const DATE_ONLY_RE = new RegExp([
 const BOILERPLATE_RE = /^colaboradores?\s+de\s+(la\s+)?agenda$/i;
 
 function looksLikeDate(title) {
-  return DATE_ONLY_RE.test(title) || BOILERPLATE_RE.test(title) || title.length < 20;
+  if (DATE_ONLY_RE.test(title) || BOILERPLATE_RE.test(title) || title.length < 20) return true;
+  // Algunas fuentes RSS incluyen el nombre del medio: "25 de agosto del 2026 - La Razón"
+  // El regex anterior falla porque espera $ tras la fecha. Probamos sin el sufijo.
+  const sinFuente = title.replace(/\s*[-–]\s*[^-–\n]{1,80}$/, "").trim();
+  return sinFuente !== title && DATE_ONLY_RE.test(sinFuente);
 }
 
 // Descarta ítems donde el título es el nombre genérico del sitio web (ej: "La Tercera - Noticias de Chile y el Mundo")
@@ -219,8 +223,16 @@ async function buildSection(outlets, prevOutlets = []) {
     if (items.length === 0 && prevOutlets.length > 0) {
       const prev = prevOutlets.find(o => o.name === outlet.name);
       if (prev?.items?.length > 0) {
-        items = prev.items.slice(0, limit);
-        console.log(`  - ${outlet.name}: feed vacío, conservando día anterior (${items.length})`);
+        // Re-aplicar filtros: el JSON del día anterior puede tener títulos malos
+        // guardados antes de que los filtros existieran o se corrigieran.
+        items = prev.items
+          .filter(item => !looksLikeDate(item.title) && !looksLikeSiteTitle(item.title, outlet.name))
+          .slice(0, limit);
+        if (items.length > 0) {
+          console.log(`  - ${outlet.name}: feed vacío, conservando día anterior (${items.length})`);
+        } else {
+          console.log(`  - ${outlet.name}: sin noticias disponibles`);
+        }
       } else {
         console.log(`  - ${outlet.name}: sin noticias disponibles`);
       }
