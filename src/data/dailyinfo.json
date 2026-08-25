@@ -1,7 +1,11 @@
 {
-  "generatedAt": "2026-08-25T01:57:14.587Z",
+  "generatedAt": "2026-08-25T02:31:51.327Z",
   "dia": {
-    "nombre": "Día Internacional del Perro de Asistencia",
-    "descripcion": "Se conmemora la labor de los perros de asistencia que ayudan a personas con discapacidades, mejorando su autonomía e independencia en la vida cotidiana."
+    "nombre": "Día Internacional del Síndrome de Down",
+    "descripción": "Se conmemora el 21 de marzo, no el 24 de agosto. Para esta fecha exacta no hay conmemoración internacional oficial verificable."
+  },
+  "dia_en": {
+    "nombre": "International Day for the Remembrance of the Slave Trade and its Abolition",
+    "descripcion": "Commemorates the uprising of enslaved people in Saint-Domingue (Haiti) on August 24, 1791, marking the beginning of the Haitian Revolution and abolition movement."
   }
 }

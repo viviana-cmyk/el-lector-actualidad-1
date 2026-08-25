@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:57:10.536Z",
+  "generatedAt": "2026-08-25T02:31:47.021Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
@@ -19,6 +19,13 @@
       "color": "sky",
       "items": [
         {
+          "title": "De la Espriella ordena deportaciones de migrantes y endurece la lucha contra el crimen",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRU9keDNsdEJEUlliU3FOX191QW5HOGdJbWduZXR1a2dqM2VCYVBGN09YV1JtUHBGb0ZqcjBkWEM1TVBzT1BzdlloZUY2SXAtNjhkMkFxc0JGX05BS3pqaVVlTHh4N1R1ZXpRSklwb3RpZGNldk8xY2xLMlg5YmplZ0w5TGxwUnRzYjhzajBLSmY2NFl6Q2tzaDVzWEhwaTBnUUtJeEF4Wk9Kc2FETWVPVFZ1RmRhdERKT09pSlhDczNRM2F2Mk9TN3BwakZYUlc4bFE?oc=5",
+          "pubDate": "2026-08-24T23:08:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Dos fuertes terremotos afectaron a Costa Rica",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSy10SXpmUk1heVhLSnJFTFRHcWwyV05iUTdnd2xXaWl6Vk9CcHIxZzExTUE3ZmtXQ3ZxQ0ZCUXhMdjJMLWdpMjNUc0hQa3lVTjg4bnAzeDh1QjlGU1d0VkZaUXN5SVpFcGdMSk5UWjJkTm5SU0s1QnJsSm5ZZjhtYTB0eWlLLVlWSHdCZnU0QTk2SEhEMHZLWXBvRQ?oc=5",
           "pubDate": "2026-08-24T23:41:00.000Z",
@@ -29,13 +36,6 @@
           "title": "Hay alerta amarilla por frío extremo para este lunes 24 de agosto: las provincias afectadas",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHdDVDlXY2VEekE4T0QxMVVnckpHQU1OSjNDMHFoTjl3R0hubEY1UWVRc19TU0RNYkVtYm9vdFo5b0FuRGNFbFpSUFlydVdpVDkxb3V1QnZGMVptV2pET0hJM25JNDdIcm1OaDJ4aVl4aHdldVJSSlZUREZhLUZERDBaNHNUcy11WDlPYnFtN2x1dmVTcHNCNF83VG9Pc0RWZzNaRmlER25zbTFJWVRfYU9OLXhnN3FvdTRsOHRQV0dRakdkanVZNi14dkdIWDJjYS1zcDloQQ?oc=5",
           "pubDate": "2026-08-24T23:40:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "De la Espriella ordena deportaciones de migrantes y endurece la lucha contra el crimen",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRU9keDNsdEJEUlliU3FOX191QW5HOGdJbWduZXR1a2dqM2VCYVBGN09YV1JtUHBGb0ZqcjBkWEM1TVBzT1BzdlloZUY2SXAtNjhkMkFxc0JGX05BS3pqaVVlTHh4N1R1ZXpRSklwb3RpZGNldk8xY2xLMlg5YmplZ0w5TGxwUnRzYjhzajBLSmY2NFl6Q2tzaDVzWEhwaTBnUUtJeEF4Wk9Kc2FETWVPVFZ1RmRhdERKT09pSlhDczNRM2F2Mk9TN3BwakZYUlc4bFE?oc=5",
-          "pubDate": "2026-08-24T23:08:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -60,11 +60,10 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Tensiones en el poder, escribe Pedro Isnardo de la Cruz y Juan Carlos Reyes",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnpNUlpJemlwSzZWT1dXV1JZWHhfNHVXMFNmZWowNGpzSHE2YjdoaEhuQy1PTy1VN1BmZU5wczZRd3VDbEFoRmFpMjZUWTJZTjNaNTRsNzNYbnRDOHBlc2RQSTNFVWM5Y0pVQWhwRE0yZXJ4eVBMY08wSXYxcThWaGpOSzFWRUF0cGg0TjhlSHRlV2Y3emt0Z09tNWtqN3Y5U2lwNFdkanRPdw?oc=5",
-          "pubDate": "2026-08-24T13:13:04.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
+          "title": "Oaxaca posee el sistema de cuevas más profundo de América",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnZuVUNBQjliZmY1RVM5VjQ3SF9CZEM5MXRhWmF3YUhBNElzYlJnYnNNbldRRVFGOTF0LTVxM2Q1U2V0b1pKSEpCZ0ZyejRueTI3ZXFnVWpyNlBKM24yODRuQkpqcUQ0bmZpR1dodExiY3FCRHNkMzdwbGMxeDJuVXZyV2RmS1Y4NnZYS1dlUHhfY3FBUFNQQ0FrTjMzRXQ4bnRkSlRTOTNqamVobTJFcmJyONIBswFBVV95cUxQTnZuVUNBQjliZmY1RVM5VjQ3SF9CZEM5MXRhWmF3YUhBNElzYlJnYnNNbldRRVFGOTF0LTVxM2Q1U2V0b1pKSEpCZ0ZyejRueTI3ZXFnVWpyNlBKM24yODRuQkpqcUQ0bmZpR1dodExiY3FCRHNkMzdwbGMxeDJuVXZyV2RmS1Y4NnZYS1dlUHhfY3FBUFNQQ0FrTjMzRXQ4bnRkSlRTOTNqamVobTJFcmJyOA?oc=5",
+          "pubDate": "2026-08-24T15:14:00.000Z",
+          "snippet": null
         }
       ]
     },
@@ -80,16 +79,15 @@
           "_priority": "ALTA"
         },
         {
-          "title": "“Podría cambiar la historia del tratamiento contra el cáncer”: qué tiene de especial la vacuna contra el melanoma de Moderna y Merck",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRS03WUJKY21oQVVWUUdIdUhnc0VodmpvX0thWFlIZTlJazdIWUFPZGNBMmd1ejVKSVZpbzRfcERlekllb1JsZ2xrWmRicDFXczU2XzdCQnUyQkxlWUd3dHNRREFEWnRucF96ZnhlcTRSLUhFOXh6YktRMmVOWXcxdnM2QzlsQURJUUg3MkFvWEhpTWN4a252SUY4X1NSdnNRUmpLRDloamlxZzVnWGRnTnByX1hTcVdHZnFQZ25ZcktVc0pvajlxdF92Z1YwNVVIcXNVRE1hbnRWZVNDOXdMVElrVUxxTHJGMllxWDhLc25LYmlST3Zkd0M5c2kxajJwOHlSekludFZaTmxwdGxz?oc=5",
-          "pubDate": "2026-08-24T14:58:51.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "Los expertos en psicología coinciden: quienes cambian de look y se ponen de buen humor gozan de autorregulación emocional y decidieron priorizarse",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR2t5ZUVLV3RCX0tVSVBPUnNGMmJuSS1DdVh2S1dBSmhXallCWnVrbUN6V2wtQTJwQ1R5MGlBcWZZbm93dExOcHR3MGtmQkFaVUxRRHNFOVNfdFktR2g5V0VIM2hubWtsMFhwZ19RYzB6VGFyWUozcl9ob0EyZHhPNDNrYWJuamplZmlWem1RRnUyZ051MHk2Y2xoanBsem00SE5ONm5wd1ZacG44dE5NemhoTWlWT0Y2VDFDMDRpaVhFbHA0OVpqRVNEMWRkYWNhSG13cmpzLWl6QlVUVlAwZ1Z1ellTTGhvckFITnlkNUpZTzJaem1Nd3pJaFNjRUc3VXRsZ2JaUmFYMTY0VDhzMzhLV1g3V1pvY3NmOHdNRnFPYTNXVlVNcg?oc=5",
           "pubDate": "2026-08-24T20:23:23.000Z",
+          "snippet": null
+        },
+        {
+          "title": "“Podría cambiar la historia del tratamiento contra el cáncer”: qué tiene de especial la vacuna contra el melanoma de Moderna y Merck",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRS03WUJKY21oQVVWUUdIdUhnc0VodmpvX0thWFlIZTlJazdIWUFPZGNBMmd1ejVKSVZpbzRfcERlekllb1JsZ2xrWmRicDFXczU2XzdCQnUyQkxlWUd3dHNRREFEWnRucF96ZnhlcTRSLUhFOXh6YktRMmVOWXcxdnM2QzlsQURJUUg3MkFvWEhpTWN4a252SUY4X1NSdnNRUmpLRDloamlxZzVnWGRnTnByX1hTcVdHZnFQZ25ZcktVc0pvajlxdF92Z1YwNVVIcXNVRE1hbnRWZVNDOXdMVElrVUxxTHJGMllxWDhLc25LYmlST3Zkd0M5c2kxajJwOHlSekludFZaTmxwdGxz?oc=5",
+          "pubDate": "2026-08-24T14:58:51.000Z",
           "snippet": null
         }
       ]
@@ -103,19 +101,21 @@
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMG9YZEZ5dlNwSG5xQjdFMGNmMG5ERW5sRmtzY1BKOHNlMFRvM3ZJcTdNV09ydTJ5b3FXYzNNbHdVSXJsaFVLU3RLNm1zX0JGaEJCRmNUTGZnVDROMXJ5NFZJd1VGOGczTl91UzZZcldwQXNBYUkzdlM4b2pNemFtTjNjVkJfMXhQMWhEVllBMG9vaUJxZGFSQm4wYnZOMG5yMVlrdmkyaXJ5Q2NfR2laWmhETnp5X3ZhQmpfMk45WXJJV3dmWjhQOXd5SnltTUczQVpWdFhsMzJFVk9sMFZ2d0Uwb3lWdnBXcUFTRUFDOXBjN3FuTWfSAZcCQVVfeXFMUDU3c2FJX2NvdUowTEZsQzZwWWt4Zk9iYUJ0SnVhaDJVQU9XWTV5aXRTRDV0M3kzUWVyTWsxMWJtN3VnVDdOU3Bid055WWJKSTNmR3JRNGV3WXk3blVnNWl6S1pRVEFqV3hwTXRycVV5RFhvV2EwcjAtVGF5V0hNU1BUYjR6Zk1nV2FVQzU2ZTRMY3c2MDItalNFR0lEc25sNTZJUFQtdllEMFJRX1NMcnp3aGFpN3hDdWp0TEdPVG9MUkZLbUpzdzhMTjBiNVdHejBVTGk5X2FkOC01TjVTQTVYUkZobzFxWExOUmdKZ1ZmSUxqU2JoS3dCZ09HVk9ZS1o2ZzBlbmNmcXY4SXZkbnFwZ0xnaFY4?oc=5",
           "pubDate": "2026-08-24T21:16:29.000Z",
           "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Coletazo de Superclásico: el polémico informe del árbitro Juan Lara y la situación del provocativo gesto de Javier Correa",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTmkwZEtGdGFKSHF5ek1BaVI4aERqODllTy1aWkVXaG5GU2kzVGhyX1ltTGVIWXVjNjdqcUlTUGRvb0E5LW9qZHJPVGNxU0xLY0I4cVFvQTF1NVNSUjdxZGRzaFdLNlItbVZGLVZ2QXpFaVlSSGZicF84RlpPNnVnRk5Ba0EyZWNXWmxxWU8wWXBUMXR3WVpvdGNuM1pVbERKazd4SEhRRnY3SWFhbXd0UHNjN1d5blNsZ2V1NW84dW9jVEd1MmlOemVMR25mRVBoTE5TTWk4S0VndEdfRWE3WnU1X0NBZmJRM3JZZjZXWE5aQ3dHd0R5MWZYWHjSAZ4CQVVfeXFMTy14LVlxdm9jV1MxNEw4LUZsZm14ZS00Qm5jbGNMT05Gd3JmM2loMDkxbGxRLXFMRGFGRzN6ZGc0a2pYS0ZXS1RlWmt5bEFyelotQWZaY0lMUjNraEpsQjBvTFA4UXoteWpwN3lmLVdtcG1jbjNlTW0tcllmZGRtZFhQQUVJaVNFbUNLWW1LanMtVXAxMTloWGMxdEs3UVpWYTdDR0xadkRPNzZPaVMyRURXdmxEbFQ2Z2ZiTGVjMUdqZ0hPbmRIcHZuem41V3V3ODRvMjhDQVFySy1RbjhSb2lJT0pzY2pWcXhIZE5TTERqYUptU2F3dnhEMUlYSnhNZm55SXlBMm90Uk9VUUcycV85eXFobWVPREpIbVE1UQ?oc=5",
+          "pubDate": "2026-08-24T19:01:01.000Z",
+          "snippet": null,
           "_priority": "DEPORTES"
         },
         {
-          "title": "Compañero de Alexis Sánchez se rinde ante sus primeros partidos en el Montreal: “Es fantástico; entró y reorganizó todo”",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY0Zwb3BrSFFvUExmOFM3aFJldHEwWF9jWmw4c3VobzZsazczUkhfZVhjRGEwLUJXNEdxd2NiSXpPMDVWVkZDbzZtd3ctRU5zamNheUFIRF9QVGFjQXFEWGFGRHQ3aEJjdnpiNUdmR3JNTWFFRGh1TU12cHdWN2I5ZGM1RFFlUWtiTHllYUlKcGZDMFMyUzR3M3ItY1JTWWx0ZmFfNldxalFqVl9OZjdmSzhlNzVvaWRVWjViNGZ1T3FaejNjZGZhVlZlNHFKNUhDaDdIdDZyTXdmTkJCMUw2SFRvMDdCN0tQNlFNYkRzOTJNdFh4OVNr0gGYAkFVX3lxTE5GZHgxSUhJU1ZTd0FKbFlRc1h3cnVqcmZDbE5ZdXBXdkoxQ3lSVk1CUF9uaTBzWWpRbnhRRHJNcWRFci1rMGdpeFNEaERfVGxyZzlrNWFUaTRmQUhwVHJfdGJaYi1vbEFjSEYyTGJOOWV5OG5BbGFDejZWOFNxc0RfeXc0SG5UdDJrRUxHVG9BV2pqby1PQ1ZlYnhhaUdWTnF6aWZCMWZDZ0F2R1lUV21MQUk3VWlLLVF0V1RqTm9nXzNFYmFnVmFlTHUyTFdtMFR1bks5REJRV3pzSk5xaVFvb2hmbnFvRU1YNHpBdTRiWngtN3NsUzI2X0hKdUFIdG9FQ29hLUZybDlxZTRPcXFQMVVSd0hQTFo?oc=5",
-          "pubDate": "2026-08-24T22:49:47.000Z",
-          "snippet": null
-        },
-        {
-          "title": "La Tercera - Noticias de Chile y el Mundo",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1SemczUk5wOHRVMXNzaG1tdzZIWTkwb0Ewb0MwbTA1MFdUbXVPRC1WM2U5NThjZkxkNk5zVW9Xcw?oc=5",
-          "pubDate": "2026-08-24T21:25:22.000Z",
-          "snippet": null
+          "title": "Con rounds con Vidal en los que intervino Mosa: cómo Fernando Ortiz logró ganarse al plantel del superlíder Colo Colo",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUzg3RTNNcTc5eFIyYk9hXzdPOFA1Y285Rm9qcHlwUFRBNjJ5VV9xZUV5bXBoU1BYLUlyYlZwbkN5SFl6SE45SUEwTFYzY1UtNzYwUXdMdV9Vd0U4bGdqYVN3ZkFqY2draDdfSVltbE1Kazk2Vll3UjlEZUpYLUNJbHc2Zm9UbFJhRFlrMW5mZnZ4Z2JDYllqc0dxNXRNTzd1NVlmSmJJZ0VKRVhhUzViX0l3N2JoU0tDMHdsc09NN2VkTS0yZEgycEpoR2g2Z0UyY2tLVElhTmxRNzRiVndYckNpTE5XYzhObElSSVl4SFFmdG0zMXRR0gGYAkFVX3lxTE9OQXRVTE1LLUdpdmVUMEQ5YkNkd2pQOGNBQ3lGZjJxS2hJd3B0OGFDUXVFYjU0WjY4Z0ptUk1jTUVZdjdldjZ3d1FibTJfVmVoZG1PaWhUWW5rQlI3TmtWSmp0UjNtSmRWVVhSQTZILWNwLTFVYk5lZnQyVm1rcUNTQjIxWTBrdUN6NURGd24yUDZJeEF5S3N5QkV6aEZkZC1UbHg5MndmY2RPV2MzSjhzR3N5MkR2UlM3SnktSU16UGdacVdsUXo0X0s3Ql85SzNFQS01U0x5YnVBdXB6V28yeUJSUWxtRTczZU1Yc3U3cFlNUEhMYThJaVNPWFpjYmhrMS1WRTBsd0dYOFZfV3ZlU0RSZ2xuZVE?oc=5",
+          "pubDate": "2026-08-24T17:30:00.000Z",
+          "snippet": null,
+          "_priority": "DEPORTES"
         }
       ]
     },
@@ -131,16 +131,18 @@
           "_priority": "ALTA"
         },
         {
-          "title": "YouTube endurecerá los requisitos para acceder a la monetización en 2027",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeko1QmQ4VTFjOTBRdWFQUzFWUlpqdTFoaTgwZlVHVXFTemwyMnJlQkJjUW9zY19oZnFLOEM3b0R2OW9hVUQ2emlwdENVTlpNd2hhRmxKM2tMOGZaU0VpRm5lZGZrUmxTYWVLNXdTSklORWhVSUw3TjZidFVYWm1GcC0zblNIeEsyX2JTSDFYam8zSWN6SUpBcGdOZlhPd1MzSXVtXy15M2FjZEFwNWhV?oc=5",
-          "pubDate": "2026-08-25T01:35:00.000Z",
-          "snippet": null
+          "title": "La candidatura de Luisa González en Manabí entra en una fase decisiva",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEJjcVV3RkxjYTNTNF9feHpNLVI2ZFY4SWxJSEN5eVNwV3prWlZFaVQtMDJLTnB6NjlTY244bEVzdm9CVnc3Rm5lOTdlS2xKWjlrbVlUU1E5UWlyX3dJRTNxZHkxZndBUG41RjZxeTNWUHd0eVhIMmpMNV9sWERUellsZ2VjeVkwbHNBdTVSb2E2b01lTVpYUUVwYkRUak14Y3ZN?oc=5",
+          "pubDate": "2026-08-24T19:54:22.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         },
         {
           "title": "Liga, Aucas, Independiente… los cuartos de Copa Ecuador ya tienen horarios",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkFTck02YmlDNVNLLU9sY2xrWVhFNlRiRm01eEp1Nl9DRTEwOHF2VWdfak5jSVA3eklLamZOODhHcDRvZUlOeUdIN1BIZWpDN292emlOVG1ubmlqYnk0NUQwQmR1d0pjSXg1cEJEeW9UVC1LV3puSlZNeGtpdFdZSDRlUEY0c1JqMVhNOU15YnJiSjdCNTlvdE9hMXd2MXFOc1E?oc=5",
           "pubDate": "2026-08-24T23:40:13.000Z",
-          "snippet": null
+          "snippet": null,
+          "_priority": "DEPORTES"
         }
       ]
     },
@@ -156,16 +158,16 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Elecciones: En busca de votos, Camilo Pérez lleva asistencialismo a pobladores de Viñas Cue - Política",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1NXVElOT051ZG8zdXVuUWxXUEtUZ1lXRG14UzdoYlZzOWN0d3lwY3NDdGgwYllSMkt0V3VyZDdITEY0Y3FJdUlYZWtxaUtMZW92UkpOdm9LSGNVR2RXLXdXLW5zeVUwY3VwMG9la29LWU5yVG5hNmhQZFhkc3RfdjJseTd6cGhTT0FIaU5BU3pyWXd3UWJvX2pVbFNHSlAxNGYzZnJwRWQydndjVVNnT0d5d2hYV24wV09GUE5ZUU5BNndrOWg0TjBUVTlLZw?oc=5",
-          "pubDate": "2026-08-24T22:15:45.000Z",
+          "title": "Médicos no dan tregua: así fue el primer día de huelga",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcFM5SWhXckhnZklMZ0E5Mng2a1JvcEZtOUNiSlhLNVdsRUFaemwtSVJoT1lXaDN4YWN6cHpLeDl5RFNHU3MxSDMtVWtTVjVkZjBxNkpSYU9LemkzYjVHc2czRkQzVXhBXzVXUnhNdE0xZnlYcUV0X3kzZGNHOTkyUEw5aEFib2hYZ3NJd0J6MmhsUGlIU3RWcTlvVEx0YmlEV0JfUFkySzgwaF8yMjBDdTFoWG9QeW8yc3QyOU55NVY2a2NGemVMSmpTONIB3wFBVV95cUxQNWJIS1IwTEVhS1otaTJUU1FxUlBXMjVsNjUtOXBueXd5RGVXN2NYVU1fZHBLU1FCZEZuU0NNZ3lsM1ZGQjRiN2F1a2VreEtXTjgwajRQczZUbkNZN1BZWmdKVEx5OFZvSGxIb0V3UXZ3cTIxWEJZSVo2bEo1Ti0xY1lOdmcwMVBuRW1QM29wdTF1MWlrRmtuc3g2LWxCNGJJVldTT1FoZFlKOFRXVjJ5ZDNCYUh0SGlXc3RGOG5WZXdLLWFmVmVuSHo2aU9oSlZ4aW0tNUpxTklXWWRQMGZN?oc=5",
+          "pubDate": "2026-08-24T21:00:04.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Petropar desembarca en combustible de aviación y proyecta cinco plantas",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3k0Q29Xc0x2SkczQUVIeGxJM1VVRzlsdV9YV1NmZTRZbnNwSFFjcU8zZGxFc3llYzEyMDdiQVFSRUxqQ0ZjSVlFa3czUzY0aXFWODNsa2ZWWXEzelFhYjItNFN6Smk0OW1KVVpJVGthTDlRazk4ajl4OUd6Vl8wZDR6aUp5cVlyNmw4aVM1SXRVa3dubXZlYldmSldfekNVRnhtTmJIT1VDRVh6aW4tYkdTUDdSUdIBygFBVV95cUxPLVROQm8xMUY3NVlvRHdhTThkdWpJYVFwVDdvdjZGMUoxd0N6RXV1Z1BLTGdfX3J6RnZ0VmhkSUlyY0VsejkxSzV4bU9HTDVPbE80ZnVhcUthdWhkVGZDUVVnbFVfMllRZjFYZVM4c09xaTdpZFhYSDA5Z0JhaHhWT2VnX0o5b09iT3Z2ek5WdDZ1ZDRabVhMTzBtZEtZeXM0R3NnOEpzNURIMjZnNm5qZGFLT1ZzWnNHVGRhdXBiaWhZVDZFakN3WTVn?oc=5",
-          "pubDate": "2026-08-24T22:15:33.000Z",
+          "title": "Elecciones: En busca de votos, Camilo Pérez lleva asistencialismo a pobladores de Viñas Cue - Política",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1NXVElOT051ZG8zdXVuUWxXUEtUZ1lXRG14UzdoYlZzOWN0d3lwY3NDdGgwYllSMkt0V3VyZDdITEY0Y3FJdUlYZWtxaUtMZW92UkpOdm9LSGNVR2RXLXdXLW5zeVUwY3VwMG9la29LWU5yVG5hNmhQZFhkc3RfdjJseTd6cGhTT0FIaU5BU3pyWXd3UWJvX2pVbFNHSlAxNGYzZnJwRWQydndjVVNnT0d5d2hYV24wV09GUE5ZUU5BNndrOWg0TjBUVTlLZw?oc=5",
+          "pubDate": "2026-08-24T22:15:45.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -183,15 +185,14 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Pañales de un candidato para Lula y Bolsonaro y atriles vacíos: cómo fue el debate presidencial en Brasil",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMm1BMVh3RklGZTFJNGdjZ0FpOXZlUldTbzNfbHkxSl9GZFZRUFJxcGRjRFItdUlZRTFoQjUtVUhLeTU0bEV1M3NqeEVaMHdUTXhDV3RmQW5NdDV1UmxSaDR4Y3ViQ3lMMVFQSkNoWEF1eTRIZ3pSYmNRbndxOXlsSDJiVDF4cjR3eklYdWFmTS1XakxyNGM3NlpMbnNKd2dLeS1kUWtDMTZLVWpCRm1xMVhBT09sdlVFaDUtUkJSeHgtZ1FaZTZzeEF5VXhydm9DSXc?oc=5",
-          "pubDate": "2026-08-24T13:57:10.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "El Divertido Momento De Lucía Brocal Y García Morales En NY",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXI4eUlPN3ZwcHdUbm1tVnRpblFCUW5JUFE1MTYtQ2gtSnE2aWJOdklyVkFCcVloT3ppQW5lT3JHTHR5V2hYN1h2d2xtT29ka3JDbzNDaldUekZjSHM0LW1hXzJlanZUX1N5emxZR09hcC1jUDdGN3NaVFlENm1WV1JfM1lpdlp2RUp4bkln?oc=5",
+          "pubDate": "2026-08-24T19:37:57.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Camión involucrado en importante cargamento de contrabando que fue incautado en Uruguay.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmJ0NkZ5Nl9hX1lQYWFOSzF0MTdLbEI3OWNvMUJIcTJpNFBsNXVjUTZGUHJmenlPUnM3WXpfaTViZGJvT3J6a1I5M013UzAzOUYySWs5S1dTZmgzWVpKOWpyaEQ3Wm4tOFhCeE9SdmdYdURMcEZrNFNTVWNoVEphXzF2dEUxUGdDWWU0V0FhY0Y3MkJveDA0SXpFVXJCc0F5LVc3TndkNFpsNVRTaGloSGpVVQ?oc=5",
           "pubDate": "2026-08-24T19:37:57.000Z",
           "snippet": null
         }
@@ -226,13 +227,6 @@
       "color": "grey",
       "items": [
         {
-          "title": "Manuel Rosales exigió el fin de los racionamientos eléctricos en Zulia y denunció la falta de mantenimiento",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE4wYzdON29vb0lrNndmVWNFSFRVSVhmeWxseTgwOVF0bHVubU9tSmVpWms5WV9SYUI0M044d25GRm9GNkRNRDBSbU1OR1ZKdlZVbkI0VktSU2IzYlhvRlBRdXZEcWgzeTUxWFBROXQ0a1UtbUkxUFJaSnJJX2JsMkhFeTV0TS10YWhtcnlCalNmU19vcnU1TmItek5XMUV1OHZHRlI3Q3JJRXJCd1QwNk9EVE9KUlluZnUydHpzeUJIcG9TbENWR0laYVJDcGVrT25Jckl1TG93THM?oc=5",
-          "pubDate": "2026-08-25T00:48:02.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "EE UU lanza feroz estrategia para convertir a Irán en un paria de la economía mundial",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2ZLUFRWYzg0SVZScGNnVVEwTGlsWV9JNXFzbVMtLV9MNUEyeERtaWE2N2xGUFpnNWl5YnAxQlYyYjBTcFFZa2NETVkyTk5BeGNlRFZxcXoyWHNKZXliSkhMNXp1R3E3ek1kU3p6c3hJYlYydUVwQlQ3ejdGbjRvR0ZyYlYyaVVPMmVWMUpfdEV6NE9VUWZYM1FCckZDRTN3TFdIbkJVZjlTY0FwS3ZlenpQX1B3d19DSVhWNnp3?oc=5",
           "pubDate": "2026-08-24T18:24:57.000Z",
@@ -240,9 +234,16 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Jorge Arreaza: “No podemos darle libertad a alguien para que vuelva a atentar contra el Estado”",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1FNYldSdXlvSzgtS05GMUhpbjZkQnR5elZGRXpCMUc2RVlsek16X2pOQVNkZ3JkU0t5OG9KVVVuM21PSThFaTRzdUpicElDamFUN2xzaERBcmJEaG81NFdjdFR1cDh5SWU1VnNWU1J6Rm9rX0F5VlNZN0VuMUNUSzEyMDU3cWxsSE12ekRwaS1za29pYk9ob1Rn?oc=5",
-          "pubDate": "2026-08-24T14:56:36.000Z",
+          "title": "HRW pide a De la Espriella que frene el aumento de reclutamiento infantil en Colombia",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEQzUFV0cEZVanlSTnpKMmdkNVM2ZjdZdElqV0Fqd293SnVRcXVwcE5jVkp3TUJsZnRXMUhKQ3dWd0VIUERCWU5SNXRWWG9wcUFtWkFfX2NBS0wxZnBKMk40a2UwSTZtVkg3UHZoM0xoSGU5Qm9pQmVpTTVkQWY0N3U1TjZwUV9BZG85MHRhUVFPOW5hc3NaRV9EcnVKcXl1NFVpb3VzWlF6R0U0VFZFVnhOQWMwN214ZnRXamRlYw?oc=5",
+          "pubDate": "2026-08-24T12:01:40.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Manuel Rosales exigió el fin de los racionamientos eléctricos en Zulia y denunció la falta de mantenimiento",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeE4wYzdON29vb0lrNndmVWNFSFRVSVhmeWxseTgwOVF0bHVubU9tSmVpWms5WV9SYUI0M044d25GRm9GNkRNRDBSbU1OR1ZKdlZVbkI0VktSU2IzYlhvRlBRdXZEcWgzeTUxWFBROXQ0a1UtbUkxUFJaSnJJX2JsMkhFeTV0TS10YWhtcnlCalNmU19vcnU1TmItek5XMUV1OHZHRlI3Q3JJRXJCd1QwNk9EVE9KUlluZnUydHpzeUJIcG9TbENWR0laYVJDcGVrT25Jckl1TG93THM?oc=5",
+          "pubDate": "2026-08-25T00:48:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -253,25 +254,23 @@
       "color": "teal",
       "items": [
         {
+          "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR3ZTRzVpa2Ztcm54MF9xZlhaS2Nia0VnSVIzT3dMUl9LRDQwMm1LdW9MQ1A3OWNOeTUzZmZLVElPZ1BQYUxOdkJhcEJTWThEUVNJOTJ2R19iWDNPWExJS3BuTWZqVnprVzRHNnpPLWVvWFhlbUFvNlBLTFhGZnI3R0pTTVhTVU5FWnhnNGdHVkJEN3BtVmpudy1ENnYtLWlLYk9FR2o2bWFYRm5GeE5zWDI4X29HYVFjTTJKYUw1N25jMUdPTExucVpiNmZLRFdqT1JtYnhTaERQQy1hZUY1ZWZZWjNNNWJtLUFpNUhxYkF5NzlTN1U1a1hxV3JiMzVU?oc=5",
+          "pubDate": "2026-08-24T18:45:08.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Décimo Festival Patrio: qué artistas participarán en la celebración de danza, marimba y tradición que llega al Centro Cultural Miguel Ángel Asturias",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQ3J5ZDBPbnRfWWxfdGFoaTlZWmJBc01PZ05fTWVjMzRFeHkxY281SGxwUncxd084RWwtdVNCWm1CenNUS1U3dldqcHk1d3FVSzJGekhDTzQ2OWZqNDd5amUzQkRlZEgzaW5sOExhRDZkYVQyRzE1bFh0S2hMeDNEM3kwa2puZzJ3ZUgwOU9pSV9obUE4RVNrUmxyNjMyTVhTbTE4ZDh6c2lNb05HeS1tMS1PTG1XTC1NTGgzMUFoejRfSmFaRXlfUDVtcUdkVVdxc1lyUEZGQ2RENlR4Szhxal92R0dyLUZCakNTa1M4Vzd3QlR2YS04LXlybUJPVkZ3UVZpdnQ3d3NyRTVTb0Z0RktXSVZ1cmVhNnc?oc=5",
+          "pubDate": "2026-08-25T01:00:00.000Z",
+          "snippet": null
+        },
+        {
           "title": "Puente Huijó: qué causó el accidente y qué informa el CIV sobre el seguro y el limitador de velocidad",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcFVvaUZ4bURseF83ckF3dVVTTkNGMERENmdGc1FYSFpqNFBRRWJaWGRKTm5WNHJNWTR3WmJmT3dub1Z3Q0lKREhkX1JnLV9RNzMxdW5HY2MteTc0bzFYczdIeTJJaEdQQzE4OXJDa1NjclJFNzhQOTRIUHBZQkJORGs4U1lvRGR1THEwY2s0Z0tqbHFGc19UTWlUSHFnRXRBbGNoNWlWczZ2Vkwtb1JlX3pLUjRzQUMyckMtZ005bjhfNmJ3cVlfaXloa09VaGktNDcwZjlmOVA3NHNXRGN5ZndJcmlhdw?oc=5",
           "pubDate": "2026-08-24T23:44:54.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "CIV aplicará pruebas de escaneo y radiografía en puente del Periférico y Aguilar Batres; resultados estarán en dos semanas",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVlBPZGx0dHVac2MxcFBWWE9ZQ2w3X0tMWHJreUJRVnp5SUozR3E0Q19waXVsV2xfcnAwTVZHYzNaaDJMN3h4cU90QXFOX3lmWjhTSHR2d1JiNnNMVmdlVWotR0VLakF0Z3A5V0l6OG5QTDJoUUZfU0s1MXhCWG9qY0RwVDFHVkN6d1BOQVFMMHBsZGs2V1ZxSmpwN19zOVJZci1UdURISnNZQlZzNlE5NDBnbEJjSjRjVTRqelhiV1dSbmlfc1Y0ZzdGZWZtY1NTR09ITmlEYncwU3Q5dmRBcFI1SS1reXlKQ2RmU2pfdXJ0eUU4MVAzZVg2Q1JnZldGc3c?oc=5",
-          "pubDate": "2026-08-24T19:58:08.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Salud detalla estado de cuatro afectados tras accidente en el puente Güijo, en Zacapa",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVnBfMHZZT1h5ZldBdXpjMUdZYTJsdnc2NTFWckhDUEZLYUU5UEJ1ckg3Y2lYOVBCSGtGN2JNQWNKa0d6QTBBUzhSVGdtbWZkVWpQMWk0ZUJIOHU3WF9JYkxvajd6YjNBOVdVTXYtQ2gtWktScnBnSGVLdDVudmVKdnliQ01tRVRod1phSG9NRUdMMnM0OUNuVGFCSU1oMWV4UnF6NVdtY0dGRm56dHppOTN6ckFfZnlxSkJROGhpd3dsV215Q1VfcDJMRHJLYmJWNlhvWWZUWGQ?oc=5",
-          "pubDate": "2026-08-24T17:15:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
+          "snippet": null
         }
       ]
     }
