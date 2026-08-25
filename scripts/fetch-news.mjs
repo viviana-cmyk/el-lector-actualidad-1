@@ -304,7 +304,10 @@ Responde ÚNICAMENTE con un array JSON del mismo tamaño y en el mismo orden, co
       throw new Error("la traduccion no coincide con la cantidad de titulares");
     }
     translated.forEach((t, i) => {
-      if (t.title) items[i].title = t.title;
+      if (t.title) {
+        items[i].title_en = items[i].title; // conservar título original en inglés
+        items[i].title = t.title;           // reemplazar con traducción al español
+      }
       if (items[i].snippet) items[i].snippet = t.snippet ?? items[i].snippet;
     });
     console.log(`  - Traducidos ${items.length} titular(es) del inglés`);
@@ -472,58 +475,59 @@ async function fetchCommodities() {
 // Ciudades para la seccion de clima (Open-Meteo, API publica sin clave).
 const WEATHER_CITIES = {
   colombia: [
-    { city: "Bogotá", lat: 4.711, lon: -74.0721 },
-    { city: "Medellín", lat: 6.2442, lon: -75.5812 },
-    { city: "Cali", lat: 3.4516, lon: -76.532 },
-    { city: "Cartagena", lat: 10.391, lon: -75.4794 },
-    { city: "Barranquilla", lat: 10.9685, lon: -74.7813 },
+    { city: "Bogotá",       city_en: "Bogotá",        lat: 4.711,   lon: -74.0721 },
+    { city: "Medellín",     city_en: "Medellín",       lat: 6.2442,  lon: -75.5812 },
+    { city: "Cali",         city_en: "Cali",           lat: 3.4516,  lon: -76.532  },
+    { city: "Cartagena",    city_en: "Cartagena",      lat: 10.391,  lon: -75.4794 },
+    { city: "Barranquilla", city_en: "Barranquilla",   lat: 10.9685, lon: -74.7813 },
   ],
   mundo: [
-    { city: "Nueva York", lat: 40.7128, lon: -74.006 },
-    { city: "Londres", lat: 51.5074, lon: -0.1278 },
-    { city: "Madrid", lat: 40.4168, lon: -3.7038 },
-    { city: "Tokio", lat: 35.6762, lon: 139.6503 },
-    { city: "Ciudad de México", lat: 19.4326, lon: -99.1332 },
+    { city: "Nueva York",       city_en: "New York",    lat: 40.7128, lon: -74.006  },
+    { city: "Londres",          city_en: "London",      lat: 51.5074, lon: -0.1278  },
+    { city: "Madrid",           city_en: "Madrid",      lat: 40.4168, lon: -3.7038  },
+    { city: "Tokio",            city_en: "Tokyo",       lat: 35.6762, lon: 139.6503 },
+    { city: "Ciudad de México", city_en: "Mexico City", lat: 19.4326, lon: -99.1332 },
   ],
 };
 
 // Codigos de tiempo WMO -> { descripcion, icono }
 // https://open-meteo.com/en/docs (campo weathercode)
 function describeWeatherCode(code) {
+  // [es, icon, en]
   const table = {
-    0: ["Despejado", "☀️"],
-    1: ["Mayormente despejado", "🌤️"],
-    2: ["Parcialmente nublado", "⛅"],
-    3: ["Nublado", "☁️"],
-    45: ["Niebla", "🌫️"],
-    48: ["Niebla helada", "🌫️"],
-    51: ["Llovizna ligera", "🌦️"],
-    53: ["Llovizna", "🌦️"],
-    55: ["Llovizna intensa", "🌦️"],
-    56: ["Llovizna helada", "🌦️"],
-    57: ["Llovizna helada intensa", "🌦️"],
-    61: ["Lluvia ligera", "🌧️"],
-    63: ["Lluvia", "🌧️"],
-    65: ["Lluvia intensa", "🌧️"],
-    66: ["Lluvia helada", "🌧️"],
-    67: ["Lluvia helada intensa", "🌧️"],
-    71: ["Nevada ligera", "❄️"],
-    73: ["Nevada", "❄️"],
-    75: ["Nevada intensa", "❄️"],
-    77: ["Granizo fino", "❄️"],
-    80: ["Lluvias dispersas", "🌦️"],
-    81: ["Lluvias", "🌦️"],
-    82: ["Lluvias intensas", "🌧️"],
-    85: ["Nevadas dispersas", "🌨️"],
-    86: ["Nevadas intensas", "🌨️"],
-    95: ["Tormenta", "⛈️"],
-    96: ["Tormenta con granizo", "⛈️"],
-    99: ["Tormenta con granizo fuerte", "⛈️"],
+    0:  ["Despejado",                  "☀️",  "Clear sky"],
+    1:  ["Mayormente despejado",       "🌤️",  "Mostly clear"],
+    2:  ["Parcialmente nublado",       "⛅",  "Partly cloudy"],
+    3:  ["Nublado",                    "☁️",  "Overcast"],
+    45: ["Niebla",                     "🌫️",  "Foggy"],
+    48: ["Niebla helada",              "🌫️",  "Icy fog"],
+    51: ["Llovizna ligera",            "🌦️",  "Light drizzle"],
+    53: ["Llovizna",                   "🌦️",  "Drizzle"],
+    55: ["Llovizna intensa",           "🌦️",  "Heavy drizzle"],
+    56: ["Llovizna helada",            "🌦️",  "Freezing drizzle"],
+    57: ["Llovizna helada intensa",    "🌦️",  "Heavy freezing drizzle"],
+    61: ["Lluvia ligera",              "🌧️",  "Light rain"],
+    63: ["Lluvia",                     "🌧️",  "Rain"],
+    65: ["Lluvia intensa",             "🌧️",  "Heavy rain"],
+    66: ["Lluvia helada",              "🌧️",  "Freezing rain"],
+    67: ["Lluvia helada intensa",      "🌧️",  "Heavy freezing rain"],
+    71: ["Nevada ligera",              "❄️",  "Light snow"],
+    73: ["Nevada",                     "❄️",  "Snow"],
+    75: ["Nevada intensa",             "❄️",  "Heavy snow"],
+    77: ["Granizo fino",               "❄️",  "Ice pellets"],
+    80: ["Lluvias dispersas",          "🌦️",  "Scattered showers"],
+    81: ["Lluvias",                    "🌦️",  "Showers"],
+    82: ["Lluvias intensas",           "🌧️",  "Heavy showers"],
+    85: ["Nevadas dispersas",          "🌨️",  "Scattered snow showers"],
+    86: ["Nevadas intensas",           "🌨️",  "Heavy snow showers"],
+    95: ["Tormenta",                   "⛈️",  "Thunderstorm"],
+    96: ["Tormenta con granizo",       "⛈️",  "Thunderstorm with hail"],
+    99: ["Tormenta con granizo fuerte","⛈️",  "Thunderstorm, heavy hail"],
   };
-  return table[code] || ["Sin datos", "🌡️"];
+  return table[code] || ["Sin datos", "🌡️", "No data"];
 }
 
-async function fetchCityWeather({ city, lat, lon }) {
+async function fetchCityWeather({ city, city_en, lat, lon }) {
   const res = await fetch(
     `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`,
     { signal: AbortSignal.timeout(15000) },
@@ -532,8 +536,8 @@ async function fetchCityWeather({ city, lat, lon }) {
   const json = await res.json();
   const current = json.current_weather;
   if (!current) throw new Error("sin datos actuales");
-  const [description, icon] = describeWeatherCode(current.weathercode);
-  return { city, temp: Math.round(current.temperature), description, icon };
+  const [description, icon, description_en] = describeWeatherCode(current.weathercode);
+  return { city, city_en: city_en ?? city, temp: Math.round(current.temperature), description, description_en, icon };
 }
 
 // Obtiene los temas del momento de Google Trends (RSS público, sin clave).
@@ -622,6 +626,48 @@ async function fetchIndicators() {
   return result;
 }
 
+// Traduce al inglés los titulares que aún no tienen title_en usando DeepL.
+// Si no hay clave o falla, los artículos simplemente no tendrán versión EN
+// y el sitio seguirá mostrando el contenido en español en ese campo.
+async function translateOutletsToEN(deepLKey, outlets) {
+  if (!deepLKey) return;
+
+  const toTranslate = [];
+  const refs = [];
+  for (const outlet of outlets) {
+    for (const item of outlet.items) {
+      if (!item.title_en) {
+        toTranslate.push(item.title);
+        refs.push(item);
+      }
+    }
+  }
+  if (toTranslate.length === 0) return;
+
+  // Las claves gratuitas de DeepL terminan en :fx y usan api-free
+  const baseUrl = deepLKey.endsWith(":fx")
+    ? "https://api-free.deepl.com"
+    : "https://api.deepl.com";
+
+  try {
+    const res = await fetch(`${baseUrl}/v2/translate`, {
+      method: "POST",
+      headers: {
+        "Authorization": `DeepL-Auth-Key ${deepLKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ text: toTranslate, source_lang: "ES", target_lang: "EN-US" }),
+      signal: AbortSignal.timeout(30000),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
+    const json = await res.json();
+    json.translations.forEach((t, i) => { refs[i].title_en = t.text; });
+    console.log(`  - DeepL ES→EN: ${json.translations.length} titulares traducidos`);
+  } catch (err) {
+    console.warn(`  [aviso] DeepL: ${err.message}`);
+  }
+}
+
 async function main() {
   await mkdir(DATA_DIR, { recursive: true });
   const config = JSON.parse(
@@ -696,6 +742,13 @@ async function main() {
     path.join(DATA_DIR, "featured.json"),
     JSON.stringify({ generatedAt, colombia: featuredColombia, mundo: featuredMundo }, null, 2) + "\n",
   );
+
+  console.log("Traduciendo titulares al inglés (DeepL)...");
+  const deepLKey = process.env.DEEPL_API_KEY;
+  await translateOutletsToEN(deepLKey, colombia);
+  await translateOutletsToEN(deepLKey, mundo);   // los medios EN ya tienen title_en; solo traduce los ES
+  await translateOutletsToEN(deepLKey, latam);
+  await translateOutletsToEN(deepLKey, recomendados);
 
   console.log("Obteniendo indicadores economicos...");
   const indicators = await fetchIndicators();

@@ -3,6 +3,7 @@ import { formatDateTime } from "../lib/format";
 
 interface NewsItem {
   title: string;
+  title_en?: string;
   link: string;
   pubDate: string | null;
 }
@@ -25,7 +26,12 @@ const { name, color, items } = Astro.props;
         <span class="outlet__bullet">{i + 1}</span>
         <div>
           <a href={item.link} target="_blank" rel="noopener noreferrer">
-            {item.title}
+            {item.title_en ? (
+              <>
+                <span data-l="es">{item.title}</span>
+                <span data-l="en">{item.title_en}</span>
+              </>
+            ) : item.title}
           </a>
           {item.pubDate && <span class="outlet__time">{formatDateTime(item.pubDate)}</span>}
         </div>

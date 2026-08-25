@@ -17,9 +17,23 @@ const groups = [
             group.cities?.map((city) => (
               <div class="weather-card">
                 <span class="weather-card__icon">{city.icon}</span>
-                <span class="weather-card__city">{city.city}</span>
+                <span class="weather-card__city">
+                  {city.city_en ? (
+                    <>
+                      <span data-l="es">{city.city}</span>
+                      <span data-l="en">{city.city_en}</span>
+                    </>
+                  ) : city.city}
+                </span>
                 <span class="weather-card__temp">{city.temp}°C</span>
-                <span class="weather-card__desc">{city.description}</span>
+                <span class="weather-card__desc">
+                  {city.description_en ? (
+                    <>
+                      <span data-l="es">{city.description}</span>
+                      <span data-l="en">{city.description_en}</span>
+                    </>
+                  ) : city.description}
+                </span>
               </div>
             ))
           }
