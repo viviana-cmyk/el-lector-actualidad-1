@@ -12,27 +12,32 @@ const sections = [
 ---
 
 <div class="analysis-grid">
-  {sections.map((section) => (
-    <div class={`analysis-card outlet--${section.color}`}>
-      <h3 class="analysis-card__title" data-i18n={section.i18nKey}>{section.label}</h3>
+  {sections.map((section) => {
+    const hasEN = (section.data_en?.items?.length ?? 0) > 0;
+    return (
+      <div class={`analysis-card outlet--${section.color}`}>
+        <h3 class="analysis-card__title" data-i18n={section.i18nKey}>{section.label}</h3>
 
-      {/* Español */}
-      {section.data?.intro && <p class="analysis-card__intro" data-l="es">{section.data.intro}</p>}
-      {section.data?.items?.map((item: any) => (
-        <div class="analysis-card__item" data-l="es">
-          <span class="analysis-card__category">{item.category}</span>
-          <p>{item.text}</p>
-        </div>
-      ))}
+        {section.data?.intro && (
+          <p class="analysis-card__intro" data-l={hasEN ? "es" : undefined}>{section.data.intro}</p>
+        )}
+        {section.data?.items?.map((item: any) => (
+          <div class="analysis-card__item" data-l={hasEN ? "es" : undefined}>
+            <span class="analysis-card__category">{item.category}</span>
+            <p>{item.text}</p>
+          </div>
+        ))}
 
-      {/* English */}
-      {section.data_en?.intro && <p class="analysis-card__intro" data-l="en">{section.data_en.intro}</p>}
-      {section.data_en?.items?.map((item: any) => (
-        <div class="analysis-card__item" data-l="en">
-          <span class="analysis-card__category">{item.category}</span>
-          <p>{item.text}</p>
-        </div>
-      ))}
-    </div>
-  ))}
+        {hasEN && section.data_en?.intro && (
+          <p class="analysis-card__intro" data-l="en">{section.data_en.intro}</p>
+        )}
+        {hasEN && section.data_en?.items?.map((item: any) => (
+          <div class="analysis-card__item" data-l="en">
+            <span class="analysis-card__category">{item.category}</span>
+            <p>{item.text}</p>
+          </div>
+        ))}
+      </div>
+    );
+  })}
 </div>
