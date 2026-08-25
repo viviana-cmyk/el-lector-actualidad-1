@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:38:14.042Z",
+  "generatedAt": "2026-08-25T01:57:10.536Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -22,9 +22,9 @@
       "url": "https://podcasts.apple.com/co/podcast/seminario-fenix-brian-tracy/id1735157109"
     },
     {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+      "title": "Estoicismo Filosofia",
+      "host": "Estoicismo Filosofia",
+      "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     }
   ],
   "mundo": [
@@ -34,24 +34,24 @@
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "The Rest Is History",
-      "host": "Goalhanger",
-      "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786"
-    },
-    {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
-    },
-    {
       "title": "Crime Junkie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
+      "title": "The Rest Is History",
+      "host": "Goalhanger",
+      "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786"
+    },
+    {
       "title": "The Truth About Natalie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/the-truth-about-natalie/id1750724132"
+    },
+    {
+      "title": "The Joe Rogan Experience",
+      "host": "Joe Rogan",
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     }
   ]
 }
