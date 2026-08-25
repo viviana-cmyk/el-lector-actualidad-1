@@ -46,6 +46,12 @@ function looksLikeAuthorName(title) {
   return AUTHOR_NAME_RE.test(title);
 }
 
+// Descarta títulos que son solo una fecha (ej: "24 de agosto del 2026") o muy cortos.
+const DATE_ONLY_RE = /^\d{1,2}\s+de\s+\w+(\s+del?\s+\d{4})?$|^\w+\s+\d{1,2},?\s+\d{4}$|^\d{1,2}[\/\-]\d{1,2}[\/\-]\d{2,4}$/i;
+function looksLikeDate(title) {
+  return DATE_ONLY_RE.test(title) || title.length < 18;
+}
+
 // POLÍTICA EDITORIAL PERMANENTE: El LECTOR excluye farándula y derivados.
 // No modificar ni debilitar este filtro sin instrucción explícita.
 // Categorías excluidas: astrología/esotérico, vida privada de celebridades,
@@ -141,6 +147,7 @@ async function fetchOutletItems(outlet) {
         const title = feed.type === "google" ? cleanGoogleTitle(rawTitle) : rawTitle;
         if (!title) continue;
         if (feed.type === "google" && looksLikeAuthorName(title)) continue;
+        if (feed.type === "google" && looksLikeDate(title)) continue;
         if (isLowQualityContent(title)) continue;
         // Los resultados de Google Noticias no traen un resumen util (solo
         // enlaces relacionados), asi que el snippet solo se usa para RSS directo.
