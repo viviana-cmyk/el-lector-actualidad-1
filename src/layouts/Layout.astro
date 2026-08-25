@@ -46,6 +46,12 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
     <slot name="head" />
   </head>
   <body>
+    <div class="lang-switcher" role="group" aria-label="Idioma / Language">
+      <button class="lang-btn" data-lang="es">Español</button>
+      <span class="lang-sep">·</span>
+      <button class="lang-btn" data-lang="en">Inglés</button>
+    </div>
+
     {!hideTopbar && (
       <header class="topbar">
         <div class="topbar__inner">
@@ -59,7 +65,6 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
             <a class="pill" href={withBase("/reflexiones")} data-i18n="nav_reflections">Reflexiones del Lector</a>
             <a class="pill" href={withBase("/cifras")} data-i18n="nav_data">Datos y Cifras</a>
             <a class="pill pill--ghost" href={withBase("/recomendados")} data-i18n="nav_recommended">Recomendados</a>
-            <button id="lang-toggle" class="lang-toggle" title="Toggle language / Cambiar idioma">EN</button>
           </nav>
         </div>
       </header>
@@ -174,17 +179,17 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
         if (translated) el.textContent = translated;
       });
       document.documentElement.lang = lang;
-      const btn = document.getElementById("lang-toggle");
-      if (btn) btn.textContent = lang === "es" ? "EN" : "ES";
+      // Resaltar botón activo
+      document.querySelectorAll(".lang-btn").forEach((b) => {
+        b.classList.toggle("lang-btn--active", b.dataset.lang === lang);
+      });
       try { localStorage.setItem("lang", lang); } catch {}
     }
 
     const savedLang = getLang();
-    if (savedLang !== "es") applyLang(savedLang);
-    const btn = document.getElementById("lang-toggle");
-    if (btn) {
-      btn.textContent = savedLang === "es" ? "EN" : "ES";
-      btn.addEventListener("click", () => applyLang(getLang() === "es" ? "en" : "es"));
-    }
+    applyLang(savedLang);
+    document.querySelectorAll(".lang-btn").forEach((b) => {
+      b.addEventListener("click", () => applyLang(b.dataset.lang));
+    });
   </script>
 </html>
