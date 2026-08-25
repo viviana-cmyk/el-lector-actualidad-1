@@ -16,21 +16,30 @@ const SECTIONS = {
   colombia: {
     file: "news-colombia.json",
     intro: "Lectura cruzada desde lo político, social, económico y cultural.",
+    intro_en: "Cross-reading from political, social, economic and cultural angles.",
     categories: ["Política", "Económica", "Social", "Cultural"],
+    categories_en: ["Politics", "Economics", "Social", "Culture"],
     label: "Colombia",
+    label_en: "Colombia",
   },
   mundo: {
     file: "news-mundo.json",
     intro: "Geopolítica, economía global, sociedad y tecnología en diálogo.",
+    intro_en: "Geopolitics, global economy, society and technology in dialogue.",
     categories: ["Geopolítica", "Económica", "Tecnológica", "Social"],
+    categories_en: ["Geopolitics", "Economics", "Technology", "Social"],
     label: "el resto del mundo",
+    label_en: "the rest of the world",
   },
   seguridad: {
     file: "news-colombia.json",
     extraFile: "news-mundo.json",
     intro: "Crimen, conflicto y seguridad: análisis transversal Colombia–mundo.",
+    intro_en: "Crime, conflict and security: cross-analysis Colombia–world.",
     categories: ["Crimen organizado", "Conflictos y violencia", "Justicia y Estado", "Amenazas globales"],
+    categories_en: ["Organized Crime", "Conflicts & Violence", "Justice & State", "Global Threats"],
     label: "la seguridad en Colombia y el mundo",
+    label_en: "security in Colombia and the world",
   },
 };
 
@@ -100,6 +109,47 @@ Responde ÚNICAMENTE con un objeto JSON con esta forma exacta, sin texto adicion
   return { intro, items: parsed.items };
 }
 
+async function generateSectionEN(client, key) {
+  const { file, extraFile, intro_en, categories_en, label_en } = SECTIONS[key];
+  const news = await readJson(file);
+  let headlines = buildHeadlinesList(news.outlets);
+  if (extraFile) {
+    const extra = await readJson(extraFile);
+    headlines += "\n" + buildHeadlinesList(extra.outlets);
+  }
+
+  const categoryList = categories_en.map((c) => `"${c}"`).join(", ");
+  const prompt = `You are an expert analyst writing for "El LECTOR", a non-profit news bulletin on security, justice and peace.
+
+Based on the following recent headlines about ${label_en}, write a cross-cutting analysis in English organized in these exact categories: ${categoryList}.
+
+Headlines (from Spanish and international media):
+${headlines}
+
+Style guidelines:
+- Strictly neutral and objective. No value judgments or subjective conclusions.
+- Natural, fluent writing. Avoid repetitive structures or AI-sounding phrases ("it is worth noting", "in this context", "without a doubt", etc.). Do not use em dashes.
+- For each category: 2 to 4 sentences in English connecting relevant headlines with context or possible implications.
+- If a category has no directly related headlines, offer a brief factual observation.
+- Do not invent data, figures or sources not present in the headlines.
+
+Respond ONLY with a JSON object in this exact form, no additional text or code blocks:
+{"items": [{"category": "<category>", "text": "<analysis>"}, ...]}`;
+
+  const response = await client.messages.create({
+    model: MODEL,
+    max_tokens: 1024,
+    messages: [{ role: "user", content: prompt }],
+  });
+
+  const text = response.content.find((block) => block.type === "text")?.text || "";
+  const parsed = extractJson(text);
+  if (!Array.isArray(parsed.items) || parsed.items.length === 0) {
+    throw new Error("response without 'items'");
+  }
+  return { intro: intro_en, items: parsed.items };
+}
+
 async function generateTrends(client, headlinesColombia, headlinesMundo) {
   const prompt = `Eres el editor de El LECTOR, boletín de noticias sobre política, seguridad, justicia y economía.
 
@@ -167,6 +217,36 @@ Si no hay nada verificable para esta fecha exacta, responde: null`;
 }
 
 
+async function generateDailyInfoEN(client, dateStr) {
+  const prompt = `Today is ${dateStr}. Find ONE relevant commemoration for this exact date:
+
+1. Official international day (UN, UNESCO, WHO or international body).
+2. Important historical anniversary (world or Latin American event).
+3. Significant national day of any country.
+4. Cultural, scientific or social commemoration of global relevance.
+
+Rules:
+- The date must match EXACTLY. Do not approximate.
+- Do not invent data. If nothing verifiable for this exact date, respond null.
+
+Respond ONLY with this exact JSON (no additional text):
+{"nombre":"<full name in English>","descripcion":"<1 sentence in English, max 180 chars, explaining what is commemorated and why it matters>"}
+
+If nothing verifiable for this exact date, respond: null`;
+
+  const response = await client.messages.create({
+    model: MODEL,
+    max_tokens: 256,
+    messages: [{ role: "user", content: prompt }],
+  });
+  const text = (response.content.find(b => b.type === "text")?.text || "").trim();
+  if (text === "null" || text === "") return null;
+  try {
+    const match = text.match(/\{[\s\S]*\}/);
+    return match ? JSON.parse(match[0]) : null;
+  } catch { return null; }
+}
+
 async function main() {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   const generatedAt = new Date().toISOString();
@@ -187,14 +267,15 @@ async function main() {
   }
 
   for (const key of Object.keys(SECTIONS)) {
-    const { intro, categories } = SECTIONS[key];
+    const { intro, intro_en, categories, categories_en } = SECTIONS[key];
     if (!apiKey) {
       result[key] = previous?.[key] || {
         intro,
-        items: placeholderItems(
-          categories,
-          "Análisis pendiente: configura ANTHROPIC_API_KEY para generar este contenido automáticamente.",
-        ),
+        items: placeholderItems(categories, "Análisis pendiente: configura ANTHROPIC_API_KEY."),
+      };
+      result[`${key}_en`] = previous?.[`${key}_en`] || {
+        intro: intro_en,
+        items: placeholderItems(categories_en, "Analysis pending: configure ANTHROPIC_API_KEY."),
       };
       continue;
     }
@@ -210,6 +291,18 @@ async function main() {
         items: placeholderItems(categories, "No se pudo generar el análisis de hoy."),
       };
     }
+
+    try {
+      const client = new Anthropic({ apiKey });
+      result[`${key}_en`] = await generateSectionEN(client, key);
+      console.log(`  - Analysis EN ${key}: generated`);
+    } catch (err) {
+      console.warn(`  [warning] Analysis EN ${key}: ${err.message}`);
+      result[`${key}_en`] = previous?.[`${key}_en`] || {
+        intro: intro_en,
+        items: placeholderItems(categories_en, "Could not generate today's analysis."),
+      };
+    }
   }
 
   await writeFile(
@@ -223,9 +316,10 @@ async function main() {
       const client = new Anthropic({ apiKey });
       const dateStr = new Date().toLocaleDateString("es-CO", { day:"numeric", month:"long", year:"numeric", timeZone:"America/Bogota" });
       const diaInfo = await generateDailyInfo(client, dateStr);
+      const diaInfoEN = await generateDailyInfoEN(client, dateStr);
       await writeFile(
         path.join(DATA_DIR, "dailyinfo.json"),
-        JSON.stringify({ generatedAt, dia: diaInfo }, null, 2) + "\n",
+        JSON.stringify({ generatedAt, dia: diaInfo, dia_en: diaInfoEN }, null, 2) + "\n",
       );
       console.log(`  - Día internacional: ${diaInfo ? diaInfo.nombre : "ninguno hoy"}`);
     } catch (err) {
@@ -256,13 +350,14 @@ Titulares (formato [Fuente] Titular >>> URL):
 ${lista}
 
 Para cada tensión:
-1. Nombre preciso del conflicto o tensión.
+1. Nombre preciso del conflicto o tensión (en español e inglés).
 2. Región geográfica.
 3. El titular de la lista más relacionado (si hay uno; si no, pon "noticia": null).
-4. Análisis: 2 oraciones en español. Contexto actual + posibles implicaciones geopolíticas. Neutro, sin lenguaje genérico de IA.
+4. Análisis en español: 2 oraciones. Contexto actual + posibles implicaciones geopolíticas. Neutro, sin lenguaje genérico de IA.
+5. Analysis in English: same content translated to English (2 sentences, same neutral tone).
 
 Responde SOLO con este JSON (sin texto extra, sin bloques de código):
-{"tensiones":[{"rank":1,"titulo":"...","region":"...","noticia":{"titulo":"...","link":"...","fuente":"..."},"analisis":"..."},{"rank":2,...},{"rank":3,...}]}`;
+{"tensiones":[{"rank":1,"titulo":"...","titulo_en":"...","region":"...","noticia":{"titulo":"...","link":"...","fuente":"..."},"analisis":"...","analisis_en":"..."},{"rank":2,...},{"rank":3,...}]}`;
 
       const res = await client.messages.create({
         model: MODEL, max_tokens: 1200,

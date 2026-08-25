@@ -123,6 +123,11 @@ img { max-width: 100%; display: block; }
   box-shadow: none;
 }
 
+/* Bilingual content toggle — [data-l="en"] hidden by default, shown when data-site-lang="en" */
+[data-l="en"] { display: none; }
+:root[data-site-lang="en"] [data-l="es"] { display: none; }
+:root[data-site-lang="en"] [data-l="en"] { display: revert; }
+
 .lang-switcher {
   position: fixed;
   top: 14px;

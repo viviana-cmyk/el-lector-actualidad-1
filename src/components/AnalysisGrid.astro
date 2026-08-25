@@ -2,27 +2,37 @@
 import analisis from "../data/analisis.json";
 
 const sections = [
-  { key: "colombia", label: "Colombia", i18nKey: "section_colombia", color: "blue", data: analisis.colombia },
-  { key: "mundo",    label: "Mundo",    i18nKey: "section_mundo",    color: "mint", data: analisis.mundo },
-  { key: "seguridad",label: "Seguridad",i18nKey: "section_security", color: "rose", data: (analisis as any).seguridad },
+  { key: "colombia", label: "Colombia", i18nKey: "section_colombia", color: "blue",
+    data: analisis.colombia, data_en: (analisis as any).colombia_en },
+  { key: "mundo",    label: "Mundo",    i18nKey: "section_mundo",    color: "mint",
+    data: analisis.mundo,   data_en: (analisis as any).mundo_en },
+  { key: "seguridad",label: "Seguridad",i18nKey: "section_security", color: "rose",
+    data: (analisis as any).seguridad,  data_en: (analisis as any).seguridad_en },
 ];
 ---
 
 <div class="analysis-grid">
-  {
-    sections.map((section) => (
-      <div class={`analysis-card outlet--${section.color}`}>
-        <h3 class="analysis-card__title" data-i18n={section.i18nKey}>{section.label}</h3>
-        {section.data?.intro && <p class="analysis-card__intro">{section.data.intro}</p>}
-        {
-          section.data?.items?.map((item) => (
-            <div class="analysis-card__item">
-              <span class="analysis-card__category">{item.category}</span>
-              <p>{item.text}</p>
-            </div>
-          ))
-        }
-      </div>
-    ))
-  }
+  {sections.map((section) => (
+    <div class={`analysis-card outlet--${section.color}`}>
+      <h3 class="analysis-card__title" data-i18n={section.i18nKey}>{section.label}</h3>
+
+      {/* Español */}
+      {section.data?.intro && <p class="analysis-card__intro" data-l="es">{section.data.intro}</p>}
+      {section.data?.items?.map((item: any) => (
+        <div class="analysis-card__item" data-l="es">
+          <span class="analysis-card__category">{item.category}</span>
+          <p>{item.text}</p>
+        </div>
+      ))}
+
+      {/* English */}
+      {section.data_en?.intro && <p class="analysis-card__intro" data-l="en">{section.data_en.intro}</p>}
+      {section.data_en?.items?.map((item: any) => (
+        <div class="analysis-card__item" data-l="en">
+          <span class="analysis-card__category">{item.category}</span>
+          <p>{item.text}</p>
+        </div>
+      ))}
+    </div>
+  ))}
 </div>

@@ -9,6 +9,7 @@ import featured from "../data/featured.json";
 import dailyinfo from "../data/dailyinfo.json";
 
 const diaHoy = (dailyinfo as any).dia ?? null;
+const diaHoyEN = (dailyinfo as any).dia_en ?? null;
 
 const fechaHoy = new Date().toLocaleDateString("es-CO", {
   weekday: "long",
@@ -48,8 +49,10 @@ const calDia = diaFecha.toLocaleDateString("es-CO", { day: "numeric", timeZone: 
             <span class="hero__cal-dia">{calDia}</span>
           </div>
           <div class="hero__diainfo-body">
-            <span class="hero__diainfo-title">{diaHoy.nombre}</span>
-            <span class="hero__diainfo-desc">{diaHoy.descripcion}</span>
+            <span class="hero__diainfo-title" data-l="es">{diaHoy.nombre}</span>
+            {diaHoyEN && <span class="hero__diainfo-title" data-l="en">{diaHoyEN.nombre}</span>}
+            <span class="hero__diainfo-desc" data-l="es">{diaHoy.descripcion}</span>
+            {diaHoyEN && <span class="hero__diainfo-desc" data-l="en">{diaHoyEN.descripcion}</span>}
           </div>
         </div>
       )}

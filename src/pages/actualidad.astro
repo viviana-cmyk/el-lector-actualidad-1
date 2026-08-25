@@ -160,8 +160,10 @@ const podcastListMundo = {
                 <span class="tension-rank">#{t.rank}</span>
                 <span class="tension-region">{t.region}</span>
               </div>
-              <h3 class="tension-titulo">{t.titulo}</h3>
-              <p class="tension-analisis">{t.analisis}</p>
+              <h3 class="tension-titulo" data-l="es">{t.titulo}</h3>
+              {t.titulo_en && <h3 class="tension-titulo" data-l="en">{t.titulo_en}</h3>}
+              <p class="tension-analisis" data-l="es">{t.analisis}</p>
+              {t.analisis_en && <p class="tension-analisis" data-l="en">{t.analisis_en}</p>}
               {t.noticia && t.noticia.link && t.noticia.link !== "#" && (
                 <a class="tension-noticia" href={t.noticia.link} target="_blank" rel="noopener noreferrer">
                   <span class="tension-noticia__fuente">{t.noticia.fuente}</span>
