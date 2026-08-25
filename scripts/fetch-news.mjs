@@ -65,6 +65,13 @@ function looksLikeDate(title) {
   return DATE_ONLY_RE.test(title) || BOILERPLATE_RE.test(title) || title.length < 20;
 }
 
+// Descarta ítems donde el título es el nombre genérico del sitio web (ej: "La Tercera - Noticias de Chile y el Mundo")
+function looksLikeSiteTitle(title, outletName) {
+  const base = outletName.replace(/\s*\(.*\)$/, "").trim();
+  const escaped = base.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return new RegExp(`^${escaped}\\s*[-–|]`, "i").test(title);
+}
+
 // POLÍTICA EDITORIAL PERMANENTE: El LECTOR excluye farándula y derivados.
 // No modificar ni debilitar este filtro sin instrucción explícita.
 // Categorías excluidas: astrología/esotérico, vida privada de celebridades,
@@ -132,6 +139,14 @@ const LOW_QUALITY_RE = new RegExp(
     "celebra el aniversario", "fotos in[eé]ditas de",
     "aniversario de (su |el |la )", "cumplea[ñn]os de ",
     "karol g ", "maluma ", "j balvin ", "shakira (celebra|comparte|publica)",
+    // Momentos / reacciones de entretenimiento
+    "divertido momento", "tierno momento", "emotivo momento",
+    "reacci[oó]n de ", "as[íi] reaccion[oó]", "as[íi] fue el momento",
+    "cambi[aoó].*\\blook\\b", "\\blook\\b.*(impacto|sorprend|llam[oó] la atenci[oó]n)",
+    "\\bde buen humor\\b", "se puso de buen humor",
+    // Lifestyle / bienestar sin valor informativo
+    "gozan de ", "se ponen de ", "priorizarse", "autorregulaci[oó]n emocional",
+    "cambio de look", "nuevo look",
   ].map(p => `(${p})`).join("|"),
   "i"
 );
@@ -160,6 +175,7 @@ async function fetchOutletItems(outlet) {
         const title = feed.type === "google" ? cleanGoogleTitle(rawTitle) : rawTitle;
         if (!title) continue;
         if (looksLikeDate(title)) continue;
+        if (looksLikeSiteTitle(title, outlet.name)) continue;
         if (feed.type === "google" && looksLikeAuthorName(title)) continue;
         if (isLowQualityContent(title)) continue;
         // Los resultados de Google Noticias no traen un resumen util (solo
