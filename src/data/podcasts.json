@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-08-25T10:34:23.556Z",
+  "generatedAt": "2026-08-25T20:28:06.023Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
       "host": "Con William Arana                                          ROKA STEREO",
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
-    },
-    {
-      "title": "DianaUribe.fm",
-      "host": "Diana Uribe",
-      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
       "title": "365 con Dios",
@@ -20,6 +15,11 @@
       "title": "Seminario Fenix | Brian Tracy",
       "host": "matiasmartinez16",
       "url": "https://podcasts.apple.com/co/podcast/seminario-fenix-brian-tracy/id1735157109"
+    },
+    {
+      "title": "DianaUribe.fm",
+      "host": "Diana Uribe",
+      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
       "title": "Estoicismo Filosofia",
@@ -39,19 +39,19 @@
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "The Rest Is History",
-      "host": "Goalhanger",
-      "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786"
-    },
-    {
       "title": "The Truth About Natalie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/the-truth-about-natalie/id1750724132"
     },
     {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+      "title": "The Rest Is History",
+      "host": "Goalhanger",
+      "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786"
+    },
+    {
+      "title": "Mick Unplugged",
+      "host": "Mick Hunt",
+      "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953"
     }
   ]
 }
