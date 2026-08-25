@@ -722,6 +722,14 @@ async function main() {
   const recomendados = enforceRange(await buildSection(config.recomendados), config.recomendados);
 
   const generatedAt = new Date().toISOString();
+
+  console.log("Traduciendo titulares al inglés (DeepL)...");
+  const deepLKey = process.env.DEEPL_API_KEY;
+  await translateOutletsToEN(deepLKey, colombia);
+  await translateOutletsToEN(deepLKey, mundo);   // los medios EN ya tienen title_en; solo traduce los ES
+  await translateOutletsToEN(deepLKey, latam);
+  await translateOutletsToEN(deepLKey, recomendados);
+
   await writeFile(
     path.join(DATA_DIR, "news-colombia.json"),
     JSON.stringify({ generatedAt, outlets: colombia }, null, 2) + "\n",
@@ -742,13 +750,6 @@ async function main() {
     path.join(DATA_DIR, "featured.json"),
     JSON.stringify({ generatedAt, colombia: featuredColombia, mundo: featuredMundo }, null, 2) + "\n",
   );
-
-  console.log("Traduciendo titulares al inglés (DeepL)...");
-  const deepLKey = process.env.DEEPL_API_KEY;
-  await translateOutletsToEN(deepLKey, colombia);
-  await translateOutletsToEN(deepLKey, mundo);   // los medios EN ya tienen title_en; solo traduce los ES
-  await translateOutletsToEN(deepLKey, latam);
-  await translateOutletsToEN(deepLKey, recomendados);
 
   console.log("Obteniendo indicadores economicos...");
   const indicators = await fetchIndicators();
