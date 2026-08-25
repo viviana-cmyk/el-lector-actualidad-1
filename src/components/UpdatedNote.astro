@@ -12,4 +12,4 @@ const formatted = new Intl.DateTimeFormat("es-CO", {
 }).format(new Date(generatedAt));
 ---
 
-<p class="updated-note">Última actualización: {formatted} (hora de Colombia)</p>
+<p class="updated-note"><span data-i18n="last_update">Última actualización:</span> {formatted} <span data-i18n="last_update_tz">(hora de Colombia)</span></p>

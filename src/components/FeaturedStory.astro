@@ -2,21 +2,21 @@
 import featured from "../data/featured.json";
 
 const stories = [
-  { label: "🇨🇴 Colombia", story: (featured as any).colombia ?? (featured as any).story ?? null, color: "sky" },
-  { label: "🌍 El Mundo",  story: (featured as any).mundo ?? null,                                color: "mint" },
+  { label: "🇨🇴 Colombia", i18nKey: "featured_colombia", story: (featured as any).colombia ?? (featured as any).story ?? null, color: "sky" },
+  { label: "🌍 El Mundo",  i18nKey: "featured_mundo",    story: (featured as any).mundo ?? null,                                color: "mint" },
 ].filter(s => s.story);
 ---
 
 <div class="featured-pair">
-  {stories.map(({ label, story, color }) => (
+  {stories.map(({ label, i18nKey, story, color }) => (
     <div class={`featured featured--${color}`}>
       <div class="featured__header">
-        <span class="featured__region">{label}</span>
+        <span class="featured__region" data-i18n={i18nKey}>{label}</span>
         <span class="featured__source">{story.source}</span>
       </div>
       <h3 class="featured__title">{story.title}</h3>
       {story.snippet && <p class="featured__snippet">{story.snippet}</p>}
-      <a class="pill featured__cta" href={story.link} target="_blank" rel="noopener noreferrer">
+      <a class="pill featured__cta" href={story.link} target="_blank" rel="noopener noreferrer" data-i18n="read_more">
         Leer artículo completo →
       </a>
     </div>

@@ -8,14 +8,14 @@ import curated from "../data/curated.json";
 
 <Layout title="Recomendados" description="Investigaciones de InSight Crime, International Crisis Group y el World Economic Forum, más libros recomendados por El LECTOR.">
   <section class="section wrap">
-    <h2 class="section__title">Investigaciones</h2>
+    <h2 class="section__title" data-i18n="investigations">Investigaciones</h2>
     <p class="section__byline">El LECTOR</p>
     <NewsGrid outlets={recomendadosData.outlets} />
     <UpdatedNote generatedAt={recomendadosData.generatedAt} />
   </section>
 
   <section class="section wrap">
-    <h2 class="section__title">Libros</h2>
+    <h2 class="section__title" data-i18n="books">Libros</h2>
     <p class="section__byline">El LECTOR</p>
     <div class="reco-grid">
       {

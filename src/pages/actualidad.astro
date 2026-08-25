@@ -74,21 +74,21 @@ const podcastListMundo = {
   description="Noticias de Colombia y el mundo: Semana, El Espectador, El Tiempo, CNN, El País, The Guardian y más, actualizadas a diario."
 >
   <section class="section wrap">
-    <h2 class="section__title">Actualidad</h2>
-    <p class="section__byline">Noticias</p>
+    <h2 class="section__title" data-i18n="page_news">Actualidad</h2>
+    <p class="section__byline" data-i18n="page_news_byline">Noticias</p>
 
     <!-- Selector de región -->
     <div class="act-tabs" role="tablist">
-      <button class="act-tab act-tab--active" role="tab" data-panel="colombia" aria-selected="true">
+      <button class="act-tab act-tab--active" role="tab" data-panel="colombia" aria-selected="true" data-i18n="tab_colombia">
         Colombia
       </button>
-      <button class="act-tab" role="tab" data-panel="latam" aria-selected="false">
+      <button class="act-tab" role="tab" data-panel="latam" aria-selected="false" data-i18n="tab_latam">
         Latinoamérica
       </button>
-      <button class="act-tab" role="tab" data-panel="mundo" aria-selected="false">
+      <button class="act-tab" role="tab" data-panel="mundo" aria-selected="false" data-i18n="tab_mundo">
         El Mundo
       </button>
-      <button class="act-tab" role="tab" data-panel="tensiones" aria-selected="false">
+      <button class="act-tab" role="tab" data-panel="tensiones" aria-selected="false" data-i18n="tab_tensions">
         TOP 3 · Tensiones
       </button>
     </div>
@@ -100,10 +100,10 @@ const podcastListMundo = {
 
       {(redesColombia.length > 0 || podcastListColombia.items.length > 0) && (
         <div class="trends" style="margin-top:2.5rem">
-          <h2 class="section__title" style="margin-bottom:0.5rem">Tendencias</h2>
+          <h2 class="section__title" style="margin-bottom:0.5rem" data-i18n="trends_title">Tendencias</h2>
           <div class="trends__header">
-            <span class="trends__live">● EN VIVO</span>
-            <span class="trends__subtitle">Tendencias de hoy en Colombia</span>
+            <span class="trends__live" data-i18n="trends_live">● EN VIVO</span>
+            <span class="trends__subtitle" data-i18n="trends_co">Tendencias de hoy en Colombia</span>
           </div>
           <div class="rank-sections">
             {redesColombia.map((list) => (
@@ -131,10 +131,10 @@ const podcastListMundo = {
 
       {(redesMundo.length > 0 || podcastListMundo.items.length > 0) && (
         <div class="trends" style="margin-top:2.5rem">
-          <h2 class="section__title" style="margin-bottom:0.5rem">Tendencias</h2>
+          <h2 class="section__title" style="margin-bottom:0.5rem" data-i18n="trends_title">Tendencias</h2>
           <div class="trends__header">
-            <span class="trends__live">● EN VIVO</span>
-            <span class="trends__subtitle">Tendencias de hoy en el mundo</span>
+            <span class="trends__live" data-i18n="trends_live">● EN VIVO</span>
+            <span class="trends__subtitle" data-i18n="trends_world">Tendencias de hoy en el mundo</span>
           </div>
           <div class="rank-sections">
             {redesMundo.map((list) => (
@@ -173,7 +173,7 @@ const podcastListMundo = {
         </div>
       ) : (
         <div class="tensiones-empty">
-          <p>Actualizando cada mañana a las 5:00 AM…</p>
+          <p data-i18n="tensions_empty">Actualizando cada mañana a las 5:00 AM…</p>
         </div>
       )}
       <UpdatedNote generatedAt={(tensionesData as any).generatedAt} />

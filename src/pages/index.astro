@@ -32,13 +32,13 @@ const calDia = diaFecha.toLocaleDateString("es-CO", { day: "numeric", timeZone: 
 
       <h1>El <span>LECTOR</span></h1>
 
-      <p class="subtitle">Noticias, actualidad y más.....</p>
+      <p class="subtitle" data-i18n="hero_subtitle">Noticias, actualidad y más.....</p>
 
       <nav class="hero__nav">
-        <a class="pill hero__pill--primary" href={withBase("/actualidad")}>Actualidad</a>
-        <a class="pill hero__pill--primary" href={withBase("/reflexiones")}>Reflexiones del Lector</a>
-        <a class="pill hero__pill--primary" href={withBase("/cifras")}>Datos y Cifras</a>
-        <a class="pill pill--ghost" href={withBase("/recomendados")}>Recomendados</a>
+        <a class="pill hero__pill--primary" href={withBase("/actualidad")} data-i18n="nav_news">Actualidad</a>
+        <a class="pill hero__pill--primary" href={withBase("/reflexiones")} data-i18n="nav_reflections">Reflexiones del Lector</a>
+        <a class="pill hero__pill--primary" href={withBase("/cifras")} data-i18n="nav_data">Datos y Cifras</a>
+        <a class="pill pill--ghost" href={withBase("/recomendados")} data-i18n="nav_recommended">Recomendados</a>
       </nav>
 
       {diaHoy && (
@@ -57,19 +57,19 @@ const calDia = diaFecha.toLocaleDateString("es-CO", { day: "numeric", timeZone: 
   </section>
 
   <section id="inicio-contenido" class="section wrap">
-    <h2 class="section__title">La noticia del día</h2>
+    <h2 class="section__title" data-i18n="section_story">La noticia del día</h2>
     <p class="section__byline">El LECTOR</p>
     <FeaturedStory />
   </section>
 
   <section class="section wrap">
-    <h2 class="section__title">Indicadores económicos</h2>
+    <h2 class="section__title" data-i18n="section_indicators">Indicadores económicos</h2>
     <p class="section__byline">El LECTOR</p>
     <IndicatorsBar />
   </section>
 
   <section class="section wrap">
-    <h2 class="section__title">Clima · principales ciudades</h2>
+    <h2 class="section__title" data-i18n="section_weather">Clima · principales ciudades</h2>
     <p class="section__byline">El LECTOR</p>
     <WeatherSection />
   </section>

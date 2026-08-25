@@ -54,11 +54,12 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
             El LECTOR
           </a>
           <nav class="topbar__nav">
-            <a class="pill" href={withBase("/")}>Inicio</a>
-            <a class="pill" href={withBase("/actualidad")}>Actualidad</a>
-            <a class="pill" href={withBase("/reflexiones")}>Reflexiones del Lector</a>
-            <a class="pill" href={withBase("/cifras")}>Datos y Cifras</a>
-            <a class="pill pill--ghost" href={withBase("/recomendados")}>Recomendados</a>
+            <a class="pill" href={withBase("/")} data-i18n="nav_home">Inicio</a>
+            <a class="pill" href={withBase("/actualidad")} data-i18n="nav_news">Actualidad</a>
+            <a class="pill" href={withBase("/reflexiones")} data-i18n="nav_reflections">Reflexiones del Lector</a>
+            <a class="pill" href={withBase("/cifras")} data-i18n="nav_data">Datos y Cifras</a>
+            <a class="pill pill--ghost" href={withBase("/recomendados")} data-i18n="nav_recommended">Recomendados</a>
+            <button id="lang-toggle" class="lang-toggle" title="Toggle language / Cambiar idioma">EN</button>
           </nav>
         </div>
       </header>
@@ -72,7 +73,7 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
       <div class="wrap">
         <span class="pin">📍</span>
         <div class="footer__brand">El LECTOR</div>
-        <p>
+        <p data-i18n-html="footer_para">
           Recopilación sin ánimo de lucro en temas de seguridad, justicia y paz, realizada
           desde la curiosidad innata de los gatos. <strong>Lee, actualízate y edifica</strong>
           tus propias conjeturas a partir de datos, tendencias y contemporaneidad.
@@ -84,5 +85,83 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
   <script>
     if (history.scrollRestoration) history.scrollRestoration = "manual";
     window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+
+    // ── i18n ──────────────────────────────────────────────────────────────────
+    const T = {
+      es: {
+        nav_home: "Inicio", nav_news: "Actualidad",
+        nav_reflections: "Reflexiones del Lector", nav_data: "Datos y Cifras",
+        nav_recommended: "Recomendados",
+        hero_subtitle: "Noticias, actualidad y más.....",
+        section_story: "La noticia del día",
+        section_indicators: "Indicadores económicos",
+        section_weather: "Clima · principales ciudades",
+        page_news: "Actualidad", page_news_byline: "Noticias",
+        tab_colombia: "Colombia", tab_latam: "Latinoamérica",
+        tab_mundo: "El Mundo", tab_tensions: "TOP 3 · Tensiones",
+        trends_title: "Tendencias", trends_live: "● EN VIVO",
+        trends_co: "Tendencias de hoy en Colombia",
+        trends_world: "Tendencias de hoy en el mundo",
+        tensions_empty: "Actualizando cada mañana a las 5:00 AM…",
+        section_colombia: "Colombia", section_mundo: "Mundo", section_security: "Seguridad",
+        featured_colombia: "🇨🇴 Colombia", featured_mundo: "🌍 El Mundo",
+        read_more: "Leer artículo completo →",
+        investigations: "Investigaciones", books: "Libros",
+        page_reflections: "Reflexiones del Lector",
+        last_update: "Última actualización:", last_update_tz: "(hora de Colombia)",
+        footer_para: "Recopilación sin ánimo de lucro en temas de seguridad, justicia y paz, realizada desde la curiosidad innata de los gatos. <strong>Lee, actualízate y edifica</strong> tus propias conjeturas a partir de datos, tendencias y contemporaneidad.",
+      },
+      en: {
+        nav_home: "Home", nav_news: "News",
+        nav_reflections: "Reader's Reflections", nav_data: "Data & Figures",
+        nav_recommended: "Recommended",
+        hero_subtitle: "News, current events and more.....",
+        section_story: "Story of the day",
+        section_indicators: "Economic indicators",
+        section_weather: "Weather · main cities",
+        page_news: "News", page_news_byline: "Headlines",
+        tab_colombia: "Colombia", tab_latam: "Latin America",
+        tab_mundo: "World News", tab_tensions: "TOP 3 · Tensions",
+        trends_title: "Trends", trends_live: "● LIVE",
+        trends_co: "Today's trends in Colombia",
+        trends_world: "Today's global trends",
+        tensions_empty: "Updating every morning at 5:00 AM…",
+        section_colombia: "Colombia", section_mundo: "World", section_security: "Security",
+        featured_colombia: "🇨🇴 Colombia", featured_mundo: "🌍 World",
+        read_more: "Read full article →",
+        investigations: "Investigations", books: "Books",
+        page_reflections: "Reader's Reflections",
+        last_update: "Last update:", last_update_tz: "(Colombia time)",
+        footer_para: "Non-profit news compilation on security, justice &amp; peace. <strong>Read, update yourself and build</strong> your own perspective from data, trends and current events.",
+      },
+    };
+
+    function getLang() {
+      try { return localStorage.getItem("lang") || "es"; } catch { return "es"; }
+    }
+
+    function applyLang(lang) {
+      const t = T[lang] || T.es;
+      document.querySelectorAll("[data-i18n]").forEach((el) => {
+        const key = el.dataset.i18n;
+        if (t[key] !== undefined) el.textContent = t[key];
+      });
+      document.querySelectorAll("[data-i18n-html]").forEach((el) => {
+        const key = el.dataset.i18nHtml;
+        if (t[key] !== undefined) el.innerHTML = t[key];
+      });
+      document.documentElement.lang = lang;
+      const btn = document.getElementById("lang-toggle");
+      if (btn) btn.textContent = lang === "es" ? "EN" : "ES";
+      try { localStorage.setItem("lang", lang); } catch {}
+    }
+
+    const savedLang = getLang();
+    if (savedLang !== "es") applyLang(savedLang);
+    const btn = document.getElementById("lang-toggle");
+    if (btn) {
+      btn.textContent = savedLang === "es" ? "EN" : "ES";
+      btn.addEventListener("click", () => applyLang(getLang() === "es" ? "en" : "es"));
+    }
   </script>
 </html>

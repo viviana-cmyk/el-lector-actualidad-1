@@ -2,9 +2,9 @@
 import analisis from "../data/analisis.json";
 
 const sections = [
-  { key: "colombia", label: "Colombia", color: "blue", data: analisis.colombia },
-  { key: "mundo", label: "Mundo", color: "mint", data: analisis.mundo },
-  { key: "seguridad", label: "Seguridad", color: "rose", data: (analisis as any).seguridad },
+  { key: "colombia", label: "Colombia", i18nKey: "section_colombia", color: "blue", data: analisis.colombia },
+  { key: "mundo",    label: "Mundo",    i18nKey: "section_mundo",    color: "mint", data: analisis.mundo },
+  { key: "seguridad",label: "Seguridad",i18nKey: "section_security", color: "rose", data: (analisis as any).seguridad },
 ];
 ---
 
@@ -12,7 +12,7 @@ const sections = [
   {
     sections.map((section) => (
       <div class={`analysis-card outlet--${section.color}`}>
-        <h3 class="analysis-card__title">{section.label}</h3>
+        <h3 class="analysis-card__title" data-i18n={section.i18nKey}>{section.label}</h3>
         {section.data?.intro && <p class="analysis-card__intro">{section.data.intro}</p>}
         {
           section.data?.items?.map((item) => (
