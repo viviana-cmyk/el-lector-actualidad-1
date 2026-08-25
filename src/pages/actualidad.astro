@@ -106,11 +106,13 @@ const podcastListMundo = {
             <span class="trends__subtitle" data-i18n="trends_co">Tendencias de hoy en Colombia</span>
           </div>
           <div class="rank-sections">
-            {redesColombia.map((list) => (
-              <RankList title={list.title} icon={list.icon} items={list.items} />
+            {redesColombia.map((list, i) => (
+              <RankList title={list.title} icon={list.icon} items={list.items}
+                i18nTitle={i === 0 ? "rank_x_co" : "rank_tiktok_co"} />
             ))}
             {podcastListColombia.items.length > 0 && (
-              <RankList title={podcastListColombia.title} icon={podcastListColombia.icon} items={podcastListColombia.items} />
+              <RankList title={podcastListColombia.title} icon={podcastListColombia.icon} items={podcastListColombia.items}
+                i18nTitle="rank_pod_co" />
             )}
           </div>
         </div>
@@ -137,11 +139,13 @@ const podcastListMundo = {
             <span class="trends__subtitle" data-i18n="trends_world">Tendencias de hoy en el mundo</span>
           </div>
           <div class="rank-sections">
-            {redesMundo.map((list) => (
-              <RankList title={list.title} icon={list.icon} items={list.items} />
+            {redesMundo.map((list, i) => (
+              <RankList title={list.title} icon={list.icon} items={list.items}
+                i18nTitle={i === 0 ? "rank_x_mundo" : "rank_tiktok_mundo"} />
             ))}
             {podcastListMundo.items.length > 0 && (
-              <RankList title={podcastListMundo.title} icon={podcastListMundo.icon} items={podcastListMundo.items} />
+              <RankList title={podcastListMundo.title} icon={podcastListMundo.icon} items={podcastListMundo.items}
+                i18nTitle="rank_pod_mundo" />
             )}
           </div>
         </div>

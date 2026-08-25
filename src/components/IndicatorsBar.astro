@@ -3,11 +3,11 @@ import indicators from "../data/indicators.json";
 import { formatCurrency, formatUSD, trendArrow } from "../lib/format";
 
 const rows = [
-  { label: "Dólar",     icon: "💵", value: indicators.dolar, trend: indicators.dolarTrend, prefix: "$",   format: formatCurrency },
-  { label: "Euro",      icon: "💶", value: indicators.euro,  trend: indicators.euroTrend,  prefix: "$",   format: formatCurrency },
-  { label: "TRM",       icon: "🏦", value: indicators.trm,   trend: indicators.trmTrend,   prefix: "$",   format: formatCurrency },
-  { label: "Petróleo",  icon: "🛢️", value: indicators.brent, trend: indicators.brentTrend, prefix: "US$", format: formatUSD, unit: "/ barril" },
-  { label: "Café",      icon: "☕", value: indicators.cafe,  trend: indicators.cafeTrend,  prefix: "US$", format: formatUSD, unit: "/ lb" },
+  { label: "Dólar",     i18n: "ind_dollar",  icon: "💵", value: indicators.dolar, trend: indicators.dolarTrend, prefix: "$",   format: formatCurrency },
+  { label: "Euro",      i18n: null,           icon: "💶", value: indicators.euro,  trend: indicators.euroTrend,  prefix: "$",   format: formatCurrency },
+  { label: "TRM",       i18n: null,           icon: "🏦", value: indicators.trm,   trend: indicators.trmTrend,   prefix: "$",   format: formatCurrency },
+  { label: "Petróleo",  i18n: "ind_oil",      icon: "🛢️", value: indicators.brent, trend: indicators.brentTrend, prefix: "US$", format: formatUSD, unit: "/ barril" },
+  { label: "Café",      i18n: "ind_coffee",   icon: "☕", value: indicators.cafe,  trend: indicators.cafeTrend,  prefix: "US$", format: formatUSD, unit: "/ lb" },
 ];
 ---
 
@@ -16,7 +16,7 @@ const rows = [
     rows.map((row) => (
       <div class={`indicator indicator--${row.trend}`}>
         <div class="indicator__icon">{row.icon}</div>
-        <div class="indicator__label">{row.label}</div>
+        <div class="indicator__label" data-i18n={row.i18n ?? undefined}>{row.label}</div>
         <div class="indicator__value">
           {row.prefix} {row.format(row.value)}
           {row.unit && <span class="indicator__unit">{row.unit}</span>}

@@ -2,8 +2,8 @@
 import weather from "../data/weather.json";
 
 const groups = [
-  { key: "colombia", label: "Colombia", cities: weather.colombia },
-  { key: "mundo", label: "Mundo", cities: weather.mundo },
+  { key: "colombia", label: "Colombia", i18n: null,          cities: weather.colombia },
+  { key: "mundo",    label: "Mundo",    i18n: "weather_world", cities: weather.mundo },
 ];
 ---
 
@@ -11,7 +11,7 @@ const groups = [
   {
     groups.map((group) => (
       <div class="weather-group">
-        <h3 class="weather-group__title">{group.label}</h3>
+        <h3 class="weather-group__title" data-i18n={group.i18n ?? undefined}>{group.label}</h3>
         <div class="weather-cards">
           {
             group.cities?.map((city) => (

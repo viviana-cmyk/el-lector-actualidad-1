@@ -18,7 +18,7 @@ const { name, color, items } = Astro.props;
 
 <div class={`outlet outlet--${color}`}>
   <div class="outlet__logo">{name}</div>
-  {items.length === 0 && <p class="empty-note">Sin titulares disponibles por ahora.</p>}
+  {items.length === 0 && <p class="empty-note" data-i18n="no_headlines">Sin titulares disponibles por ahora.</p>}
   {
     items.map((item, i) => (
       <div class="outlet__item">

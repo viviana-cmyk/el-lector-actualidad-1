@@ -7,17 +7,18 @@ interface RankItem {
 
 interface Props {
   title: string;
+  i18nTitle?: string;
   icon?: string;
   items: RankItem[];
 }
 
-const { title, icon, items } = Astro.props;
+const { title, i18nTitle, icon, items } = Astro.props;
 
 const palette = ["rose", "peach", "yellow", "mint", "sky"];
 ---
 
 <div class="rank-section">
-  <h3 class="rank-section__title">
+  <h3 class="rank-section__title" data-i18n={i18nTitle ?? undefined}>
     {icon && <span class="rank-section__icon">{icon}</span>}
     {title}
   </h3>
