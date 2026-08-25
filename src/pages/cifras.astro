@@ -126,7 +126,7 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
   <!-- ═══ HERO ═══════════════════════════════════════════════════════════════ -->
   <section class="cifras-hero">
     <div class="wrap cifras-hero__inner">
-      <p class="cifras-hero__kicker">Dashboard de seguridad · Colombia</p>
+      <p class="cifras-hero__kicker" data-i18n="cifras_kicker">Dashboard de seguridad · Colombia</p>
       <h1 class="cifras-hero__title" data-i18n="nav_data">Datos y Cifras</h1>
       <p class="cifras-hero__sub">
         Seis delitos de impacto en {totalMunic} municipios —
@@ -180,58 +180,58 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
 
   <!-- ═══ ANCLAS ══════════════════════════════════════════════════════════ -->
   <nav class="cifras-anclas wrap" aria-label="Secciones de Datos y Cifras">
-    <span class="cifras-anclas__label">Ir a</span>
-    <a class="cifras-ancla" href="#indicadores">Indicadores</a>
-    <a class="cifras-ancla" href="#mapa">Mapa</a>
+    <span class="cifras-anclas__label" data-i18n="cifras_goto">Ir a</span>
+    <a class="cifras-ancla" href="#indicadores" data-i18n="cifras_ind">Indicadores</a>
+    <a class="cifras-ancla" href="#mapa" data-i18n="cifras_map_anchor">Mapa</a>
     <a class="cifras-ancla" href="#ranking">Top 5</a>
-    <a class="cifras-ancla" href="#lideres">Líderes sociales</a>
+    <a class="cifras-ancla" href="#lideres" data-i18n="cifras_lideres_anchor">Líderes sociales</a>
   </nav>
 
   <!-- ═══ INDICADORES ══════════════════════════════════════════════════════ -->
   <section class="section wrap" id="indicadores">
-    <h2 class="section__title">Indicadores por ciudad</h2>
+    <h2 class="section__title" data-i18n="cifras_ind_title">Indicadores por ciudad</h2>
     <p class="section__byline">{labelPeriodo} 2026 vs. {labelPeriodo} 2025</p>
 
     <div class="cifras-ind-bloque">
       <p class="cifras-ind-bloque__label">Resumen · {totalMunic} municipios · Policía Nacional</p>
       <div class="cifras-ind-cards">
         <div class="cifras-ind-card">
-          <span class="cifras-ind-card__tipo">Homicidios</span>
+          <span class="cifras-ind-card__tipo" data-i18n="crime_hom">Homicidios</span>
           <span class="cifras-ind-card__num">{fmtN(homNac26ea)}</span>
           <span class={`cifras-ind-card__var ${varCls(homNacVar)}`}>{varArrow(homNacVar)}{fmtPct(homNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(homNac25ea)} en {labelPeriodo} 2025</span>
           <div class="cifras-ind-card__footer"><span>38 municipios</span><span>Policía</span></div>
         </div>
         <div class="cifras-ind-card">
-          <span class="cifras-ind-card__tipo">Hurto a personas</span>
+          <span class="cifras-ind-card__tipo" data-i18n="crime_hur">Hurto personas</span>
           <span class="cifras-ind-card__num">{fmtN(hurNac26ea)}</span>
           <span class={`cifras-ind-card__var ${varCls(hurNacVar)}`}>{varArrow(hurNacVar)}{fmtPct(hurNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(hurNac25ea)} en {labelPeriodo} 2025</span>
           <div class="cifras-ind-card__footer"><span>38 municipios</span><span>Policía</span></div>
         </div>
         <div class="cifras-ind-card">
-          <span class="cifras-ind-card__tipo">Extorsión</span>
+          <span class="cifras-ind-card__tipo" data-i18n="crime_ext">Extorsión</span>
           <span class="cifras-ind-card__num">{fmtN(extNac26ea)}</span>
           <span class={`cifras-ind-card__var ${varCls(extNacVar)}`}>{varArrow(extNacVar)}{fmtPct(extNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(extNac25ea)} en {labelPeriodo} 2025</span>
           <div class="cifras-ind-card__footer"><span>38 municipios</span><span>Policía</span></div>
         </div>
         <div class="cifras-ind-card">
-          <span class="cifras-ind-card__tipo">Hurto a residencias</span>
+          <span class="cifras-ind-card__tipo" data-i18n="crime_res">Hurto a residencias</span>
           <span class="cifras-ind-card__num">{fmtN(resNac26ea)}</span>
           <span class={`cifras-ind-card__var ${varCls(resNacVar)}`}>{varArrow(resNacVar)}{fmtPct(resNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(resNac25ea)} en {labelPeriodo} 2025</span>
           <div class="cifras-ind-card__footer"><span>38 municipios</span><span>Policía</span></div>
         </div>
         <div class="cifras-ind-card">
-          <span class="cifras-ind-card__tipo">Violencia intrafamiliar</span>
+          <span class="cifras-ind-card__tipo" data-i18n="crime_vif">Violencia intrafamiliar</span>
           <span class="cifras-ind-card__num">{fmtN(vifNac26ea)}</span>
           <span class={`cifras-ind-card__var ${varCls(vifNacVar)}`}>{varArrow(vifNacVar)}{fmtPct(vifNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(vifNac25ea)} en {labelPeriodo} 2025</span>
           <div class="cifras-ind-card__footer"><span>38 municipios</span><span>Policía</span></div>
         </div>
         <div class="cifras-ind-card">
-          <span class="cifras-ind-card__tipo">Hurto automotores</span>
+          <span class="cifras-ind-card__tipo" data-i18n="crime_aut">Hurto automotores</span>
           <span class="cifras-ind-card__num">{fmtN(autNac26ea)}</span>
           <span class={`cifras-ind-card__var ${varCls(autNacVar)}`}>{varArrow(autNacVar)}{fmtPct(autNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(autNac25ea)} en {labelPeriodo} 2025</span>
@@ -241,7 +241,7 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
     </div>
 
     <div class="cifras-selector-row">
-      <label class="cifras-selector-label" for="ciudad-select">Ver por ciudad</label>
+      <label class="cifras-selector-label" for="ciudad-select" data-i18n="cifras_city_label">Ver por ciudad</label>
       <select class="cifras-selector" id="ciudad-select">
         {cityData.map((c: any) => <option value={c.div}>{c.municipio}</option>)}
       </select>
@@ -254,18 +254,18 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
 
   <!-- ═══ MAPA + FILTROS DE DELITO ════════════════════════════════════════ -->
   <section class="section wrap" id="mapa">
-    <h2 class="section__title">Mapa por tasa x100.000 hab.</h2>
+    <h2 class="section__title" data-i18n="cifras_map_title">Mapa por tasa x100.000 hab.</h2>
     <p class="section__byline">Datos y Cifras · tasa proyectada {labelPeriodo} 2026 × {factorProyeccion}</p>
 
     <div class="cifras-mapa-filtros">
-      <span class="cifras-mapa-filtros__label">Delito</span>
+      <span class="cifras-mapa-filtros__label" data-i18n="cifras_crime">Delito</span>
       <div class="cifras-mapa-pills" id="delito-pills">
-        <button class="cifras-pill active" data-delito="hom">Homicidios</button>
-        <button class="cifras-pill" data-delito="hur">Hurto personas</button>
-        <button class="cifras-pill" data-delito="ext">Extorsión</button>
-        <button class="cifras-pill" data-delito="res">Hurto residencias</button>
-        <button class="cifras-pill" data-delito="vif">Violencia intrafamiliar</button>
-        <button class="cifras-pill" data-delito="aut">Hurto automotores</button>
+        <button class="cifras-pill active" data-delito="hom" data-i18n="crime_hom">Homicidios</button>
+        <button class="cifras-pill" data-delito="hur" data-i18n="crime_hur">Hurto personas</button>
+        <button class="cifras-pill" data-delito="ext" data-i18n="crime_ext">Extorsión</button>
+        <button class="cifras-pill" data-delito="res" data-i18n="crime_res">Hurto residencias</button>
+        <button class="cifras-pill" data-delito="vif" data-i18n="crime_vif">Violencia intrafamiliar</button>
+        <button class="cifras-pill" data-delito="aut" data-i18n="crime_aut">Hurto automotores</button>
       </div>
     </div>
 
@@ -282,7 +282,7 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
 
   <!-- ═══ TOP 5 POR DELITO ═══════════════════════════════════════════════ -->
   <section class="section wrap" id="ranking">
-    <h2 class="section__title">Top 5 ciudades por delito · tasa x100.000 hab.</h2>
+    <h2 class="section__title" data-i18n="cifras_top5_title">Top 5 ciudades por delito · tasa x100.000 hab.</h2>
     <p class="section__byline">Policía Nacional (SIEDCO) · proyección {labelPeriodo} 2026 × {factorProyeccion}</p>
 
     <div class="top5-grid" id="top5-grid"></div>
@@ -295,7 +295,7 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
 
   <!-- ═══ LÍDERES SOCIALES ══════════════════════════════════════════════════ -->
   <section class="section wrap" id="lideres">
-    <h2 class="section__title">Líderes sociales asesinados</h2>
+    <h2 class="section__title" data-i18n="cifras_lideres_title">Líderes sociales asesinados</h2>
     <p class="section__byline">Indepaz · 2016 – {ldUltimo.year}</p>
 
     <!-- KPIs -->
@@ -764,10 +764,15 @@ function getTasa(c, d) {
   return d==='hom'?c.htp : d==='hur'?c.utp : d==='ext'?c.etp :
          d==='res'?c.rtp : d==='vif'?c.vitp : c.atp;
 }
-function getLabel(d) {
-  return d==='hom'?'Homicidios' : d==='hur'?'Hurto a personas' : d==='ext'?'Extorsión' :
-         d==='res'?'Hurto residencias' : d==='vif'?'Violencia intrafamiliar' : 'Hurto automotores';
+const CRIME_LABELS = {
+  es: { hom:'Homicidios', hur:'Hurto a personas', ext:'Extorsión', res:'Hurto residencias', vif:'Violencia intrafamiliar', aut:'Hurto automotores' },
+  en: { hom:'Homicides', hur:'Theft from persons', ext:'Extortion', res:'Residential theft', vif:'Domestic violence', aut:'Vehicle theft' }
+};
+function getLabels() {
+  const lang = document.documentElement.dataset.siteLang || 'es';
+  return CRIME_LABELS[lang] || CRIME_LABELS.es;
 }
+function getLabel(d) { return getLabels()[d] || d; }
 
 /* ══════════════ ESCALA DE COLOR ════════════════════════════════════════════ */
 const PAL = ["#f0d9a8","#e0a96a","#cc7840","#b54e2e","#8a2018"];
@@ -813,14 +818,15 @@ function kpiCard(tipo, n26, n25, vari, bp, tasa) {
   </div>`;
 }
 function renderCity(c) {
+  const L = getLabels();
   document.getElementById("ciudad-nombre").textContent = c.municipio;
   document.getElementById("ciudad-cards").innerHTML = [
-    kpiCard("Homicidios",              c.h26,  c.h25,  c.hv,  c.hbp,  c.ht),
-    kpiCard("Hurto a personas",        c.u26,  c.u25,  c.uv,  c.ubp,  c.ut),
-    kpiCard("Extorsión",               c.e26,  c.e25,  c.ev,  c.ebp,  c.et),
-    kpiCard("Hurto a residencias",     c.r26,  c.r25,  c.rv,  c.rbp,  c.rt),
-    kpiCard("Violencia intrafamiliar", c.vi26, c.vi25, c.viv, c.vibp, c.vit),
-    kpiCard("Hurto automotores",       c.a26,  c.a25,  c.av,  c.abp,  c.at),
+    kpiCard(L.hom, c.h26,  c.h25,  c.hv,  c.hbp,  c.ht),
+    kpiCard(L.hur, c.u26,  c.u25,  c.uv,  c.ubp,  c.ut),
+    kpiCard(L.ext, c.e26,  c.e25,  c.ev,  c.ebp,  c.et),
+    kpiCard(L.res, c.r26,  c.r25,  c.rv,  c.rbp,  c.rt),
+    kpiCard(L.vif, c.vi26, c.vi25, c.viv, c.vibp, c.vit),
+    kpiCard(L.aut, c.a26,  c.a25,  c.av,  c.abp,  c.at),
   ].join("");
 }
 const sel = document.getElementById("ciudad-select");
@@ -967,6 +973,14 @@ document.querySelectorAll("[data-delito]").forEach(btn => {
     updateAll(activeDelito);
   });
 });
+
+// Re-render cuando cambia el idioma
+window.__onLangChange = function() {
+  renderTop5();
+  const c = cityData.find(c => c.div === sel.value);
+  if (c) renderCity(c);
+  updateAll(activeDelito);
+};
 </script>
 
 </Layout>

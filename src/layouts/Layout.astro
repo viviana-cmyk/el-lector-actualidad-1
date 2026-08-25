@@ -115,6 +115,18 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
         investigations: "Investigaciones", books: "Libros",
         page_reflections: "Reflexiones del Lector",
         last_update: "Última actualización:", last_update_tz: "(hora de Colombia)",
+        audio_play: "Escuchar análisis", audio_pause: "Pausar", audio_resume: "Reanudar", audio_stop: "Detener",
+        audio_slow: "Lento", audio_normal: "Normal", audio_fast: "Rápido", audio_voice: "Voz",
+        cifras_kicker: "Dashboard de seguridad · Colombia",
+        cifras_goto: "Ir a", cifras_ind: "Indicadores", cifras_map_anchor: "Mapa",
+        cifras_lideres_anchor: "Líderes sociales",
+        cifras_ind_title: "Indicadores por ciudad",
+        cifras_map_title: "Mapa por tasa x100.000 hab.",
+        cifras_top5_title: "Top 5 ciudades por delito · tasa x100.000 hab.",
+        cifras_lideres_title: "Líderes sociales asesinados",
+        cifras_crime: "Delito", cifras_city_label: "Ver por ciudad",
+        crime_hom: "Homicidios", crime_hur: "Hurto personas", crime_ext: "Extorsión",
+        crime_res: "Hurto residencias", crime_vif: "Violencia intrafamiliar", crime_aut: "Hurto automotores",
         footer_para: "Recopilación sin ánimo de lucro en temas de seguridad, justicia y paz, realizada desde la curiosidad innata de los gatos. <strong>Lee, actualízate y edifica</strong> tus propias conjeturas a partir de datos, tendencias y contemporaneidad.",
       },
       en: {
@@ -138,6 +150,18 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
         investigations: "Investigations", books: "Books",
         page_reflections: "Reader's Reflections",
         last_update: "Last update:", last_update_tz: "(Colombia time)",
+        audio_play: "Listen to analysis", audio_pause: "Pause", audio_resume: "Resume", audio_stop: "Stop",
+        audio_slow: "Slow", audio_normal: "Normal", audio_fast: "Fast", audio_voice: "Voice",
+        cifras_kicker: "Security Dashboard · Colombia",
+        cifras_goto: "Go to", cifras_ind: "Indicators", cifras_map_anchor: "Map",
+        cifras_lideres_anchor: "Social leaders",
+        cifras_ind_title: "Indicators by city",
+        cifras_map_title: "Map by rate per 100,000 inhabitants",
+        cifras_top5_title: "Top 5 cities by crime · rate per 100,000",
+        cifras_lideres_title: "Assassinated Social Leaders",
+        cifras_crime: "Crime", cifras_city_label: "View by city",
+        crime_hom: "Homicides", crime_hur: "Theft from persons", crime_ext: "Extortion",
+        crime_res: "Residential theft", crime_vif: "Domestic violence", crime_aut: "Vehicle theft",
         footer_para: "Non-profit news compilation on security, justice &amp; peace. <strong>Read, update yourself and build</strong> your own perspective from data, trends and current events.",
       },
     };
@@ -164,6 +188,7 @@ function getLang() {
         b.classList.toggle("lang-btn--active", b.dataset.lang === lang);
       });
       try { localStorage.setItem("lang", lang); } catch {}
+      try { if (typeof (window as any).__onLangChange === "function") (window as any).__onLangChange(lang); } catch {}
     }
 
     const savedLang = getLang();

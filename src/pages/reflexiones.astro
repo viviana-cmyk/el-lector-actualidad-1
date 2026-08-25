@@ -18,6 +18,12 @@ import analisis from "../data/analisis.json";
         <span class="audio-play-btn__icon">▶</span>
         <span data-i18n="audio_play">Escuchar análisis</span>
       </button>
+      <div class="audio-speed-row">
+        <button class="audio-speed-btn" data-speed="0.75" data-i18n="audio_slow">Lento</button>
+        <button class="audio-speed-btn audio-speed-btn--active" data-speed="1.0" data-i18n="audio_normal">Normal</button>
+        <button class="audio-speed-btn" data-speed="1.25" data-i18n="audio_fast">Rápido</button>
+        <select class="audio-voice-sel" id="audio-voice-sel" title="Voz / Voice" aria-label="Voz"></select>
+      </div>
       <div class="audio-controls" id="audio-controls">
         <button class="audio-ctrl" id="audio-pause" data-i18n="audio_pause">Pausar</button>
         <button class="audio-ctrl audio-ctrl--stop" id="audio-stop" data-i18n="audio_stop">Detener</button>
@@ -85,6 +91,39 @@ import analisis from "../data/analisis.json";
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.audio-speed-row {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+.audio-speed-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--ink-soft);
+  border-radius: 6px;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: var(--font-body);
+  transition: color 0.15s, border-color 0.15s;
+}
+.audio-speed-btn:hover { color: var(--ink); border-color: rgba(255,255,255,0.3); }
+.audio-speed-btn--active { color: var(--accent); border-color: var(--accent); }
+.audio-voice-sel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--ink-soft);
+  border-radius: 6px;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.72rem;
+  font-family: var(--font-body);
+  cursor: pointer;
+  max-width: 160px;
+}
+.audio-voice-sel:focus { outline: none; border-color: rgba(255,255,255,0.3); }
+.audio-voice-sel option { background: #1a1a2e; }
 </style>
 
 <script>
@@ -97,21 +136,55 @@ import analisis from "../data/analisis.json";
   const stopBtn   = document.getElementById("audio-stop");
   const controls  = document.getElementById("audio-controls");
   const progress  = document.getElementById("audio-progress");
+  const voiceSel  = document.getElementById("audio-voice-sel") as HTMLSelectElement | null;
 
   let paused = false;
+  let currentSpeed = 1.0;
+  let selectedVoice: SpeechSynthesisVoice | null = null;
   let keepAlive: ReturnType<typeof setInterval> | null = null;
 
   function getLang() {
     try { return localStorage.getItem("lang") || "es"; } catch { return "es"; }
   }
 
+  // ── Velocidad ────────────────────────────────────────────────────────────
+  document.querySelectorAll<HTMLElement>(".audio-speed-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".audio-speed-btn").forEach((b) => b.classList.remove("audio-speed-btn--active"));
+      btn.classList.add("audio-speed-btn--active");
+      currentSpeed = parseFloat(btn.dataset.speed ?? "1.0");
+    });
+  });
+
+  // ── Voces disponibles ────────────────────────────────────────────────────
+  function populateVoices() {
+    if (!voiceSel) return;
+    const lang = getLang();
+    const code = lang === "en" ? "en" : "es";
+    const voices = synth.getVoices().filter((v) => v.lang.toLowerCase().startsWith(code));
+    if (!voices.length) { voiceSel.style.display = "none"; return; }
+    voiceSel.style.display = "";
+    voiceSel.innerHTML =
+      `<option value="">Auto</option>` +
+      voices.map((v) => `<option value="${v.name}">${v.name.replace(/Microsoft |Google /, "")} (${v.lang})</option>`).join("");
+    selectedVoice = null;
+  }
+
+  if (synth.onvoiceschanged !== undefined) synth.onvoiceschanged = populateVoices;
+  populateVoices();
+
+  voiceSel?.addEventListener("change", () => {
+    const name = voiceSel.value;
+    selectedVoice = name ? (synth.getVoices().find((v) => v.name === name) ?? null) : null;
+  });
+
+  // ── Texto a leer ─────────────────────────────────────────────────────────
   function collectSegments() {
     const lang = getLang();
     const segs: string[] = [];
     document.querySelectorAll<HTMLElement>(".analysis-card").forEach((card) => {
       const title = card.querySelector(".analysis-card__title")?.textContent?.trim();
       if (title) segs.push(title + ".");
-
       card.querySelectorAll<HTMLElement>(".analysis-card__intro, .analysis-card__item").forEach((el) => {
         const dl = el.dataset.l;
         if (dl && dl !== lang) return;
@@ -134,11 +207,8 @@ import analisis from "../data/analisis.json";
     paused = false;
     if (controls) controls.classList.remove("visible");
     if (progress) progress.textContent = "";
-    if (playBtn) {
-      const lang = getLang();
-      const span = playBtn.querySelector("[data-i18n='audio_play']");
-      if (span) span.textContent = lang === "en" ? "Listen to analysis" : "Escuchar análisis";
-    }
+    const span = playBtn?.querySelector("[data-i18n='audio_play']");
+    if (span) span.textContent = getLang() === "en" ? "Listen to analysis" : "Escuchar análisis";
   }
 
   playBtn?.addEventListener("click", () => {
@@ -150,6 +220,7 @@ import analisis from "../data/analisis.json";
       return;
     }
     synth.cancel();
+    populateVoices(); // refrescar voces para el idioma actual
     const lang = getLang();
     const voiceLang = lang === "en" ? "en-US" : "es-419";
     const segs = collectSegments();
@@ -160,10 +231,15 @@ import analisis from "../data/analisis.json";
     let idx = 0;
     function next() {
       if (idx >= segs.length) { stopAll(); return; }
-      const u = new SpeechSynthesisUtterance(segs[idx]);
-      u.lang = voiceLang;
-      u.rate = 0.92;
-      if (progress) progress.textContent = segs[idx].length > 55 ? segs[idx].slice(0, 55) + "…" : segs[idx];
+      const text = segs[idx];
+      const u = new SpeechSynthesisUtterance(text);
+      u.rate = currentSpeed;
+      if (selectedVoice) {
+        u.voice = selectedVoice;
+      } else {
+        u.lang = voiceLang;
+      }
+      if (progress) progress.textContent = text.length > 60 ? text.slice(0, 60) + "…" : text;
       u.onend = () => { idx++; next(); };
       u.onerror = () => { idx++; next(); };
       idx++;
@@ -171,7 +247,7 @@ import analisis from "../data/analisis.json";
     }
     next();
 
-    // Chrome bug: speechSynthesis stops after ~15s — keep it alive
+    // Chrome: speechSynthesis se detiene tras ~15s
     keepAlive = setInterval(() => {
       if (synth.speaking && !synth.paused) { synth.pause(); synth.resume(); }
     }, 12000);
