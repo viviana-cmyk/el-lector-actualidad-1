@@ -46,10 +46,23 @@ function looksLikeAuthorName(title) {
   return AUTHOR_NAME_RE.test(title);
 }
 
-// Descarta títulos que son solo una fecha (ej: "24 de agosto del 2026") o muy cortos.
-const DATE_ONLY_RE = /^\d{1,2}\s+de\s+\w+(\s+del?\s+\d{4})?$|^\w+\s+\d{1,2},?\s+\d{4}$|^\d{1,2}[\/\-]\d{1,2}[\/\-]\d{2,4}$/i;
+// Descarta títulos que son fechas, referencias de calendario o demasiado cortos.
+const DATE_ONLY_RE = new RegExp([
+  // Fechas en español: "24 de agosto del 2026"
+  /^\d{1,2}\s+de\s+\w+(\s+del?\s+\d{4})?$/,
+  // Fechas en inglés: "August 24, 2026" / "August 24 2026"
+  /^\w+\s+\d{1,2},?\s+\d{4}$/,
+  // Numérico: 24/08/2026
+  /^\d{1,2}[\/\-]\d{1,2}[\/\-]\d{2,4}$/,
+  // Patrón ICG: "Bahrain 29 July 2026 #1" (ciudad + fecha + número de serie)
+  /^[A-Z][a-zA-Z\s,]+\d{1,2}\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}(\s+#\d+)?$/,
+].map(r => r.source).join("|"), "i");
+
+// Frases de relleno de feeds (páginas de autores, secciones genéricas, etc.)
+const BOILERPLATE_RE = /^colaboradores?\s+de\s+(la\s+)?agenda$/i;
+
 function looksLikeDate(title) {
-  return DATE_ONLY_RE.test(title) || title.length < 18;
+  return DATE_ONLY_RE.test(title) || BOILERPLATE_RE.test(title) || title.length < 20;
 }
 
 // POLÍTICA EDITORIAL PERMANENTE: El LECTOR excluye farándula y derivados.
@@ -146,8 +159,8 @@ async function fetchOutletItems(outlet) {
         const rawTitle = (item.title || "").trim();
         const title = feed.type === "google" ? cleanGoogleTitle(rawTitle) : rawTitle;
         if (!title) continue;
+        if (looksLikeDate(title)) continue;
         if (feed.type === "google" && looksLikeAuthorName(title)) continue;
-        if (feed.type === "google" && looksLikeDate(title)) continue;
         if (isLowQualityContent(title)) continue;
         // Los resultados de Google Noticias no traen un resumen util (solo
         // enlaces relacionados), asi que el snippet solo se usa para RSS directo.
