@@ -39,6 +39,7 @@ const calDia = diaFecha.toLocaleDateString("es-CO", { day: "numeric", timeZone: 
         <a class="pill hero__pill--primary" href={withBase("/reflexiones")} data-i18n="nav_reflections">Reflexiones del Lector</a>
         <a class="pill hero__pill--primary" href={withBase("/cifras")} data-i18n="nav_data">Datos y Cifras</a>
         <a class="pill pill--ghost" href={withBase("/recomendados")} data-i18n="nav_recommended">Recomendados</a>
+        <button id="lang-toggle" class="lang-toggle lang-toggle--hero" title="Toggle language / Cambiar idioma">EN</button>
       </nav>
 
       {diaHoy && (

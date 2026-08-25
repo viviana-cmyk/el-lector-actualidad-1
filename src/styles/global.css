@@ -141,6 +141,14 @@ img { max-width: 100%; display: block; }
   border-color: var(--accent);
   color: var(--accent);
 }
+.lang-toggle--hero {
+  border-color: rgba(255,255,255,0.35);
+  color: rgba(255,255,255,0.65);
+}
+.lang-toggle--hero:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
 
 @media (max-width: 680px) {
   .topbar__inner { flex-direction: column; align-items: center; gap: 12px; padding: 14px 16px 18px; }
