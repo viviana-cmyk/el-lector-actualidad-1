@@ -136,6 +136,23 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
       },
     };
 
+    // Categorías IA → traducción EN (texto dinámico, no tiene data-i18n)
+    const CATS_EN = {
+      "Política": "Politics", "Economía": "Economy", "Económica": "Economics",
+      "Geopolítica": "Geopolitics", "Seguridad": "Security", "Social": "Social",
+      "Tecnológica": "Technology", "Tecnología": "Technology", "Cultural": "Culture",
+      "Cultura": "Culture", "Justicia y Estado": "Justice & State",
+      "Justicia": "Justice", "Crimen organizado": "Organized Crime",
+      "Conflictos y violencia": "Conflicts & Violence",
+      "Amenazas globales": "Global Threats", "Sociedad": "Society",
+      "Derechos Humanos": "Human Rights", "Paz": "Peace",
+      "Medio Ambiente": "Environment", "Internacional": "International",
+      "Política Internacional": "International Politics",
+      "Economía Global": "Global Economy",
+    };
+    // Mapa inverso ES para restaurar al volver a español
+    const CATS_ES = Object.fromEntries(Object.entries(CATS_EN).map(([es, en]) => [en, es]));
+
     function getLang() {
       try { return localStorage.getItem("lang") || "es"; } catch { return "es"; }
     }
@@ -149,6 +166,12 @@ const canonicalUrl = SITE + Astro.url.pathname.replace(/\/?$/, "/");
       document.querySelectorAll("[data-i18n-html]").forEach((el) => {
         const key = el.dataset.i18nHtml;
         if (t[key] !== undefined) el.innerHTML = t[key];
+      });
+      // Traducir categorías de análisis (texto dinámico de IA)
+      const catMap = lang === "en" ? CATS_EN : CATS_ES;
+      document.querySelectorAll(".analysis-card__category").forEach((el) => {
+        const translated = catMap[el.textContent.trim()];
+        if (translated) el.textContent = translated;
       });
       document.documentElement.lang = lang;
       const btn = document.getElementById("lang-toggle");
