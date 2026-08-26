@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:08:02.561Z",
+  "generatedAt": "2026-08-26T10:39:20.757Z",
   "outlets": [
     {
       "name": "CNN en Español",
@@ -12,6 +12,22 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Exclusive: Department of Justice Evaluating Whether to File Charges Against ICE Agent Who Shot a Venezuelan Man in Minneapolis"
+        },
+        {
+          "title": "El director de la CIA realiza una visita no anunciada a Moscú para reunirse con funcionarios rusos, según una fuente",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmw4clE4bUY0SDIycUVSLUhXYlZyaEtzeGJwZDFOTHZwSXIwMWlvRHdELVE3Q1NFOHFuNVBzUDdrRTh5MWh2dk5fTDNUNXNLc01zWlRXOTVBZmtIMmhyRzl0ZlFWckl3MWFJWlpkUmtnX2lPTm5KMkwyME5qZXl1QXhzbGdTV2M?oc=5",
+          "pubDate": "2026-08-25T15:21:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The CIA director is making an unannounced visit to Moscow to meet with Russian officials, according to a source"
+        },
+        {
+          "title": "China se mantiene con Irán tras amenaza de sanciones de EE.UU.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlRicEwza3VtenRXdWxWR3ZRY1lnVU5QNll2b0xUeW5ieW1PTG1YWWZuZmdjWlZrM3R5Z0FJRURENzg3QV9jOFBnUmdvZ3Y0MC05X0RCRXdZeUIxSERFVjFSbjRoMWd5NzkzRFpwckw5dzlzMDlnRllvcFdQdDBqOEVEbnVfckxwM3pGNFdpellzNnpYTW90QVI4dw?oc=5",
+          "pubDate": "2026-08-25T19:44:34.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "China Stands by Iran Amid Threat of U.S. Sanctions"
         },
         {
           "title": "Gobierno de Trump avanza para revocar visas de potencialmente cientos de miles de solicitantes de asilo",
@@ -28,30 +44,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "The U.S. and Canada Issue a Security Alert for Mexicali Days After the Seizure of Millions of Doses of Fentanyl"
-        },
-        {
-          "title": "China se mantiene con Irán tras amenaza de sanciones de EE.UU.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlRicEwza3VtenRXdWxWR3ZRY1lnVU5QNll2b0xUeW5ieW1PTG1YWWZuZmdjWlZrM3R5Z0FJRURENzg3QV9jOFBnUmdvZ3Y0MC05X0RCRXdZeUIxSERFVjFSbjRoMWd5NzkzRFpwckw5dzlzMDlnRllvcFdQdDBqOEVEbnVfckxwM3pGNFdpellzNnpYTW90QVI4dw?oc=5",
-          "pubDate": "2026-08-25T19:44:34.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "China Stands by Iran Amid Threat of U.S. Sanctions"
-        },
-        {
-          "title": "El director de la CIA realiza una visita no anunciada a Moscú para reunirse con funcionarios rusos, según una fuente",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmw4clE4bUY0SDIycUVSLUhXYlZyaEtzeGJwZDFOTHZwSXIwMWlvRHdELVE3Q1NFOHFuNVBzUDdrRTh5MWh2dk5fTDNUNXNLc01zWlRXOTVBZmtIMmhyRzl0ZlFWckl3MWFJWlpkUmtnX2lPTm5KMkwyME5qZXl1QXhzbGdTV2M?oc=5",
-          "pubDate": "2026-08-25T15:21:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The CIA director is making an unannounced visit to Moscow to meet with Russian officials, according to a source"
-        },
-        {
-          "title": "Canadá anuncia nuevos aranceles a EE.UU. Así podrían afectar a los estadounidenses",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzlULWZsSmxIRkNtb1RtdVN5bFJ6TTJBaFJ0QXM3NXVJdUFDcURxZUNjX3R1TUd4S2FFT3gzSTV0d3BQWTdmYUI3NEtjdG01S3JuY3Ywa2NvdDlSbUNUb2dEVmEycVVVZDFTT2YyTUEtRG0zNFJJYnZ6aEl4ZFF3Ug?oc=5",
-          "pubDate": "2026-08-25T14:50:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Canada Announces New Tariffs on the U.S. Here's How They Could Affect Americans"
         }
       ]
     },
@@ -60,52 +52,52 @@
       "color": "sky",
       "items": [
         {
-          "title": "El ICE detiene a casi 50.000 personas en julio, el mayor número de arrestos en la Administración de Trump",
-          "link": "https://elpais.com/us/migracion/2026-08-25/el-ice-detiene-a-casi-50000-personas-en-julio-el-mayor-numero-de-arrestos-en-la-administracion-de-trump.html",
-          "pubDate": "2026-08-25T21:33:53.000Z",
-          "snippet": "Más del 50% de las detenciones fueron a individuos sin antecedentes penales y representa una continuación de un aumento comenzado en junio",
+          "title": "Última hora de la entrada de  inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
+          "link": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+          "pubDate": "2026-08-26T10:26:31.000Z",
+          "snippet": "Elma Saiz regresa a la Ciudad Autónoma para supervisar la ampliación de los recursos de acogida a migrantes | Feijóo exige convocar la Comisión de Secretos Oficiales para que el CNI aclare las “versiones” del Gobierno",
           "_priority": "ALTA",
-          "title_en": "ICE detains nearly 50,000 people in July, the highest number of arrests under the Trump administration"
+          "title_en": "Breaking News: Live Updates on the Arrival of Migrants in Ceuta | Pedro Sánchez Will Appear Before Congress on September 3 to Address the Crisis in Ceuta"
         },
         {
-          "title": "El director de la CIA, John Ratcliffe, viaja a Moscú por sorpresa",
-          "link": "https://elpais.com/internacional/2026-08-25/el-director-de-la-cia-john-ratcliffe-viaja-a-moscu-por-sorpresa.html",
-          "pubDate": "2026-08-25T21:16:15.000Z",
-          "snippet": "Se desconoce con quién se ha reunido y el motivo de su breve visita",
+          "title": "Las fuerzas kurdas de Siria anuncian su disolución para integrarse en el nuevo Estado",
+          "link": "https://elpais.com/internacional/2026-08-26/las-fuerzas-kurdas-de-siria-anuncian-su-disolucion-para-integrarse-en-el-nuevo-estado.html",
+          "pubDate": "2026-08-26T10:23:49.000Z",
+          "snippet": "Tras el acuerdo con el presidente sirio Al Shara, los combatientes kurdos se están incorporando a la estructura de las nuevas Fuerzas Armadas sirias",
           "_priority": "ALTA",
-          "title_en": "CIA Director John Ratcliffe Makes a Surprise Trip to Moscow"
+          "title_en": "Kurdish forces in Syria announce their dissolution to become part of the new state"
         },
         {
-          "title": "Rescatados más de 160 niños desaparecidos o sometidos a abusos en Estados Unidos",
-          "link": "https://elpais.com/us/2026-08-25/rescatados-mas-de-160-ninos-desaparecidos-o-sometidos-a-abusos-en-estados-unidos.html",
-          "pubDate": "2026-08-25T21:08:41.000Z",
-          "snippet": "Los menores tenían entre dos meses y 17 años de edad, según informaron las autoridades de Florida, y fueron localizados en una operación internacional que incluyó a México y España",
+          "title": "Zelenski condecora a Musk en plena polémica por el papel de Starlink en la guerra",
+          "link": "https://elpais.com/internacional/2026-08-26/zelenski-condecora-a-musk-en-plena-polemica-por-el-papel-de-starlink-en-la-guerra.html",
+          "pubDate": "2026-08-26T10:27:44.000Z",
+          "snippet": "La Orden de la Libertad al polémico empresario estadounidense llega en medio de tensiones del presidente con su exministro de Defensa, Mijaílo Federov",
           "_priority": "ALTA",
-          "title_en": "More than 160 missing or abused children rescued in the United States"
+          "title_en": "Zelensky Awards Musk Amid Controversy Over Starlink's Role in the War"
         },
         {
-          "title": "El Gobierno eleva las exigencias a los inversores en centros de datos para evitar una burbuja",
-          "link": "https://elpais.com/economia/2026-08-25/el-gobierno-eleva-las-exigencias-a-los-inversores-en-centros-de-datos-para-evitar-una-burbuja.html",
-          "pubDate": "2026-08-25T21:00:00.000Z",
-          "snippet": "El Ejecutivo impondrá mayores estándares de soberanía digital y sostenibilidad ambiental y energética con el fin de cribar los mejores proyectos ante el elevado interés de los promotores",
+          "title": "Madrid dilata publicar los detalles de la compra del ático de Ayuso con la excusa del “elevado número de solicitudes”",
+          "link": "https://elpais.com/espana/madrid/2026-08-26/madrid-dilata-publicar-los-detalles-de-la-compra-del-atico-de-ayuso-con-la-excusa-del-elevado-numero-de-solicitudes.html",
+          "pubDate": "2026-08-26T10:15:42.000Z",
+          "snippet": "La empresa pública que adquirió la vivienda se acoge a su derecho a ampliar 20 días el plazo de contestación a una petición de transparencia",
           "_priority": "ALTA",
-          "title_en": "The government is tightening requirements for data center investors to prevent a bubble"
+          "title_en": "Madrid is delaying the release of details about Ayuso’s penthouse purchase, citing the “high number of requests” as an excuse"
         },
         {
-          "title": "Guerra de versiones entre Marlaska y Robles sobre los informes que hizo el CNI para avanzar la crisis de Ceuta",
-          "link": "https://elpais.com/espana/2026-08-25/marlaska-contradice-a-robles-e-insiste-en-que-el-cni-no-informo-de-la-posibilidad-de-una-entrada-masiva-en-ceuta.html",
-          "pubDate": "2026-08-25T20:53:41.000Z",
-          "snippet": "La titular de Defensa dice en el Congreso que los servicios de Inteligencia avisaron al Gobierno, pero el ministro de Interior cierra tajante: “No hubo ningún informe ni del CNI ni de ningún centro de un país amigo”",
+          "title": "Deloitte acuerda pagar 18,4 millones para zanjar una investigación del Gobierno de EE UU sobre políticas de igualdad",
+          "link": "https://cincodias.elpais.com/companias/2026-08-26/deloitte-acuerda-pagar-184-millones-para-zanjar-una-investigacion-del-gobierno-de-ee-uu-sobre-politicas-de-igualdad.html",
+          "pubDate": "2026-08-26T09:12:05.000Z",
+          "snippet": "La Administración Trump impulsó una división para perseguir determinadas políticas de diversidad, equidad e inclusión (DEI)",
           "_priority": "ALTA",
-          "title_en": "A war of words between Marlaska and Robles over the reports prepared by the CNI to address the crisis in Ceuta"
+          "title_en": "Deloitte Agrees to Pay $18.4 Million to Settle a U.S. Government Investigation into Equality Policies"
         },
         {
-          "title": "El incendio del parque natural de Collserola obliga a desalojar parte de los vecinos de Torre Baró en Barcelona",
-          "link": "https://elpais.com/espana/catalunya/2026-08-25/un-incendio-quema-bosque-en-barcelona-sobre-el-barrio-de-canyelles.html",
-          "pubDate": "2026-08-25T19:26:23.000Z",
-          "snippet": "Dos centenares de bomberos trabajan para extinguir el fuego, en fase de estabilización y que quema 35 hectáreas",
+          "title": "Cabify y tres socios de las VTC escapan de medio millón en multas de la Generalitat",
+          "link": "https://elpais.com/espana/catalunya/2026-08-26/cabify-y-tres-socios-de-las-vtc-escapan-de-medio-millon-en-multas-de-la-generalitat.html",
+          "pubDate": "2026-08-26T09:08:07.000Z",
+          "snippet": "Una sentencia del TSJC considera que el Gobierno catalán falló en los plazos para sancionar una falta grave por cesión ilegal de trabajadores",
           "_priority": "ALTA",
-          "title_en": "The fire in Collserola Natural Park forces the evacuation of some residents of Torre Baró in Barcelona"
+          "title_en": "Cabify and three ride-hailing partners avoid half a million in fines from the Catalan government"
         }
       ]
     },
@@ -114,52 +106,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
-          "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-          "pubDate": "2026-08-25T23:52:19.000Z",
-          "snippet": "Move by Canada comes after US president spent morning railing against the country, calling it the ‘most difficult’ nation he deals with Canada announces retaliatory tariffs on wide range of US goods Sign up for the US Breaking News email On Truth Social, however, the president sh…",
+          "title": "New data shows record number of arrests and deportations of immigrants in the US",
+          "link": "https://www.theguardian.com/us-news/2026/aug/26/record-arrests-deportations-immigrants",
+          "pubDate": "2026-08-26T10:00:42.000Z",
+          "snippet": "Trump administration has moved away from high-profile, militarized raids as its deportation spree has ramped up The Trump administration arrested and deported a record number of immigrants in July, according to newly released government data – apprehending an average of 1,500 peo…",
           "_priority": "ALTA",
-          "title_en": "Canada Announces Up to 50% Retaliatory Tariffs on Hundreds of U.S. Goods, Including Steel, Fish, Cheese, and Paper – Live"
+          "title_en": "New data shows a record number of arrests and deportations of immigrants in the U.S."
         },
         {
-          "title": "ICE arrests mother and daughter at Florida hospital after car crash",
-          "link": "https://www.theguardian.com/us-news/2026/aug/25/florida-ice-arrests-mother-daughter-after-car-crash",
-          "pubDate": "2026-08-25T22:42:52.000Z",
-          "snippet": "Agents arrest women who ‘almost died’ after they were hit by vehicle and their car flipped over four times, family say An Ecuadorian mother and daughter were arrested by Immigration and Customs Enforcement (ICE) agents at a hospital after a car crash in central Florida. On 20 Aug…",
+          "title": "Extreme heat linked to deaths of over 40,000 people in England between 1988 and 2025",
+          "link": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+          "pubDate": "2026-08-26T09:51:23.000Z",
+          "snippet": "ONS data shows rising toll of climate crisis, with officials warning this summer on track to set further records Over 40,000 more people died on the hottest days in England between 1988 and 2025 than would be expected, according to data published by the Office for National Statis…",
           "_priority": "ALTA",
-          "title_en": "ICE arrests a mother and daughter at a Florida hospital following a car crash"
+          "title_en": "Extreme heat linked to the deaths of more than 40,000 people in England between 1988 and 2025"
         },
         {
-          "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-          "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-          "pubDate": "2026-08-25T19:02:42.000Z",
-          "snippet": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland…",
+          "title": "Abortion rights group endorses Democrat Troy Jackson in critical Maine Senate race",
+          "link": "https://www.theguardian.com/us-news/2026/aug/26/abortion-rights-group-endorses-democrat-troy-jackson-in-critical-maine-senate-race",
+          "pubDate": "2026-08-26T09:30:39.000Z",
+          "snippet": "Reproductive Freedom for All – one of the country’s oldest pro-choice groups – backs Jackson in his fight against Republican Susan Collins One of the oldest abortion rights groups in the US is endorsing Troy Jackson, the Democratic nominee in Maine’s critical US Senate race, acco…",
           "_priority": "ALTA",
-          "title_en": "Taiwan Charges Nine People with Smuggling \"High-End\" AI Servers to China"
+          "title_en": "Abortion rights group endorses Democrat Troy Jackson in a critical Maine Senate race"
         },
         {
-          "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-          "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-          "pubDate": "2026-08-25T17:35:16.000Z",
-          "snippet": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight ‘A massacre’: Haiti gangs carrying out mass killings At least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti’s…",
+          "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
+          "pubDate": "2026-08-26T07:38:30.000Z",
+          "snippet": "Commissioner Angela Jackson also said it was ‘disappointing’ that Anthony Albanese had ruled out changes to Western Australia’s GST arrangements Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Productivity Com…",
           "_priority": "ALTA",
-          "title_en": "At least 47 people were killed and dozens were kidnapped in a gang attack near the Haitian capital"
+          "title_en": "Productivity Commission Says 'A Line Was Crossed' When the WA Premier Called Them 'East Coast Clowns' Over the GST"
         },
         {
-          "title": "China denounces US threat of sanctions over trade with Iran",
-          "link": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-          "pubDate": "2026-08-25T17:11:21.000Z",
-          "snippet": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran, saying any such measures would be i…",
+          "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
+          "link": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
+          "pubDate": "2026-08-26T07:17:56.000Z",
+          "snippet": "Labor put ‘levy on all public transport fares in metropolitan Melbourne and regional Victoria’ since January 2025, auditor general finds, as questions raised over premier’s involvement Follow our Australia news live blog for latest updates Get our breaking news email, free app or…",
           "_priority": "ALTA",
-          "title_en": "China Denounces U.S. Threat of Sanctions Over Trade with Iran"
+          "title_en": "Suburban Rail Loop: The Victorian government secretly raised public transportation fares to help pay for the controversial SRL"
         },
         {
-          "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
-          "link": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
-          "pubDate": "2026-08-25T16:55:08.000Z",
-          "snippet": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerable UK citizens will be told to stock up on tinned food and take steps to ensure they are prepared for national emergencies as part of a new government…",
+          "title": "At least 14 newborn babies die in fire at Pakistan hospital’s maternity ward",
+          "link": "https://www.theguardian.com/world/2026/aug/26/newborn-babies-die-fire-pakistan-hospital-maternity-ward",
+          "pubDate": "2026-08-26T07:05:43.000Z",
+          "snippet": "Authorities at biggest state hospital in Islamabad say 15 babies were in the ward when fire broke out At least 14 newborn babies have died in a fire that broke out in the maternity ward at one of Pakistan’s most prominent state hospitals. The blaze began in the early hours of Wed…",
           "_priority": "ALTA",
-          "title_en": "UK to warn citizens to stock up on food amid threats from the climate crisis and hostile states"
+          "title_en": "At least 14 newborn babies die in a fire at a Pakistani hospital’s maternity ward"
         }
       ]
     },
@@ -168,52 +160,52 @@
       "color": "mint",
       "items": [
         {
-          "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
-          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
-          "pubDate": "2026-08-25T23:58:04.000Z",
-          "snippet": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
+          "title": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government",
+          "link": "https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html",
+          "pubDate": "2026-08-26T10:20:11.000Z",
+          "snippet": "The Syrian Democratic Forces, a Kurdish-led armed group, will integrate with the country’s military, in a sign of its weakened role.",
           "_priority": "ALTA",
-          "title_en": "Christian Convert Who Fled Iran and Was Deported by Trump Finds a New Home"
+          "title_en": "Kurdish-Led Militia in Syria Disbands, a Boost for the U.S.-Backed Government"
         },
         {
-          "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-          "pubDate": "2026-08-25T22:58:03.000Z",
-          "snippet": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
+          "title": "Eight Dead, Hundreds Missing as Floods Sweep Away Villages in Nepal",
+          "link": "https://www.nytimes.com/2026/08/26/world/asia/nepal-floods-tibet-missing.html",
+          "pubDate": "2026-08-26T10:17:59.000Z",
+          "snippet": "A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet.",
           "_priority": "ALTA",
-          "title_en": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil"
+          "title_en": "Eight Dead, Hundreds Missing as Floods Sweep Away Villages in Nepal"
         },
         {
-          "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
-          "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
-          "pubDate": "2026-08-25T20:42:58.000Z",
-          "snippet": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.",
+          "title": "Canadians Stand Their Ground as Trump’s New Tariffs Endanger Jobs",
+          "link": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html",
+          "pubDate": "2026-08-26T09:03:57.000Z",
+          "snippet": "Business owners are preparing for financial pain after the latest U.S.-Canada trade talks collapsed. But many Canadians are embracing a show of resistance.",
           "_priority": "ALTA",
-          "title_en": "How U.S.-Canada Tariff Negotiations Escalated Into an All-Out Trade War"
+          "title_en": "Canadians Stand Their Ground as Trump’s New Tariffs Threaten Jobs"
         },
         {
-          "title": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
-          "link": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
-          "pubDate": "2026-08-25T20:35:25.000Z",
-          "snippet": "Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.",
+          "title": "Ukraine’s Most Potent Weapon: The Software Orchestrating Its Drone Army",
+          "link": "https://www.nytimes.com/2026/08/26/world/europe/ukraine-delta-battlefield-management.html",
+          "pubDate": "2026-08-26T09:03:14.000Z",
+          "snippet": "The Delta system pulls together battlefield data to identify targets, creating a miles-wide “kill zone.” The technology is credited with helping to cut Russian advances to a near standstill.",
           "_priority": "ALTA",
-          "title_en": "What We Know About Australia’s Bird Flu, Which Has Spread to Mammals"
+          "title_en": "Ukraine’s Most Powerful Weapon: The Software That Coordinates Its Drone Army"
         },
         {
-          "title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
-          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html",
-          "pubDate": "2026-08-25T18:52:03.000Z",
-          "snippet": "Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition.",
+          "title": "14 Newborns Die in Hospital Fire in Pakistan’s Capital",
+          "link": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
+          "pubDate": "2026-08-26T07:30:29.000Z",
+          "snippet": "The fire broke out on the third floor of Islamabad’s largest hospital.",
           "_priority": "ALTA",
-          "title_en": "Israeli Lawmaker Destroys Palestinian Monument in the West Bank"
+          "title_en": "14 Newborns Die in a Hospital Fire in Pakistan’s Capital"
         },
         {
-          "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
-          "link": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
-          "pubDate": "2026-08-25T18:49:39.000Z",
-          "snippet": "Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney retaliated “dollar for dollar.”",
+          "title": "Airstrikes and Illegal Mining Add to Myanmar’s Troubles",
+          "link": "https://www.nytimes.com/2026/08/25/world/asia/myanmar-junta-violence-rohingya.html",
+          "pubDate": "2026-08-26T06:55:51.000Z",
+          "snippet": "A thriving ‘conflict economy’ is extracting minerals while the military and armed groups inflict abuse on civilians, according to a new report on the scale of recent violence in Myanmar.",
           "_priority": "ALTA",
-          "title_en": "U.S.-Canada Trade War: What You Need to Know About Tariffs and the Negotiations"
+          "title_en": "Airstrikes and Illegal Mining Compound Myanmar’s Problems"
         }
       ]
     },

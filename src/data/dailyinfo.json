@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-08-26T00:08:21.643Z",
+  "generatedAt": "2026-08-26T10:43:20.856Z",
   "dia": {
-    "nombre": "Día Internacional de la Solidaridad con la Lucha del Pueblo Palestino",
-    "descripcion": "Conmemoración establecida por la ONU (Resolución 2625) para visibilizar la causa palestina y promover una solución justa al conflicto israelo-palestino mediante el diálogo internacional."
+    "nombre": "Día Internacional de la Igualdad de la Mujer",
+    "descripcion": "Se conmemora el avance hacia la igualdad de género y los derechos de las mujeres, reconociendo los logros alcanzados en la lucha por la equidad y la no discriminación."
   },
-  "dia_en": {
-    "nombre": "International Day of the Disappeared",
-    "descripcion": "Commemorates those who have disappeared due to forced abduction, secretly detained, or killed by state and non-state actors, promoting human rights awareness."
-  }
+  "dia_en": null
 }

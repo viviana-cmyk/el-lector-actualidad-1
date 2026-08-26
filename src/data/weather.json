@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T00:08:02.561Z",
+  "generatedAt": "2026-08-26T10:39:20.757Z",
   "colombia": [
     {
       "city": "Bogotá",
       "city_en": "Bogotá",
-      "temp": 15,
+      "temp": 12,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -12,7 +12,7 @@
     {
       "city": "Medellín",
       "city_en": "Medellín",
-      "temp": 22,
+      "temp": 18,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -20,10 +20,10 @@
     {
       "city": "Cali",
       "city_en": "Cali",
-      "temp": 23,
-      "description": "Nublado",
-      "description_en": "Overcast",
-      "icon": "☁️"
+      "temp": 20,
+      "description": "Lluvias",
+      "description_en": "Showers",
+      "icon": "🌦️"
     },
     {
       "city": "Cartagena",
@@ -36,7 +36,7 @@
     {
       "city": "Barranquilla",
       "city_en": "Barranquilla",
-      "temp": 27,
+      "temp": 26,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -46,7 +46,7 @@
     {
       "city": "Nueva York",
       "city_en": "New York",
-      "temp": 23,
+      "temp": 17,
       "description": "Despejado",
       "description_en": "Clear sky",
       "icon": "☀️"
@@ -54,7 +54,7 @@
     {
       "city": "Londres",
       "city_en": "London",
-      "temp": 20,
+      "temp": 23,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -62,26 +62,26 @@
     {
       "city": "Madrid",
       "city_en": "Madrid",
-      "temp": 21,
-      "description": "Mayormente despejado",
-      "description_en": "Mostly clear",
-      "icon": "🌤️"
+      "temp": 26,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Tokio",
       "city_en": "Tokyo",
-      "temp": 31,
-      "description": "Despejado",
-      "description_en": "Clear sky",
-      "icon": "☀️"
+      "temp": 29,
+      "description": "Parcialmente nublado",
+      "description_en": "Partly cloudy",
+      "icon": "⛅"
     },
     {
       "city": "Ciudad de México",
       "city_en": "Mexico City",
-      "temp": 19,
-      "description": "Nublado",
-      "description_en": "Overcast",
-      "icon": "☁️"
+      "temp": 14,
+      "description": "Llovizna ligera",
+      "description_en": "Light drizzle",
+      "icon": "🌦️"
     }
   ]
 }
