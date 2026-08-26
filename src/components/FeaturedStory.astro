@@ -14,8 +14,24 @@ const stories = [
         <span class="featured__region" data-i18n={i18nKey}>{label}</span>
         <span class="featured__source">{story.source}</span>
       </div>
-      <h3 class="featured__title">{story.title}</h3>
-      {story.snippet && <p class="featured__snippet">{story.snippet}</p>}
+      <h3 class="featured__title">
+        {story.title_en ? (
+          <>
+            <span data-l="es">{story.title}</span>
+            <span data-l="en">{story.title_en}</span>
+          </>
+        ) : story.title}
+      </h3>
+      {story.snippet && (
+        <p class="featured__snippet">
+          {story.snippet_en ? (
+            <>
+              <span data-l="es">{story.snippet}</span>
+              <span data-l="en">{story.snippet_en}</span>
+            </>
+          ) : story.snippet}
+        </p>
+      )}
       <a class="pill featured__cta" href={story.link} target="_blank" rel="noopener noreferrer" data-i18n="read_more">
         Leer artículo completo →
       </a>

@@ -730,6 +730,16 @@ async function main() {
   await translateOutletsToEN(deepLKey, latam);
   await translateOutletsToEN(deepLKey, recomendados);
 
+  // Propagar title_en a las noticias destacadas (son copias del item original)
+  function enrichFeatured(feat, outlets) {
+    if (!feat) return feat;
+    const all = outlets.flatMap(o => o.items || []);
+    const src = all.find(i => i.link === feat.link);
+    return src?.title_en ? { ...feat, title_en: src.title_en } : feat;
+  }
+  featuredColombia = enrichFeatured(featuredColombia, colombia);
+  featuredMundo    = enrichFeatured(featuredMundo,    mundo);
+
   await writeFile(
     path.join(DATA_DIR, "news-colombia.json"),
     JSON.stringify({ generatedAt, outlets: colombia }, null, 2) + "\n",

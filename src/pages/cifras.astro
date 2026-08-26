@@ -981,6 +981,11 @@ window.__onLangChange = function() {
   if (c) renderCity(c);
   updateAll(activeDelito);
 };
+
+// Si la página carga ya en inglés (idioma guardado), re-renderizar
+if ((document.documentElement.dataset.siteLang || 'es') !== 'es') {
+  window.__onLangChange();
+}
 </script>
 
 </Layout>
