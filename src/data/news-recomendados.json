@@ -1,16 +1,23 @@
 {
-  "generatedAt": "2026-08-25T22:00:03.504Z",
+  "generatedAt": "2026-08-26T00:08:02.561Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
         {
+          "title": "The InSight Take: Cómo el crimen organizado adopta nuevas tecnologías de drones",
+          "link": "https://insightcrime.org/es/noticias/the-insight-take-como-crimen-organizado-adopta-nuevas-tecnologias-drones/",
+          "pubDate": "2026-08-25T20:17:58.000Z",
+          "snippet": "The InSight Take: Cómo el crimen organizado adopta nuevas tecnologías de drones Los grupos criminales de América Latina están convirtiendo drones comerciales en armas y combinándolos con artefactos explosivos improvisados para atacar a rivales, fuerzas de seguridad y civiles. Des…",
+          "title_en": "The InSight Take: How Organized Crime Is Adopting New Drone Technologies"
+        },
+        {
           "title": "Tío Lako, jefe regional del CJNG, vuelve a evadir su captura",
           "link": "https://insightcrime.org/es/noticias/jefe-regional-del-cjng-tio-lako-vuelve-a-evadir-captura/",
           "pubDate": "2026-08-20T20:13:50.000Z",
           "snippet": "Tío Lako, jefe regional del CJNG, vuelve a evadir su captura Heraclio Guerrero Martínez, alias “Tío Lako”, continúa siendo una figura clave del CJNG tras escapar esta semana de un operativo militar en Michoacán, México. The post Tío Lako, jefe regional del CJNG, vuelve a evadir s…",
-          "title_en": "Tío Lako, regional leader of the CJNG, once again evades capture"
+          "title_en": "Tío Lako, regional leader of the CJNG, has once again evaded capture"
         },
         {
           "title": "Podcast | El Monstruo: Desapariciones forzadas en México",
@@ -24,14 +31,14 @@
           "link": "https://insightcrime.org/es/noticias/on-the-radar-ee-uu-evalua-ampliar-su-ofensiva-antidrogas-con-operaciones-terrestres-en-region/",
           "pubDate": "2026-08-20T15:57:28.000Z",
           "snippet": "On the Radar: EE. UU. evalúa ampliar su ofensiva antidrogas con operaciones terrestres en la región Esta semana, en On the Radar: Estados Unidos evalúa realizar operaciones terrestres en América Latina como parte de su guerra contra las drogas, nuevas medidas de mano dura en Chil…",
-          "title_en": "On the Radar: The U.S. is considering expanding its anti-drug offensive with ground operations in the region"
+          "title_en": "On the Radar: The U.S. is considering expanding its anti-drug campaign with ground operations in the region"
         },
         {
           "title": "The InSight Take: El Escudo de las Américas crece, pero ¿tiene una estrategia?",
           "link": "https://insightcrime.org/es/noticias/the-insight-take-escudo-de-americas-crece-pero-tiene-una-estrategia/",
           "pubDate": "2026-08-18T22:26:41.000Z",
           "snippet": "The InSight Take: El Escudo de las Américas crece, pero ¿tiene una estrategia? Colombia acaba de sumarse al Escudo de las Américas, pocos días después de que el secretario de Defensa de Estados Unidos, Pete Hegseth, viajara a Panamá para proclamar su nuevo lema: “Hacemos cosas ma…",
-          "title_en": "The InSight Take: The Escudo de las Américas is growing, but does it have a strategy?"
+          "title_en": "The InSight Take: The Shield of the Americas is growing, but does it have a strategy?"
         },
         {
           "title": "Familias desplazadas por Los Ardillos regresan a sus hogares en Guerrero, México",
@@ -39,13 +46,6 @@
           "pubDate": "2026-08-17T19:01:55.000Z",
           "snippet": "Familias desplazadas por Los Ardillos regresan a sus hogares en Guerrero, México Los Ardillos provocaron el desplazamiento de más de 1.000 personas en Guerrero y ahora algunas familias comienzan a regresar. ¿Quiénes son, cómo operan y cómo ganó poder este grupo criminal? The post…",
           "title_en": "Families Displaced by Los Ardillos Return to Their Homes in Guerrero, Mexico"
-        },
-        {
-          "title": "Por qué el crimen organizado en Venezuela no desaparece tras la captura de Maduro",
-          "link": "https://insightcrime.org/es/noticias/por-que-crimen-organizado-venezuela-no-desaparece-tras-captura-maduro/",
-          "pubDate": "2026-08-14T15:49:15.000Z",
-          "snippet": "Por qué el crimen organizado en Venezuela no desaparece tras la captura de Maduro Nuestro más reciente video explica cómo evolucionó el crimen organizado en Venezuela y qué tendría que ocurrir para realmente debilitar las redes y economías criminales del país. The post Por qué el…",
-          "title_en": "Why Organized Crime in Venezuela Doesn't Disappear After Maduro's Arrest"
         }
       ]
     },

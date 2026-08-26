@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
+      "#DelaEspriella",
       "#EstatutoAntiterrorista",
       "#CrisisSeguridad",
-      "#TerremotoCol",
-      "#ReformaPolicial",
-      "#DeportacionesMigrantes"
+      "#ReformaConstitucional",
+      "#AireEnergía"
     ],
     "mundo": [
+      "#TrumpTariffs",
       "#CIAMoscú",
-      "#GuerraComerialTrump",
-      "#ArancelesCanadá",
-      "#SancionesIrán",
-      "#CrisisGeopolítica"
+      "#ICEArrestos",
+      "#EconomíaGlobal",
+      "#GeopolíticaIrán"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#TerremotosColombia",
-      "#IncendiosLlamada",
-      "#GeneralMejía",
-      "#EmergenciaAntioquía",
-      "#AgendasGobierno"
+      "#NuevoPresidente",
+      "#GuerraAlTerrorismo",
+      "#CrisisEnergía",
+      "#VotoMilitar",
+      "#Barranquilla"
     ],
     "mundo": [
-      "#TrumpTariffs",
-      "#CanadáVsTrump",
-      "#CIAMoscú",
+      "#TradeWar",
+      "#TrumpVsCanadá",
       "#ICEDetenciones",
-      "#TensionesGeopolíticas"
+      "#CIAEnMoscú",
+      "#AlertaSeguridad"
     ]
   },
-  "generatedAt": "2026-08-25T22:00:12.598Z"
+  "generatedAt": "2026-08-26T00:08:21.643Z"
 }

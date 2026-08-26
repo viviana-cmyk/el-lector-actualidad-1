@@ -1,10 +1,34 @@
 {
-  "generatedAt": "2026-08-25T22:00:03.504Z",
+  "generatedAt": "2026-08-26T00:08:02.561Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
+        {
+          "title": "Exclusivo: Departamento de Justicia evalúa si presentar cargos contra agente de ICE que disparó a venezolano en Minneapolis",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2NJUWxxR2t5MEphczdqcXp4SzEyYzdXVUNNdkpDYzhwdGtPRm9LT0dpMjNHbVlSd1ljcVNIYVNzVTlmZzU1ZnlzRXJmajd6ODFmS2IzZFJPMkpVREhXODR4THc5d2NucnpocklqQ3M5N3NuamFKU1dLMHl3cUlBZmdOd3RQQ3hlWVd2VVdUSldRdlJqUzZJVkZNX1ppaHpkN0RwSXN4dw?oc=5",
+          "pubDate": "2026-08-25T22:06:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Exclusive: Department of Justice Evaluating Whether to File Charges Against ICE Agent Who Shot a Venezuelan Man in Minneapolis"
+        },
+        {
+          "title": "Gobierno de Trump avanza para revocar visas de potencialmente cientos de miles de solicitantes de asilo",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXI5ZGRPVy05MUdWQ3hYcF9oLXJTblh3T3l2LUxRMVhjckZmM3g0WWJMRUJfSWtaWGUxS0dRVnJQZjJGcThkRTBFV2J3SHZ2LWU3ZVMzd1N1RnBCMlVuMHhFblltZ0JrNFVtdFJ1Zi1FYlNMc0ROeDFCVXJTdGNMVEItYVJtRkZTcjNTc0Zn?oc=5",
+          "pubDate": "2026-08-25T16:31:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump Administration Moves to Revoke Visas for Potentially Hundreds of Thousands of Asylum Seekers"
+        },
+        {
+          "title": "EE.UU. y Canadá emiten alerta de seguridad para Mexicali días después de la incautación de millones de dosis de fentanilo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGhsdWNZakh3dThZSDNJYkhCaWdQVGptR2tvZ1p0WVNQd3JBa3AtSVpCTTBKb1F3Z1NmdERzbjV0cWoxUG1nQTRaNm5rMWJpT2VMcmhjNzFZcDhOTHdKMVRfLXpPZWxuVWNrV3BtUjA4MDBfbFF5VnBfcE5sVmlHWFN2ekpMamNDWC1Ca3BPQnViM3RwNnpha0ViRGpHZw?oc=5",
+          "pubDate": "2026-08-25T21:37:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The U.S. and Canada Issue a Security Alert for Mexicali Days After the Seizure of Millions of Doses of Fentanyl"
+        },
         {
           "title": "China se mantiene con Irán tras amenaza de sanciones de EE.UU.",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlRicEwza3VtenRXdWxWR3ZRY1lnVU5QNll2b0xUeW5ieW1PTG1YWWZuZmdjWlZrM3R5Z0FJRURENzg3QV9jOFBnUmdvZ3Y0MC05X0RCRXdZeUIxSERFVjFSbjRoMWd5NzkzRFpwckw5dzlzMDlnRllvcFdQdDBqOEVEbnVfckxwM3pGNFdpellzNnpYTW90QVI4dw?oc=5",
@@ -22,36 +46,12 @@
           "title_en": "The CIA director is making an unannounced visit to Moscow to meet with Russian officials, according to a source"
         },
         {
-          "title": "A Trump ya no parece importarle lo que quiere la gente",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2FiZWFubkRLV2ltWEJxQi1vQlBzckd5U3d1LXNiUkJMdnpVM3ozUlVITXgteVdZN0x5MC02aUlLVUFPRlZ0VlVGbWZ0QUU4UjNvaHh6UjB1WjItaTNjMXN2OWs4THBpbTBWWlhWN2hjNEtwR0EyUVNCQUZOMFNta0tB?oc=5",
-          "pubDate": "2026-08-25T17:53:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump no longer seems to care what people want"
-        },
-        {
           "title": "Canadá anuncia nuevos aranceles a EE.UU. Así podrían afectar a los estadounidenses",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzlULWZsSmxIRkNtb1RtdVN5bFJ6TTJBaFJ0QXM3NXVJdUFDcURxZUNjX3R1TUd4S2FFT3gzSTV0d3BQWTdmYUI3NEtjdG01S3JuY3Ywa2NvdDlSbUNUb2dEVmEycVVVZDFTT2YyTUEtRG0zNFJJYnZ6aEl4ZFF3Ug?oc=5",
           "pubDate": "2026-08-25T14:50:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Canada Announces New Tariffs on the U.S. Here's How They Could Affect Americans"
-        },
-        {
-          "title": "Desde detenciones en un hospital hasta poner bajo custodia al padre de un marinero: así son las agresivas tácticas de ICE",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0dqRHBucjRCSDhhbmI1eHI4UVd5aGFYVlp2Q2pYSzdzSzZtcmk4LTg1aFFiZTRtajJUUl9OTENJRlFJbUdTcFBQNEVYX0pVMTVLNTBTNXpxbkh1YzFrYnc1UnE1R0FiVkJDQnlUNVEyU0lvRkdsbnpCTjdEemVhZnVrdUhRVGc?oc=5",
-          "pubDate": "2026-08-25T19:02:42.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "From arrests at a hospital to taking a sailor's father into custody: these are ICE's aggressive tactics"
-        },
-        {
-          "title": "Kast anuncia una fuerte reforma de seguridad que enciende la alarma de aliados y opositores",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXJRM2pwUDB0YWNKUUV6WWJzOEs0QnhaNGd1Mkk2eVF0enVXOFU4MV9ORURFbEtxb2RIQmdGR2dCTVlOWGVwZXo0QWY1Tk5oa1RVckpnYU1QU2ctZFNRWHdGOTRnT3BzMjN1TzRRUGVXYjI0Z3ZranE4VFhvVW1ya2VlMDBnM3ZPWUFxeENWVGlRWHAwdkl3?oc=5",
-          "pubDate": "2026-08-25T13:52:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Kast announces sweeping security reforms that are setting off alarm bells among allies and opponents"
         }
       ]
     },
@@ -60,20 +60,20 @@
       "color": "sky",
       "items": [
         {
-          "title": "El director de la CIA, John Ratcliffe, viaja a Moscú por sorpresa",
-          "link": "https://elpais.com/internacional/2026-08-25/el-director-de-la-cia-john-ratcliffe-viaja-a-moscu-por-sorpresa.html",
-          "pubDate": "2026-08-25T21:16:15.000Z",
-          "snippet": "Se desconoce con quién se ha reunido y el motivo de su breve visita",
-          "_priority": "ALTA",
-          "title_en": "CIA Director John Ratcliffe Makes a Surprise Trip to Moscow"
-        },
-        {
           "title": "El ICE detiene a casi 50.000 personas en julio, el mayor número de arrestos en la Administración de Trump",
           "link": "https://elpais.com/us/migracion/2026-08-25/el-ice-detiene-a-casi-50000-personas-en-julio-el-mayor-numero-de-arrestos-en-la-administracion-de-trump.html",
           "pubDate": "2026-08-25T21:33:53.000Z",
           "snippet": "Más del 50% de las detenciones fueron a individuos sin antecedentes penales y representa una continuación de un aumento comenzado en junio",
           "_priority": "ALTA",
           "title_en": "ICE detains nearly 50,000 people in July, the highest number of arrests under the Trump administration"
+        },
+        {
+          "title": "El director de la CIA, John Ratcliffe, viaja a Moscú por sorpresa",
+          "link": "https://elpais.com/internacional/2026-08-25/el-director-de-la-cia-john-ratcliffe-viaja-a-moscu-por-sorpresa.html",
+          "pubDate": "2026-08-25T21:16:15.000Z",
+          "snippet": "Se desconoce con quién se ha reunido y el motivo de su breve visita",
+          "_priority": "ALTA",
+          "title_en": "CIA Director John Ratcliffe Makes a Surprise Trip to Moscow"
         },
         {
           "title": "Rescatados más de 160 niños desaparecidos o sometidos a abusos en Estados Unidos",
@@ -84,6 +84,14 @@
           "title_en": "More than 160 missing or abused children rescued in the United States"
         },
         {
+          "title": "El Gobierno eleva las exigencias a los inversores en centros de datos para evitar una burbuja",
+          "link": "https://elpais.com/economia/2026-08-25/el-gobierno-eleva-las-exigencias-a-los-inversores-en-centros-de-datos-para-evitar-una-burbuja.html",
+          "pubDate": "2026-08-25T21:00:00.000Z",
+          "snippet": "El Ejecutivo impondrá mayores estándares de soberanía digital y sostenibilidad ambiental y energética con el fin de cribar los mejores proyectos ante el elevado interés de los promotores",
+          "_priority": "ALTA",
+          "title_en": "The government is tightening requirements for data center investors to prevent a bubble"
+        },
+        {
           "title": "Guerra de versiones entre Marlaska y Robles sobre los informes que hizo el CNI para avanzar la crisis de Ceuta",
           "link": "https://elpais.com/espana/2026-08-25/marlaska-contradice-a-robles-e-insiste-en-que-el-cni-no-informo-de-la-posibilidad-de-una-entrada-masiva-en-ceuta.html",
           "pubDate": "2026-08-25T20:53:41.000Z",
@@ -92,20 +100,12 @@
           "title_en": "A war of words between Marlaska and Robles over the reports prepared by the CNI to address the crisis in Ceuta"
         },
         {
-          "title": "Robles pide disculpas en el Congreso y reconoce que el Gobierno actuó mal y llegó tarde a Ceuta",
-          "link": "https://elpais.com/espana/2026-08-25/robles-pide-disculpas-en-el-congreso-y-reconoce-que-el-gobierno-actuo-mal-y-llego-tarde-a-ceuta.html",
-          "pubDate": "2026-08-25T16:44:51.000Z",
-          "snippet": "La ministra de Defensa no aclara la autoría de la crisis ni ofrece datos del balance como exige la oposición y los aliados",
+          "title": "El incendio del parque natural de Collserola obliga a desalojar parte de los vecinos de Torre Baró en Barcelona",
+          "link": "https://elpais.com/espana/catalunya/2026-08-25/un-incendio-quema-bosque-en-barcelona-sobre-el-barrio-de-canyelles.html",
+          "pubDate": "2026-08-25T19:26:23.000Z",
+          "snippet": "Dos centenares de bomberos trabajan para extinguir el fuego, en fase de estabilización y que quema 35 hectáreas",
           "_priority": "ALTA",
-          "title_en": "Robles apologizes in Congress and acknowledges that the government handled the situation poorly and arrived too late in Ceuta"
-        },
-        {
-          "title": "El tenis celebra el retorno de Carlos  Alcaraz, el gran deseado",
-          "link": "https://elpais.com/deportes/tenis/2026-08-25/el-tenis-celebra-el-retorno-de-carlos-alcaraz-el-gran-deseado.html",
-          "pubDate": "2026-08-25T21:21:06.000Z",
-          "snippet": "El español, de baja desde abril, reaparece con una remontada en el dobles mixto del US Open junto a Serena Williams",
-          "_priority": "DEPORTES",
-          "title_en": "The tennis world celebrates the return of Carlos Alcaraz, the much-anticipated star"
+          "title_en": "The fire in Collserola Natural Park forces the evacuation of some residents of Torre Baró in Barcelona"
         }
       ]
     },
@@ -116,18 +116,18 @@
         {
           "title": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
           "link": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-          "pubDate": "2026-08-25T21:19:02.000Z",
+          "pubDate": "2026-08-25T23:52:19.000Z",
           "snippet": "Move by Canada comes after US president spent morning railing against the country, calling it the ‘most difficult’ nation he deals with Canada announces retaliatory tariffs on wide range of US goods Sign up for the US Breaking News email On Truth Social, however, the president sh…",
           "_priority": "ALTA",
           "title_en": "Canada Announces Up to 50% Retaliatory Tariffs on Hundreds of U.S. Goods, Including Steel, Fish, Cheese, and Paper – Live"
         },
         {
-          "title": "Father of USS Lincoln sailor detained by ICE released from detention",
-          "link": "https://www.theguardian.com/us-news/2026/aug/25/father-uss-lincoln-sailor-detained-ice-released",
-          "pubDate": "2026-08-25T21:26:54.000Z",
-          "snippet": "Arrest of Luis Manuel Aviles, 48, sparked backlash as he was detained while his son, Joshua, was deployed in Middle East The father of a US navy sailor who has been deployed in the Middle East for a record-breaking nine months on the USS Abraham Lincoln aircraft carrier has been…",
+          "title": "ICE arrests mother and daughter at Florida hospital after car crash",
+          "link": "https://www.theguardian.com/us-news/2026/aug/25/florida-ice-arrests-mother-daughter-after-car-crash",
+          "pubDate": "2026-08-25T22:42:52.000Z",
+          "snippet": "Agents arrest women who ‘almost died’ after they were hit by vehicle and their car flipped over four times, family say An Ecuadorian mother and daughter were arrested by Immigration and Customs Enforcement (ICE) agents at a hospital after a car crash in central Florida. On 20 Aug…",
           "_priority": "ALTA",
-          "title_en": "Father of USS Lincoln Sailor Detained by ICE Released from Detention"
+          "title_en": "ICE arrests a mother and daughter at a Florida hospital following a car crash"
         },
         {
           "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
@@ -152,6 +152,14 @@
           "snippet": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions for its trade with Iran, saying any such measures would be i…",
           "_priority": "ALTA",
           "title_en": "China Denounces U.S. Threat of Sanctions Over Trade with Iran"
+        },
+        {
+          "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
+          "link": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+          "pubDate": "2026-08-25T16:55:08.000Z",
+          "snippet": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerable UK citizens will be told to stock up on tinned food and take steps to ensure they are prepared for national emergencies as part of a new government…",
+          "_priority": "ALTA",
+          "title_en": "UK to warn citizens to stock up on food amid threats from the climate crisis and hostile states"
         }
       ]
     },
@@ -160,12 +168,36 @@
       "color": "mint",
       "items": [
         {
-          "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-          "link": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-          "pubDate": "2026-08-25T18:42:58.000Z",
-          "snippet": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
+          "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
+          "pubDate": "2026-08-25T23:58:04.000Z",
+          "snippet": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
           "_priority": "ALTA",
-          "title_en": "Canada Fires Back in Trade War Against Trump With Tariffs of Up to 50%"
+          "title_en": "Christian Convert Who Fled Iran and Was Deported by Trump Finds a New Home"
+        },
+        {
+          "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+          "pubDate": "2026-08-25T22:58:03.000Z",
+          "snippet": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
+          "_priority": "ALTA",
+          "title_en": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil"
+        },
+        {
+          "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+          "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+          "pubDate": "2026-08-25T20:42:58.000Z",
+          "snippet": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.",
+          "_priority": "ALTA",
+          "title_en": "How U.S.-Canada Tariff Negotiations Escalated Into an All-Out Trade War"
+        },
+        {
+          "title": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+          "link": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
+          "pubDate": "2026-08-25T20:35:25.000Z",
+          "snippet": "Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.",
+          "_priority": "ALTA",
+          "title_en": "What We Know About Australia’s Bird Flu, Which Has Spread to Mammals"
         },
         {
           "title": "Israeli Lawmaker Smashes Palestinian Monument in West Bank",
@@ -176,28 +208,12 @@
           "title_en": "Israeli Lawmaker Destroys Palestinian Monument in the West Bank"
         },
         {
-          "title": "Airstrikes and Illegal Mining Add to Myanmar’s Troubles",
-          "link": "https://www.nytimes.com/2026/08/25/world/asia/myanmar-junta-violence-rohingya.html",
-          "pubDate": "2026-08-25T18:48:11.000Z",
-          "snippet": "A thriving ‘conflict economy’ is extracting minerals while the military and armed groups inflict abuse on civilians, according to a new report on the scale of recent violence in Myanmar.",
+          "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+          "link": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+          "pubDate": "2026-08-25T18:49:39.000Z",
+          "snippet": "Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney retaliated “dollar for dollar.”",
           "_priority": "ALTA",
-          "title_en": "Airstrikes and Illegal Mining Compound Myanmar’s Problems"
-        },
-        {
-          "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
-          "pubDate": "2026-08-25T18:28:40.000Z",
-          "snippet": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
-          "_priority": "ALTA",
-          "title_en": "Iran May Have Little to Lose as the U.S. Tries to Squeeze Its Economy"
-        },
-        {
-          "title": "U.S. Removes Syria From Its List of Terrorism Sponsors",
-          "link": "https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html",
-          "pubDate": "2026-08-25T13:03:53.000Z",
-          "snippet": "The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.",
-          "_priority": "ALTA",
-          "title_en": "U.S. Removes Syria From Its List of State Sponsors of Terrorism"
+          "title_en": "U.S.-Canada Trade War: What You Need to Know About Tariffs and the Negotiations"
         }
       ]
     },
@@ -208,7 +224,7 @@
         {
           "title": "CIA director makes rare, unannounced visit to Moscow",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnZXaXVJd1hMdG1WOWI1QnNiVUdLNl9Mejd2cWxBTTBmNldoRmtmQ3MtZjhFb2NiVUpjdHU2LU51cmxCR1ZLTUZQLWo0OHN6d2VkWVBqelJBUVpQZ2dEeWZkUWhZeWNlT2JEM2dvRU5iN1RrR0dUdjVrbDU3R1lqXzZZZGRzMHpsLW56V2xyUkxtdWVOV2Q0OC1EZkpEM1RhOGZvRA?oc=5",
-          "pubDate": "2026-08-25T21:00:55.000Z",
+          "pubDate": "2026-08-26T00:00:55.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "CIA Director Makes a Rare, Unannounced Visit to Moscow"
@@ -216,10 +232,26 @@
         {
           "title": "FEMA crew broke law by skipping homes with Trump signs, federal watchdog says",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkswYVI1aGNBaXVjUUZJX3FVSHlVV2g2UDFBUGVwSlNQRXRkVTNrejFXYU83cmFIdHg1SmUtcW1XX0pzQlRHSGVMck1GWHk5aktOckc3bWJPS3dsZ3lpT0RndzdfdndmbkFFbVZua0txamFybjFfenUxcHZpLWh4ZzdtX0U5ejVyNUVrWFh6UEc1VkNXcnEyMnFncTRmZ3lTb0t5QWFqZElDUXRONVVyNURrdjk4WjdweVloSVlpcnFaT0hCUVE?oc=5",
-          "pubDate": "2026-08-25T21:54:18.000Z",
+          "pubDate": "2026-08-25T23:38:17.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "FEMA crew broke the law by skipping homes with Trump signs, federal watchdog says"
+        },
+        {
+          "title": "Opinion | I was a U.S. diplomat for 20 years. Now I see how the Iran war could be won.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnhWaTlXZFNpNzZJQmtfZ29OM3gwbF9fdnN3V1ZZemlOLS1oelh6aklRQjQ2cm84ai1SbGF4SXhBejdlZ3RvUTdMTDkyQm5aYlJTSzRRTDZsemdnYmpvZ2Y2bDFzdm1FUXI0OHJ5Y2U4R0pCVlpnU3l1dnJKQm5oUXRLOHhDcU1nbkxiWDhtTWdmbHdncS1RTXVNM0RnRjJ0eGc?oc=5",
+          "pubDate": "2026-08-25T21:06:37.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Opinion | I was a U.S. diplomat for 20 years. Now I see how the war with Iran could be won."
+        },
+        {
+          "title": "Opinion | Are public schools unconstitutional? A Nebraska court will decide.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWdob3g1NmszZVZPR3dmQTMtbFMzVkRjVzViTEFCSnQxOFFDajNlbGlKTUpFVkZLVGJXQlRSYjFjdzVnNU9mWUg4Ulo5V3Z0eWtEalhKdGNGekFCUXZwYThRSnEyendfd0pLMEN6REc4NW5HMDA4OWVCUG5jQVlqWTNLMldtM2ZRaFllWmYxYmZQb1hkQ1p3TFJ2MVp1Vnk5Z0JZRTJ3RUhPTlpMTHRseA?oc=5",
+          "pubDate": "2026-08-25T17:45:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Opinion | Are public schools unconstitutional? A Nebraska court will decide."
         },
         {
           "title": "Squeezed by tariffs and Iran war, farmers say they face a new crisis",
@@ -236,22 +268,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "As U.S.-Canada tensions escalate, Republicans could face political consequences"
-        },
-        {
-          "title": "Ken Paxton unveils anti-data-center plan as GOP voter anger mounts in Texas",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjZxS0hSZU51OU9obUxLVUtWdll2NE9sQVh4MEVGd1FralFnUVc3MXRKbEMzamRrN1N4Z3ktWFBSZUd0WnQyTUhsRUFNQ2VyMG8xVFR2QW5iaDFfMEZSQlRiQldFVWpDeGozNEp2Y0xXVThaVThPMm5DUkNiUUV5RjVxbHl4bVZicmVIeENscU4wTF8wcWpRNUhLd2M2TW9BaEhfLVZUMUtaRTRnQ3VfOTJraVgxN0lwYU9r?oc=5",
-          "pubDate": "2026-08-25T05:22:35.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Ken Paxton Unveils Plan to Block Data Centers as GOP Voter Anger Mounts in Texas"
-        },
-        {
-          "title": "Bessent unveils sweeping new Iran sanctions but delays toughest blow",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFhKYWdzQ1RSVzB5dEs3NDRxTmZ6MzBPZXpidVhlSmp1YXEyUXhXa1Q4bEZTRC1NTE90VmxfT05ZMFZUXzlrNHA1Q0xsQmQ1NFUxWUNmdE8xUGI4UEZIbUM1VzJxenp6a3RJU09RY1dQRmtlb2VjTXZqMDdCOFg5X2w1S1JQdGVoRTJ6dDFxcW5QSWs0LTBBRlk3aW51Z24tall0SzhqYw?oc=5",
-          "pubDate": "2026-08-25T05:22:05.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Bessent Unveils Far-Reaching New Sanctions Against Iran but Postpones the Harshest Measure"
         }
       ]
     },
@@ -260,12 +276,36 @@
       "color": "lilac",
       "items": [
         {
+          "title": "Does Donald Trump deserve credit for a manufacturing revival?",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0t2YnZCQThWNXlMMlAwa3ZtTXROS2FMVE1DSzR0dVhtR0lwRjNZejVMZldNdi1lbnRuWl9kdjJsdjN3UXpjNjNndm5lVUUwTUlsRzBWWDJoREd3Q0hzeWotSUtVTVlHd3k2MUVBRFM4SmJ6d0hNd3F3eTFHdERNS1Q4MElSc0pXdWlVWURRS29tLTJISkZRNGgzMDlWNkRZZzJGSG1ERG5zZzNuNjNkdQ?oc=5",
+          "pubDate": "2026-08-25T19:21:23.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Does Donald Trump deserve credit for a manufacturing revival?"
+        },
+        {
+          "title": "As his presidency flounders, Donald Trump is more dangerous than ever",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmh0dVBQUWdSeWdweHZuYnRxSVZJeE1HZDNkT0tSbUVQVkR1UGJ4NVNEeGJLMDRld3VSTFpHVzMzOENEV2RDcnptTnJXV3NIM3JrRGgyTVJNN3FNcGxfWmRCTzB2UndQZE94WUlCR043LTBPWDdQNUJndEoxWFNuYy1aOW1XeEFQdVJZZk5zbXJxbmx3akx6ODIteVV2M25BS05JUl9KQXlQSzNwVjdYaldEWEJVYW9CSk44?oc=5",
+          "pubDate": "2026-08-25T17:36:18.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "As his presidency falters, Donald Trump is more dangerous than ever"
+        },
+        {
           "title": "How the Houthis have become the most fearsome of Iran’s allies",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY21HNU5NdXFPbGJZNGpaWlQ1enQ3QThaZ0hPVnZyZDYxTkVEQ1IwQndzYkdnU3Bwb2FfcGYwUnppeHNKTGh3bk42R3JzTG01ZVFLZ1dxdzBCejJ3VFc0MnZwcGhhX3I3akNqS1dCcXBRZ0lMUEhTSnpYdV9MTXBzQlFIb0t5MGNKSEU4VjUtSFNjQ1BJTWNwNjNzVm9ZcWJfNF9veGJQSXdmcTh5VURoWHRST2szQndXV29Fd2tB?oc=5",
           "pubDate": "2026-08-25T17:05:16.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "How the Houthis Have Become Iran’s Most Fearsome Allies"
+        },
+        {
+          "title": "China’s AI jobs threat",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wWlFObm1GTThXWHRReFN6dmhVZEg0aW9JUTFhdnFVVEVZeWpQTjRIZFJaUVVEUWRBOW9QdWtaWS1YMXVtd2daOFFXYmNSQkdSZUJCcHZHNEp3V1ZkX09sMmtFQnY3X1JvQjlsYkdwbnk1TGxPQ3c?oc=5",
+          "pubDate": "2026-08-25T15:37:41.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The Threat of AI Jobs in China"
         },
         {
           "title": "Even-more-maximum pressure: sanctions on Iran",
@@ -276,11 +316,12 @@
           "title_en": "Even More Maximum Pressure: Sanctions on Iran"
         },
         {
-          "title": "What makes a great investor?",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGxYc3hCLUJ3dldwUXRhVThpZmx1a3lHM2puNWk5ODljd2JYM0RGSmZBZGtEZkEtTzVYaHZZb0pQS0tIRWhCVlNXYmR1V1ZfNHBQZTdMQVJWeEVqVEZSRmltMXZrOXlsa3FGSFdLZGJhbVFUY3FKQVNtaTVwM3R2aHNwUl8yc0lFYmJUWXdzdw?oc=5",
-          "pubDate": "2026-08-25T17:15:09.000Z",
+          "title": "Iran will be able to shrug off America’s financial threats",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlpNbzQ3YTBINDFwNEJvaXdkR3hkUWpWSjR5SFhxZzNFZXJuUmlidXlYdFpramFaNHlhN3BUSGNoY1JFclJsZ3FFSDNMelVYb3VwOWxOWHFZaGpXY3pRbEs5V29JaVJxTXBVajRCUVUxYS1PVnBtVmR6d1FuVFN5WG00d1dnTWVYSFFtTnpaOWZVTFRXaTgzRUotdDVQN3VldWJDQmFuTUFOQ1RxSFJPaHlDZTJ3aVdN?oc=5",
+          "pubDate": "2026-08-24T20:05:15.000Z",
           "snippet": null,
-          "title_en": "What makes a great investor?"
+          "_priority": "ALTA",
+          "title_en": "Iran will be able to brush off America’s financial threats"
         }
       ]
     },
@@ -289,12 +330,12 @@
       "color": "peach",
       "items": [
         {
-          "title": "Andy extendió red con políticos, empresarios y funcionarios: consulta el interactivo",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdDRTUENOdmg1Z0J2QlpIZHg5VFlwYUJqNFY4a0pGaml3dGlvTmdMTDhzU3loSjlqRmhnSWtHOWJ0R0lpcmRoS2EtdG96Tl9ieV8tRXhJOU1mdTVETjlncGpSN3l5dmhmdkdEUjhVM3B4OHpONV9RdGd3Z21odFQyRWhHeDF6eVYxOXZ3cFREUjZuOHFEWDhPN0F4LS1lOVhOZHVPQWd4OGIzV2NGbEZwMzZSWWM3VzlrV2F0UjNWb2RReWR3dTNn?oc=5",
-          "pubDate": "2026-08-25T18:48:00.000Z",
+          "title": "Canadá comparte alerta de EU por seguridad en Mexicali",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzZCWHNLWmxBRWtBTXJORlg0amN4WkxyM3hUUUotQW9yLUVZLUtQMmx4U2p3VGFJdmJ4LVBIenNVM2N2WTVzYjdrUllSS3dVdkYwanZNeC1jMXpTSmZXSnRUNmpxdHc0ZFE3WXdWVndmSmNyeVFFQjZoYV9GZmdfeUlzc2dnek1GX1lmM1luRjAtZENXZEJTbmMtd1NqMWhlRXp5b25veDRGaW9JaXZFcWFsNHdEVTlMS09uem5JdW9Fenh1YnRHQy1URjRrczloYndyRFl6OHBVUXdTNEZfUEtHWTliY01Nd2fSAf4BQVVfeXFMTUtaZUZ5ZGJOOHozWXdzY04tX2hSRDV3Q05LVUU5eHBSU29oSHFZOXZlQmluRGJqSVFmTm1WOXdac3huX2J2YktSRnUtVlZpaUJwNEY4YURTb3lObndHMkRkZTB5VmdlcmdKYUFJVnBKeEU3U3h0V1FiTjBBdElfR1htRllnM0EwRjNaQ2ZtekRhT0RRa3JfSmJWbGRWQjNBNUhxMXY1aEFMTmtJQ0F4dG1vTXF5NXdkc0F1Z2UyaXNNcmgtOWpLaXlpV05ObWg2N0tQRFBRRDFocVY5eVRtemp3VkZUTDhJNFBxdEgzNngxTWNXdGN1N01QX1hSZVE?oc=5",
+          "pubDate": "2026-08-25T19:11:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Andy built a network with politicians, business leaders, and government officials: check out the interactive feature"
+          "title_en": "Canada Shares U.S. Security Alert for Mexicali"
         },
         {
           "title": "Atacan a balazos a dos reporteros de nota roja al norte de Veracruz",
@@ -326,7 +367,7 @@
           "pubDate": "2026-08-25T06:03:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The EU issues a security alert for Mexicali due to a possible threat; it suspends activities on August 25"
+          "title_en": "The U.S. issues a security alert for Mexicali due to a possible threat; activities are suspended on August 25"
         },
         {
           "title": "Morena alista definición de precandidatos rumbo a 2027 para Aguascalientes, Campeche y Colima",
