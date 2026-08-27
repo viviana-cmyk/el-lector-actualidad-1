@@ -217,22 +217,14 @@ Si no hay nada verificable para esta fecha exacta, responde: null`;
 }
 
 
-async function generateDailyInfoEN(client, dateStr) {
-  const prompt = `Today is ${dateStr}. Find ONE relevant commemoration for this exact date:
+async function generateDailyInfoEN(client, diaES) {
+  if (!diaES) return null;
+  const prompt = `Translate the following Spanish JSON to English. Keep the same fields and structure. Return ONLY the JSON, no extra text.
 
-1. Official international day (UN, UNESCO, WHO or international body).
-2. Important historical anniversary (world or Latin American event).
-3. Significant national day of any country.
-4. Cultural, scientific or social commemoration of global relevance.
+Input:
+${JSON.stringify(diaES)}
 
-Rules:
-- The date must match EXACTLY. Do not approximate.
-- Do not invent data. If nothing verifiable for this exact date, respond null.
-
-Respond ONLY with this exact JSON (no additional text):
-{"nombre":"<full name in English>","descripcion":"<1 sentence in English, max 180 chars, explaining what is commemorated and why it matters>"}
-
-If nothing verifiable for this exact date, respond: null`;
+Output (same structure, values translated to English):`;
 
   const response = await client.messages.create({
     model: MODEL,
@@ -240,7 +232,7 @@ If nothing verifiable for this exact date, respond: null`;
     messages: [{ role: "user", content: prompt }],
   });
   const text = (response.content.find(b => b.type === "text")?.text || "").trim();
-  if (text === "null" || text === "") return null;
+  if (!text) return null;
   try {
     const match = text.match(/\{[\s\S]*\}/);
     return match ? JSON.parse(match[0]) : null;
@@ -316,7 +308,7 @@ async function main() {
       const client = new Anthropic({ apiKey });
       const dateStr = new Date().toLocaleDateString("es-CO", { day:"numeric", month:"long", year:"numeric", timeZone:"America/Bogota" });
       const diaInfo = await generateDailyInfo(client, dateStr);
-      const diaInfoEN = await generateDailyInfoEN(client, dateStr);
+      const diaInfoEN = await generateDailyInfoEN(client, diaInfo);
       await writeFile(
         path.join(DATA_DIR, "dailyinfo.json"),
         JSON.stringify({ generatedAt, dia: diaInfo, dia_en: diaInfoEN }, null, 2) + "\n",
