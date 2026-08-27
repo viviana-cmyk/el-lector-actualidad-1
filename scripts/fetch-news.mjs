@@ -761,6 +761,30 @@ async function main() {
     JSON.stringify({ generatedAt, colombia: featuredColombia, mundo: featuredMundo }, null, 2) + "\n",
   );
 
+  // Traducir día internacional al inglés con DeepL si dia_en es null
+  if (deepLKey) {
+    try {
+      const dailyRaw = JSON.parse(await readFile(path.join(DATA_DIR, "dailyinfo.json"), "utf-8"));
+      if (dailyRaw.dia && !dailyRaw.dia_en) {
+        const baseUrl = deepLKey.endsWith(":fx") ? "https://api-free.deepl.com" : "https://api.deepl.com";
+        const res = await fetch(`${baseUrl}/v2/translate`, {
+          method: "POST",
+          headers: { "Authorization": `DeepL-Auth-Key ${deepLKey}`, "Content-Type": "application/json" },
+          body: JSON.stringify({ text: [dailyRaw.dia.nombre, dailyRaw.dia.descripcion], source_lang: "ES", target_lang: "EN-US" }),
+          signal: AbortSignal.timeout(15000),
+        });
+        if (res.ok) {
+          const json = await res.json();
+          dailyRaw.dia_en = { nombre: json.translations[0].text, descripcion: json.translations[1].text };
+          await writeFile(path.join(DATA_DIR, "dailyinfo.json"), JSON.stringify(dailyRaw, null, 2) + "\n");
+          console.log(`  - DeepL: día internacional traducido al inglés`);
+        }
+      }
+    } catch (err) {
+      console.warn(`  [aviso] DeepL día internacional: ${err.message}`);
+    }
+  }
+
   console.log("Obteniendo indicadores economicos...");
   const indicators = await fetchIndicators();
   await writeFile(
