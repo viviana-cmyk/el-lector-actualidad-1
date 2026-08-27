@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-26T10:43:20.856Z",
+  "generatedAt": "2026-08-27T20:12:48.795Z",
   "dia": {
-    "nombre": "Día Internacional de la Igualdad de la Mujer",
-    "descripcion": "Se conmemora el avance hacia la igualdad de género y los derechos de las mujeres, reconociendo los logros alcanzados en la lucha por la equidad y la no discriminación."
+    "nombre": "Día Internacional del Voluntariado",
+    "descripcion": "Se conmemora la contribución de los voluntarios a la paz y el desarrollo sostenible, promoviendo el voluntariado como herramienta para resolver problemas globales."
   },
-  "dia_en": null
+  "dia_en": {
+    "name": "International Volunteer Day",
+    "description": "It commemorates the contribution of volunteers to peace and sustainable development, promoting volunteering as a tool to solve global problems."
+  }
 }

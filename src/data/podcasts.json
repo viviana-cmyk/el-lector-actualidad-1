@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:39:20.757Z",
+  "generatedAt": "2026-08-27T20:11:34.732Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,24 +7,24 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "DianaUribe.fm",
-      "host": "Diana Uribe",
-      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
-    },
-    {
       "title": "365 con Dios",
       "host": "Wenddy Neciosup | Genuina Media",
       "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
     },
     {
+      "title": "DianaUribe.fm",
+      "host": "Diana Uribe",
+      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
+    },
+    {
+      "title": "Estoicismo Filosofia",
+      "host": "Estoicismo Filosofia",
+      "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
+    },
+    {
       "title": "Seminario Fenix | Brian Tracy",
       "host": "matiasmartinez16",
       "url": "https://podcasts.apple.com/co/podcast/seminario-fenix-brian-tracy/id1735157109"
-    },
-    {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
     }
   ],
   "mundo": [
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
+      "title": "Mick Unplugged",
+      "host": "Mick Hunt",
+      "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953"
+    },
+    {
       "title": "Dateline NBC",
       "host": "NBC News",
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
-    },
-    {
-      "title": "The Truth About Natalie",
-      "host": "Audiochuck",
-      "url": "https://podcasts.apple.com/us/podcast/the-truth-about-natalie/id1750724132"
     }
   ]
 }
