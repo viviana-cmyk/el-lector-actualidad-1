@@ -1,10 +1,53 @@
 {
-  "generatedAt": "2026-08-27T20:11:34.732Z",
+  "generatedAt": "2026-08-28T21:08:33.912Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
-      "items": []
+      "items": [
+        {
+          "title": "¿Quién es quién en el escándalo del Banco Master en Brasil?",
+          "link": "https://insightcrime.org/es/noticias/quien-es-quien-en-historico-caso-fraude-banco-master-brasil/",
+          "pubDate": "2026-08-27T20:17:06.000Z",
+          "snippet": "¿Quién es quién en el escándalo del Banco Master en Brasil? A medida que avanza la investigación sobre el escándalo del Banco Master, las acusaciones alcanzan a un número creciente de personas de distintos sectores en Brasil. Banqueros, políticos, miembros de grupos criminales y…",
+          "title_en": "Who's Who in the Banco Master Scandal in Brazil?"
+        },
+        {
+          "title": "Así avanzó el escándalo del Banco Master en Brasil",
+          "link": "https://insightcrime.org/es/noticias/asi-avanzo-escandalo-banco-master-brasil/",
+          "pubDate": "2026-08-27T20:15:06.000Z",
+          "snippet": "Así avanzó el escándalo del Banco Master en Brasil A medida que avanza el escándalo del Banco Master, esta cronología señala los principales hitos de uno de los mayores casos de fraude bancario en Brasil. The post Así avanzó el escándalo del Banco Master en Brasil appeared first…",
+          "title_en": "Here's How the Banco Master Scandal Unfolded in Brazil"
+        },
+        {
+          "title": "On the Radar: De la Espriella califica a los grupos criminales de ‘terroristas’",
+          "link": "https://insightcrime.org/es/noticias/on-the-radar-espriella-califica-grupos-criminales-terroristas/",
+          "pubDate": "2026-08-27T16:56:06.000Z",
+          "snippet": "On the Radar: De la Espriella califica a los grupos criminales de ‘terroristas’ Colombia ordenó tratar a todos los grupos criminales como “terroristas”. Estados Unidos reanudó, tras una pausa de dos meses, sus ataques contra embarcaciones. Y una masacre perpetrada por pandillas e…",
+          "title_en": "On the Radar: De la Espriella Calls Criminal Groups ‘Terrorists’"
+        },
+        {
+          "title": "Cómo Colombia, México y Brasil combaten el uso de drones con fines criminales",
+          "link": "https://insightcrime.org/es/noticias/como-colombia-mexico-y-brasil-combaten-auge-drones-criminales/",
+          "pubDate": "2026-08-26T18:53:24.000Z",
+          "snippet": "Cómo Colombia, México y Brasil combaten el uso de drones con fines criminales México, Colombia y Brasil son algunos de los países de la región que buscan hacer frente al uso de drones con fines criminales. The post Cómo Colombia, México y Brasil combaten el uso de drones con fine…",
+          "title_en": "How Colombia, Mexico, and Brazil Are Combating the Use of Drones for Criminal Purposes"
+        },
+        {
+          "title": "The InSight Take: Cómo el crimen organizado adopta nuevas tecnologías de drones",
+          "link": "https://insightcrime.org/es/noticias/the-insight-take-como-crimen-organizado-adopta-nuevas-tecnologias-drones/",
+          "pubDate": "2026-08-25T20:17:58.000Z",
+          "snippet": "The InSight Take: Cómo el crimen organizado adopta nuevas tecnologías de drones Los grupos criminales de América Latina están convirtiendo drones comerciales en armas y combinándolos con artefactos explosivos improvisados para atacar a rivales, fuerzas de seguridad y civiles. Des…",
+          "title_en": "The InSight Take: How Organized Crime Is Adopting New Drone Technologies"
+        },
+        {
+          "title": "Tío Lako, jefe regional del CJNG, vuelve a evadir su captura",
+          "link": "https://insightcrime.org/es/noticias/jefe-regional-del-cjng-tio-lako-vuelve-a-evadir-captura/",
+          "pubDate": "2026-08-20T20:13:50.000Z",
+          "snippet": "Tío Lako, jefe regional del CJNG, vuelve a evadir su captura Heraclio Guerrero Martínez, alias “Tío Lako”, continúa siendo una figura clave del CJNG tras escapar esta semana de un operativo militar en Michoacán, México. The post Tío Lako, jefe regional del CJNG, vuelve a evadir s…",
+          "title_en": "Tío Lako, regional leader of the CJNG, has once again evaded capture"
+        }
+      ]
     },
     {
       "name": "International Crisis Group",
@@ -29,13 +72,6 @@
           "pubDate": "2026-08-27T07:27:36.000Z",
           "snippet": null,
           "title_en": "AI's Real Impact on Jobs—What It Means for You, Your Company, and Future Generations"
-        },
-        {
-          "title": "The Hidden Economic Power of Healthy Soils",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUNlb3pTVVp5SU1WUWo4VWtwOFZROC1rbmRSc3ZZMVpZY0JXZ3dxMWM3OHF3M3A4SFhoazA4eFVTY282VUo3SktWb0hmWlBxdEhmRi1rbEZ0NG4weHRreXpBcVRKemxpY3FELS03RmlyZVVHRi1WWk1YRnZyc1EwWA?oc=5",
-          "pubDate": "2026-08-27T00:37:43.000Z",
-          "snippet": null,
-          "title_en": "The Hidden Economic Power of Healthy Soils"
         },
         {
           "title": "Be a less reactive, more mindful leader",
@@ -64,6 +100,13 @@
           "pubDate": "2026-08-18T04:44:39.000Z",
           "snippet": null,
           "title_en": "Reading Still Matters: The Books That Shaped 5 Tech Founders"
+        },
+        {
+          "title": "Sustainable fashion is at a turning point - what's needed now",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbncxdFozdFl4Nk1lZjRyM0RwR1d5dlBEVzd6U2VRQ2dOWVFpVDFtSC1EN1cwMnIzTG5BMGJPZVh5T3VSUGlRcXh6Ym12SlFYRHBRZzU4UXJMVjRxa1FTejlwTnplRjRWMFJ0X2RSX0xMSGtGM05pUjZ6WExzeGFFblpOWlpfa0pJM0NzaXl0TklacW5DMUxTTjBzcEY1T0tDR0RfWg?oc=5",
+          "pubDate": "2026-08-04T07:00:00.000Z",
+          "snippet": null,
+          "title_en": "Sustainable fashion is at a turning point—what's needed now"
         }
       ]
     }
