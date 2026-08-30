@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-29T14:57:53.462Z",
+  "generatedAt": "2026-08-30T14:43:47.831Z",
   "dia": {
-    "nombre": "Día Internacional de la Sensibilización sobre el Linchamiento",
-    "descripción": "Se conmemora para visibilizar y prevenir el linchamiento como forma de violencia colectiva, promoviendo justicia, derechos humanos y estados de derecho en América Latina y el mundo."
+    "nombre": "Día Internacional de las Víctimas de Desapariciones Forzadas",
+    "descripcion": "Se conmemora a las víctimas de desapariciones forzadas en todo el mundo, promoviendo la verdad, justicia y memoria sobre este crimen de lesa humanidad."
   },
   "dia_en": {
-    "nombre": "International Day of Awareness on Lynching",
-    "descripción": "It is commemorated to raise awareness and prevent lynching as a form of collective violence, promoting justice, human rights and rule of law in Latin America and the world."
+    "name": "International Day of the Victims of Enforced Disappearances",
+    "description": "Commemorates the victims of enforced disappearances worldwide, promoting truth, justice, and memory regarding this crime against humanity."
   }
 }
