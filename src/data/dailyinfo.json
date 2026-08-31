@@ -1,5 +1,11 @@
 {
-  "generatedAt": "2026-08-31T12:03:15.828Z",
-  "dia": null,
-  "dia_en": null
+  "generatedAt": "2026-08-31T17:26:24.271Z",
+  "dia": {
+    "nombre": "Día Internacional de la Solidaridad",
+    "descripcion": "Conmemoración de la importancia de la solidaridad entre pueblos y naciones para alcanzar paz, justicia social y desarrollo sostenible en el mundo."
+  },
+  "dia_en": {
+    "nombre": "International Day of Solidarity",
+    "descripcion": "Commemoration of the importance of solidarity between peoples and nations to achieve peace, social justice and sustainable development in the world."
+  }
 }

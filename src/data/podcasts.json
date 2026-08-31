@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:02:55.057Z",
+  "generatedAt": "2026-08-31T17:26:16.999Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -22,36 +22,36 @@
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+      "title": "Seminario Fenix | Brian Tracy",
+      "host": "matiasmartinez16",
+      "url": "https://podcasts.apple.com/co/podcast/seminario-fenix-brian-tracy/id1735157109"
     }
   ],
   "mundo": [
-    {
-      "title": "Crime Junkie",
-      "host": "Audiochuck",
-      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
-    },
     {
       "title": "The Daily",
       "host": "The New York Times",
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "Pod Save America",
-      "host": "Pod Save America",
-      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
-    },
-    {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+      "title": "Crime Junkie",
+      "host": "Audiochuck",
+      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
       "title": "Mick Unplugged",
       "host": "Mick Hunt",
       "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953"
+    },
+    {
+      "title": "Up First from NPR",
+      "host": "NPR",
+      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
+    },
+    {
+      "title": "The Joe Rogan Experience",
+      "host": "Joe Rogan",
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     }
   ]
 }
