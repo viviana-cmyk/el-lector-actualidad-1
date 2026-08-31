@@ -219,12 +219,12 @@ Si no hay nada verificable para esta fecha exacta, responde: null`;
 
 async function generateDailyInfoEN(client, diaES) {
   if (!diaES) return null;
-  const prompt = `Translate the following Spanish JSON to English. Keep the same fields and structure. Return ONLY the JSON, no extra text.
+  const prompt = `Translate ONLY the values (not the keys) of this JSON from Spanish to English.
+Return ONLY valid JSON with exactly these two keys: "nombre" and "descripcion".
 
-Input:
-${JSON.stringify(diaES)}
+Input: ${JSON.stringify(diaES)}
 
-Output (same structure, values translated to English):`;
+Output (keys must be "nombre" and "descripcion", values in English):`;
 
   const response = await client.messages.create({
     model: MODEL,

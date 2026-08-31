@@ -8,8 +8,14 @@ import { withBase } from "../lib/url";
 import featured from "../data/featured.json";
 import dailyinfo from "../data/dailyinfo.json";
 
-const diaHoy = (dailyinfo as any).dia ?? null;
-const diaHoyEN = (dailyinfo as any).dia_en ?? null;
+function normalizeDia(d: any) {
+  if (!d) return null;
+  const nombre = d.nombre || d.name || "";
+  const descripcion = d.descripcion || d.descripción || d.description || "";
+  return nombre ? { nombre, descripcion } : null;
+}
+const diaHoy   = normalizeDia((dailyinfo as any).dia);
+const diaHoyEN = normalizeDia((dailyinfo as any).dia_en);
 
 const fechaHoy = new Date().toLocaleDateString("es-CO", {
   weekday: "long",
