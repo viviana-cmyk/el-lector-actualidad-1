@@ -1,18 +1,10 @@
 {
-  "generatedAt": "2026-08-31T11:45:31.434Z",
+  "generatedAt": "2026-08-31T12:02:55.057Z",
   "outlets": [
     {
       "name": "Semana",
       "color": "blue",
       "items": [
-        {
-          "title": "Gobierno De La Espriella se pronunció por la muerte de menores de edad en operativo contra disidencias: MinDefensa anunció decisión",
-          "link": "https://www.semana.com/nacion/articulo/gobierno-de-la-espriella-se-pronuncio-por-muerte-de-menores-de-edad-en-operativo-contra-disidencias-mindefensa-anuncio-decision/202606/",
-          "pubDate": "2026-08-31T11:31:06.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The De La Espriella administration issued a statement regarding the deaths of minors during an operation against dissident groups: The Ministry of Defense announced its decision"
-        },
         {
           "title": "Los seis anuncios más importantes de la alocución presidencial de Abelardo De La Espriella: reconstrucción, seguridad y subsidios",
           "link": "https://www.semana.com/nacion/articulo/los-seis-anuncios-mas-importantes-de-la-alocucion-presidencial-de-abelardo-de-la-espriella-reconstruccion-seguridad-y-subsidios/202605/",
@@ -22,20 +14,20 @@
           "title_en": "The Six Most Important Announcements from Abelardo De La Espriella's Presidential Address: Reconstruction, Security, and Subsidies"
         },
         {
-          "title": "Así funcionará el bloque anticorrupción de Abelardo De La Espriella",
-          "link": "https://www.semana.com/politica/articulo/asi-funcionara-el-bloque-anticorrupcion-de-abelardo-de-la-espriella/202609/",
-          "pubDate": "2026-08-31T11:27:09.000Z",
+          "title": "Gobierno De La Espriella se pronunció por la muerte de menores de edad en operativo contra disidencias: MinDefensa anunció decisión",
+          "link": "https://www.semana.com/nacion/articulo/gobierno-de-la-espriella-se-pronuncio-por-muerte-de-menores-de-edad-en-operativo-contra-disidencias-mindefensa-anuncio-decision/202606/",
+          "pubDate": "2026-08-31T11:31:06.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Here's How Abelardo De La Espriella's Anti-Corruption Task Force Will Work"
+          "title_en": "The De La Espriella administration issued a statement regarding the deaths of minors during an operation against dissident groups: The Ministry of Defense announced its decision"
         },
         {
-          "title": "Tembló en Colombia este 31 de agosto: el SGC reveló la magnitud y el epicentro del sismo",
-          "link": "https://www.semana.com/nacion/articulo/temblo-en-colombia-este-31-de-agosto-el-sgc-revelo-la-magnitud-y-el-epicentro-del-sismo/202619/",
-          "pubDate": "2026-08-31T11:36:19.000Z",
+          "title": "Air Europa e Iberia vuelven a volar a Caracas, tras los terremotos que azotaron el país",
+          "link": "https://www.semana.com/confidenciales/articulo/air-europa-e-iberia-vuelven-a-volar-a-caracas-tras-los-terremotos-que-azotaron-el-pais/202639/",
+          "pubDate": "2026-08-31T11:51:39.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "An earthquake struck Colombia on August 31: the SGC revealed the magnitude and epicenter of the quake"
+          "title_en": "Air Europa and Iberia Resume Flights to Caracas Following the Earthquakes That Hit the Country"
         },
         {
           "title": "Disidencias de las Farc confirman que tienen en su poder a militar colombiano del Ejército francés: lanzó fuerte advertencia",
@@ -46,12 +38,20 @@
           "title_en": "FARC dissidents confirm they are holding a Colombian soldier from the French Army: they issued a strong warning"
         },
         {
-          "title": "Trump publica un video con IA que muestra la isla iraní de Jarg “siendo volada en pedazos”",
-          "link": "https://www.semana.com/mundo/articulo/trump-publica-un-video-con-ia-que-muestra-la-isla-irani-de-jarg-siendo-volada-en-pedazos/202634/",
-          "pubDate": "2026-08-31T11:15:34.000Z",
+          "title": "Tembló en Colombia este 31 de agosto: el SGC reveló la magnitud y el epicentro del sismo",
+          "link": "https://www.semana.com/nacion/articulo/temblo-en-colombia-este-31-de-agosto-el-sgc-revelo-la-magnitud-y-el-epicentro-del-sismo/202619/",
+          "pubDate": "2026-08-31T11:36:19.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump posts an AI-generated video showing the Iranian island of Jarg “being blown to pieces”"
+          "title_en": "An earthquake struck Colombia on August 31: the SGC revealed the magnitude and epicenter of the quake"
+        },
+        {
+          "title": "Así funcionará el bloque anticorrupción de Abelardo De La Espriella",
+          "link": "https://www.semana.com/politica/articulo/asi-funcionara-el-bloque-anticorrupcion-de-abelardo-de-la-espriella/202609/",
+          "pubDate": "2026-08-31T11:27:09.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Here's How Abelardo De La Espriella's Anti-Corruption Task Force Will Work"
         }
       ]
     },
@@ -66,6 +66,14 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Officials confirm that three minors died during a bombing ordered by De la Espriella"
+        },
+        {
+          "title": "Asesinaron a lideresa frente a su hijo en zona rural de Jamundí",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalN6SkhSTVpaNnYxUmowbEMwQS1tOFNXZ0xLX3pDbnhoNnkzRUZBMlhFNklQWXZ1QWxEeFdrZFYzOW1yTFNSOFg1NFRURjNqUWpHUlEwTWlCamhFRF9VQ3BrMTMxTFdmbC1DRldzam5BV3dDVVNHMGsxLXVQajdJS2VPNmU5RXdRRTNJTklhV2VHVF9QbjJVLUFxNFhXTlZ6TjVMZ0JfTlJsbVHSAb8BQVVfeXFMT0J0YWJkcmFBYV94NEkyRUI1RTM5TkhoSV9QdEM5WU1XSG1nNmhMZlVKZUNLa2JOVVZCbnNPS0tqbmtiS2U4ZkdzM05sYVRDdGw1OVFxM1Y1eFhHOF9TaS12MldTallHRFI3S0FFc2R3SEVZaTdFckh1VmtnZWVqVU4wYmkzdXZfREVxNmVfQUZWZUc5Q0dtN3dINkt4MUpFOVRrWGxtdnFYUlJWR0pXRmtRZnJOZjc2bXQtZDNqTGc?oc=5",
+          "pubDate": "2026-08-31T01:24:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "A female leader was murdered in front of her son in a rural area of Jamundí"
         },
         {
           "title": "La guerra que les arrebató el territorio a dos comunidades arhuacas del Magdalena",
@@ -84,22 +92,6 @@
           "title_en": "Government Announces the Start of Reconstruction Following the Earthquake in Colombia"
         },
         {
-          "title": "Las graves cifras de los incendios de Tolima y las ayudas que promete De la Espriella",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMDFKQ3RvTm13dmN3YnRLQXk3b0V0cWNHS1E5Y0FQM3FfZk9IMnJaYW5Nb0NOS2hxc29haDJuTGlsN2JBZGtWbVd2eFhQbTk4ZGw0d3VoaVZMQk1LNU9DYlVFQm9nRnN1Y0x3Q3UtQlA1V3luejNDWHBHbzY0eXQ3VTU5N0xCZDJsR3JRS3NKdGdOMHl3eDBlc0dBNW9JU05uemlrQ0ZLazB3VDljUzd4M19VTEpQU1NaeFJCWVhJQkdDd9IB1gFBVV95cUxPMkRHTjNRWGZrRldMZmxnSlQ4bk9hbTRRSC1fdFg0RU1rc1o3VjduM1ducF9vT2tTTGg0UWxrMlVYaG0tM1l4SnNONldKUThKUUlMXzRDNnhsWTNHRVNYSWkzZ25CX3ZIX0FULVBmeGowZFQ4ZmVKMmVGQXlpWlhUaUpTSmxTWGRyTVB2cmg1SnFfYXRtQzZ0bmZPRlJZVFBOYmtsNzRiT1V6QlVnaUJyd2o3cHRRZEcxdlc2dWxsTVpoUTVtZ2xIdnNhVEtFTnlobW10dHhn?oc=5",
-          "pubDate": "2026-08-30T22:42:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Alarming Statistics on the Fires in Tolima and the Aid Promised by De la Espriella"
-        },
-        {
-          "title": "Comienza racionamiento de agua en Medellín: estos son los barrios con cortes este lunes",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSFpabGtpLXAtTzB0Q2lUdnptdmxJMTV3OWI0c0NOUGljalpOZkxDaVVWdjZiMFgycWtGOExWOEloYnpFRXF6VGVKQkltdlNWa2FaVXBUdzlEdzhoTkh6SjhIUW5BcFpEOW1EaDhJdFNNTjJESXZLdl9KcmJLbER0YmlKTFgtUzlTRDEtTXlRNmRwWjlmajlhOFdObEZGSE4tSWV5OExHWTU0R2hiNFlEOGVQUFJGTFJYUDctbkhVNFg1QVRFMS1fdVJBR3NTdElBN0RqSmc5NEx6TnFSMGZPVdIB9AFBVV95cUxNMGRmcWVfUUh4bWVTQU14ck9TNDB3NDFfNDQwUW52WEFyeEJ4RFlzX0w2S0ZkZWUyNElrQUNiRnhkQThzQV9jczFjdGYzbkVqRmRZSFFJN2U1bGkzSS1HT0lWV2ZHSkRXZW4talZFX0pfdDFBak94NUtEbFVVSk1YZWR2dmR6MmxKbzA0Vkpoc05lQlJBb2JuVFpfbTJsMV9sZThxRkR6NmNBZzVWRXU4Q3NNSFBxUVh0T1BkMy1TT1UtVUdPaVdTdjVXb1Vpci1jNzJZR1doRGhHdTRsNERzSkxHM0dNc3haTldpQ2taVTRSVmkw?oc=5",
-          "pubDate": "2026-08-31T00:01:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Water rationing begins in Medellín: Here are the neighborhoods with water outages this Monday"
-        },
-        {
           "title": "Investigan asesinato de adolescente LGBT hallado con presuntos signos de tortura en Medellín",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3c2bGswOEMyWTFvT21NdzNseGh2S1BLYjZJeTFqUktiaXlhMWZxc3pkdmNUVkctRENHdElRQ3pIdS02NDZLT3hwMzA1Zi12UGxZZmU5YnRyMFpfeDUtREt0MXN3eHZIR0NldEZaUDVQVThaRnFLV041LWRyV3hvVHpWT2kyd3dYTWt6TDV4Y0hFSENZa3hReE45TlZrc3Y0d056eUFsdk1yVEZBUHRSa3ZQWThFaUNqbFBvYWtqbF9pOXhlNk9BYUpDc3cxdGY4cVVlbWpKaU3SAewBQVVfeXFMT3ZCTGVMSmhSNlJ4WHNUWGNHa3RwdkFyN1BNSmZ0ZlFIVGZaUzRGdDNKVWZkcWJzOFR2YXFlYlJiamdXZkd1UEpYdk1aRTd3SUpHNUZyb2FQY3ZuRl90aDN6YXc5Q2E1dzRDZHo0VFB1b01IcXdPMTlVaDF4MUNUM0U1dFZQbnVyTW5FT1hWUWlOelRrRWlCZDZlM1NuWGFjSHItTVNRWHVzYy1TaURkMTB2bmRvSjVpd0k1T0hhb0FFdEpqRGo1T1B2MFV4T3lFYkJEY2YwVGxyd1BJbzl5eVVWVFZaX3pXYU52Smw?oc=5",
           "pubDate": "2026-08-30T23:49:00.000Z",
@@ -114,12 +106,20 @@
       "color": "rose",
       "items": [
         {
+          "title": "Alcalde 'Fico' Gutiérrez responde al presidente De La Espriella y anuncia cooperación para investigar corrupción en Medellín: entregará pruebas al FBI",
+          "link": "https://www.eltiempo.com/colombia/medellin/alcalde-fico-gutierrez-responde-al-presidente-de-la-espriella-y-anuncia-cooperacion-para-investigar-corrupcion-en-medellin-entregara-pruebas-al-fbi-3582297",
+          "pubDate": "2026-08-31T11:45:00.000Z",
+          "snippet": "El mandatario de la capital de Antioquia aseguró que hay indicios 'contundentes' sobre varios casos.",
+          "_priority": "ALTA",
+          "title_en": "Mayor 'Fico' Gutiérrez Responds to President De La Espriella and Announces Cooperation to Investigate Corruption in Medellín: He Will Hand Over Evidence to the FBI"
+        },
+        {
           "title": "Disidentes de las Farc bajo órdenes de 'Mordisco' lanzaron cilindros bomba en El Patía, Cauca: el hecho dejó heridos a tres civiles y a un soldado",
           "link": "https://www.eltiempo.com/colombia/cali/disidentes-de-las-farc-bajo-ordenes-de-mordisco-lanzaron-cilindros-bomba-contra-soldados-en-zona-de-el-patia-cauca-dentro-la-escalada-terrorista-3582298",
           "pubDate": "2026-08-31T11:39:04.000Z",
           "snippet": "Las acciones se registraron en inmediaciones de la vía Panamericana. Vuelve el temor a esta región del suroccidente colombiano.",
           "_priority": "ALTA",
-          "title_en": "FARC dissidents under the command of \"Mordisco\" launched gas canister bombs in El Patía, Cauca: the attack left three civilians and one soldier injured"
+          "title_en": "FARC dissidents under the command of \"Mordisco\" threw cylinder bombs in El Patía, Cauca: the incident left three civilians and one soldier injured"
         },
         {
           "title": "Reportan ataque contra unidad militar en Patía, Cauca: habrían usado un vehículo acondicionado para lanzar artefactos explosivos",
@@ -130,12 +130,12 @@
           "title_en": "An attack on a military unit in Patía, Cauca, has been reported: a vehicle reportedly modified to launch explosive devices was used"
         },
         {
-          "title": "Alcalde Federico Gutiérrez anuncia cooperación con el Gobierno para investigar corrupción en Colombia y Medellín: entregará pruebas al FBI",
-          "link": "https://www.eltiempo.com/colombia/medellin/alcalde-federico-gutierrez-anuncia-cooperacion-con-el-gobierno-para-investigar-corrupcion-en-colombia-y-medellin-entregara-pruebas-al-fbi-3582297",
-          "pubDate": "2026-08-31T11:20:00.000Z",
-          "snippet": "El mandatario de la capital de Antioquia aseguró que hay indicios \"contundentes\" sobre varios casos.",
+          "title": "Incendios en Colombia hoy lunes 31 de agosto: Abelardo De La Espriella entregó balance de la emergencia en Tolima y anunció ayudas para afectados",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/incendios-en-colombia-hoy-lunes-31-de-agosto-abelardo-de-la-espriella-entrego-balance-de-la-emergencia-en-tolima-y-anuncio-ayudas-para-afectados-3582294",
+          "pubDate": "2026-08-31T09:56:12.000Z",
+          "snippet": "Las autoridades mantienen un monitoreo constante en las zonas e intentan controlar el fuego. Siga el minuto a minuto aquí.",
           "_priority": "ALTA",
-          "title_en": "Mayor Federico Gutiérrez Announces Cooperation with the Government to Investigate Corruption in Colombia and Medellín: He Will Hand Over Evidence to the FBI"
+          "title_en": "Fires in Colombia Today, Monday, August 31: Abelardo De La Espriella Provided an Update on the Emergency in Tolima and Announced Aid for Those Affected"
         },
         {
           "title": "Temblor en Colombia | Reportan sismo durante la madrugada de este lunes 31 de agosto cerca del volcán Puracé: epicentro y detalles",
@@ -144,14 +144,6 @@
           "snippet": "El Servicio Geológico Colombiano, adscrito al Ministerio de Minas y Energía, entregó todos los detalles.",
           "_priority": "ALTA",
           "title_en": "Earthquake in Colombia | An earthquake was reported early Monday morning, August 31, near the Puracé volcano: epicenter and details"
-        },
-        {
-          "title": "Incendios en Colombia hoy lunes 31 de agosto: Abelardo De La Espriella entregó balance de la emergencia en Tolima y anunció ayudas para afectados",
-          "link": "https://www.eltiempo.com/colombia/otras-ciudades/incendios-en-colombia-hoy-lunes-31-de-agosto-abelardo-de-la-espriella-entrego-balance-de-la-emergencia-en-tolima-y-anuncio-ayudas-para-afectados-3582294",
-          "pubDate": "2026-08-31T09:56:12.000Z",
-          "snippet": "Las autoridades mantienen un monitoreo constante en las zonas e intentan controlar el fuego. Siga el minuto a minuto aquí.",
-          "_priority": "ALTA",
-          "title_en": "Fires in Colombia Today, Monday, August 31: Abelardo De La Espriella Provided an Update on the Emergency in Tolima and Announced Aid for Those Affected"
         }
       ]
     },
@@ -168,20 +160,20 @@
           "title_en": "Jorge Jaller, the executive from Antioquia whom De la Espriella is proposing for Ecopetrol's board | El Colombiano"
         },
         {
-          "title": "Antioquia avanza en la reconstrucción tras el terremoto: 300 familias reciben ayuda | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXl2S1dCN1I5b21lY0F0TWxjRzRCNllDSWtRR3hHd0x1LWNkWUVfSC1PMmZzaExtZm43SDNZdHJROXdKOEo5Rno1WHRHanR1VXptWWg1YXFfQml3Z1pxazBZR2xaR1FwelBJSmgtNWwxOE04anVHNkZtYmlPWHN2czIta0tnZVBiNXlsSjhZOF9CYjRncHRsNjFWQkF1M1BUMEE3enNKN0tiLVNTbmdLZVA4NC1rSWFQMVZz0gHAAUFVX3lxTE90ZUJCM0lxZ0N4aVpWRkNSb09Ndks2UHB3ajgycU9iTmt2MUdadmE1eTF5M0FHeEtINGFXNG5qeUg0SmpmT09iek1XUXFhV01rTnVVcENTUXNKYWNWZGVEYmwtdTNLeXZNTXFpQnVhSVg1bXFjQWpJbkJZbHZXN2d2dFJ2M3ZHcjE0WEhHSGpVbllVVDVsRGZzYlIwMXdHYnM4UnNJSnZ0QXg4SFZGM0JZUkVpS3JHQUdqRlRHTXBJaA?oc=5",
-          "pubDate": "2026-08-30T16:05:49.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Antioquia Makes Progress in Reconstruction Following the Earthquake: 300 Families Receive Aid | El Colombiano"
-        },
-        {
           "title": "¿Por qué le salió un hueco de $60 billones al presupuesto 2027? | El Colombiano",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXpZT3lwNllKWEEwS2w0QThQeW9SQUQ0OGNEajU5ZTh6dmY1MHRNUDg3azhjak1GVlc5Tkl1QVAtUk9JbGxWa2ZrYzFwX3JJd0lkcDB4bGFwemFlcThiQW1TOXRmTFU1V2tNNHJEYWJJeDZTakFITkRieGMzNlA4TURMa2w0WFlVamtILUZTeUjSAZYBQVVfeXFMTXpxSUxKeWFtYlo2aFdTX3ZCdmtmZmEtZmZQZmE2WEtRYVlMVjJaSnBVMFp3Y2U2UkE2TmlEV3o4djU5UzE2MW5pSDhyU3pZTGxFajFoYV9ZUWRHSW8ybHI5UFZfRmw0b2RfblVoUWZhV1NUUXMwSUtIMF94TnJ1QmNubU5CZVJvX010R3VseFRaZGRDMXR3?oc=5",
           "pubDate": "2026-08-30T05:25:03.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Why Did the 2027 Budget Have a $60 Trillion Shortfall? | El Colombiano"
+          "title_en": "Why Is There a $60 Trillion Shortfall in the 2027 Budget? | El Colombiano"
+        },
+        {
+          "title": "El presupuesto: la radiografía del gobierno Petro",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXFWOWFzSzZ4TDFocHF3dkVsLUw3XzBiVmVlLWwzWkoyVERVLUgyVE5RVHNvLUdhcWVmbHFPc2V1VWFQRUp3WFZjNGZqcnczUDBiSDFPWVdGM0pDcl9PR0NlOUlQYy1tb1dCMmJ3dnBtczVKR05UenNBNDluZVhFejJCbmRrRWQ3WkcwOF9NT0VYZTNvNjNLcGdWMEdibjBKLW1VUXp1LXp6V0xT?oc=5",
+          "pubDate": "2026-08-30T05:00:58.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The Budget: An In-Depth Look at the Petro Administration"
         },
         {
           "title": "Clan del Golfo secuestró a tres jóvenes y a líder social en Anorí, Antioquia | El Colombiano",
@@ -192,20 +184,20 @@
           "title_en": "Clan del Golfo Kidnapped Three Young People and a Community Leader in Anorí, Antioquia | El Colombiano"
         },
         {
-          "title": "Gobierno congela los precios de gasolina y ACPM para septiembre debido al terremoto | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanNZSzk4a2VHM0dMV3dLMXotem9vYkVFMXR5bllsRFVMNXZmRjcxcEp0dlJlWF9Sa3NXbnRMVEIzQVoxanRzdnBBN1pSZW9GVlNJb1VqR2I2bEctbWdvRi1nMVVJNVJQT1RXa3RHNGw1YUFKTjRaZlM4TkF5blJmNlYwOFRDTExRSXFoNEljdi1TWmJBNWhVREsxTGNFZHZSNzl5eWQ0eldOQjJvRUhoLWR3NlFieWgzRnJnTk9ZNFlrTUNFYU5IOEQxVWrSAdIBQVVfeXFMTXdnV1dmaEFIcTRtV2pNTFZwT2RmcUpjMGZOQUc3RDhnamV6cnp4N0o3UlRfWEpSTmVoS1FtVGJEc2p3VEN6aEt3YW9oUlp0VlZWWkUwYkJpZDFuczJybjlyNnE4WTJrWl9VOVZmenViYmh0M3FNSWdiOWVqSHROWjh3V0xDb2Y4dXd3c3RZNDAxS0V4MGNQQUJoblBxRVJaUzh2UEpqRllVSVRzOU5sT0NoV2pSdG9lN0RzdG1NNEE2YWZfb3VpcU1zSk9GQWJNQmFB?oc=5",
-          "pubDate": "2026-08-30T02:18:21.000Z",
+          "title": "Antioquia avanza en la reconstrucción tras el terremoto: 300 familias reciben ayuda | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXl2S1dCN1I5b21lY0F0TWxjRzRCNllDSWtRR3hHd0x1LWNkWUVfSC1PMmZzaExtZm43SDNZdHJROXdKOEo5Rno1WHRHanR1VXptWWg1YXFfQml3Z1pxazBZR2xaR1FwelBJSmgtNWwxOE04anVHNkZtYmlPWHN2czIta0tnZVBiNXlsSjhZOF9CYjRncHRsNjFWQkF1M1BUMEE3enNKN0tiLVNTbmdLZVA4NC1rSWFQMVZz0gHAAUFVX3lxTE90ZUJCM0lxZ0N4aVpWRkNSb09Ndks2UHB3ajgycU9iTmt2MUdadmE1eTF5M0FHeEtINGFXNG5qeUg0SmpmT09iek1XUXFhV01rTnVVcENTUXNKYWNWZGVEYmwtdTNLeXZNTXFpQnVhSVg1bXFjQWpJbkJZbHZXN2d2dFJ2M3ZHcjE0WEhHSGpVbllVVDVsRGZzYlIwMXdHYnM4UnNJSnZ0QXg4SFZGM0JZUkVpS3JHQUdqRlRHTXBJaA?oc=5",
+          "pubDate": "2026-08-30T16:05:49.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Government Freezes Gasoline and Diesel Prices for September Due to the Earthquake | El Colombiano"
+          "title_en": "Antioquia Makes Progress in Reconstruction After the Earthquake: 300 Families Receive Aid | El Colombiano"
         },
         {
-          "title": "Gobierno extraditó a ocho colombianos a Estados Unidos y Austria este sábado: ¿quiénes son? | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTRlZm16dFB3eXcxLUdHWmpGdW8xZTJ1UEZaaFNsYTRhVnlkeVVVRmRJc0lqU3dYaEh1am5MWmYxMU1lenFyYTlINGhEclNPNkpsMTZvZ2JhOTI3dlhvTFpMUXplQXVWLTlyRFFnNFQ0QTRYbWtKanFIMDFsWFlGN3hFd1dnWGhOQ3NBblp0bVJKNTd4blJpYTZPcG9vN0taU0JkRVpxaEh2TnFyZnpVSnNia9IBuAFBVV95cUxPX25VMWtrMkJtZmw1aWZ6Q1lCd1Q1bS1tSDFxXzl2Q0lGN1V6aVFBWnVwWkxBRm1UbWFwOVdCSHpFLTVZRkJGSW40UGo0TVhYTV9SZl9XSERtdnVaWERCejN2WktJbGJ2Q0JzcG1nSUFqMTV3cU9XN2ZoOHEzTGM4X0dRek9kTGw0bUtrZlZPMElQQ1V5RlRoVVV4YTUxZHhTVnBJS2hYQUZwM2lQeFUtampfOUNCYmNh?oc=5",
-          "pubDate": "2026-08-30T01:06:34.000Z",
+          "title": "Conexión satelital en 3.480 puntos transforma la vida en las lejanías de Antioquia | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEtPLXFoMnN2eVNBS1Jycm1hYzRhcWJyNTB2NE51TGYzMG1aQm1ILWNLZ3lmT011YzJmZndCR1lKbGR5REM2Z01nNFlQWXo2OVJFeWI5VXFWT3dzMENKMzNnWGFxRlktSnhrTUtadXhiRFdHaXdKSW0xZlh2cDMxT0U0RldGaWFOc0cxUVlqd29NbW5DSHQ4MFBBTdIBoAFBVV95cUxOUkljMi1vZnVDM1M3NEtTYmhXOTBIQklIUjdqSl9pNE9WWlI1c1I4OGtxbWRtLW1LMWQ3MmVHZjJtUFdRLWlhc2FYaU9yc2NPbkhqekxVUlI3eUZDMGZTR21iT1ZKT2kxaU9sVW4yTktWUUd1OXJBVEtETUF1aHRnNWNrSGplVnBrdmF4R0dmLVVZTVc2NWU0dXprcnM5V1Nt?oc=5",
+          "pubDate": "2026-08-30T05:20:23.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Government Extradited Eight Colombians to the United States and Austria on Saturday: Who Are They? | El Colombiano"
+          "title_en": "Satellite Connectivity at 3,480 Locations Transforms Life in Remote Areas of Antioquia | El Colombiano"
         }
       ]
     },
@@ -213,22 +205,6 @@
       "name": "Blu Radio",
       "color": "cream",
       "items": [
-        {
-          "title": "Bucaramanga refuerza preparación ante posibles efectos del fenómeno de El Niño",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQnB2bnB4bVRxeDUyeGQwbEZ1VlREU1ZRNmQ4U2F2dW5EcVhWSHh5ZUZmUzlUck8zLUVCa1A5ZnR6ZGl0aGsyNElXNEFXUU9Bc2FwZURFelU5c3BtN0p2Nk1IaFF2UHdYck9nay1NZS1EbUxLVmlyN1BoTWVkY0cxQXUzdDNoS0VVRHFXeGFRLVlVOWZvSUF5NTV0LWdlZFpSaldsS0lRNmdISHdTX0xsaFBFVUtSUG9zN1Ftbk1fQ2hqd1ZGdWlhcNIB1gFBVV95cUxQY2lsVEJuckNIQ1UtdkQ4NHlDMGctd3ZXcFR2cVUtVWRLYjZmM1FzdnNHa1FmZWwtRnRTQ01fVHpmTHJpT2Z6RGMySThmOHBIcVBybTVqSHlBQjhjdlNsYjNRSkpLYlZYY0JqbGs4RXdqel9BaGFTTDV4MS1kc3JNSWk5QUxiSk4wLW1TMTlXSVZJOUtiX3l1UDA4cWNqbTBsRFl4dndYbkRzYWdZb1ZteHhMSjNpdF9Hd0RfdE0zc3VzM2xFeW9ZeUlFR1ppRDJGQmV3MXJn?oc=5",
-          "pubDate": "2026-08-31T10:47:20.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Bucaramanga Steps Up Preparations for the Potential Effects of the El Niño Phenomenon"
-        },
-        {
-          "title": "Sismos hoy en Colombia: magnitud, ubicación, profundidad y epicentro",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkI4d1RnVzlnWlk5X3JMZG50SWdIbHFQUURnSlZEZGtITDhQV19JYl84YlBwcE1rMnF4dUI5eFdGcE9qMHBBSmg3ZnNGbGppM0gzNFhjMC1uRVYwMUlvbFFIS3lWX0xuQy1mZ3RRTV9vc3dCSmItNFc0dnFhNmF4dXhiOHBpUWtQVDNxZG9pOHBUSXlKd3pPVXMzWmxtRWdsU2t6UtIBsgFBVV95cUxPNmRNVDJhM0JGMlExVEEzektPSmhWZGVtZkdMbEpGWjBickotUURxN0FDZk0zZFdySVBqRWJiVHQwaVdEZUd4MHFMTE9QWWxnbktVTDFJSkZvOWlxVEdvOEFreFB3N1d2SVQ5cXFhWk82dWhleS1VR193anZ3dlVkWXFoeWNfRmFjQUtsU3g3U291QkUtSVFEOGt6UVZKanVfZ2lEeGlaWlExLTJHaUtrUHdn?oc=5",
-          "pubDate": "2026-08-31T09:54:31.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Earthquakes Today in Colombia: Magnitude, Location, Depth, and Epicenter"
-        },
         {
           "title": "Cuatro heridos dejó ataque contra el Ejército en la vía Panamericana en El Patía, Cauca",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaDYwVkZMbVZDNTdpMDRRWWlFUUkyVU1tUDlsSjNRbzVmQUM5M2FGdXctaGhhaDBtWUh6UWpMNjBIdmtnT2dCcmZQaGtuRnhfWkE0azk0SjhwendhbDU4VHZJSU9vVzZyUlZOZG1nTUVJd2tZTjBpZmxyWkZ1WE9vZUtfeXBUUDlsX3IyQ3lnWHhkel95YlJvdGx6cXNjTGtnVm5lbkpIR0RkLTlQeGl6cjc0ZEFLXzdQYmNEQUVFcEFFTmVXc0NQVW9oUGVmc03SAdwBQVVfeXFMUEs5bXNzYl85YkQySFVOU0FnVDlKNHdzbVFqWTZBVjViMi1PQno3WjV1LVJCYmprVkYxczd4U001WFE2eHN5a3UwNnc5SHhBOUxQbDYxQkZJcnBNZV9SYzIyaXlJU2lFem5TUWJDcjRmVG5vVXNOTGJMSGQyUDNvSm1ZRkFwYjVDUVFvRV9LWGc4bmRRMDdPRW5mbnUyUzVZeG1iQngzcm5TU2ZkbXNnYWsxaFc0MkoxdnpBWkhxVXo4RmNGN1hNeEVKOW1NY0JMTVlnNjdDSHgzSURTYg?oc=5",
@@ -243,7 +219,7 @@
           "pubDate": "2026-08-30T22:19:18.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Colombia has recorded 137,000 people missing due to the armed conflict since 1921"
+          "title_en": "Colombia has recorded 137,000 people who have gone missing due to the armed conflict since 1921"
         },
         {
           "title": "Extradición cabecillas: Ricardo Calderón revela qué podrían contar en EE. UU.",
@@ -251,7 +227,7 @@
           "pubDate": "2026-08-30T21:05:31.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Extradition of Ringleaders: Ricardo Calderón Reveals What They Might Reveal in the U.S."
+          "title_en": "Extradition of Ringleaders: Ricardo Calderón Reveals What They Might Say in the U.S."
         },
         {
           "title": "Asesinan a líder del Comité del Adulto Mayor en zona rural de Jamundí, Valle del Cauca",
@@ -259,7 +235,23 @@
           "pubDate": "2026-08-30T18:26:30.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Leader of the Committee for Older Adults Murdered in a Rural Area of Jamundí, Valle del Cauca"
+          "title_en": "Leader of the Senior Citizens' Committee Murdered in a Rural Area of Jamundí, Valle del Cauca"
+        },
+        {
+          "title": "Fiscalías de Colombia y República Dominicana crean equipo conjunto para combatir trata de personas",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQVEybl9UNTJYOTBFSno1OWRrYi0tTzlic0xUSlFtNFNIYldrOXFiSjhGd054aE44WXJSUjBlZW1WX1VRU1pxLUtvNjBiQ04wc3Fnb21jVnJqTURmdmtuMG85ZmdMVDZMSmpYdmRETnN3YlBhSXVZZGYzSlRnUVRmaE1KQ2xzdXp0VzZERHRSOGROdzZZWDNmeTdQMkZoZlhXQjRCNjRDV2szZ2JXY25uV3d4R2JkRW5JN0hYOVJ0aFNqZzF0U2dPbTJQWWlseUZneXIw0gHgAUFVX3lxTE1TLXZGM0JDZFRZTi1XVzdla2xIckhUTVp3T19BalpTcXBka2ZPMjZhNTBPb2hJZXRqVzEtSk9DVGx4VUpDRG45TzZpYjdVR2NYWnYzMEI0RmRGWlQ5a255ekJ6eExiUjRhdzZOTDdRZl9MOFFGVjJ3enkySkxRRDRNOVVLYXE2S0ZvTGs5VHk4TDYwMFBRR19kNXUxaWhDck5VZUZ2S1lwTTVGa0VxT19Bc1Y0ZGd3RzAtY0g0bjVJUEYzLXJTTmhkN3lUNVJ3a0RrclkyTG5YeGZDUGZ2SUhS?oc=5",
+          "pubDate": "2026-08-30T17:20:55.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Prosecutors' Offices in Colombia and the Dominican Republic Form a Joint Task Force to Combat Human Trafficking"
+        },
+        {
+          "title": "Atacan con explosivos base de operaciones de empresa de aseo de Popayán",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjBVZ3c3VE9sT09yWll5bzc5bXJzZ04zdnFqRXBHbDRfUzlheE9NSVVSZ2JJM3JPdExpUk9KemtwVkZySVF1dnR4V3pvQUtzNFJpRFMtNXJMQ3B4Sjk0aExyUU5ibndCYnZmaWxKVFpzZHBzTHQxb1RqTWlrUU92STNpSjR0Q1dablFTNHdsVEthazdvMlFPVXdBdFNGSEpGdjZXV3ByYXZqVnRLRkFZOC1hb0VUOWdwMVpj0gHIAUFVX3lxTE5TeWdrcFA1UzF5dDZvdFc2a054OUdEVzJoeXdmNVlvYUUzN2tuaXBmRDE2dnNGM2hMTzRDaWExVnFZZlZ6MmVoejZXbDMxZUFPc0dta1d3WnpRUlVlUVlEZk9sT05RMWd1RUhXelZzckF1cHdwakZvT1FnOURZcUdKQS03Z1pCNGQwTGc3UlhmcGdtMXR5VWdTSmxSNTdHLVItekVNYmhlUllPYkw1UmtlMlJ4UFJOMkNGVWV1M2VObEU1azVoZVZa?oc=5",
+          "pubDate": "2026-08-30T16:59:34.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Explosives Used in Attack on Cleaning Company's Operations Base in Popayán"
         }
       ]
     },
@@ -268,36 +260,26 @@
       "color": "mint",
       "items": [
         {
-          "title": "Cayó alias Gordo presunto cabecilla del grupo criminal ‘Salsas Nueva Generación’ en Cartagena",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2R5UUdHLUFUdHVGYzh0b19fWHI5VEJWZzRxcnljaXhKVFNmSC0wUHBDN1I3cWkwRmc3MFhPZWt0ZmVvWnY5cUFfQmpCMjZSb1AzTU16eUoxYmxqZXVtdVZabDRjNTJ1V3BZZ0gtcjBHd0ZyUVZRMWkyTHdWZXdaWDB1dUU0LWlDekdQQngxejdxTnZVdE90b1ctaW1YZlpsZWIzNlpnNzE2MF9jWnZjVU9JU3RlUlUxdFRMT1pWNXh6aWYt0gHYAUFVX3lxTE9Dai1ibEdqVEExZUsyVU5BeVAwLThRMWtpSHdIanBfb0NJbGpsRzdvZjhaV3pwRlNSV3l0Qi11Y3llYWdmbGc3TWpDUEFncHBhTzJZUElfbVNfdkNHZFBrZmc1bkFBUDN3WWQxWXZnTVpFU3FFN012cE8tckJIT0otMDQ3azdxeVE3ak1xLThJVlh2WGFRR3JXc1A2bVYzM2ZzcHkwVURrMndGTFppRzk1N2gyVXF6TVh6WE01RmdFTVNUd3R2aG0tczByLTZGVlFFYk0xRnNNeg?oc=5",
-          "pubDate": "2026-08-31T11:24:07.000Z",
+          "title": "La visita que hará la Fiscalía en Montería a Salvatore Mancuso previo a la indagatoria a Uribe",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdEVvOTAwTmw5UmVXb3V1YTVKOTJaMTM1VURjdUVFTThkM3k2Q3dqZ1BsaWMyUjBFVWN1ZnhnUnFodnp1eEhBNUstbEJRMndlNDduNFZUcWhpdWRvbzRjZ1VLdnByM1ZfME1hOFlWek83ZTBra3NWTmp5aVI3UzBVbXhHcUN2b0tYV3lRVmhoUTZ3bGJQT2hEd1J4YTJFV3NiWUF0Y05DY1RJb3NJa25FNlZhSmMtc0c0NXhKeHpodHdYMmwyM05tONIB3AFBVV95cUxQS1BaZ2lCZkdKcVE2a240U2lMdEJPZW44V0JIQmlVQnJuUjFwaHZfVzNFSjJ2V2JRX2VXTXFzdWZPVXdlOWtSWlFuYkF6am1aY3dKYjVIWjJJc3M3WTNubG5CTzN0RzBwY090TENrR2swbkU1a0NGclEzcWJGa0ZqZUcybDFRbGx4LS1OWkdySkJhZHZwakVXelJmLXd4bXkzWi1OOFhnaDJaMWxaQXVLcTdGNWFPYW5ZMlZEYkRNQ3pjcVVPXy04YWM4SFZKVW1MMDg4UWF1MlNpNmZZ?oc=5",
+          "pubDate": "2026-08-31T11:53:20.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "\"Gordo,\" the alleged leader of the \"Salsas Nueva Generación\" criminal group, was arrested in Cartagena"
+          "title_en": "The Prosecutor's Office's visit to Salvatore Mancuso in Montería prior to Uribe's preliminary hearing"
         },
         {
-          "title": "Tras disculpa del presidente De la Espriella, ¿Quién más debe pedir perdón?",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDVJNjA4dzJXQW53QUtGRXA5QnBEOHVWcTg1Zmk4Zkl2bEhtMHhIU3lGY04waUJEZENITDFMVlZ3TXpBLTNubnNwR0N5UWswa2J5UFo4TEJkZWR0QU5xR3ZKY2NSdGl5aFhRSFFodFk2ZjJpUTcybTBrSHZKZFZrOC00VTZVbGF1V0YzbU8waTZRUXctNWl6c2lQaTdKV1lkTThLSUtYWE5idUnSAb8BQVVfeXFMTlE4OHB2ZWdoeUJXVUFublRYTlp5cUN0VUhseDR5RTcwYWl3S1pkYkxnQzdBdVRWdFc5VFRzZEMzV3lwRnJuMU1ndzZHVS13ZE04NmpRN1hERGVFdG9QY2tPWldaR3g1VEZ3OFZoS0tBV2Jqd2FNZU12X0Z1RWFFbU9qa01ONmtBS3pBWm1NbndwLXdFWXE4dHB5ei00Z2NYZGlIZmxvNGRrWGJocTZsSW9IcDVfS0NmSlVYSGx6aVU?oc=5",
-          "pubDate": "2026-08-31T11:01:06.000Z",
+          "title": "Asesinaron a dos hermanos en el presunto robo de una motocicleta en Purificación, Tolima",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDBpZTg2LUVVcUR2Y2U0QjdLQ2l1V09qS1NpYVZIbTB6ZUdaU0MzS05EanhZVnJrMzBGQXFhNmVGc3VHTkdhV2ZNVkE1ajJVdGlodjNKT3VhYkFtdEtmbHVoVk5wYzVSOVowMEJya3ZHLUN6Q0ZOZGZMSnhnYzh1dVUxRlQ4Q2F4R1pSSnVHQVpVVDl5dkNWMHhwbURwaGNJYWRDOEdqR21fR3lSV0pWYUVWU3FMcnlyWThYbElyVdIB0wFBVV95cUxOaVBnRkI1aldheG90eml5dEI3eDJLV3RhTWxlem5udHpacWdfUXlvdmFXd1Qzd29KcFNMWEF6Wnc5cG1XeHE3TWJHUTFJcEtGYlQzVWVrTkdrNHNuUXZFd0VQazJjN01GT2Y3dEk4Ul81bEVSRTUyNlFaZzNMZE5rTWIzRlBmTFdrcFJUOU1yUnZhN3ZMNV9CUzlTYURvV1U1M1FGSDJmNl8tMUNHRGx0a2o1QVNYa3BDT0RCSHA1Q2lULWJ1VmdPdzVkaVEzR0J3Tnh3?oc=5",
+          "pubDate": "2026-08-31T11:51:41.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Following President De la Espriella's apology, who else should apologize?"
+          "title_en": "Two brothers were killed in an alleged motorcycle theft in Purificación, Tolima"
         },
         {
-          "title": "Reconstrucción, fin de la paz total y más: los temas del presidente De la Espriella en alocución",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakFrRWFYd3hXcGtia08xanIwNTBUN092cG9xVlVxOXNSbXBhemUyendrRG55OXZzSnVsSWkwZ3pCNlM3WjVUYkkxalhVempHekUyM3d3aUJHZXFXZjJKR3NabXg4Y0JvaDR6REpaNVhjSVNUVG5JZDZKUkNVRDl3NEtGSkx1Qll3S2dyREZMWkVSXzRmS1Rv0gGrAUFVX3lxTE41NzNIdjlpQzNubmtJY1dGaDdNeTRncUNVV0RidFEzUmoyZUpNQl9IbGNvZGMxUXVub2VRVlFlNWQyOWIzNWlzMm5ET1FXX3JkbEItUTUyN3lfbTRNZ05GSlRtZWVzQzRGYS05cDJ0aTRvNU91TVZmTjdzbk1FdWtSVzRVUW5tM2JBSzR5TUZVZEs4dVNzblVEQ1FWTFN3UzNkMUVVMkdSVU9YSQ?oc=5",
-          "pubDate": "2026-08-31T01:54:16.000Z",
+          "title": "Noticias y Radio Online",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNVE4X0ZUdkxPZnYwV09QVENPbFFaVkduenRia2pMclROVGgwdTN4blM2TFdMLUZNOTNqYmdsdFpURmdSZ0g2TTc1YzVCMWlwRUVyOFlMR21vRUh2MTdEb0pWUl9wNXdSVjN4OHhJZ0d0TDMyQ1BrOEZWWWZXeW9GZ3lJX0ppMmJpLXU1N2tpcHlJdC1wWWxxV1M2UXBjNDlIUzVuMGRuM3o3aHJ1Yl9pb0xPbWdTdUF2eldRQUFYSDVUcEZoWndKdmZISDJBb1VEcEZsdGt5SWJmczJtUmlVWWVB?oc=5",
+          "pubDate": "2026-08-31T11:43:19.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Reconstruction, the end of total peace, and more: the topics President De la Espriella addressed in his speech"
-        },
-        {
-          "title": "Con explosivos atacaron de nuevo instalaciones de Urbaser en Popayán",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMk80TUhETXBGMGN3c2ppSFVJcmhSMUtCNERZSUpXQUhCeXNoNTgtWjRLTTAtbVVxc0pCU1VaOXc3SkdqalVGUEZXb1hwejk2OS02bUJWTXNRdkw4cHBWZUtsQmF1ZklTWlJHS2JCci1OVTNqRXdPY2RyMXAtc0xtRU1oTUV6Q2wtNXNZZTN6VzNtZEdqcm16QmJKOHVHT2RGUkd3TVRn0gG6AUFVX3lxTFA3RUNzcC1rdWtkb1pxaVQyQTJrTU1FZlBINmtEYXN2SmMzVzNTNXVYcU4zWmJqazFHdXpxSXZ4Yjd4WEphMEFIVG5wcE5reEFTdGhWVDIzMEE3Z2h0QWpTclMtR3czdWxoTFlKdUZhblM3Rk5wdFlFRVkwV3IzYUVfOE1IOW9SMW05Zk5UQ0RnQkRaRkZnR2Z5X3VtMlBiOF80bGltVUxOMUhaSXYtNVBodjVPdlNhR0VGUQ?oc=5",
-          "pubDate": "2026-08-30T23:31:15.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Urbaser facilities in Popayán were attacked again with explosives"
+          "title_en": "News and Online Radio"
         }
       ]
     },
@@ -347,7 +329,7 @@
           "pubDate": "2026-08-30T21:31:46.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "New estimates indicate that the economic losses from the earthquake in Colombia now exceed $40 trillion"
+          "title_en": "New estimates suggest that the economic losses from the earthquake in Colombia now exceed $40 trillion"
         },
         {
           "title": "Nuevo Código de Tránsito en Colombia: así cambiarían las multas, licencias y cobros para los conductores",
@@ -355,7 +337,7 @@
           "pubDate": "2026-08-30T20:04:05.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "New Traffic Code in Colombia: Here's How Fines, Licenses, and Fees for Drivers Would Change"
+          "title_en": "New Traffic Code in Colombia: Here’s How Fines, Licenses, and Fees for Drivers Would Change"
         },
         {
           "title": "Expresidente Uribe defiende la Ley 100 y dice que las nuevas reglas pensionales ‘marchitan el ahorro’",
@@ -363,7 +345,7 @@
           "pubDate": "2026-08-30T17:33:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Former President Uribe Defends Law 100 and Says the New Pension Rules ‘Erode Savings’"
+          "title_en": "Former President Uribe Defends Law 100 and Says the New Pension Rules 'Erode Savings'"
         },
         {
           "title": "De La Espriella ordena auditorías forenses en entidades para revisar gestión y contratos del gobierno anterior",
@@ -371,15 +353,15 @@
           "pubDate": "2026-08-30T17:00:10.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "De La Espriella Orders Forensic Audits of Government Agencies to Review the Previous Administration's Management and Contracts"
+          "title_en": "De La Espriella Orders Forensic Audits of Government Agencies to Review the Previous Administration’s Management and Contracts"
         },
         {
-          "title": "Venezuela recibirá 19 dólares por barril bajo el acuerdo petrolero con Estados Unidos",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTTMtcVhoYjI4eWVzdzQta3I3azdFT0VTLTIxTXNJMk92VkZxcnltSE5zaVg1WmJjd1IxZElYOHZPczRlRFZCb3IxalpraC15UlJXRXBYM2RPck80Sk5YcFp0ZzdCX25FNkxZcWk2dHhUYk1wOXFEb05FRUhGVVg5dHN3ejRWSDdEck5zd0d0SmhQbjZNNlVhVk1qR1JsckJleXhHWTk0LWM2bmx6Zk9vSlhSUnhEdkIzM19VanZR?oc=5",
-          "pubDate": "2026-08-30T16:26:09.000Z",
+          "title": "Colombia requeriría $150,9 billones en TES y $87,7 billones externos para financiar el Presupuesto de 2027",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX1ZsRkxldVE5elRRdXFvQlc1V0Z6NmRhYUJ6dVBwZ0NlVWtjNDZhSFFlbll0T1l4eU9sdVlUeGg5bGtvVEc5QkQ0bUNScXVEZmVxa2ZhdE4yanpETEh5VWV1R3pFSWx6b3c4SndwWE51UVhkemZ3Qkd6NU9odnVQazFEaGxTcHRhcTZDTVZsYTFxTXVDbHhnZHFHUjRxWk8xV3V4YWlhTktJVmVNTXdseHhnMTg2UzVzVUJsZEN2bHJVa2VwcTdpLXhqWkFsMUVFZEg1SjJjN2I?oc=5",
+          "pubDate": "2026-08-30T15:54:14.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Venezuela will receive $19 per barrel under the oil agreement with the United States"
+          "title_en": "Colombia would need $150.9 trillion in TES and $87.7 trillion in foreign funding to finance the 2027 budget"
         }
       ]
     }

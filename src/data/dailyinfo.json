@@ -1,11 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:45:38.271Z",
-  "dia": {
-    "nombre": "Día Internacional de la Solidaridad",
-    "descripción": "Conmemoración de la solidaridad global y la cooperación internacional para enfrentar desafíos comunes de la humanidad, promoviendo la unidad entre naciones y pueblos."
-  },
-  "dia_en": {
-    "name": "International Day of Solidarity",
-    "description": "Commemoration of global solidarity and international cooperation to face common challenges of humanity, promoting unity among nations and peoples."
-  }
+  "generatedAt": "2026-08-31T12:03:15.828Z",
+  "dia": null,
+  "dia_en": null
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:45:31.434Z",
+  "generatedAt": "2026-08-31T12:02:55.057Z",
   "colombia": [
     {
       "city": "Bogotá",
@@ -12,7 +12,7 @@
     {
       "city": "Medellín",
       "city_en": "Medellín",
-      "temp": 17,
+      "temp": 18,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -37,9 +37,9 @@
       "city": "Barranquilla",
       "city_en": "Barranquilla",
       "temp": 27,
-      "description": "Tormenta",
-      "description_en": "Thunderstorm",
-      "icon": "⛈️"
+      "description": "Llovizna",
+      "description_en": "Drizzle",
+      "icon": "🌦️"
     }
   ],
   "mundo": [
@@ -47,9 +47,9 @@
       "city": "Nueva York",
       "city_en": "New York",
       "temp": 21,
-      "description": "Mayormente despejado",
-      "description_en": "Mostly clear",
-      "icon": "🌤️"
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Londres",
@@ -70,7 +70,7 @@
     {
       "city": "Tokio",
       "city_en": "Tokyo",
-      "temp": 25,
+      "temp": 24,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
