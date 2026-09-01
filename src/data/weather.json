@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T12:45:14.808Z",
+  "generatedAt": "2026-09-01T13:05:59.113Z",
   "colombia": [
     {
       "city": "Bogotá",
       "city_en": "Bogotá",
-      "temp": 15,
+      "temp": 16,
       "description": "Parcialmente nublado",
       "description_en": "Partly cloudy",
       "icon": "⛅"
@@ -20,10 +20,10 @@
     {
       "city": "Cali",
       "city_en": "Cali",
-      "temp": 21,
-      "description": "Parcialmente nublado",
-      "description_en": "Partly cloudy",
-      "icon": "⛅"
+      "temp": 22,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Cartagena",
@@ -36,7 +36,7 @@
     {
       "city": "Barranquilla",
       "city_en": "Barranquilla",
-      "temp": 29,
+      "temp": 30,
       "description": "Mayormente despejado",
       "description_en": "Mostly clear",
       "icon": "🌤️"
@@ -46,10 +46,10 @@
     {
       "city": "Nueva York",
       "city_en": "New York",
-      "temp": 23,
-      "description": "Mayormente despejado",
-      "description_en": "Mostly clear",
-      "icon": "🌤️"
+      "temp": 24,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Londres",

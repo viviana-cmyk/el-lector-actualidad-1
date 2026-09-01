@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-08-25T20:28:12.411Z",
+  "generatedAt": "2026-09-01T13:06:21.925Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Guerra comercial Estados Unidos-Canadá",
-      "titulo_en": "US-Canada Trade War",
-      "region": "América del Norte",
+      "titulo": "Escalada militar rusa en Ucrania y ofensiva aérea sostenida",
+      "titulo_en": "Russian military escalation in Ukraine and sustained air offensive",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Canadá impone nuevos aranceles de entre el 15% y el 50% a Estados Unidos como represalia a los de Trump",
-        "link": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html",
-        "fuente": "El País"
+        "titulo": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
+        "link": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+        "fuente": "The Guardian"
       },
-      "analisis": "Canadá ha implementado aranceles retaliatorios entre 15% y 50% sobre bienes estadounidenses clave (acero, pescado, queso, papel) en respuesta directa a las políticas arancelarias de Trump, escalando significativamente la fricción comercial bilateral. Esta confrontación amenaza las cadenas de suministro norteamericanas integradas y genera presión sobre los negociadores, con riesgo de expansión a sectores tecnológicos y manufactureros críticos.",
-      "analisis_en": "Canada has implemented retaliatory tariffs between 15% and 50% on key US goods (steel, fish, cheese, paper) in direct response to Trump's tariff policies, significantly escalating bilateral commercial friction. This confrontation threatens integrated North American supply chains and creates pressure on negotiators, with risk of expansion to critical technology and manufacturing sectors."
+      "analisis": "Rusia intensifica ataques aéreos coordinados contra Kyiv durante seis noches consecutivas, demostrando una campaña sostenida de presión sobre infraestructuras civiles y capacidades defensivas. Este patrón sugiere un cambio táctico hacia la attrición prolongada mientras Putin planea escalar militarmente, según análisis económico reciente, lo que podría forzar negociaciones o profundizar el conflicto.",
+      "analisis_en": "Russia intensifies coordinated air attacks on Kyiv across six consecutive nights, demonstrating a sustained campaign of pressure on civilian infrastructure and defensive capabilities. This pattern suggests a tactical shift toward prolonged attrition while Putin plans military escalation, according to recent economic analysis, which could force negotiations or deepen the conflict."
     },
     {
       "rank": 2,
-      "titulo": "Crisis migratoria en Ceuta y respuesta europea a migraciones",
-      "titulo_en": "Ceuta Migration Crisis and European Immigration Response",
-      "region": "Europa y Mediterráneo",
+      "titulo": "Restauración de relaciones diplomáticas EE.UU.-Rusia y ruptura con aliados europeos",
+      "titulo_en": "US-Russia diplomatic restoration and rupture with European allies",
+      "region": "Europa y Atlántico Norte",
       "noticia": {
-        "titulo": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Delegación del Gobierno en Ceuta contradice a Robles y niega haber recibido información que anticipara la crisis",
-        "link": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-        "fuente": "El País"
+        "titulo": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
+        "link": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "La entrada masiva de migrantes en Ceuta ha expuesto fracturas administrativas en las respuestas de seguridad española, mientras el Gobierno endurece leyes de extranjería en línea con pactos europeos restrictivos. Esta crisis refleja las presiones migratorias persistentes desde el Sahel y el Magreb, con implicaciones para cohesión política hispano-marroquí y posicionamiento de España en políticas migratorias europeas.",
-      "analisis_en": "The massive migrant entry into Ceuta has exposed administrative fractures in Spanish security responses, while the Government hardens immigration laws in line with restrictive European pacts. This crisis reflects persistent migration pressures from the Sahel and Maghreb, with implications for Spanish-Moroccan political cohesion and Spain's positioning in European migration policies."
+      "analisis": "La invitación de Trump al ministro de Finanzas ruso a la reunión del G20 genera protestas europeas y revela una reconfiguración de alianzas occidentales, con EE.UU. buscando normalizar relaciones con Moscú mientras la OTAN despliega cazas en Estonia por violaciones aéreas rusas. Este contraste señala una fragmentación en la cohesión transatlántica sobre la política hacia Rusia.",
+      "analisis_en": "Trump's invitation to the Russian finance minister to the G20 meeting sparks European protests and reveals a reconfiguration of Western alliances, with the U.S. seeking to normalize relations with Moscow while NATO deploys fighter jets to Estonia for Russian airspace violations. This contrast signals fragmentation in transatlantic cohesion over Russia policy."
     },
     {
       "rank": 3,
-      "titulo": "Sanciones e injerencia estadounidenses contra Irán y aliados estratégicos",
-      "titulo_en": "US Sanctions and Interference Against Iran and Strategic Allies",
-      "region": "Oriente Medio y Asia",
+      "titulo": "Intervención geopolítica estadounidense en Venezuela y dependencia energética estratégica",
+      "titulo_en": "US geopolitical intervention in Venezuela and strategic energy dependence",
+      "region": "América Latina",
       "noticia": {
-        "titulo": "China denounces US threat of sanctions over trade with Iran",
-        "link": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
-        "fuente": "The Guardian"
+        "titulo": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+        "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Estados Unidos amenaza con sanciones contra China por comercio con Irán, mientras la administración impulsa presión máxima sobre la República Islámica, incluyendo infiltración de tecnología (caso de servidores IA en Taiwán) y fortalecimiento de aliados como los Hutíes. Esta estrategia multifrente busca debilitar las capacidades regionales iraníes pero genera fricción con potencias como China y Rusia, con riesgo de escalada en el Índico y Golfo Pérsico.",
-      "analisis_en": "The US threatens sanctions against China for trade with Iran, while the administration pushes maximum pressure on the Islamic Republic, including technology infiltration (Taiwan AI servers case) and strengthening of allies like the Houthis. This multi-front strategy seeks to weaken Iranian regional capabilities but generates friction with powers like China and Russia, risking escalation in the Indian Ocean and Persian Gulf."
+      "analisis": "El Pentágono bajo Trump establece operaciones directas en el sector petrolero venezolano, marcando una expansión militar en asuntos de recursos naturales donde históricamente operaban actores civiles. Este movimiento refleja un enfoque más agresivo sobre la seguridad energética hemisférica y puede elevar tensiones con gobiernos regionales mientras busca contrapesar la influencia rusa en la región.",
+      "analisis_en": "The Pentagon under Trump establishes direct operations in Venezuelan oil sector, marking a military expansion into natural resource affairs historically managed by civilian actors. This move reflects a more aggressive approach to hemispheric energy security and may escalate tensions with regional governments while seeking to counterbalance Russian influence in the region."
     }
   ]
 }
