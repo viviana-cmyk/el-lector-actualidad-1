@@ -2,25 +2,25 @@
   "_comment": "Los libros se actualizan automáticamente el 1° de cada mes mediante el workflow update-books.yml. Las tendencias de redes y podcasts siguen siendo manuales.",
   "books": [
     {
-      "title": "Enemigos Íntimos: La larga guerra entre Petrismo y Uribismo",
-      "author": "Mauricio Aranguren Molina",
+      "title": "El Terrorismo en América Latina: Historia, Presente y Futuro",
+      "author": "Álvaro Camacho Guizado",
       "color": "blue",
-      "tag": "Colombia · Política",
-      "description": "Análisis profundo de la rivalidad política que domina Colombia, esencial para entender los conflictos actuales entre el gobierno De la Espriella y las fuerzas tradicionales. Contextualiza las acusaciones recientes y la lucha por el poder institucional que marca la agenda nacional."
+      "tag": "Terrorismo · Seguridad",
+      "description": "Análisis comprehensivo de las dinámicas del terrorismo en la región, fundamental para entender los ataques como el de Los Patios y la respuesta estatal. Proporciona contexto histórico y estratégico sobre grupos disidentes y sus métodos operacionales en Colombia y el continente."
     },
     {
-      "title": "Renta Básica: Un Ensayo sobre la Libertad",
-      "author": "Philippe Van Parijs",
+      "title": "La Corrupción en América Latina: Instituciones, Dinero e Influencia Política",
+      "author": "Jorge Domínguez & Abraham Lowenthal",
       "color": "mint",
-      "tag": "Economía · Desigualdad",
-      "description": "Propone modelos alternativos de protección social frente a crisis económicas, relevante ante los retos presupuestales de 30 billones que enfrenta De la Espriella en 2027. Ofrece perspectivas sobre redistribución y estabilidad social en contextos de austeridad fiscal."
+      "tag": "Instituciones · Corrupción",
+      "description": "Examina cómo la corrupción debilita las instituciones democráticas y afecta la seguridad, directamente relevante ante investigaciones como la del general Mejía y cuestionamientos al CNE. Ofrece herramientas conceptuales para evaluar la gobernanza en contextos de transición política."
     },
     {
-      "title": "Drogas y Democracia: Hacia un Cambio de Paradigma",
-      "author": "Hempy Cole & Juan Carlos Garzón",
+      "title": "La Paz Imperfecta: Conflicto Armado y Construcción de Paz en Colombia",
+      "author": "Jairo López Frías",
       "color": "rose",
-      "tag": "Seguridad · Narcotráfico",
-      "description": "Examina la relación entre economías ilícitas, control territorial y estabilidad institucional en América Latina. Fundamental para comprender los operativos contra 'Calarcá', los ataques en Cúcuta y la persistente amenaza del ELN en contextos de transición política."
+      "tag": "Paz · Conflicto",
+      "description": "Analiza el fin de los diálogos bajo De la Espriella y la tensión entre acuerdos de paz y seguridad integral. Contribuye a comprender los dilemas entre negociación y confrontación armada que caracterizan la actual política de seguridad del gobierno."
     }
   ],
   "tendencias": {
