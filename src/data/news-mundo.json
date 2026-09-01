@@ -1,25 +1,41 @@
 {
-  "generatedAt": "2026-09-01T13:05:59.113Z",
+  "generatedAt": "2026-09-01T14:35:34.517Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "La Corte Suprema permite a Trump continuar construyendo el salón de baile de la Casa Blanca",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ01oWnoxbkY5dndOSXpuclRGX3RMTnFZMU5RODdkSy1LaWtqdXBLaWhKTEJWRWUtNldxTGQ4ZmFNQkc1TjRjR2M0YVpuX3A1clVaT2VoMWhNLXhaWl9KYlgydTVKd0NsOGtWdnp6bHNfYUJVaEVROWdYeXoyT3VvTDBSVTZTbzZ4eF8zaWVLOVJGdC1DXzFlSmhRQ3E?oc=5",
-          "pubDate": "2026-09-01T01:53:00.000Z",
+          "title": "Sepelio masivo en Nepal para víctimas no identificadas de las inundaciones",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN2YweU1NUkF2RmdtRm1OYXlDNnF4VWdrQXBrSm5Da2tOWFFSU0U0LVNqUm80Tmw1MDlNbVVFUVFWeks5UmxTcjVseWVMcmY2Wk05T2JMTlc3VUwxMFJQVkl3STlfcV9mSDdwNjlfT1VWd3RaZE5aTzZSN29UZGczLQ?oc=5",
+          "pubDate": "2026-09-01T13:58:07.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Supreme Court allows Trump to continue building the White House ballroom"
+          "title_en": "Mass burial in Nepal for unidentified flood victims"
         },
         {
-          "title": "Una demanda sacude a la cadena de gasolina barata elogiada por Trump",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM3ZnXzQ4XzhmVXBtQ1FSM0Z4aG9ObFFxSkduYXFmeWJjRFpWcW5HN0ozTExNM01mUU5oYkRkeDdIN3lMOEtkMFlQSzk3VG1tUG8tNGJveDFsNmZvUWZlUDFObUxqbjFrT3M4WEY1YWkzenpicVU5QjRkMkowcEZSQVJETQ?oc=5",
-          "pubDate": "2026-09-01T02:07:00.000Z",
+          "title": "La tormenta tropical Edouard podría \"fortalecerse significativamente\" a medida que se acerca a la costa",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTNkcnIzcU4zcjZyM0ZGTE5PYXM4b09NQzBOM1U5aG9Wb2ctNGxFejA3cmlHTVJtY0Z4UV90ZHdaT0xzRHZmdkhkUi1kWS1Vc3N4Y2lmcTdKZjNITmlmbW0yR3NieGc4MW84dTVqblFIcFBqMGo5MjZYOE00VnVZQzl2V3ptWm9FaS1pUU13aGxlT1JSUEd0VEZrSQ?oc=5",
+          "pubDate": "2026-09-01T11:55:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "A lawsuit rocks the budget gas station chain praised by Trump"
+          "title_en": "Tropical Storm Edouard could \"strengthen significantly\" as it approaches the coast"
+        },
+        {
+          "title": "\"Ustedes son buenas personas, pero pasó la situación de la visa\": colombianos cuentan cómo ICE los detuvo en un aeropuerto",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFE0NUNtaTZVTWl6b0tMX3B5REVxTHhCa2tabnlDMU00bWRTcXd5Vl9zSENwVUQ5ei1UZV9sRm1pc29OM0J4RXF5V1hiUWF6bGc1bkdCQk91RF9oQ3Q3YVplOF8yMVpyd0NFU1lvblczeHViUlk1dnZJWFBLYjRieXQybnVXREhvZWxiQTVXZHBlMzhVaERPTUgyX3BhQQ?oc=5",
+          "pubDate": "2026-09-01T12:43:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "\"You're good people, but the visa issue has come up\": Colombians recount how ICE detained them at an airport"
+        },
+        {
+          "title": "Denuncian que el USPS no comunicó al público nuevos planes para el voto por correo",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlN5U0JuZmt5Q3pKeXpfUk1nY0x1R0F1REhDVXZqQTZBSWNHckFKbkViWkh6V0lzMEF5UVo2QWk4U3o1eXRfdHJacF9uM2M3azBXeWNxQWxNWU4yWW9IclRDRFoxTTJTUnBtTThjTVB4dTUtaU9kS1JwakpNenozN2JSblN1QQ?oc=5",
+          "pubDate": "2026-09-01T12:57:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Critics say the USPS failed to inform the public about new plans for voting by mail"
         },
         {
           "title": "El secretario del Ejército de EE.UU., Dan Driscoll, presentó su dimisión tras las tensiones con Hegseth",
@@ -36,22 +52,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "British man accused of drugging and sexually abusing his wife appears in court along with 12 other people"
-        },
-        {
-          "title": "Una batalla por el Senado pone a prueba el progresismo en Massachusetts",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFAtbmxkX3UtQjlENUdLZ29CbGhsLTBBMFdueDl0TGRpWmlHWXZ2QUdIZXYyTkxzSEtER1hxS180YVNBTEF5REtPSUJUdk5uTWwzdTMwSjBCWUQ4TDFaUzRrYXp5dkttTlVWNDUtVWt1dzRzNjNqczJ4OEhfZWkxbU9iSlV0RzlWTWRJa3dGdTlXdw?oc=5",
-          "pubDate": "2026-09-01T06:09:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "A Senate race puts progressivism to the test in Massachusetts"
-        },
-        {
-          "title": "Espera de 30 años para obtener justicia por la muerte de Tupac termina con condena por asesinato en menos de 3 horas",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlFldGt4aWgtWm5uQ1ptVG1iM00wVHZ6SG5ZZGlTVGFfLV8xS0hkWU5uekJqSUdkdnIxNFhDQkFmOHZiSFRlcUs0c09OakJNMGhpYkFJaHlvNk96UUs5Ujk4TzhUS1I1bUNYeE56OXM0RTltUEFWQm5jaVlMVUZ6YnVmZWo2ZXJzNGh2VVdRT0xyaUk?oc=5",
-          "pubDate": "2026-09-01T11:13:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "A 30-year wait for justice in Tupac's death ends with a murder conviction in less than 3 hours"
         }
       ]
     },
@@ -60,52 +60,52 @@
       "color": "sky",
       "items": [
         {
-          "title": "Adiós al dolor de espalda o cervicales con este pequeño ‘gadget’ que será tu mejor aliado tras las vacaciones",
-          "link": "https://elpais.com/escaparate/estilo-de-vida/electroestimulador-muscular-para-aliviar-dolor.html",
-          "pubDate": "2026-09-01T09:34:00.000Z",
-          "snippet": "Invertir en un electroestimulador muscular con casi 6.000 valoraciones en Amazon es todo lo que necesitas: su autonomía es extensa y equipa 20 niveles de intensidad",
+          "title": "La inflación en la eurozona se eleva al 3,3% en agosto impulsada por la energía",
+          "link": "https://elpais.com/economia/2026-09-01/la-inflacion-en-la-eurozona-se-eleva-al-33-en-agosto-impulsada-por-la-energia.html",
+          "pubDate": "2026-09-01T11:39:52.000Z",
+          "snippet": "Según la primera estimación de Eurostat, los precios energéticos subieron un 14,3% interanual el mes pasado, en comparación con el 10,3% en julio",
           "_priority": "ALTA",
-          "title_en": "Say goodbye to back and neck pain with this little “gadget” that will be your best ally after vacation"
+          "title_en": "Inflation in the eurozone rose to 3.3% in August, driven by energy prices"
         },
         {
-          "title": "La Fiscalía se opone a las quejas de Ábalos y Koldo contra la sentencia del Supremo: “Están abocadas al fracaso”",
-          "link": "https://elpais.com/espana/2026-09-01/la-fiscalia-se-opone-a-las-quejas-de-abalos-y-koldo-contra-la-sentencia-del-supremo-estan-abocadas-al-fracaso.html",
-          "pubDate": "2026-09-01T09:35:31.000Z",
-          "snippet": "Aldama también pide al alto tribunal que desestime los incidentes de nulidad presentados por el exministro de Transportes y su exasesor",
+          "title": "Alemania, España y otros nueve países reclaman poner fin a los vetos “obstruccionistas” en la política exterior de la UE",
+          "link": "https://elpais.com/internacional/2026-09-01/alemania-espana-y-otros-nueve-paises-reclaman-poner-fin-a-los-vetos-obstruccionistas-en-la-politica-exterior-de-la-ue.html",
+          "pubDate": "2026-09-01T12:30:34.000Z",
+          "snippet": "Los ministros de Exteriores de 11 Estados miembros proponen un acuerdo para aprobar algunas decisiones clave por mayoría cualificada, en lugar de por unanimidad",
           "_priority": "ALTA",
-          "title_en": "The Prosecutor's Office opposes Ábalos and Koldo's appeals against the Supreme Court's ruling: \"They are doomed to fail\""
+          "title_en": "Germany, Spain, and nine other countries are calling for an end to “obstructionist” vetoes in EU foreign policy"
         },
         {
-          "title": "Las letras mejoran su interés con las alzas en los bonos y pagan el 2,846% a doce meses",
-          "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-01/las-letras-mejoran-su-interes-con-las-alzas-en-los-bonos-y-pagan-el-2846-a-doce-meses.html",
-          "pubDate": "2026-09-01T09:55:15.000Z",
-          "snippet": "El Tesoro remunera a ese plazo al tipo más alto desde septiembre de 2024 y paga el 2,64% a seis meses",
+          "title": "Verano desbocado en España: el más cálido registrado hasta ahora y el más mortífero con más de 5.000 fallecidos",
+          "link": "https://elpais.com/clima-y-medio-ambiente/cambio-climatico/2026-09-01/verano-desbocado-en-espana-el-mas-calido-registrado-hasta-ahora-y-el-mas-mortifero-con-mas-de-5000-fallecidos.html",
+          "pubDate": "2026-09-01T11:08:12.000Z",
+          "snippet": "El país ha vivido cuatro olas de calor extremo mientras la temperatura del mar también ha batido récords",
           "_priority": "ALTA",
-          "title_en": "Bonds are becoming more attractive as bond yields rise, and they yield 2.846% over 12 months"
+          "title_en": "A scorching summer in Spain: the hottest on record and the deadliest, with more than 5,000 deaths"
         },
         {
-          "title": "La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia",
-          "link": "https://elpais.com/internacional/2026-09-01/la-otan-despliega-brevemente-aviones-de-combate-por-un-nuevo-ingreso-de-drones-en-el-espacio-aereo-de-estonia.html",
-          "pubDate": "2026-09-01T10:30:04.000Z",
-          "snippet": "Letonia detecta también varias aeronaves cerca de su frontera durante un intercambio de ataques entre Rusia y Ucrania",
+          "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
+          "link": "https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html",
+          "pubDate": "2026-09-01T12:48:35.000Z",
+          "snippet": "El Ejecutivo sostiene que las relaciones con la Casa Real “son buenas” y no teme la reacción de Marruecos ante la visita del Rey a la ciudad autónoma",
           "_priority": "ALTA",
-          "title_en": "NATO briefly deploys fighter jets in response to a new incursion by drones into Estonian airspace"
+          "title_en": "The government approves a 309-million plan to dispel the notion that Ceuta has been “neglected”"
         },
         {
-          "title": "Líderes de Rusia, China e India respaldan la soberanía de Irán y eluden la guerra de Ucrania en encuentro en Kirguistán",
-          "link": "https://elpais.com/internacional/2026-09-01/lideres-de-rusia-china-e-india-respaldan-la-soberania-de-iran-y-eluden-la-guerra-de-ucrania-en-encuentro-en-kirguistan.html",
-          "pubDate": "2026-09-01T10:38:40.000Z",
-          "snippet": "El presidente iraní garantiza que su país actuará de forma recíproca si Estados Unidos pone punto final a los ataques",
+          "title": "La Inspección de Trabajo de Cataluña abre un proceso sancionador a Glovo por no parar el reparto en plena ola de calor",
+          "link": "https://elpais.com/economia/2026-09-01/la-inspeccion-de-trabajo-de-cataluna-abre-un-proceso-sancionador-a-glovo-por-no-parar-el-reparto-en-plena-ola-de-calor.html",
+          "pubDate": "2026-09-01T14:00:21.000Z",
+          "snippet": "La autoridad laboral considera que la empresa cometió una falta grave al continuar con su actividad el 8 de julio, cuando había alerta roja",
           "_priority": "ALTA",
-          "title_en": "Leaders from Russia, China, and India Back Iran's Sovereignty and Avoid Discussing the War in Ukraine at a Meeting in Kyrgyzstan"
+          "title_en": "The Catalonia Labor Inspectorate has launched disciplinary proceedings against Glovo for failing to suspend deliveries during a heat wave"
         },
         {
-          "title": "Más Madrid ve un “comportamiento delictivo” en la compra del ático por parte del Gobierno de Ayuso y se presenta como acusación popular",
-          "link": "https://elpais.com/espana/madrid/2026-09-01/mas-madrid-ve-un-comportamiento-delictivo-en-la-compra-del-atico-por-parte-del-atico-del-gobierno-de-ayuso-y-se-presenta-como-acusacion-popular.html",
-          "pubDate": "2026-09-01T10:47:08.000Z",
-          "snippet": "El partido sostiene que el Gobierno de Madrid atentó contra el interés general de los ciudadanos con la adquisición de la vivienda que costó 6,3 millones de euros",
+          "title": "Corea del Sur ve indicios de diálogo entre Corea del Norte y Estados Unidos",
+          "link": "https://elpais.com/internacional/2026-09-01/corea-del-sur-ve-indicios-de-dialogo-entre-corea-del-norte-y-estados-unidos.html",
+          "pubDate": "2026-09-01T12:51:29.000Z",
+          "snippet": "La inteligencia surcoreana cree que una cumbre entre Donald Trump y Kim Jong-un podría celebrarse “en cualquier momento”, aunque admite que no ha confirmado contactos concretos",
           "_priority": "ALTA",
-          "title_en": "Más Madrid sees “criminal conduct” in the Ayuso administration’s purchase of the penthouse and has filed a complaint as a private prosecutor"
+          "title_en": "South Korea Sees Signs of Dialogue Between North Korea and the United States"
         }
       ]
     },
@@ -113,6 +113,22 @@
       "name": "The Guardian",
       "color": "yellow",
       "items": [
+        {
+          "title": "US trade official downplays Canada trade war: ‘It’s more their emergency than ours’ – live",
+          "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+          "pubDate": "2026-09-01T14:11:37.000Z",
+          "snippet": "‘There are no negotiations happening on trade right now,’ Jamieson Greer told Politico Sign up for the US Breaking News email Democrat senator Chuck Schumer is introducing a bill that would reverse Donald Trump’s most recent tariffs, among them the new %50 duty on Canadian goods,…",
+          "_priority": "ALTA",
+          "title_en": "U.S. Trade Official Downplays Trade War with Canada: ‘It’s More Their Emergency Than Ours’ – Live"
+        },
+        {
+          "title": "Tropical Storm Edouard strengthens as it bears down on Texas and Louisiana",
+          "link": "https://www.theguardian.com/us-news/2026/sep/01/tropical-storm-edouard-texas-louisiana",
+          "pubDate": "2026-09-01T12:56:54.000Z",
+          "snippet": "First big storm of season could reach hurricane force and is expected to bring potentially heavy rains and flooding Tropical Storm Edouard headed toward the US Gulf coast early on Tuesday and was expected to strengthen significantly – possibly reaching hurricane force – before br…",
+          "_priority": "ALTA",
+          "title_en": "Tropical Storm Edouard is strengthening as it heads toward Texas and Louisiana"
+        },
         {
           "title": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
           "link": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
@@ -130,22 +146,6 @@
           "title_en": "Flood Deaths in Nepal and Tibet Exceed 1,000 as Police Ask Relatives for DNA to Identify Victims"
         },
         {
-          "title": "Forest Service chief faces scrutiny over logging ties as Trump plans to scrap protections",
-          "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-roadless-rule-old-growth-forests",
-          "pubDate": "2026-09-01T11:00:03.000Z",
-          "snippet": "Rollback of ‘roadless rule’ expected to benefit companies US Forest Service chief, Tom Schultz, previously lobbied for Donald Trump this month announced plans to rescind a landmark rule that has protected old-growth forests in the US for 25 years. If finalized, the rollback is ex…",
-          "_priority": "ALTA",
-          "title_en": "Forest Service chief faces scrutiny over ties to the logging industry as Trump plans to scrap protections"
-        },
-        {
-          "title": "Tropical Storm Edouard expected to inundate parts of Texas and Louisiana",
-          "link": "https://www.theguardian.com/us-news/2026/sep/01/tropical-storm-edouard-texas-louisiana",
-          "pubDate": "2026-09-01T11:42:04.000Z",
-          "snippet": "First big storm of season heads towards Gulf coast and is expected to bring potentially heavy rains Tropical Storm Edouard headed toward the US Gulf coast early on Tuesday and was expected to gain strength before bringing potentially heavy rains and flooding into parts of Texas a…",
-          "_priority": "ALTA",
-          "title_en": "Tropical Storm Edouard is expected to flood parts of Texas and Louisiana"
-        },
-        {
           "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
           "link": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
           "pubDate": "2026-09-01T12:00:57.000Z",
@@ -154,12 +154,12 @@
           "title_en": "Echoes of the Cold War as the U.S. Is Accused of Meddling in Another Brazilian Election"
         },
         {
-          "title": "US public libraries at ‘breaking point’ amid ideological attacks, report finds",
-          "link": "https://www.theguardian.com/us-news/2026/sep/01/us-public-libraries-report",
-          "pubDate": "2026-09-01T12:30:57.000Z",
-          "snippet": "PEN America study details verbal and physical threats to librarians, funding cuts and proliferation of book bans Public libraries in the US are “at breaking point” because of an onslaught of political interference, harassment and ideological censorship, a new report published on…",
+          "title": "German police investigating reported explosives at Brandenburg power substation – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+          "pubDate": "2026-09-01T13:48:42.000Z",
+          "snippet": "Police responding to explosives reported in Turnow-Preilack, near the coal-fired Jänschwalde power plant Over in Brussels, the European Commission is just starting its first midday briefing of the autumn. It opens with an announcement that Commission president Ursula von der Leye…",
           "_priority": "ALTA",
-          "title_en": "U.S. Public Libraries Are at a 'Breaking Point' Amid Ideological Attacks, Report Finds"
+          "title_en": "German police are investigating reports of explosives at a power substation in Brandenburg – Europe live"
         }
       ]
     },
@@ -167,38 +167,6 @@
       "name": "The New York Times",
       "color": "mint",
       "items": [
-        {
-          "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-          "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-          "pubDate": "2026-09-01T02:50:48.000Z",
-          "snippet": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
-          "_priority": "ALTA",
-          "title_en": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump"
-        },
-        {
-          "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
-          "link": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
-          "pubDate": "2026-09-01T09:00:29.000Z",
-          "snippet": "Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.",
-          "_priority": "ALTA",
-          "title_en": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia"
-        },
-        {
-          "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
-          "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
-          "pubDate": "2026-09-01T09:03:01.000Z",
-          "snippet": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
-          "_priority": "ALTA",
-          "title_en": "U.S. Sanctions on Iran Prevent Students From Taking Tests Required for Studying Abroad"
-        },
-        {
-          "title": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
-          "link": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
-          "pubDate": "2026-09-01T09:55:34.000Z",
-          "snippet": "The meeting, which China and Russia are attending, is focused on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.",
-          "_priority": "ALTA",
-          "title_en": "Europe Protests as the U.S. Invites Russian Minister to G20 Finance Meeting"
-        },
         {
           "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
           "link": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
@@ -210,10 +178,42 @@
         {
           "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
           "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-          "pubDate": "2026-09-01T12:20:16.000Z",
+          "pubDate": "2026-09-01T13:30:10.000Z",
           "snippet": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
           "_priority": "ALTA",
           "title_en": "China or the U.S.? Two Meetings Offer Competing Displays of Global Power."
+        },
+        {
+          "title": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
+          "link": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+          "pubDate": "2026-09-01T14:05:25.000Z",
+          "snippet": "Israel’s defense minister said the operation resulted in the capture of a senior Hamas member. Hamas said Israel sent covert operatives into Gaza City.",
+          "_priority": "ALTA",
+          "title_en": "Israeli Operation in Gaza Kills 4, According to Palestinian Officials"
+        },
+        {
+          "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+          "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+          "pubDate": "2026-09-01T14:01:44.000Z",
+          "snippet": "Government yields are hitting multi-decade highs, reflecting anxiety about debt levels, deficits and inflation. The effects will extend to mortgages, business loans and other types of credit.",
+          "_priority": "ALTA",
+          "title_en": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World"
+        },
+        {
+          "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+          "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+          "pubDate": "2026-09-01T13:21:36.000Z",
+          "snippet": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
+          "_priority": "ALTA",
+          "title_en": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump"
+        },
+        {
+          "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
+          "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
+          "pubDate": "2026-09-01T13:07:06.000Z",
+          "snippet": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
+          "_priority": "ALTA",
+          "title_en": "U.S. Sanctions on Iran Prevent Students From Taking Tests Required for Studying Abroad"
         }
       ]
     },
@@ -222,52 +222,52 @@
       "color": "green",
       "items": [
         {
-          "title": "Russian finance minister, invited by Trump, draws objections at G-20 meeting",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1RpWE55TTJKbUtiNVdwcWk1SFAzTlJGQWFSZW92YS1QMUZVUE5nLVlzbzVMLU14Nm1SQVVIb3JSbjJMVU9VQVVWc002aVFZcG9IdjVPLUpiYko4NUN2N1FDanRFNndWR0JuZ2pQbVFVT2ZQVTZlY05SaUxQUTJLSnBLdmNYSXNXTExXY3Z4OEdJZ2pzVGNSaHRvVDRNSWxWUHVyWS1QU01aZm1icy0wRHgzVjdpVjlPUGNSdQ?oc=5",
-          "pubDate": "2026-09-01T05:29:38.000Z",
+          "title": "Trump said his deal with Venezuela would lower gas prices. Will it?",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGdDVEw1bUVEWXJQSjNwaUk4MkRtcDAtT2hoX1ZVczllRHhNYkozWXpnRUhJUWo1eWlHdzd2c2U2UGtlQXczQzNsT2JQUXdQa2kwR1dNcmJpT0JGTEJoVjZFUy0yV3MzckE0c0JjZ3NEc0pldHE1d2czd1FyVmRIVUhfQmNqU08zeVJxdzhCdUFGWnVaeWppeG0yLTJjc1VTS2d5OXRTX3lmWmZ0OWY0ZkN3?oc=5",
+          "pubDate": "2026-09-01T14:32:30.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Russian finance minister, invited by Trump, faces objections at G-20 meeting"
+          "title_en": "Trump said his deal with Venezuela would lower gas prices. Will it?"
         },
         {
-          "title": "Army secretary submits resignation to Trump after repeated clashes with Hegseth",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVjlmcEk3S0xnSjdNMjNVSWl5ZTN2MFd0VXJROEJ1OWYzdlFzNVgxdldGeEZERURhU1R1eVVUd0lYU2VFcFhxUDhBaXdLbEdiQ052WlNCTlVadHdkdnBQTG01WFhieEVPSFljeENzMXRwTnpMQkZ5SzBmNkdvOVY4TXhLb2FFcW96Y2JMVW8xYXRGakF6c1czQXZPblRDZHRnblIyTHd0OUlLaWd3UG53NVRFTmJhVWRheHVCOVJac3RqUXQ2akZSWm40dVdQN09RZUhn?oc=5",
-          "pubDate": "2026-09-01T03:31:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Army secretary submits resignation to Trump after repeated clashes with Hegseth"
-        },
-        {
-          "title": "Analysis | Trump’s attempts to crack down on speech and influence opinion",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGduZXh6T3FhOUEzaEx2bi1xTlJnbUd1Si0xVnBqVDdiai15UGppRjNLblEyUU5nUEJlSnhoY2xfVjZQUmVDVlhJemgtVzl2QklOTlB0ZGo4UGF1LTBJRmM2RUhMUXBvWmwyRHNsd3Y3VDd3UzZJQXFaUlRzLXIwUjJGbGFxNXN4cFZlQ3lVQVh0MUh4eXUzVm9RSjFuWThPZkQtTnBn?oc=5",
-          "pubDate": "2026-09-01T03:27:18.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Analysis | Trump’s Attempts to Restrict Free Speech and Influence Public Opinion"
-        },
-        {
-          "title": "Amazon secretly inflated ad prices, the FTC and 22 states allege in a lawsuit",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamNFWC1fNUw3NjdNeG9BdHhwSFNVbUNFNkplRVlhMEZQeGJVUmhhaUptRGRqa0ZldFJ0c3c2MVVKTVBEMkVyMUdtcXJFbTlYUS1fbjhmNHk0a1huTHdrWEdoNnFHZVRCODRPZ2FRemR3djFFLTAtSjRuZzRmQkt4MFZJRldFcU4wdVhxSHJpYkFoZzhNWHg0aGg4SGxKcV9aZHViNXlyUUpoVUg4VFpxMlY4M1BXdw?oc=5",
-          "pubDate": "2026-09-01T04:59:48.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Amazon secretly inflated ad prices, according to a lawsuit filed by the FTC and 22 states"
-        },
-        {
-          "title": "17-year-old girl charged with murder in livestreamed California mosque shooting",
+          "title": "17-year-old girl charged with murder in live-streamed California mosque shooting",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHlBZ215dTJ0VUN3Z1N4ZmQwcGRqcGlsMGNaTDVTMFlqNUVpbGRfSU5RN0hxcW45RldSX3lmY3pJVUM4aElhRGRaMG9FYmFUS3otRzdDeUc0WDVEVmFUSGpKYm15ZU50TWJ3UkpoZW1vODh5SmNEUWp1TlZwNE9IVU5lZlA4Ml9NUlVObGp0U0VZbE5SNWVhcnRJbmQ2dGxKTlNGRkNCMjdvN19LcV93WGkwWWt2YnVXbFRvWUxJQ0lRaVZz?oc=5",
-          "pubDate": "2026-09-01T05:47:20.000Z",
+          "pubDate": "2026-09-01T14:25:26.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "17-Year-Old Girl Charged with Murder in Livestreamed California Mosque Shooting"
+          "title_en": "17-Year-Old Girl Charged with Murder in Live-Streamed California Mosque Shooting"
         },
         {
-          "title": "Dozens of federal judges describe intensifying threats in new report",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGIwZ2VmNTRzVW5qWnBpLUlYaWREbW1yY1ZVZF9CY284REgteFh1RmFvM3hOMjBUX2tSdDRmWUNIY2F4bEpSeTZvZ3pON2w1UkFuYllNVUpJOTIwUkdMWjFadFRtb1lNX2JCY21FSWZrVDNwVUdha0V0VDRIOXRlV3hObW8wRkxOano0bDVPNndtTS1VUzlPWDNNLVhwSkFmX2c?oc=5",
-          "pubDate": "2026-09-01T06:07:46.000Z",
+          "title": "California passes restrictions on teen use of social media",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGMxNnZwWkJqYl8zLTRVeDhHRF9NWGtRQWZNZ1VHZ05xQlVvQmJ5RjVJN3RQWHlJTkptazhJLVNieWlfM2VKeUJnd0Z4ZWRqblZiVndaTUZaSE1YMk9PbTZTNnY3VWlpYXViNGVpdUg4WFVHampSWkZIaE5IMkE2QkNVdFJGcno5MGtQVVg5aDN3d1hGbjhuQm9Ya05oMnVrWTZNVnNHbDNpV3pSQ3BZRXpVaWF6OTg?oc=5",
+          "pubDate": "2026-09-01T13:55:41.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Dozens of federal judges describe escalating threats in a new report"
+          "title_en": "California Enacts Restrictions on Teenagers' Use of Social Media"
+        },
+        {
+          "title": "Trump urges Congress to pass tax incentives to restore Hollywood’s luster",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG5GVHNGUkNtbldkMFNsLWlTUEo0T0J4RlVTcGdHREtNWUFCaWVrdTh2QlZVV2tMNEZSekdvQUtPdzJCX3I4QWJseG93TkNMTkxMMG9iQVBYR1NmRzhGeWlSUDNCMlhSZFZWVEVnRndDQlBwYXBXVEVkaXM3aEdoSkcwLXRCWTZZM2VrWDE0UnduLWVQUVp2UDd1S1JrcHFfWDhJMDYzY2hYYkEw?oc=5",
+          "pubDate": "2026-09-01T13:47:32.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump Urges Congress to Pass Tax Incentives to Restore Hollywood’s Luster"
+        },
+        {
+          "title": "Postal Service plans may keep voters from getting ballots, whistleblower says",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5",
+          "pubDate": "2026-09-01T13:26:56.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Postal Service plans may prevent voters from receiving ballots, whistleblower says"
+        },
+        {
+          "title": "The CDC hasn’t added 2 deaths to its measles database. Here’s why.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUVZekc4UERTUzVPWHB1ZTg4Xy01cmVGLUd2cnBPLUs1RmRfNTMycTQzakNjNk9WWmxncl9zRHZvZlo1RGhpc044WGViVUNjZDNzRng1Zi1lSlVYX2EwU3FDSGJsdDhrX2FBZms4WTNvTjdjTEF0aVB2cU9JcTk0ZmlFdnlEbVlVM2dWLS1JTWhRNFBjS3AwaHZYcUkzU01tbFlUZ1RLeG54Ym9GaVFERHNTMA?oc=5",
+          "pubDate": "2026-09-01T06:57:52.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The CDC has not added 2 deaths to its measles database. Here's why."
         }
       ]
     },
@@ -276,36 +276,12 @@
       "color": "lilac",
       "items": [
         {
-          "title": "America’s murky deal to secure a fifth of Venezuela’s oil",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3M0ZHk1bGkxamhaOUlablNPdE5yQkRsSVZUQlVheEF6a01KX04wRVJjSjVHcFFLSnNYUjFuRWNJQlR3RmhxcE5kZEZnaG1RQ0pZcjVVVnJRM3hoR0tLZGJWOFVOWG5USmRJMWlaSTZZNy1NZzdIMlp1cnZrZVJDc0JEdWhnbmgzY3Z6T083djBYQTdyQ0NGcU9BTW56Tkw1M0xVaVRfZks?oc=5",
-          "pubDate": "2026-08-29T11:23:32.000Z",
+          "title": "World in Brief: The Iran war turns hot again; rescue efforts continue in the Himalayas",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTBDeHdlblJXV3ZFR3Jwd2pBdU1sYk0zTHBQYnBQZk80djVWVjBPNXdMZHk1UVR3RzVaQmtFd3V3dHNYc0d6TDN2TXE0M0pPd25JeW5aWXlvV1M5T2YxRWNKNWpqTDhNX0hWaHFBeFVzczhnNktUTm9wU3FCV2kwSy0xR3lGWmRmNVdQdnY0TkJrSFprSFdv?oc=5",
+          "pubDate": "2026-08-31T18:03:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "America’s Shady Deal to Secure a Fifth of Venezuela’s Oil"
-        },
-        {
-          "title": "Cornered, Vladimir Putin plans to escalate his war",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUZjN1Fsc3QwMTl4WS1LZ19qaVZSalp0LU9Bckk4eXZ3a3dGN2Z4QWJhQXo3a1pvQ2dKOE9ESjBWWEJrb3lPb28ta1hobk1tY0pwTl95S3ZaaWNwRjMybHAyVnRwUjRxdVkyMjVXdUc3R1BmY3VBSFFVTENnVTIzOHBrV3FlQWRCeTJwM1hrSmVIM1dVNV9xWQ?oc=5",
-          "pubDate": "2026-08-30T20:16:24.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Cornered, Vladimir Putin plans to escalate his war"
-        },
-        {
-          "title": "The dark horse presidential candidate Brazil’s authorities are trying to ban",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjRqM1ItZ2I2QXRBdExUZ1VJWmNHRTlJYW9TMHhibkJkSkdIS2tLblB5b0E2eVBrSUZvSHNURmpDbjhqaGRRVHZibTdMaG1RUUVDM214S05Yd3lrcmw0MDlVb3JaQ1VTbllpNllRWjlyR2djcU8zZk5sZzZIbkliM19xdDNDS3pBdzJvbXdQZHVHYzZjWmhscldCdmdHR2J5VlJiRjQ2M1ZFNE8zdTdJS1FDbkFIRWhuWkUtOFRWSGNrQ0E?oc=5",
-          "pubDate": "2026-08-31T14:15:11.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The dark-horse presidential candidate that Brazilian authorities are trying to ban"
-        },
-        {
-          "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
-          "pubDate": "2026-08-31T14:49:54.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Israel Election Poll Tracker: Will Binyamin Netanyahu Hold Onto Power?"
+          "title_en": "World in Brief: The Iran conflict is heating up again; rescue efforts continue in the Himalayas"
         },
         {
           "title": "How the Alternative for Germany would govern",
@@ -314,6 +290,38 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "How the Alternative for Germany Would Govern"
+        },
+        {
+          "title": "Israel election poll tracker: will Binyamin Netanyahu hold on to power?",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ObDNEQkNJb0NDRHliRFh6ZGVlX2JvVkU3Q0FTSlFzVkNHM3FITER1SGFQdmlNNWZXQXpRNTYwM21CTDJmdFRQVWQtYXh4R2xLd0phaURJSC1RV210b1VCb2tnWlItM1dZMDc0NkRFQ1dudGd5?oc=5",
+          "pubDate": "2026-08-31T14:49:54.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Israel Election Poll Tracker: Will Binyamin Netanyahu Hold On to Power?"
+        },
+        {
+          "title": "The dark horse presidential candidate Brazil’s authorities are trying to ban",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjRqM1ItZ2I2QXRBdExUZ1VJWmNHRTlJYW9TMHhibkJkSkdIS2tLblB5b0E2eVBrSUZvSHNURmpDbjhqaGRRVHZibTdMaG1RUUVDM214S05Yd3lrcmw0MDlVb3JaQ1VTbllpNllRWjlyR2djcU8zZk5sZzZIbkliM19xdDNDS3pBdzJvbXdQZHVHYzZjWmhscldCdmdHR2J5VlJiRjQ2M1ZFNE8zdTdJS1FDbkFIRWhuWkUtOFRWSGNrQ0E?oc=5",
+          "pubDate": "2026-08-31T14:15:11.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The dark horse presidential candidate that Brazilian authorities are trying to ban"
+        },
+        {
+          "title": "Binyamin Netanyahu sows discord ahead of Israel’s election",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVpVbjMtY1BfSWx5NDhPNGpZb3JLaEdBb3FQZnByb1BRQnRuc2FreUZKT09BV2xtd2NLcDJLVnkxTHI1WXVtVWk5cThlX3NXMTZ2WE13Vkg3UHhZVlpEV3FxVHA1a2ctaHBuN3BzamN5SVdRMXdLT3VBVlBHc1phZXlzQ0dCcHdraWg4OHgtaDZ5NHhDLTJ1clVxWDNHMDJQcHNDVmJ2aE4yV3VmMU83LUY5cFFSUVd4?oc=5",
+          "pubDate": "2026-08-31T13:53:54.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Binyamin Netanyahu Sows Discord Ahead of Israel’s Election"
+        },
+        {
+          "title": "Cornered, Vladimir Putin plans to escalate his war",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUZjN1Fsc3QwMTl4WS1LZ19qaVZSalp0LU9Bckk4eXZ3a3dGN2Z4QWJhQXo3a1pvQ2dKOE9ESjBWWEJrb3lPb28ta1hobk1tY0pwTl95S3ZaaWNwRjMybHAyVnRwUjRxdVkyMjVXdUc3R1BmY3VBSFFVTENnVTIzOHBrV3FlQWRCeTJwM1hrSmVIM1dVNV9xWQ?oc=5",
+          "pubDate": "2026-08-30T20:16:24.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Cornered, Vladimir Putin plans to escalate his war"
         }
       ]
     },
@@ -321,6 +329,30 @@
       "name": "El Universal (México)",
       "color": "peach",
       "items": [
+        {
+          "title": "Por mapa de México, INE rechaza nueva propuesta de identidad visual de Somos",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQektYdmVfZ19MUEFPR2dKcFdGRHZyS1FSSHd6QnYxRURqaEpYcFkya2VqQUZVNTEzbEg0bjFaTFhYQkJNNlpZb2gwZlhlcXJoUnFfMDFxTkNRX19UMlk1M1dlLU55VThRYUl4YmxqM294a0lVbGQzLXNyUWprcDJydzFYdUlYVFBSTk9uV1RIRkRRT29oemVUMjc2MkZaaTdnamRjQ2N1eUhVX1U2SGVoeE5PV2hzYkk5TF9MWml0SVpNblh1elJWdHZkQnpBV2tramx4dnN30gHqAUFVX3lxTE1uRXVlZ1J1dGNFV21scG16c24tdi1YMU4yUjZqcVJFaXpSZ2kzazR0bEs3V05sWV9Yejl4RlJHTjRoWmhCX3o5Tm1rcmNIdWlSa3hJa25YakpncFRCMjBfYm9OSFBHZUZJcklycEJ4a2xJQVdzTld2dHIzNUlSaTBHaUp1NUs4Z25YTzJlVmVONVpzanJHRnpMT29WdkJzclU0M1F1ZjdONFNCOGlMTWRTZDNTOXNqeXljdGI4eHlBcGRoQ28ybG9LSFNLci1ja0k2U2l1YVVZUzZFS0tLY0lxQlZEck1vYzNNUQ?oc=5",
+          "pubDate": "2026-09-01T13:51:52.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Based on a map of Mexico, the INE rejects Somos' new visual identity proposal"
+        },
+        {
+          "title": "Sigue En Vivo el Segundo Informe de Gobierno de Sheinbaum, hoy 1 de septiembre de 2026",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM3lZb05QTmpFVnV3RlI3bm1xQnJGOUZSY3ZJRWpwZlJxakVLQkFET3J5TThKY2dCdlJ3ckFXbEQwamFpbGxzVV9qWmticElzd3VqejQyR0lqRElsLU53U0k5cDJLcENRd0l5ZnRDTVJFUFZBeDl4YkhOVDhBdFRINXFLdjVCUVNUamNoazRGYTRDMWdfYU54WUlETjNjdmhVZW9xNi1jQU83S2pIalp1REF3cnFUZmlXLXF6ZkNFX21FOTFZX2dFUWdjU0J4QVnSAeMBQVVfeXFMTlRHN2xEbUtFb2M5V1A3eVpHOENGV3FoWU9PYy1Bb19WclJZTnNhMGJjLW1jcVlESU5qa2NlYlY0Yk0yQXBla00wcTlpSVZ0d0g2SGtlZ1ZfNmlsX25LNEkyWGgxVXV5Y3d2WlNzVkliaC04aTNUa0NRZTN0Z3F4Njk5a0pYLUlMR3lHcjBBLXhzM1ppOFlYZnQzR0sxYVFOcjh1NUxrd3pKMDY2UnVxbWFzaFNZamRtQmo4cXN5TWtvTVRHQ2dCd3JjLW9sM3pDdlhkamxGSnV1MmNDLXBubVdGZUU?oc=5",
+          "pubDate": "2026-09-01T12:04:50.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Watch Sheinbaum's Second State of the State Address Live Today, September 1, 2026"
+        },
+        {
+          "title": "CFE atribuye mega apagón en cuatro estados del sureste a \"vandalismo\" en líneas de transmisión; se restablece el 100% del suministro",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeHdWQjlzTi00bjRZT1FuVEZVY0R4YmxKQzZVWXk0Z1ZLYjNOZGJFQXl6NnhfeUZ6Q0VhMlNfVGdJM1BPQ2s3UUZHWmxfSTU0ZEhzS1Foc2Q1RmY5YUsyZ3I3WnlTM1hNSUFKa1JMMW5GbGY2ZUZOUmUtMWZOVHU0NXVNckd6MXZJTVc5bXlvdEFRY0lNaHNfTlpOWm9LOTRtWHV0YnNnOHZtNzR5RlAyR3VYdndfWTVwUmdSTXJWRlZUNkdCZGFEVUgzVG5KY2k4MnBrWlVXbGhiZnZ6SkNuOF9iN1MwVm1aV19vUk9oSnZOZVMtVk9uaDlld9IBjwJBVV95cUxNVHhzdFpWTFRyajJhTThJR0NQNVdIRTN5b3loUzVUREJiNENiTEZDTTFYSDNuVm4zUGFKMklSOC13R3QwZVN0UEZPUEZ4NlQ4S2dQOXprZWxMbkN6aGctT0NSZENLdUoySzRZMzlHZVVwUVRmM2hkVjhteGN4VFlmTmZwM1ctejhFX09JdEIySmJJWGdrOGhObk9EVHdjaHROdXB6RjRQOWM1U3h1UTN2X0xQbUZTOEFkc1pybjNrZ3VpRWFzNExfRWVUMFIwXzVSQWpOcmgxQlRZcFZSSlZlUTNqVnNVNy1DNkFmMTNPT25ZaXJjaWZzT3BGd054VjhIR1VyQlNwTUZCVUdQUmpF?oc=5",
+          "pubDate": "2026-09-01T11:45:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "CFE attributes massive power outage in four southeastern states to \"vandalism\" on transmission lines; 100% of power supply has been restored"
+        },
         {
           "title": "Menos homicidios y la sombra de Rocha marcan balance de Sheinbaum; enfrenta retos con EU, aranceles y T-MEC",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNem1sa2VsRHpvcENqWEpQTHpoWl9FQzBFOWY4TVo3Yk5qR1owdzF5QmtUYU03RjBrUF9zVl9DRmRKdi1IZWROZEx6Ny1QdkJyZXJpNGF2RHFrZVBNbUl1NmVkaG9YbmZSVkhsT2NlSUh4cjZORkEwVU8wUkJCV1YzcHRuY0daWXNRQjAzYWk5YlRlX0sxTW94djN2RVdreTZORHFBYkhIcl9TUktpN0dMeWxiN24xMnUtNGFVbHJ4dk9YMldSTzlHbi1ZMTdCbmVDc2VqUWFJUG9KU1Rl0gHwAUFVX3lxTE9hTkR6Wjd2Y0RSSUxscFA2LWxnS0cwV2daVGtxNl9reTBGYTUxbmM1UmJsUW9qYmpRWXNENXY0VVpIYk14bkR3dVIxaDczc3NkU3JYQktqVFUyYjl3NE53V2JybHpodF9CcGNaUTRNTVh2ZlhFVE1NOVhEX3FmRjFCNHMwSlRTQjlTbk16VEl1OC1HVzNfUXBFMXJocFdTZUZ0NVY2OWE5WlB4aFBIMWQ4LVJXR1NISThzYmhWSUNEM2FqZUtpcnVOUDNHQTYzbFBhVURPU21Zc2h0aUtwMzI0WHJoc0Z2bk5iczdrYVhfOQ?oc=5",
@@ -335,39 +367,15 @@
           "pubDate": "2026-09-01T10:11:12.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Sheinbaum Presents Her Second Report with 11 Initiatives; Dual Citizenship, Femicide, and AI Regulation Among Her Proposals"
+          "title_en": "Sheinbaum Presents Her Second Report, Featuring 11 Initiatives; Dual Citizenship, Femicide, and AI Regulation Are Among Her Proposals"
         },
         {
-          "title": "Sigue En Vivo el Segundo Informe de Gobierno de Sheinbaum, hoy 1 de septiembre de 2026",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM3lZb05QTmpFVnV3RlI3bm1xQnJGOUZSY3ZJRWpwZlJxakVLQkFET3J5TThKY2dCdlJ3ckFXbEQwamFpbGxzVV9qWmticElzd3VqejQyR0lqRElsLU53U0k5cDJLcENRd0l5ZnRDTVJFUFZBeDl4YkhOVDhBdFRINXFLdjVCUVNUamNoazRGYTRDMWdfYU54WUlETjNjdmhVZW9xNi1jQU83S2pIalp1REF3cnFUZmlXLXF6ZkNFX21FOTFZX2dFUWdjU0J4QVnSAeMBQVVfeXFMTlRHN2xEbUtFb2M5V1A3eVpHOENGV3FoWU9PYy1Bb19WclJZTnNhMGJjLW1jcVlESU5qa2NlYlY0Yk0yQXBla00wcTlpSVZ0d0g2SGtlZ1ZfNmlsX25LNEkyWGgxVXV5Y3d2WlNzVkliaC04aTNUa0NRZTN0Z3F4Njk5a0pYLUlMR3lHcjBBLXhzM1ppOFlYZnQzR0sxYVFOcjh1NUxrd3pKMDY2UnVxbWFzaFNZamRtQmo4cXN5TWtvTVRHQ2dCd3JjLW9sM3pDdlhkamxGSnV1MmNDLXBubVdGZUU?oc=5",
-          "pubDate": "2026-09-01T12:04:50.000Z",
+          "title": "Tren Maya suspende servicio en Campeche y desalojan a 120 pasajeros tras salir una rueda del riel",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0JRa0xaSENsNXMyNHJQSEhzN0d2UUpHWDNDalF5QVpmN0NZVVRCQnYzbTZmdzhRSGRsS294SXNjdThWb0ZSQjdpUVlvTGp5SzBmVC0ySTNoX2dYdlRrSVg3VFF0Qlg3LUtvckNfUzRWaXFrSHc2WExwenJrTm1ha0RKSEpnb1FPaXVBV0NzQl9sX2IzM0IyLUFuZDluQ3hJcGlDMzJrS2tKSzhMdE5UZmVjLWtPTko5SzF5VlpTdnlhdTNKOVBoVUZNU2dJQdIB4gFBVV95cUxQVC1SSVdRRk4tM1lQLVA0YTVCOFhISFFpX0lPc05OanhEc0Z3RGo0c2FCTllvVmJyOVlKc0lwYndzQ01OQnJDU2s5SDM2bDNWY1c3VDdLcnZHM2xsUkRiZXlEYU5WQVhTV1AwUmdRSmlOUm5mN3ppaVRET0x2eU9XemxVVjl5eXN1TFZKNjJIR1JBNnh6QVlzdmZZaG9ZQTU5blVNdlROeUppaEhLdE95dThwU3ZkbjduQVZvMEx3b2lnOVBHYkhrQTJnNnU0OU1yUG53N1k1SVNSMXd6NlcwdW1B?oc=5",
+          "pubDate": "2026-09-01T04:50:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Watch Sheinbaum's Second State of the State Address Live Today, September 1, 2026"
-        },
-        {
-          "title": "Higinio Martínez asume presidencia del Senado, recibe 116 votos a favor",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRmhfMWJsSUlaLVcwWFdvdGt2MjctaHNWMXJ5eVpjZEI1dTZlUnFJVy03dDRZV0ZEeEY3OEQtOHh3U3M2aUdDZTdNQnV3VGM5TkwyMWJKRF9KYi1XOFJ2eFEybXZteUZDVmxMbThYYi1hSXFlSTAyY1U2OGZUcHUzUVlROEhaUUloUnNoZWtwejQ0c25XbDhBdVdrSGZDdUhRUGdrY1lXbzRsRmktRV9zazF5TDJUeGhTdWZoX3hjSndmeERQTEJZckxaRWlMTHgxLTMzYdIB6AFBVV95cUxQQmxhLUR1UjE4U1FoTGt3TDg2S3NRcmhiUHdNTUM2djRSWHluLTV0MFN5a0d4Rnk4QkhacWdsUVdvV1ZzeU9EYjRoSkZ0eFNOaHdyM2poV3ZGeExCQjZVdUhYcWhLQkVqX29XbHcyZ1VzVGVmMHJJVTVOeFlFVElydE9GUmJtSEk3V3BvWndNYl92U3FsQ08zTDAzcDM1VFBxYzR2VVh6RTRkQm9tNmJmbjY0TkhYblR2THJVXy00QzJ5alJiX2tGU1V5N1RBU2lKcWprQktRQzE5M2JqcGh6YXNWMW9GblRl?oc=5",
-          "pubDate": "2026-09-01T01:59:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Higinio Martínez Assumes the Presidency of the Senate, Receiving 116 Votes in Favor"
-        },
-        {
-          "title": "Marina brinda 126 apoyos durante verano en playas de Veracruz",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1VEa081cjlKTVVjSXB3TmhtNWNZVFlEUGFXS3pOVG1aa3NMSXJqT3hjbWJjZkp5SXVKMFhPNmhmaTYzYjdPQ2tDQWR1QnBaX3FIeTdqcWxrOHphU1dVY1BWN29xYWRETEVJS3RMZlVXb19aTEVFVlNLWHpDdzJ5Q09zb2cydEk0VDMydWhRMmFMQnUxQU9sTU02Z251R1V1aS1zMGVRMUdleWVxYWhEckJzY09kb1ZtZlNoVzNVLThvQdIB1gFBVV95cUxOSnZHeTE4c2JjZFNzWlJRYm5jdnNOQndvdGhuVTdrZU1BOUc0dWhMOHRXYWRkUjJ6RGZlYk45bTlHWTloNWZJVkVjQ0tpWmI4WWYyQkZvckVnUHJMdFBQUzFEN1V4Y3ZXMWc4SWJwTFVTc0NRbnVvUkJodnE1VTVPU2YyNnBTUGppcXpPNFgwTEpIT2ZZNnlYNjNyc1NTZ0NTODQ0Q2hnX1dCMGVCNXNLaWsySDZjSXBpV0hCMTcwOVI1ZDBGQlROU2pOMVQxaUg3bUFJM093?oc=5",
-          "pubDate": "2026-09-01T03:04:34.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Navy Provides 126 Assistance Cases During the Summer on Veracruz Beaches"
-        },
-        {
-          "title": "Catean tres domicilios y detienen a siete personas en Morelos",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc0ljcW1IWnBZb3pwV3M5Q1FMRHJ6U3pmcldDekxHTFM3RVJDc0dkem1FWkgzbmJfR0gzLThxVC1nVE9ZSEh5Wk5HSWVxQlFFREVaOXBWcGpvT0hGdjNyaHc4VTdGZ0xMQURnbEs2RFhNWkFnOVNzV240NFFfeTB1MUNPUjJjMTZOejhNVXlhdG81bjJEV293aUJiNE5YZ254anZQSDVjc2pfV09obUZwYWwwOHZCUFBtSW51U000LWYyb2JfNmpYRFM5c9IB3wFBVV95cUxPNlhTQjRqSjM5Tlp0QmVxZ3RFSkhDSWcyWUlrQ0QyOW00Nlh4aWdkVE1EQzR2ajZoNnctN1pzS20xTWtVaUVGbXBOcVNxcnZVeDFwZlJSYWZpWk1fZmdIVUk3NlE1cFVqRktmejdhQnh3bk5qb0N2aHYwS0hlZG5vRVViRmZxNjBiMThTb3FjYTJhazhnVHpCcGRRbUZGVE5hcTJRSTh5NmRXeElub3lzZ002cTJvTUNZRVFsOWpCMnhfMmJleW4wdGtiWnRHTF9BUy1BdjNZYWY0UWxQTXFB?oc=5",
-          "pubDate": "2026-09-01T03:04:44.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Three homes were raided and seven people were arrested in Morelos"
+          "title_en": "Maya Train Suspends Service in Campeche; 120 Passengers Evacuated After a Wheel Derailed"
         }
       ]
     },
@@ -375,6 +383,38 @@
       "name": "Diario Las Américas",
       "color": "blue",
       "items": [
+        {
+          "title": "Favorita para la ONU deseó \"larga vida\" al dictador Raúl Castro, enfermo y encausado por EEUU",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVzM0dmhEa1cxQVVLZ1VGNlBDcnFkNlptM3ZFOWFYdkdkOXpMTkxPeDVUdVpFRENvT0ViUkdPZTZXQmNzUnJpRUxrOTVBR2dYR0tkVjRneUxweXVEZHdNdTRjekhHWEdfZVkzUkRlSEVXSUpMRlJsRFF0ckFEWlNmZVFUM25XRHplUzBaNXo5Q2VxNng5YVdKdjgzZ0JKaDNSc1ZzeEZRQTBZWW1tYWoxdi1hUXlRX2VRcWdNMEFTYXc1ekthdEpXOUhxLVpaLVJjczRHUk5R0gHbAUFVX3lxTE9DXy0tUzlUcGowRTh1eXdCNERsZGQ4MDVvRlR4d3Nhc2RHdmx6TUJVWGVSZjRRWS01UVNpY3NEN3N6Z0tHZGRheVhXWUg3My1HMHNRMmktV28xNVpKc0hTdXYwTzE5ZXg4WUlBaXlWaUNROEpZVzY0enY0bEN1cGZjTHdQQVdVa3FMV1BNMnZlQi1lOVotWWthekI2b24wVk9LQzZfNnJYZWVIWFVobENkZkNsYVNWRnFNVWRLTGRnNXRpS0hXb2o1QjdENVdnWW93NU5fSlloVjJCUQ?oc=5",
+          "pubDate": "2026-09-01T14:15:33.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "A UN favorite wished \"long life\" to dictator Raúl Castro, who is ill and facing charges from the U.S."
+        },
+        {
+          "title": "Florida ordena retirar lectores de matrículas de vehículos de carreteras estatales",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSk0tM1J3cHFyc0cxN1NYM1VfVk5kaUZ1c1Zad2FodlQyUGFScHVIZmxjWEJZd090TGRGOE9fVnZPNU5wTU1wclI3Q1J6STNZT1NiZlcxejRZbFZBRjF3UzhzLTJCc1FLbUtjemhrV3NhQVNXSFFOaGY5eGFRSUl5YnM4OVA0LXk4TTF5bnpKeWxiRHBZS0ViZng3NE1WTklqd0Vackc3NHlIT3RkRXh0TzZqS2pCNlI0Z2lueTA3eDB2SlFF0gHKAUFVX3lxTFBWZFFCTFREd09mWXBYQWV4UHBYcFpjeHdnSUZwTEZsQjBQanF3VFBhc3BXU0wwSjUwZXhBMXNydWJmemx5SUNZUk5aazlXRGJfZGNyc01tOVltclhXRlIxX1dGYzdfcmZJNFVsdDlVSVZMb0F4UUU1bWgxcXVhUzRYZkM1aG1OU05YbVF3MS00QWFKYzdrNml3d2ZwU2lnUV85MXh1c0szTFdLVWxDdlhzd1NCcXlBN2lNNzd0bGl5bUpKNVhnRWFnMGc?oc=5",
+          "pubDate": "2026-09-01T02:47:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Florida Orders the Removal of License Plate Readers from State Highways"
+        },
+        {
+          "title": "Ataque en Times Square deja dos muertes, una víctima apuñalada y la agresora por disparos de la policía",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVRPcElsUzRxRTc4b2ZGdnc1QXhNTFVGR214dF9raGZwZWM4ZHptR1RyODhidEJnU0ZjRG1FcEo0azhhODh4eHplSFJxMS1QZDR1VFY2elVOVDdPTGZSazJfcHNhcGdiTGJlVm5qd3R5RmVaUUd3U0Zkb1NhTjFsT2VrS3o2RV9halV1UmNaWlVlZVFxNktJLVk3WEdKdkl0bzA5d2hMbW5iUXhfcXpiYVZFT3hrWlgwU0FRX1FzLW1yTEQ3TlpRSzI3ekliZTjSAdQBQVVfeXFMTjZyeXVJTUZZbmt4c0tQdUVzOHpSMXBxQUJGN2ZiS0RqcXRIRVpnSUE0TURjNGdMWDJqNHFkS0dlRUtrMVBjckUwYk5VZDlQZHUyUl9RS3ZQYzlBTFF3cHpobUVxeE1DREhHTExTYk9xWFgzbEVwQ0JnbTVlaUd4QW90OTdqcWY2Y1otTUdmSWJLTVJtcUxFY0o2cFliMG5EWmROdnpjT1Vja3hiMWNMQVRxYmpwNTRnM1BVbGwwRDFibm5mdzllWGZqTXFXSUczc3NMMks?oc=5",
+          "pubDate": "2026-09-01T01:22:14.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Times Square Attack Leaves Two Dead, One Stab Victim, and the Attacker Shot by Police"
+        },
+        {
+          "title": "La Corte Suprema da luz verde a Trump para construir el salón de baile en la Casa Blanca",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZjNnUHZtNHJTaXpKSVdtbTZIaWNJMEUxVFR0NjY2dGlHaFZ3a0FuNFlmc0ZkV2JtVzVyb3d0dFZoWXdPeHF3cWZPTDZPRGVyeFJiUWdwQ3VJajBQcGN3ck41SUdjYkJTT3p4N214RGxMRU9sMzVYZGpsYU1MbEt3anFfZ3JxMkUyWnYyTC1mN1E3YXl2Mko4Y1FsRV9OY01yQnFGb3E1bXN0akJ3bEdIQ3VUZ3ZZNDNNWkpLTUhhMUxFd3l6QWfSAcYBQVVfeXFMTmYzZ1B2bTRyU2l6SklXbW02SGljSTBFMVRUdDY2NnRpR2hWd2tBbjRZZnNGZFdibVc1cm93dHRWaFl3T3hxd3FmT0w2T0RlcnhSYlFncEN1SWowUHBjd3JONUlHY2JCU096eDdteERsTEVPbDM1WGRqbGFNTGxLd2pxX2dycTJFMlp2MkwtZjdRN2F5djJKOGNRbEVfTmNNckJxRm9xNW1zdGpCd2xHSEN1VGd2WTQzTVpKS01IYTFMRXd5ekFn?oc=5",
+          "pubDate": "2026-08-31T23:15:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The Supreme Court gives Trump the green light to build the ballroom at the White House"
+        },
         {
           "title": "Dinero ilícito financiaría campañas del partido Morena en México, arroja investigación",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3NSNVBSUVFucVhFbWREcVZmWDUtLWIyNmVhWWVXTTNZZGdqV3VkYUFCazk5MVJWSHBkbGI2Y05iNnNNc0pBUWlWdjFIY2dldTZaS2VXckcwZ3FjMllNYlZrRTlHWmhRZUxXN2NHSndKYnBDSldtRFFKZlBqanUwbHI5N2YxbEJ3Y0haUUlYTkJOdlh6czh0cTc2djNPZTN1cWhtWVdmTElHLXV5VFZZY0V0aVZfUUhyR3ZOejEyRU1nWjJRYTg0QjlhYW1xbWdvY01SYnhic9IB3AFBVV95cUxNN2JsQVEtTGJNZm9iVlVLdzBYS3VqTVdnMDlFNzNxclVIUzN4OTdnaXF1WGhCc1BwMEItT2swNmp6WUg2cms0OE5qOG1JTGYtME91dkY5WGtTLTQ1ZnhWYTNsMmExVjRpbW13VWZFMGllLXJBT0tFZDM1bkxiVXJuc0lnS3ZKNlljdjRwX1l6RzZhb21uY2ppUm4zQVdDYUs0N2FGQTlnZVBnNUNaVnRaWThnaUw3UmM4RlJESTEyRHllRXM1UmY2dTJjT2xxVWgwYzUwZVEwVkdiVE43?oc=5",
@@ -389,39 +429,7 @@
           "pubDate": "2026-08-31T18:06:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump: \"The U.S. will respond to new actions by a weakened Iran\""
-        },
-        {
-          "title": "Ted Cruz: es necesario que haya elecciones \"democráticas y justas\" en Venezuela",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJSdTVabnhtWjl2cGl0dFVWdFNPaUlHMGo5TjJPS3owTzQzTmZEc1EtQVVubDFfWk1mZUE5ZjVuQTdvSXoyVGhTNUZiRkplN24zS2w1dHQ5RlN0ZWxYQ0FSTl8xWVVZbnNQd3ZLaGlBZzV5ZHVmbWFzcEI4ek1NTUFUWDBuUkVDUmlPNHJFT0t3RVF5UVNqVVNhS0kyTmVMR2pfNUE5OVZTdHpsOUlFRmR2dVBaSWxiaWgzZ1NNaUZKeTlBR0ZNcG43QdIB0AFBVV95cUxQeUpEbFp1ZEJZWEtQZTV0emo0elVEamFNRDNIbW1RdjU3WW10ZFRFVkFWS09PM0dTcUZONUNzRlpJQjczZjQzWExTNmNIWVkwamVNLWotMU13MmlIckl5OWhEeHQxZnpfMFozSFc0WU5abEdaY0Y3bFYzT3JjTENXS2NBMXUzU1FZODVEN3FqU3I2V0p3bUtYZVROQ3JxZzRFM0lGdWNwc1NGMFNmWlhraHpfbjZYMjllUF9pWnVtb0pYcWJmdGhfQjlhRWNnMWo4?oc=5",
-          "pubDate": "2026-08-31T13:37:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Ted Cruz: There must be \"democratic and fair\" elections in Venezuela"
-        },
-        {
-          "title": "De la Espriella sepulta la \"Paz Total\" de Petro y cierra los diálogos con grupos armados",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUDlFNUxpSUZWV0dVTFVfZjBtWWV1ZFpMc1VsMWRtekZpQWJPc3dVREdWQWVXdTFxLTlWYTJPbkt3dVNtZHRzRTRURmU5M3IzenVCRTdaTHdJNTBRY2Z5NC1vX0tST2FGMS1laHdldTBLRTZQLUdDY0FPOTZaZjdVQjQ4UE1jbXBIZ25HNURBaG11amlnSHZiTFV6Z0J0NHFpOWhnSFZKcjZsQUc4MUhJNVREQkYyajNsTmtYSDdPQkhtUGlFNXJiUWpBYS1TUmE0aWtj0gHYAUFVX3lxTE02WnJRWGhKVDkySXpxMUZQZXlTdmdDeEVycjVKU0pzNThnTGNNZVh5d2YzaC1ZRmcwb0dsVDVKNGowaTl5LS01ZUx5aEJrWHVyWkxmNFZ4TWh3TUgtRnR5em9nQ0JOaUJDbHBHNmFnbnVVUS1rU1NuLXlxRmFmRHJKRzY3SmlLN1ZmSFRESWxKSFRkVzU2eVJEcjl4c2MtXy1obnFTZVFvN1VzWEhoM3EwMGo5SjVDU05hdWFGSnZwTENxaTdRWXJHWmNva2VnTTNXakVvY3h3Qg?oc=5",
-          "pubDate": "2026-08-30T19:03:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "De la Espriella buries Petro's \"Total Peace\" and ends talks with armed groups"
-        },
-        {
-          "title": "La Corte Suprema da luz verde a Trump para construir el salón de baile en la Casa Blanca",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZjNnUHZtNHJTaXpKSVdtbTZIaWNJMEUxVFR0NjY2dGlHaFZ3a0FuNFlmc0ZkV2JtVzVyb3d0dFZoWXdPeHF3cWZPTDZPRGVyeFJiUWdwQ3VJajBQcGN3ck41SUdjYkJTT3p4N214RGxMRU9sMzVYZGpsYU1MbEt3anFfZ3JxMkUyWnYyTC1mN1E3YXl2Mko4Y1FsRV9OY01yQnFGb3E1bXN0akJ3bEdIQ3VUZ3ZZNDNNWkpLTUhhMUxFd3l6QWfSAcYBQVVfeXFMTmYzZ1B2bTRyU2l6SklXbW02SGljSTBFMVRUdDY2NnRpR2hWd2tBbjRZZnNGZFdibVc1cm93dHRWaFl3T3hxd3FmT0w2T0RlcnhSYlFncEN1SWowUHBjd3JONUlHY2JCU096eDdteERsTEVPbDM1WGRqbGFNTGxLd2pxX2dycTJFMlp2MkwtZjdRN2F5djJKOGNRbEVfTmNNckJxRm9xNW1zdGpCd2xHSEN1VGd2WTQzTVpKS01IYTFMRXd5ekFn?oc=5",
-          "pubDate": "2026-08-31T23:15:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Supreme Court gives Trump the green light to build the ballroom at the White House"
-        },
-        {
-          "title": "Ataque en Times Square deja dos muertes, una víctima apuñalada y la agresora por disparos de la policía",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVRPcElsUzRxRTc4b2ZGdnc1QXhNTFVGR214dF9raGZwZWM4ZHptR1RyODhidEJnU0ZjRG1FcEo0azhhODh4eHplSFJxMS1QZDR1VFY2elVOVDdPTGZSazJfcHNhcGdiTGJlVm5qd3R5RmVaUUd3U0Zkb1NhTjFsT2VrS3o2RV9halV1UmNaWlVlZVFxNktJLVk3WEdKdkl0bzA5d2hMbW5iUXhfcXpiYVZFT3hrWlgwU0FRX1FzLW1yTEQ3TlpRSzI3ekliZTjSAdQBQVVfeXFMTjZyeXVJTUZZbmt4c0tQdUVzOHpSMXBxQUJGN2ZiS0RqcXRIRVpnSUE0TURjNGdMWDJqNHFkS0dlRUtrMVBjckUwYk5VZDlQZHUyUl9RS3ZQYzlBTFF3cHpobUVxeE1DREhHTExTYk9xWFgzbEVwQ0JnbTVlaUd4QW90OTdqcWY2Y1otTUdmSWJLTVJtcUxFY0o2cFliMG5EWmROdnpjT1Vja3hiMWNMQVRxYmpwNTRnM1BVbGwwRDFibm5mdzllWGZqTXFXSUczc3NMMks?oc=5",
-          "pubDate": "2026-09-01T01:22:14.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Times Square Attack Leaves Two Dead, One Stabbed, and the Attacker Shot by Police"
+          "title_en": "Trump: \"The U.S. will respond to any new actions by a crippled Iran\""
         }
       ]
     }
