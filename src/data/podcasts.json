@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:26:16.999Z",
+  "generatedAt": "2026-09-01T12:45:14.808Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -29,14 +29,14 @@
   ],
   "mundo": [
     {
-      "title": "The Daily",
-      "host": "The New York Times",
-      "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
-    },
-    {
       "title": "Crime Junkie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
+    },
+    {
+      "title": "The Daily",
+      "host": "The New York Times",
+      "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
       "title": "Mick Unplugged",
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953"
     },
     {
-      "title": "Up First from NPR",
-      "host": "NPR",
-      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
+      "title": "Pardon My Take",
+      "host": "Barstool Sports",
+      "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
     },
     {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+      "title": "Morbid",
+      "host": "Ash Kelley & Alaina Urquhart",
+      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
     }
   ]
 }
