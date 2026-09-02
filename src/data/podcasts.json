@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:35:34.517Z",
+  "generatedAt": "2026-09-02T10:01:38.344Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,14 +7,14 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "DianaUribe.fm",
-      "host": "Diana Uribe",
-      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
-    },
-    {
       "title": "365 con Dios",
       "host": "Wenddy Neciosup | Genuina Media",
       "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
+    },
+    {
+      "title": "DianaUribe.fm",
+      "host": "Diana Uribe",
+      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
       "title": "Estoicismo Filosofia",
@@ -39,19 +39,19 @@
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "Mick Unplugged",
-      "host": "Mick Hunt",
-      "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953"
-    },
-    {
-      "title": "Pardon My Take",
-      "host": "Barstool Sports",
-      "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
-    },
-    {
       "title": "Dateline NBC",
       "host": "NBC News",
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "Pod Save America",
+      "host": "Pod Save America",
+      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
+    },
+    {
+      "title": "The Joe Rogan Experience",
+      "host": "Joe Rogan",
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     }
   ]
 }
