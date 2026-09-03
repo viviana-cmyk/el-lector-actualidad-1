@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T10:01:56.845Z",
+  "generatedAt": "2026-09-03T14:12:19.852Z",
   "outlets": [
     {
       "name": "CNN en Español",
@@ -60,44 +60,52 @@
       "color": "sky",
       "items": [
         {
-          "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo pide la dimisión de Sánchez y asegura que “pagará ante la justicia”",
-          "link": "https://elpais.com/espana/2026-09-03/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-          "pubDate": "2026-09-03T09:56:08.000Z",
-          "snippet": "El Gobierno convocó a la embajadora de Marruecos tras las declaraciones “inaceptables” de dos ministros marroquíes | Sánchez anuncia que publicará un dosier con todos los informes previos a la entrada masiva | El presidente cree necesario que el Rey visite Ceuta y Melilla “en las…",
+          "title": "Más de la mitad de los alumnos en riesgo de pobreza no tiene beca para el comedor",
+          "link": "https://elpais.com/educacion/2026-09-03/mas-de-la-mitad-de-los-alumnos-en-riesgo-de-pobreza-no-tiene-beca-para-el-comedor.html",
+          "pubDate": "2026-09-03T14:00:51.000Z",
+          "snippet": "Un informe estima que 1,2 millones de escolares en peligro de exclusión social quedan fuera del sistema de ayudas",
           "_priority": "ALTA",
-          "title_en": "Breaking News: Immigrants Entering Ceuta, Live | Feijóo Calls for Sánchez's Resignation and Says He \"Will Face Justice\""
+          "title_en": "More than half of the students at risk of poverty do not receive a school lunch subsidy"
         },
         {
-          "title": "La toxicidad del embalse gallego de As Conchas llega a Portugal y los vecinos vuelven al juzgado por la inacción de Xunta y Gobierno",
-          "link": "https://elpais.com/espana/galicia/2026-09-03/la-toxicidad-del-embalse-gallego-de-as-conchas-llega-a-portugal-y-los-vecinos-vuelven-al-juzgado-por-la-inaccion-de-xunta-y-gobierno.html",
-          "pubDate": "2026-09-03T08:36:52.000Z",
-          "snippet": "El pueblo de la presa contaminada por purines de cientos de granjas en Ourense presenta una demanda para la ejecución de la sentencia que condenó hace más de un año a las administraciones por vulnerar el derecho a la vida",
+          "title": "Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”",
+          "link": "https://elpais.com/espana/2026-09-03/feijoo-acusa-a-sanchez-de-estar-chantajeado-por-marruecos-y-le-avisa-pagara-ante-la-justicia.html",
+          "pubDate": "2026-09-03T12:56:01.000Z",
+          "snippet": "El líder del PP se reafirma en culpar a Marruecos de la operación del salto masivo: “Hay indicios de que la coordinó”",
           "_priority": "ALTA",
-          "title_en": "Toxic contamination from the As Conchas reservoir in Galicia has reached Portugal, and residents are taking the matter back to court due to the inaction of the Galician regional government and the national government"
+          "title_en": "Feijóo accuses Sánchez of being “blackmailed” by Morocco and warns him: “He will face justice”"
         },
         {
-          "title": "Sánchez: “Si existieran pruebas contra Marruecos actuaríamos, pero no hay evidencias sólidas”",
-          "link": "https://elpais.com/espana/2026-09-03/sanchez-si-existieran-pruebas-contra-marruecos-actuariamos-pero-no-hay-evidencias-solidas.html",
-          "pubDate": "2026-09-03T08:23:23.000Z",
-          "snippet": "El presidente hará públicos todos los informes y desvela que el Gobierno llamó a la embajadora marroquí el 21 de agosto. Feijóo: “La operación salió de Marruecos. ¿Qué saben de usted?\"",
+          "title": "Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones",
+          "link": "https://cincodias.elpais.com/companias/2026-09-03/las-agencias-impugnan-el-macroconcurso-de-viajes-de-los-ministerios-dotado-con-605-millones.html",
+          "pubDate": "2026-09-03T12:52:26.000Z",
+          "snippet": "La patronal que reúne a empresas como Viajes El Corte Inglés o American Express GBT acusa al Ejecutivo de obligarles a licitar a precios que les llevan a pérdidas",
           "_priority": "ALTA",
-          "title_en": "Sánchez: “If there were evidence against Morocco, we would take action, but there is no solid evidence.”"
+          "title_en": "Agencies are challenging the ministries' large-scale travel contract, worth 605 million"
         },
         {
-          "title": "Mueren más de 80 personas en un cayuco rescatado al sur de Canarias",
-          "link": "https://elpais.com/espana/2026-09-03/mueren-mas-de-80-personas-en-un-cayuco-rescatado-al-sur-de-canarias.html",
-          "pubDate": "2026-09-03T08:13:56.000Z",
-          "snippet": "Salvamento Marítimo rescata este jueves una embarcación con 44 supervivientes y ocho cadáveres. La barca salió de Gambia hace 27 días con 128 ocupantes a bordo",
+          "title": "El movimiento por Ceuta da un giro en la derecha",
+          "link": "https://elpais.com/opinion/2026-09-03/el-movimiento-por-ceuta-da-un-giro-en-la-derecha.html",
+          "pubDate": "2026-09-03T12:27:20.000Z",
+          "snippet": "PP y Vox probablemente no sabrán aprovechar la oleada de la solidaridad de los españoles, que supera a la polarización, con una ciudad que se siente abandonada por el Gobierno",
           "_priority": "ALTA",
-          "title_en": "More than 80 people die on a cayuco rescued south of the Canary Islands"
+          "title_en": "The Ceuta movement takes a turn to the right"
         },
         {
-          "title": "Maduro apela a su inmunidad como jefe de Estado e insta al juez estadounidense a desestimar los cargos",
-          "link": "https://elpais.com/internacional/2026-09-03/maduro-apela-a-su-inmunidad-como-jefe-de-estado-e-insta-al-juez-estadounidense-a-desestimar-los-cargos.html",
-          "pubDate": "2026-09-03T07:50:23.000Z",
-          "snippet": "El depuesto mandatario venezolano, encarcelado en Nueva York, se aferra a su condición de presidente, que Washington no reconoce, en una moción defendida por su abogado ante un tribunal federal",
+          "title": "La nueva presidenta de la Acadèmia Valenciana defiende una lengua “unitaria y propia” y Llorca le pide “diálogo”",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-03/la-nueva-presidenta-de-la-academia-valenciana-defiende-una-lengua-unitaria-y-propia-y-llorca-le-pide-dialogo.html",
+          "pubDate": "2026-09-03T12:18:08.000Z",
+          "snippet": "La alcoyana Maria Àngels Francés asume el cargo del ente normativo en una ceremonia en la Generalitat en la que la extrema derecha se ha ausentado",
           "_priority": "ALTA",
-          "title_en": "Maduro invokes his immunity as head of state and urges the U.S. judge to dismiss the charges"
+          "title_en": "The new president of the Valencian Academy advocates for a “unified and distinct” language, and Llorca calls for “dialogue”"
+        },
+        {
+          "title": "Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta",
+          "link": "https://elpais.com/videos/2026-09-03/margarita-robles-evita-aplaudir-el-anuncio-de-sanchez-sobre-la-publicacion-de-los-informes-sobre-ceuta.html",
+          "pubDate": "2026-09-03T11:56:15.000Z",
+          "snippet": "La ministra de Defensa, que ha mostrado diferencias con el resto del Gobierno acerca de la crisis en Ceuta, no ha seguido a la bancada socialista en la ovación tras el anuncio del presidente del Gobierno",
+          "_priority": "ALTA",
+          "title_en": "Margarita Robles Refrains from Applauding Sánchez's Announcement Regarding the Release of the Reports on Ceuta"
         }
       ]
     },
@@ -106,52 +114,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Labour party of ‘big money’, claims Greens’ Polanski as he says he will run for Starmer’s seat – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
-          "pubDate": "2026-09-03T09:48:27.000Z",
-          "snippet": "Green party leader announces run in Holborn and St Pancras constituency in north London following the resignation of former PM Full report: Zack Polanski to stand in Keir Starmer seat as Green party candidate The Electoral Commission has released political donation figures for th…",
+          "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
+          "link": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
+          "pubDate": "2026-09-03T14:04:46.000Z",
+          "snippet": "Domestic security service says clash with military intelligence directorate ‘definitely shouldn’t have happened’ Several people have been injured in a shootout in central Kyiv between two branches of Ukraine’s security services, in an incident Volodymyr Zelenskyy described as “di…",
           "_priority": "ALTA",
-          "title_en": "\"The Labour Party is a party of 'big money,'\" claims the Greens' Polanski as he says he will run for Starmer's seat – UK politics live"
+          "title_en": "Shootout in Kyiv Between Ukrainian Intelligence Agencies Is ‘Disgraceful,’ Says Zelenskyy"
         },
         {
-          "title": "Property developer claimed ‘the premier is my best friend’ in tapped phone call, Icac hears",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/03/icac-charles-perrottet-jean-nassif-nsw-liberals-ntwnfb",
-          "pubDate": "2026-09-03T09:14:59.000Z",
-          "snippet": "Charles Perrottet, the younger brother of the former premier, tells Icac that claims made by Jean Nassif in the call were ‘bravado’ and ‘far-fetched’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A property deve…",
+          "title": "Badenoch condemns Reform UK’s ‘authoritarian’ press bans – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
+          "pubDate": "2026-09-03T13:48:46.000Z",
+          "snippet": "Conservative leader says: ‘If Nigel Farage can’t handle difficult questions about his dodgy £5m, then he shouldn’t be a politician’ The Electoral Commission has released political donation figures for the second quarter of 2026. They show that Reform UK continues to rake in far m…",
           "_priority": "ALTA",
-          "title_en": "Property developer claimed ‘the premier is my best friend’ in a wiretapped phone call, ICAC hears"
+          "title_en": "Badenoch Condemns Reform UK’s ‘Authoritarian’ Press Bans – UK Politics Live"
         },
         {
           "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
           "link": "https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off",
-          "pubDate": "2026-09-03T08:25:18.000Z",
+          "pubDate": "2026-09-03T13:35:39.000Z",
           "snippet": "Swap rates rise to three-year high as increase in oil prices leads to fears of higher inflation Business live – latest updates Homeowners in the UK are braced for a jump in mortgage rates, driven by higher inflation and interest rate increase expectations amid turmoil in the glob…",
           "_priority": "ALTA",
           "title_en": "UK mortgage borrowers brace for a rate hike amid a global bond sell-off"
         },
         {
-          "title": "Coalition plan to cut tobacco excise by 80% ‘will kill people,’ Labor says amid public health alarm",
-          "link": "https://www.theguardian.com/society/2026/sep/03/coalition-plan-cut-tobacco-excise-legalise-vapes-price-cigarettes-illegal-trade",
-          "pubDate": "2026-09-03T05:05:56.000Z",
-          "snippet": "Angus Taylor and Matt Canavan claim drastic cut to price of cigarettes and moves to legalise vapes will combat illicit tobacco trade Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Leading public health experts, t…",
+          "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+          "link": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+          "pubDate": "2026-09-03T13:15:26.000Z",
+          "snippet": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the…",
           "_priority": "ALTA",
-          "title_en": "Coalition plan to cut tobacco excise tax by 80% ‘will kill people,’ Labor says amid public health concerns"
+          "title_en": "Nvidia to Acquire Developer Platform Hugging Face in a $12.9 Billion Deal"
         },
         {
-          "title": "Gang violence is not ‘out of control’ in Sydney, police minister says after two shootings in two days",
-          "link": "https://www.theguardian.com/australia-news/2026/sep/03/gang-violence-is-not-out-of-control-in-sydney-police-minister-says-after-two-shootings-in-two-days",
-          "pubDate": "2026-09-03T04:34:13.000Z",
-          "snippet": "Yasmin Catley says ‘we will not be surrendering our streets’ after as many as six suspected mistaken identity shootings since the start of last year The New South Wales police minister denies that gang violence is out of control in the state, despite two people being shot dead in…",
+          "title": "Teenager in Wales given detention sentence for stabbing teacher in head",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/03/teenager-wales-sentenced-youth-detention-stabbing-attack-teacher",
+          "pubDate": "2026-09-03T13:01:54.000Z",
+          "snippet": "Judge voices concern about possible copycat incidents after boy, 16, found guilty over attack at school in Pembrokeshire A judge has expressed concern over possible copycat attacks on school staff as he sentenced a teenager who stabbed a teacher in the head to four and a half yea…",
           "_priority": "ALTA",
-          "title_en": "Gang violence is not 'out of control' in Sydney, police minister says after two shootings in two days"
+          "title_en": "Teenager in Wales Sentenced to Detention for Stabbing a Teacher in the Head"
         },
         {
-          "title": "Trump doubles down on Canada trade war as talks remain stalled – as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
-          "pubDate": "2026-09-03T01:58:14.000Z",
-          "snippet": "This live blog is now closed. Sign up for the US Breaking News email As tensions flare in the mideast with American military forces resuming strikes on Iran, Donald Trump has taken to social media to discuss his ballroom project. “We have hundreds of happy construction workers in…",
+          "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+          "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+          "pubDate": "2026-09-03T12:52:08.000Z",
+          "snippet": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, t…",
           "_priority": "ALTA",
-          "title_en": "Trump Doubles Down on Trade War with Canada as Talks Remain Stalled – As It Happened"
+          "title_en": "Spain’s Prime Minister Says There Is No Evidence “Whatsoever” That Morocco Was Behind the Ceuta Border Breach"
         }
       ]
     },
@@ -160,9 +168,41 @@
       "color": "mint",
       "items": [
         {
+          "title": "Israeli Military Kills Two Palestinians in Nighttime Village Raid",
+          "link": "https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html",
+          "pubDate": "2026-09-03T14:05:11.000Z",
+          "snippet": "Al Mughayir, in the Israeli-occupied West Bank, has become a focal point for rising settler violence, with the latest deadly episode starting in a dispute over livestock.",
+          "_priority": "ALTA",
+          "title_en": "Israeli Military Kills Two Palestinians in a Nighttime Village Raid"
+        },
+        {
+          "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+          "link": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
+          "pubDate": "2026-09-03T13:50:41.000Z",
+          "snippet": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",
+          "_priority": "ALTA",
+          "title_en": "China Boycotts a Major Art Festival Over a Taiwan Exhibition"
+        },
+        {
+          "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+          "link": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+          "pubDate": "2026-09-03T12:47:02.000Z",
+          "snippet": "Carbon removal combined with emissions reduction is the only remaining pathway to avert catastrophic levels of warming, a new report warns.",
+          "_priority": "ALTA",
+          "title_en": "U.N. Says the World Will Miss Its 1.5-Degree Climate Target"
+        },
+        {
+          "title": "Vietnam Sentences 11 to Death Penalty in Drug Trafficking Case",
+          "link": "https://www.nytimes.com/2026/09/03/world/asia/vietnam-death-penalty-drug-trafficking.html",
+          "pubDate": "2026-09-03T11:48:18.000Z",
+          "snippet": "The authorities said they uncovered the network after four flight attendants arriving from Paris were found with narcotics hidden in toothpaste tubes.",
+          "_priority": "ALTA",
+          "title_en": "Vietnam Sentences 11 People to Death in a Drug Trafficking Case"
+        },
+        {
           "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
           "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
-          "pubDate": "2026-09-03T09:08:39.000Z",
+          "pubDate": "2026-09-03T11:35:44.000Z",
           "snippet": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
           "_priority": "ALTA",
           "title_en": "For Russia and Ukraine, an Escalating Spiral With No End in Sight"
@@ -170,42 +210,10 @@
         {
           "title": "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
           "link": "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html",
-          "pubDate": "2026-09-03T09:00:31.000Z",
-          "snippet": "These Russian drones are more destructive, faster and harder to shoot down than the propeller-driven models Russia has used throughout the war.",
+          "pubDate": "2026-09-03T10:44:22.000Z",
+          "snippet": "These Russian drones are more destructive, faster and harder to shoot down than the propeller-driven models that Moscow has used throughout the war.",
           "_priority": "ALTA",
           "title_en": "The New Jet-Powered Drones That Are Causing Anxiety in Ukraine"
-        },
-        {
-          "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-          "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-          "pubDate": "2026-09-02T19:56:53.000Z",
-          "snippet": "The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.",
-          "_priority": "ALTA",
-          "title_en": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again"
-        },
-        {
-          "title": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
-          "link": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-          "pubDate": "2026-09-03T04:35:07.000Z",
-          "snippet": "The pro-democracy dissident was accused of urging Western politicians like Nancy Pelosi and Marco Rubio to pressure Hong Kong by imposing sanctions on the city.",
-          "_priority": "ALTA",
-          "title_en": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion"
-        },
-        {
-          "title": "Syrians Want Justice for Assad-Era Killings and Torture",
-          "link": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
-          "pubDate": "2026-09-03T04:00:11.000Z",
-          "snippet": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife.",
-          "_priority": "ALTA",
-          "title_en": "Syrians Want Justice for Killings and Torture During the Assad Era"
-        },
-        {
-          "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
-          "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
-          "pubDate": "2026-09-02T18:50:02.000Z",
-          "snippet": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
-          "_priority": "ALTA",
-          "title_en": "U.S. Sanctions on Iran Prevent Students from Taking Exams Required for Studying Abroad"
         }
       ]
     },
@@ -268,52 +276,52 @@
       "color": "lilac",
       "items": [
         {
-          "title": "US Senate 2026 forecast",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5iZF9CcElOTXkydDhVWVJsUDVaalhNYlpZT1VacEEtVG93VnNVdTkzVUVIRWxpZ2tHN0xUdEFKY1Q0SDkyX3lzRk50cS1wLVVYOG1QRnBGWmlzdnowZjE1WE9vNURDTWM1RVVJdVVuOVJ6STNGaERacDBNSUFFU0YteGw?oc=5",
-          "pubDate": "2026-09-03T07:36:30.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "2026 U.S. Senate Forecast"
-        },
-        {
           "title": "How safe is Nvidia’s empire?",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zWTJEVmltQkdCd2dlTjlIYXZGczZNM0JpOVUwWlc4YUFmM1dZZjZRR0c5NU5yQ3FhQnVyVFVKVWJ3V1IzLUpVeWZfcGM3elphMGRqMW0wVVlqN0w5bkoyMkJiWkJoLUZEbjVlNm5EOWNzR210NVV0dFlXTDE?oc=5",
-          "pubDate": "2026-09-03T07:16:25.000Z",
+          "pubDate": "2026-09-03T13:21:58.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "How secure is Nvidia’s empire?"
+          "title_en": "How secure is Nvidia's empire?"
         },
         {
-          "title": "Central banking has a forbidding future",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWExqbHlETVVIUFJfMTBFN1dDTEEtXzVGbXFGMkdxWVpnMmFjdnRrMU02aExZVlowT0hONnBHc0JoTGhndjZsMFlzOGRlTUlnX3QxSTVxbmlYbWZYdjVtaTgwOTk3N1pJakN2SGE1NG0tUTM2Ty1fS19hdnlQdGZKZVZBOEVleTJadjJ5R1lISnNjT0pQaGhzX3UwWmhTbjA?oc=5",
-          "pubDate": "2026-09-02T19:47:06.000Z",
+          "title": "Chinese businesses of all stripes are turning to Huawei",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd09qR1lBVmNFUHhxZkRNYTE2enNDa2djNENmS051b25ONG5FSGRVLWFESWpmRUhXVjZXbS1qTGZDWmNCUlduWTZPc0NvTnhRRHlVWmJ5MUdQM0RhT1ZzY3JmdVRPUlRydmswQVl2Z1lJNlY5X3hKVnRlZmhiazEwTzBwOTNmRVFPQklvZXoyWEFyMDJrZzRGMFZKZi1MQ29Qd1Rn?oc=5",
+          "pubDate": "2026-09-03T13:08:54.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Central banking faces a bleak future"
+          "title_en": "Chinese businesses of all kinds are turning to Huawei"
         },
         {
-          "title": "How data centres became one of America’s hottest political issues",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDk3ck5YcXNEWm5rbjFKaUY1dlU3NHpscVpoelVQS0xqMFVXSmNMS1hMdDdWUGJpb1FpMGFRZ3RNR0ZVaGZWdTRJQWJyWDdMX3VSdXVScmdrMUs5UU9FYmY5Q0I1RlBZRTI3bHQ1WGR2Ym9DeHhUQmpUVUFxTm92WTFqdjRuSVZBdUFITTVNeDlaRnVVTUw1NklkMFZncHZieGlUV3kxWElDc1R1Nmtoc3RiZ2dadw?oc=5",
-          "pubDate": "2026-09-02T19:35:06.000Z",
+          "title": "Tiny Montenegro still hopes it will be the EU’s next member",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnBnWUREZ0VfOS13MzJpa1lFSmdMcEIxVkZRX2hBU19Wc2FEZW9RZ2s5UVB2Wmg2cmRjZVg3ak5KR1lyWXdUMkpkbVNmTHhaeDhDU1RLdUUtUTlSd2N2WWhWVGZwZ2hJNmtOY2FRVms4Qy1aRGtIUFprNlRBRFVzLWxlMjc0OHBvQkxfb2U4WC1BdFhUcmFYTFlOSENualBhNnVUQQ?oc=5",
+          "pubDate": "2026-09-03T13:08:54.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "How Data Centers Became One of America’s Hottest Political Issues"
+          "title_en": "Tiny Montenegro still hopes to become the EU's next member"
         },
         {
-          "title": "NASA’s latest mission to map the cosmos takes off",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlpaRmYxVjQ0Y20zMlk5MW5aTVduY3hyRExxTFh0dDhxU0N3M2w4bUR2TGpDMUlYSGV1QmNuS184WEdpSkk1RjJlOFpKaGdxREl5UmstVHNTOEktZHJLVzNXLW01MFlMTmY5U0t1TVRSLUxrZ3oybnFvbEw4cnVWejEzZ25XdXBoRUdzQWtPRVdYVmtnX0c0eVMxd0U1NGFWNlozV2tyamlpMTYz?oc=5",
-          "pubDate": "2026-09-02T19:08:20.000Z",
+          "title": "London’s approach to knife crime is working",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZDV2QVoxSnBzaDc2TlppaTNmZE96S3diN3llcEtlRFpVbmd1ZDlzbGtuZTNVN2FsUHBmYW1WcUdwXzFvMFo5T2RoQU9GNVdoOXNnWmpIbjk2ak9MM0pHNDhEeFM2SDBFRDUzTlFVUzF6Y3BSWHVISFNjQ0RROHdiXzNMczJteVFiS2phVk9wWnU?oc=5",
+          "pubDate": "2026-09-03T13:08:54.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "NASA's latest mission to map the cosmos takes off"
+          "title_en": "London's approach to knife crime is working"
         },
         {
-          "title": "Donald Trump’s Venezuela deal is bold but dodgy",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2JWWGE2TkQ0T1R3MTRtT2wySFkwOGJSeHJpaTEwVngyR1pUTFJzcnBsNUtMNEhpbzhySmlNME5ScjQyYnZlWDVVNEJsMS1BdUZYZVF1MXJIcmc3a0M2VlJuMzRqellIcjN5VkJ4ZWRhek4wMDhJeWxyZDE1UEVNdmhzeXlUYVpTNXVjRTVBWkkwR1dDdXc?oc=5",
-          "pubDate": "2026-09-02T18:33:37.000Z",
+          "title": "Nvidia is driving the AI boom. Good",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5",
+          "pubDate": "2026-09-03T09:57:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Donald Trump's Venezuela deal is bold but shady"
+          "title_en": "Nvidia is driving the AI boom. Good"
+        },
+        {
+          "title": "Indian regulators’ attempts to protect retail traders are backfiring",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEFQV1YwLTJ6S1VuRHd6enYzcTZ3TEFaNU1VWkNwelQyZW9jS0x0a01UanUzQ0lBWTRtcTRDSzVqZ1I2LWtiZngxTUVZanpxaktuZkhTSXU1S01VN0JjUVA1MHJMZ3kxTEgtejdnOXJZbEptSUdCcjc5dTJfUXNERVBPWXlwRGx0cFJGZzQ3T2FXX2owS0FDRG1oNFEyWG84M1Y1Sy1yeVlwNHl5ZzRkX1Q3WVhnSWxTdlJIYXc4UEJSTVFI?oc=5",
+          "pubDate": "2026-09-03T09:34:25.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Indian regulators' attempts to protect retail traders are backfiring"
         }
       ]
     },
