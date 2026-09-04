@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T14:12:19.852Z",
+  "generatedAt": "2026-09-04T10:08:53.542Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -22,9 +22,9 @@
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+      "title": "Huevos Revueltos con Política",
+      "host": "La Silla Vacía",
+      "url": "https://podcasts.apple.com/co/podcast/huevos-revueltos-con-pol%C3%ADtica/id1607193381"
     }
   ],
   "mundo": [
@@ -39,19 +39,19 @@
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "Dateline NBC",
-      "host": "NBC News",
-      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
-    },
-    {
       "title": "The Joe Rogan Experience",
       "host": "Joe Rogan",
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
-      "title": "Pardon My Take",
-      "host": "Barstool Sports",
-      "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
+      "title": "Dateline NBC",
+      "host": "NBC News",
+      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "Mick Unplugged",
+      "host": "Mick Hunt",
+      "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953"
     }
   ]
 }
