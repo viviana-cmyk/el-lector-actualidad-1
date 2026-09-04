@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-01T13:06:21.925Z",
+  "generatedAt": "2026-09-04T14:03:32.257Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada militar rusa en Ucrania y ofensiva aérea sostenida",
-      "titulo_en": "Russian military escalation in Ukraine and sustained air offensive",
+      "titulo": "Escalada militar en Ucrania y ataques rusos a infraestructura crítica",
+      "titulo_en": "Military escalation in Ukraine and Russian strikes on critical infrastructure",
       "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
-        "link": "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+        "titulo": "Russian drone strikes Ukraine's security services HQ, says Zelenskyy",
+        "link": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
         "fuente": "The Guardian"
       },
-      "analisis": "Rusia intensifica ataques aéreos coordinados contra Kyiv durante seis noches consecutivas, demostrando una campaña sostenida de presión sobre infraestructuras civiles y capacidades defensivas. Este patrón sugiere un cambio táctico hacia la attrición prolongada mientras Putin planea escalar militarmente, según análisis económico reciente, lo que podría forzar negociaciones o profundizar el conflicto.",
-      "analisis_en": "Russia intensifies coordinated air attacks on Kyiv across six consecutive nights, demonstrating a sustained campaign of pressure on civilian infrastructure and defensive capabilities. This pattern suggests a tactical shift toward prolonged attrition while Putin plans military escalation, according to recent economic analysis, which could force negotiations or deepen the conflict."
+      "analisis": "Los ataques rusos dirigidos a la sede del servicio de seguridad ucraniano representan una intensificación táctica en objetivos estratégicos que busca desarticular la cadena de mando defensiva. Esta escalada ocurre mientras persisten negociaciones diplomáticas inciertas, lo que sugiere que Moscú mantiene presión militar para mejorar su posición negociadora.",
+      "analisis_en": "Russian attacks targeting Ukraine's security service headquarters represent a tactical intensification in strategic objectives aimed at dismantling defensive command structures. This escalation occurs while uncertain diplomatic negotiations persist, suggesting Moscow maintains military pressure to improve its negotiating position."
     },
     {
       "rank": 2,
-      "titulo": "Restauración de relaciones diplomáticas EE.UU.-Rusia y ruptura con aliados europeos",
-      "titulo_en": "US-Russia diplomatic restoration and rupture with European allies",
-      "region": "Europa y Atlántico Norte",
+      "titulo": "Crisis de seguridad y violencia criminal en Haití y Filipinas",
+      "titulo_en": "Security crisis and criminal violence in Haiti and the Philippines",
+      "region": "Caribe y Asia-Pacífico",
       "noticia": {
-        "titulo": "Europe Protests as U.S. Invites Russian Minister to G20 Finance Meeting",
-        "link": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
+        "titulo": "Can a Country Really Hold an Election in the Middle of a Gang War?",
+        "link": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
         "fuente": "The New York Times"
       },
-      "analisis": "La invitación de Trump al ministro de Finanzas ruso a la reunión del G20 genera protestas europeas y revela una reconfiguración de alianzas occidentales, con EE.UU. buscando normalizar relaciones con Moscú mientras la OTAN despliega cazas en Estonia por violaciones aéreas rusas. Este contraste señala una fragmentación en la cohesión transatlántica sobre la política hacia Rusia.",
-      "analisis_en": "Trump's invitation to the Russian finance minister to the G20 meeting sparks European protests and reveals a reconfiguration of Western alliances, with the U.S. seeking to normalize relations with Moscow while NATO deploys fighter jets to Estonia for Russian airspace violations. This contrast signals fragmentation in transatlantic cohesion over Russia policy."
+      "analisis": "Haití enfrenta un colapso institucional donde la violencia de bandas criminales impide procesos electorales democráticos, mientras Filipinas experimenta crisis política con la detención de su vicepresidenta por amenazas de asesinato. Ambos casos reflejan el debilitamiento de instituciones estatales en regiones con relevancia geopolítica donde potencias externas disputan influencia.",
+      "analisis_en": "Haiti faces institutional collapse where criminal gang violence prevents democratic electoral processes, while the Philippines experiences political crisis with its vice president facing arrest for assassination threats. Both cases reflect weakening state institutions in regions with geopolitical relevance where external powers dispute influence."
     },
     {
       "rank": 3,
-      "titulo": "Intervención geopolítica estadounidense en Venezuela y dependencia energética estratégica",
-      "titulo_en": "US geopolitical intervention in Venezuela and strategic energy dependence",
-      "region": "América Latina",
+      "titulo": "Amenaza houtí al comercio marítimo global y control del Estrecho de Ormuz",
+      "titulo_en": "Houthi threat to global maritime trade and Strait of Hormuz control",
+      "region": "Medio Oriente",
       "noticia": {
-        "titulo": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-        "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
+        "titulo": "Yemen's Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
+        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
         "fuente": "The New York Times"
       },
-      "analisis": "El Pentágono bajo Trump establece operaciones directas en el sector petrolero venezolano, marcando una expansión militar en asuntos de recursos naturales donde históricamente operaban actores civiles. Este movimiento refleja un enfoque más agresivo sobre la seguridad energética hemisférica y puede elevar tensiones con gobiernos regionales mientras busca contrapesar la influencia rusa en la región.",
-      "analisis_en": "The Pentagon under Trump establishes direct operations in Venezuelan oil sector, marking a military expansion into natural resource affairs historically managed by civilian actors. This move reflects a more aggressive approach to hemispheric energy security and may escalate tensions with regional governments while seeking to counterbalance Russian influence in the region."
+      "analisis": "El avance territorial houtí hacia el Estrecho de Ormuz amplifica su capacidad de disruption sobre rutas comerciales vitales que canalizan aproximadamente el 20% del tráfico petrolero global. Esta consolidación militar, junto con el regreso del tránsito marítimo a niveles preconflicto, indica una normalización de la amenaza que podría motivar intervenciones de potencias navales para resguardar intereses energéticos occidentales.",
+      "analisis_en": "Houthi territorial advances toward the Strait of Hormuz amplify their disruption capacity over vital trade routes that channel approximately 20% of global oil traffic. This military consolidation, combined with maritime transit returning to pre-conflict levels, indicates normalization of the threat that could motivate naval interventions by Western powers to safeguard energy interests."
     }
   ]
 }
