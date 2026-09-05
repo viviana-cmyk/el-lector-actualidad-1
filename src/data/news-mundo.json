@@ -1,17 +1,25 @@
 {
-  "generatedAt": "2026-09-05T10:01:47.468Z",
+  "generatedAt": "2026-09-05T13:17:48.229Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "El partido de extrema derecha alemán AfD está a punto de llegar al poder, dividido sobre si aliarse o no con Trump",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWFPUzEwRi01dzdOaTBoeExfdHNMbWE1QjBMTmdNdkRxdXNTWXlteThLMzdMTEVVRGs2R2VuTkFPa2dUSFdhU0J3YlV3ejRabm9fWjdmdXFOcUI2cE1obXRZYXhzeUVOUmZHOFJ6T2tvazg5MTRNdG9jVWJRSVN0X0x2UWVkRW9mR3l3Tnc3eV9uWFE?oc=5",
-          "pubDate": "2026-09-05T08:44:00.000Z",
+          "title": "Explosión mata al menos a dos personas en una base militar de Bolivia",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORkczODJIazI4c2FtUEUtQ09iTU1VcEJ2OV9ibjF2aU5ZRVItRWVpZm1VMFVDbTBHRlZfQkx6MnRyV1BpSldrU3VfR3VJWWhacUl2VE9maUV4cGpPX2NHV2c1c2NpY00wNTl2OUtDNjNQWUVRZ2d1NFEwQ3hlWG95c19FazkycDEta2otTnNQUnpma1Z0dUxzSnNvQQ?oc=5",
+          "pubDate": "2026-09-05T12:57:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Germany's far-right AfD party is on the verge of coming to power, divided over whether or not to ally with Trump"
+          "title_en": "Explosion Kills at Least Two People at a Military Base in Bolivia"
+        },
+        {
+          "title": "Witkoff y Kushner llegan a Moscú con un plan para poner fin a la guerra antes de visitar Kyiv",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb092eVpINzJLRTloYVJValRpd2tsWGo2RTg0R0FUTXB5cDQ4amVZZmo2QnNfaE9FeWY4cFZOS0hqYUVSdHo5bnR4ZGU3Zm9WT0NWdVJqZVMwT2lHRkk2UGsxSG9fbWw2ZkV4Z3NsRmNXdFVXNkxxaGFzZWhBcF9DNXQ0YkFIa000?oc=5",
+          "pubDate": "2026-09-05T11:59:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Witkoff and Kushner arrive in Moscow with a plan to end the war before visiting Kyiv"
         },
         {
           "title": "Rusia ataca la sede del Servicio de Seguridad de Ucrania en el centro de Kyiv",
@@ -22,28 +30,20 @@
           "title_en": "Russia attacks the headquarters of the Ukrainian Security Service in downtown Kyiv"
         },
         {
+          "title": "El partido de extrema derecha alemán AfD está a punto de llegar al poder, dividido sobre si aliarse o no con Trump",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWFPUzEwRi01dzdOaTBoeExfdHNMbWE1QjBMTmdNdkRxdXNTWXlteThLMzdMTEVVRGs2R2VuTkFPa2dUSFdhU0J3YlV3ejRabm9fWjdmdXFOcUI2cE1obXRZYXhzeUVOUmZHOFJ6T2tvazg5MTRNdG9jVWJRSVN0X0x2UWVkRW9mR3l3Tnc3eV9uWFE?oc=5",
+          "pubDate": "2026-09-05T08:44:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Germany's far-right AfD party is on the verge of coming to power, divided over whether or not to form an alliance with Trump"
+        },
+        {
           "title": "Trump prometió un “Día D económico” para Irán, pero las sanciones llegan a cuentagotas",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVZpZUloemMyRnE5bW54Wk5rNlF0TnhwaHpkeGs4STlqbnhfdW1XOThhUmc0aEwxY2gtMHVFaHhwc05VTnBsMjNnaFNITWtLMzBnUl9wZjFfSnhDMlJSN3Zqb0hhYy05UEh5SGZnV1ltdmZZRVYxTFQ3QlZxQ19fR21vN1phZ3RJRUNaeA?oc=5",
           "pubDate": "2026-09-05T02:06:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump promised an “economic D-Day” for Iran, but sanctions are coming in dribs and drabs"
-        },
-        {
-          "title": "Los enviados de Trump, Witkoff y Kushner, planean visitar Moscú y Kyiv en su primer viaje a Ucrania",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSU5hUS0td0pqS0VmaklKNW1BdFFXcEpPSlVQcW0tbFdnY2dMbDcwS0JKRVlwMC1XOUtobWtPaHZEbHJCOG1Wd3Y1V0dGV2tUYzBSM2REQXhRdVFnemRXUWRiVUs0TmlDU2VUS3kxbUdITmpQNnYtUS0zMXFaLXowdk9tN0FBZ3MzdFZCbm1LdVhQcm8?oc=5",
-          "pubDate": "2026-09-04T22:35:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump's envoys, Witkoff and Kushner, plan to visit Moscow and Kyiv on their first trip to Ukraine"
-        },
-        {
-          "title": "Trump dice que el conflicto con Irán, que ha matado a 18 militares de EE.UU. y ha dejado cientos de heridos, es “poca cosa”",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ0lzSjYzdE1Tb1RNVmR6cWxnS1ZUWlZSRHlRdzluVGRkbmhGbldzZGFmRmx5V2NfU2tEcnA4ME9RNDNSMGdmTXlmNFhPdm5RTXlXY1lwelMzaFJTeFZHTFFUMS1iYmFVY3RSMDB6UmdYODhvZFdtOEp4N1l2Z1NqeA?oc=5",
-          "pubDate": "2026-09-04T22:05:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump says the conflict with Iran, which has killed 18 U.S. service members and left hundreds wounded, is “no big deal”"
+          "title_en": "Trump promised an “economic D-Day” for Iran, but the sanctions are coming in dribs and drabs"
         },
         {
           "title": "Aumenta a 1.375 la cifra de muertos por las inundaciones en Nepal y China mientras la ONU pide US$ 49,6 millones en ayuda",
@@ -60,28 +60,36 @@
       "color": "sky",
       "items": [
         {
-          "title": "La eterna espera de los damnificados en Venezuela que viven en refugios y albergues desde hace más de 15 años",
-          "link": "https://elpais.com/america/2026-09-05/la-eterna-espera-de-los-damnificados-en-venezuela-que-viven-en-refugios-y-albergues-desde-hace-mas-de-15-anos.html",
-          "pubDate": "2026-09-05T04:00:00.000Z",
-          "snippet": "El doblete sísmico del 24 de junio y las recientes lluvias torrenciales en Caracas avivan la herida de las cientos de familias que aún esperan por una solución habitacional a los desastres naturales",
+          "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo pide a Robles que deje comparecer a la directora del CNI en el Congreso",
+          "link": "https://elpais.com/espana/2026-09-05/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+          "pubDate": "2026-09-05T12:59:20.000Z",
+          "snippet": "El líder del PP acusa al Gobierno de “alentar a que le gente se juegue la vida y la pierda para venir a España” | Sanidad promete más efectivos y apoyo psicológico para evitar el estrés de los sanitarios en Ceuta",
           "_priority": "ALTA",
-          "title_en": "The Endless Wait for Disaster Victims in Venezuela Who Have Been Living in Shelters and Emergency Housing for More Than 15 Years"
+          "title_en": "Breaking News: Immigrants Entering Ceuta, Live | Feijóo Asks Robles to Allow the Director of the CNI to Testify Before Congress"
         },
         {
-          "title": "Estudiantes convertidos en narcos: cómo algunas fraternidades universitarias de EE UU entraron al negocio de las drogas",
-          "link": "https://elpais.com/us/2026-09-05/estudiantes-convertidos-en-narcos-como-algunas-fraternidades-universitarias-de-ee-uu-entraron-al-negocio-de-las-drogas.html",
-          "pubDate": "2026-09-05T04:00:00.000Z",
-          "snippet": "El caso de 13 estudiantes de Penn State acusados de narcotráfico es el más reciente de universitarios que dejaron los libros para vender sustancias ilícitas",
+          "title": "El Gobierno toma el control del puerto de Ceuta para ubicar a más de 1.000 inmigrantes ante una nueva resistencia de Vivas",
+          "link": "https://elpais.com/espana/2026-09-05/el-gobierno-toma-el-control-del-puerto-de-ceuta-para-ubicar-a-mas-de-1000-inmigrantes-ante-la-resistencia-de-vivas.html",
+          "pubDate": "2026-09-05T10:54:56.000Z",
+          "snippet": "El realojo del puerto estaba pactado con la ciudad, que se ha echado atrás en el último momento y lo ha rechazado en el consejo de administración de la infraestructura. Puente firma una orden autorizando la medida",
           "_priority": "ALTA",
-          "title_en": "Students Turned Drug Dealers: How Some U.S. College Fraternities Got Into the Drug Trade"
+          "title_en": "The government takes control of the port of Ceuta to house more than 1,000 migrants in the face of renewed resistance from Vivas"
         },
         {
-          "title": "Zenyazen Escobar, el segundo diputado que muere con violencia en Veracruz en la actual Legislatura",
-          "link": "https://elpais.com/mexico/2026-09-05/zenyazen-escobar-el-segundo-diputado-que-muere-con-violencia-en-veracruz-en-la-actual-legislatura.html",
-          "pubDate": "2026-09-05T04:00:00.000Z",
-          "snippet": "La misteriosa muerte del aguerrido legislador de Morena enluta a la Cámara de Diputados nuevamente. El también veracruzano Benito Aguas Atlahua fue asesinado en 2024",
+          "title": "Medios iraníes afirman que Estados Unidos atacó un petrolero cerca de la isla de Jarg, principal terminal del crudo de Teherán",
+          "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html",
+          "pubDate": "2026-09-05T09:31:27.000Z",
+          "snippet": "El incidente, que no ha dejado víctimas ni ha sido confirmado por Washington, ocurre en una semana en la que se han reanudado los ataques y multiplicado las amenazas cruzadas",
           "_priority": "ALTA",
-          "title_en": "Zenyazen Escobar, the second state representative to die a violent death in Veracruz during the current legislative session"
+          "title_en": "Iranian media report that the United States attacked an oil tanker near Jarg Island, Tehran's main crude oil terminal"
+        },
+        {
+          "title": "Estados Unidos aprueba una venta de bombas a Arabia Saudí por 4.300 millones de euros",
+          "link": "https://elpais.com/internacional/2026-09-05/estados-unidos-aprueba-una-venta-de-bombas-a-arabia-saudi-por-4300-millones-de-euros.html",
+          "pubDate": "2026-09-05T07:25:44.000Z",
+          "snippet": "Washington argumenta que el acuerdo, que debe recibir el visto bueno del Congreso, apuntala la defensa de “un aliado importante”, que sufre los ataques de Irán y de los hutíes de Yemen, apoyados por Teherán",
+          "_priority": "ALTA",
+          "title_en": "The United States Approves a $4.3 Billion Sale of Bombs to Saudi Arabia"
         },
         {
           "title": "Ceuta causa otro choque entre la Justicia y el Ejecutivo por la reserva de un informe policial",
@@ -92,20 +100,12 @@
           "title_en": "Ceuta Sparks Another Clash Between the Judiciary and the Executive Branch Over the Confidentiality of a Police Report"
         },
         {
-          "title": "La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península",
-          "link": "https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html",
-          "pubDate": "2026-09-05T03:45:01.000Z",
-          "snippet": "El Ministerio de Juventud e Infancia está pendiente de que Vivas acepte una vía para sortear el veto de los gobiernos autonómicos",
+          "title": "Detenido en Ondarroa el presunto autor del asesinato de un taxista en Azpeitia",
+          "link": "https://elpais.com/espana/2026-09-05/detenido-en-ondarroa-el-presunto-autor-del-asesinato-de-un-taxista-en-azpeitia.html",
+          "pubDate": "2026-09-05T07:10:13.000Z",
+          "snippet": "El crimen se produjo el pasado martes cuando la víctima fue tiroteada después de que su vehículo fuera embestido por otro",
           "_priority": "ALTA",
-          "title_en": "Pressure from the PP is complicating the transfer of 500 immigrant girls from Ceuta to the mainland"
-        },
-        {
-          "title": "Ceuta trata de convivir con la emergencia mientras cientos de migrantes buscan espacios de acogida",
-          "link": "https://elpais.com/espana/2026-09-05/la-frontera-semantica-de-ceuta-los-que-hablan-de-migrantes-y-los-que-ven-invasores.html",
-          "pubDate": "2026-09-05T03:45:01.000Z",
-          "snippet": "Los centros habilitados por el Gobierno aliviaron el número de personas durmiendo en sus calles, pero están lejos de ser suficientes",
-          "_priority": "ALTA",
-          "title_en": "Ceuta is trying to cope with the emergency as hundreds of migrants seek shelter"
+          "title_en": "The alleged perpetrator of the murder of a taxi driver in Azpeitia was arrested in Ondarroa"
         }
       ]
     },
@@ -114,36 +114,20 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Farage and Jenrick to speak on final day of Reform conference marred by scandal and protests – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-          "pubDate": "2026-09-05T09:41:53.000Z",
-          "snippet": "Farage, who had earlier suspended two close aides, had his keynote speech interrupted multiple times by protesters on Friday Morning, and welcome to our UK politics blog. Reform UK’s annual conference continues in Birmingham today, with speeches from Lee Anderson, Zia Yusuf, Robe…",
+          "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
+          "link": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
+          "pubDate": "2026-09-05T11:00:35.000Z",
+          "snippet": "Security experts fear Putin may be winning hybrid war with the west amid rise of pro-Kremlin, far-right parties Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war…",
           "_priority": "ALTA",
-          "title_en": "Farage and Jenrick to Speak on the Final Day of the Reform Conference, Marred by Scandal and Protests – UK Politics Live"
+          "title_en": "Europe would not be able to sustain a war of attrition with Russia, defense officials say"
         },
         {
-          "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-          "link": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-          "pubDate": "2026-09-05T09:16:01.000Z",
-          "snippet": "Scale of deportations made public for first time amid criticism of hardline approach to UK citizens Sweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit. It is the first time the scale of the deportations of citizens who failed t…",
+          "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
+          "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+          "pubDate": "2026-09-05T10:00:34.000Z",
+          "snippet": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the r…",
           "_priority": "ALTA",
-          "title_en": "Sweden Confirms That 458 Britons Have Been Deported or Forcibly Removed Since Brexit"
-        },
-        {
-          "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
-          "link": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
-          "pubDate": "2026-09-05T08:57:37.000Z",
-          "snippet": "Traffic on A20 in and out of port grinds to halt as Kent police say they are in attendance and engaging with group A large group of people dressed in black and wearing balaclavas have blocked the road at the port of Dover in Kent, forcing closures in both directions. Kent police…",
-          "_priority": "ALTA",
-          "title_en": "Protesters dressed in black and wearing balaclavas block a road at the Port of Dover in Kent"
-        },
-        {
-          "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-          "pubDate": "2026-09-05T02:15:18.000Z",
-          "snippet": "This live blog is now closed. Sign up for US Breaking News emails President Trump threatened in a social media post on Friday to stop trade with some countries unless the US Federal Reserve moves to cut interest rates. Trump cited August’s strong jobs report as sufficient justifi…",
-          "_priority": "ALTA",
-          "title_en": "Trump downplays the war with Iran—in which 18 U.S. service members have been killed so far—as “small potatoes” – as it happened"
+          "title_en": "“It cost me many friendships”: Former Brazilian military chief reveals the internal struggle to stop Bolsonaro’s coup"
         },
         {
           "title": "Judge refuses to block Pentagon from firing Stars and Stripes journalists",
@@ -154,12 +138,28 @@
           "title_en": "Judge Refuses to Prevent the Pentagon from Firing Stars and Stripes Journalists"
         },
         {
-          "title": "US judge extends block on Trump order to restrict mail-in voting",
-          "link": "https://www.theguardian.com/us-news/2026/sep/04/us-judge-trump-mail-in-voting",
-          "pubDate": "2026-09-05T00:59:38.000Z",
-          "snippet": "Indira Talwani’s ruling presents major setback for president as first states begin to send out mail ballots for midterms A federal judge on Friday again blocked Donald Trump’s executive order to impose sweeping restrictions on mail-in voting, the latest in a legal back-and-forth…",
+          "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
+          "link": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
+          "pubDate": "2026-09-05T09:16:01.000Z",
+          "snippet": "Scale of deportations made public for first time amid criticism of hardline approach to UK citizens Sweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit. It is the first time the scale of the deportations of citizens who failed t…",
           "_priority": "ALTA",
-          "title_en": "U.S. judge extends injunction against Trump's order to restrict mail-in voting"
+          "title_en": "Sweden Confirms That 458 Britons Have Been Deported or Forcibly Removed Since Brexit"
+        },
+        {
+          "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+          "pubDate": "2026-09-05T10:00:33.000Z",
+          "snippet": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancer A man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would still be alive today if the Home Office had agreed to bring her and her family to B…",
+          "_priority": "ALTA",
+          "title_en": "Gaza refugee says sister-in-law ‘would be alive’ if the Home Office had allowed her to come to the UK"
+        },
+        {
+          "title": "Protester attacked at Reform conference considering coming forward after police appeal – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+          "pubDate": "2026-09-05T12:50:32.000Z",
+          "snippet": "Activist group behind protests says individual shown in widely-circulated video is considering police appeal for her to come forward No real mention by Anderson of the problems that overshadowed events yesterday. He ended his opening speech saying: \"Yesterday was great. Today is…",
+          "_priority": "ALTA",
+          "title_en": "Protestor attacked at Reform conference considers coming forward after police appeal – UK politics live"
         }
       ]
     },
@@ -168,12 +168,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "The Fall of James Orr, the Man Called Farage’s Brain",
-          "link": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
-          "pubDate": "2026-09-05T09:29:27.000Z",
-          "snippet": "James Orr, who has ties to Peter Thiel and JD Vance, was suspended from Reform U.K. after he was filmed apparently arranging contributions from a man posing as a foreign donor.",
+          "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+          "link": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
+          "pubDate": "2026-09-05T12:47:41.000Z",
+          "snippet": "A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.",
           "_priority": "ALTA",
-          "title_en": "The Fall of James Orr, the Man Known as Farage’s Brain"
+          "title_en": "Here's Where Ukraine Peace Talks Stand as a New Round Approaches"
+        },
+        {
+          "title": "Putin Orders Pause in Kyiv Strikes Ahead of Visit by U.S. Envoys",
+          "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+          "pubDate": "2026-09-05T12:40:22.000Z",
+          "snippet": "Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, arrived in Moscow to meet with the Russian leader. They plan to visit Kyiv next, in an effort to revive peace talks.",
+          "_priority": "ALTA",
+          "title_en": "Putin Orders a Pause in Strikes on Kyiv Ahead of a Visit by U.S. Envoys"
+        },
+        {
+          "title": "Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg",
+          "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+          "pubDate": "2026-09-05T11:39:55.000Z",
+          "snippet": "The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks on ships and American forces.",
+          "_priority": "ALTA",
+          "title_en": "Iranian State Media Reports That U.S. Missiles Struck an Iranian Oil Tanker Near Kharg"
         },
         {
           "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
@@ -182,14 +198,6 @@
           "snippet": "The documents bolster allegations that the Sudanese military developed and used toxic bombs to gain an edge in the country’s devastating civil war.",
           "_priority": "ALTA",
           "title_en": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan"
-        },
-        {
-          "title": "Flee, Hide or Sit Tight? Russians Are on Edge Over Rumors of a Draft.",
-          "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
-          "pubDate": "2026-09-05T09:02:35.000Z",
-          "snippet": "The Kremlin has denied that a mass mobilization is being prepared, but some military-age men are taking no chances.",
-          "_priority": "ALTA",
-          "title_en": "Flee, Hide, or Wait It Out? Russians Are on Edge Over Rumors of a Draft."
         },
         {
           "title": "Philippines’ Vice President Faces Arrest Over Assassination Threats",
@@ -206,14 +214,6 @@
           "snippet": "Sunday’s vote in the state of Saxony-Anhalt could produce the strongest showing in the history of the Alternative for Germany party, and potentially a far-right government in the statehouse.",
           "_priority": "ALTA",
           "title_en": "German Far Right Surges, Threatening the Postwar Taboo Against Extremists in Power"
-        },
-        {
-          "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-          "link": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-          "pubDate": "2026-09-04T21:22:29.000Z",
-          "snippet": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”",
-          "_priority": "ALTA",
-          "title_en": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic"
         }
       ]
     },
@@ -222,12 +222,20 @@
       "color": "green",
       "items": [
         {
-          "title": "In boost to GOP, Supreme Court says parties should get lower TV ad rates",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQm9SQ01tU0RaRXlMTVJ3Y0MtN1k5M3p1dkZxb1lLOWRuN2FQLXVhd3RPaFVTMlZvMUZjN0x1U0ZmQVV2S01yZkxfU0NxRkxrNGVURUtqVkpaNlNoMXNYa0EyVTc0ZjJFa2pJbzRJTkN0VS1DdnctTUVkNGhmV0Z3aVd3YjlFd0NOa2VnTVE1TWJfenF1Nl96N1BnVUs1VVUwc0cwRDd6c3FhZXo0WWFnYVpWTVQ3aGd4RjJQM2N6SGg?oc=5",
-          "pubDate": "2026-09-05T05:29:59.000Z",
+          "title": "Trove of documents reveals alleged chemical weapons stockpile in Sudan",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3FDWkJKSWdDblRwNEgxd3hPdHZtdXZSTG1CZzUyMjBueGpXQWxVejBNWWhDN3MyTDlWYXItZWRTNGlwU29uYm9GOENtaVNuZ3BVVnpBUTBfclJ6UENiSkZsMmpucUlOb2dTdTFYcVR5WExuOXR0cUpzbHAteURmUE0zXzFBOVlheEdISVRGQ0NBQmIzZk14Y1VJckl1MEtnODJjdjBEMnd5bjFHZUJYMmlScw?oc=5",
+          "pubDate": "2026-09-05T12:46:13.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "In a boost for the GOP, the Supreme Court rules that political parties should be eligible for lower TV ad rates"
+          "title_en": "A trove of documents reveals an alleged stockpile of chemical weapons in Sudan"
+        },
+        {
+          "title": "Trump administration to host immigration hearings at FEMA headquarters",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGM2bmNxMzdCc1kyNDBESzQwUnhfaHIxd1RDeE85ZzhoQmNvSk9JR3YyTVktRHg2QmR4RzhKRWhYeTRTNk5ORDFkTm5FYXBZZFpOYUxsR3lfcl95eXQzMHNxR1NtcWh3aUNza2k2NHhqZHB6SjJKQTBZY0xSa0VhU29TTHU4RVlwYmw1d21kcHlxalNSLURsaTZIZ05ITExxa1BHUkZxUzNVZ29RQjFHMjQwMy16dTR2SU5kbDVzZjdraldGX1E?oc=5",
+          "pubDate": "2026-09-05T06:08:58.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump administration to hold immigration hearings at FEMA headquarters"
         },
         {
           "title": "Infant died of measles in Pennsylvania, coroner confirms",
@@ -260,14 +268,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "U.S. Embassy in Havana Issues Health Alert as Sanctions Limit Imports to Cuba"
-        },
-        {
-          "title": "Judge orders DOJ to disclose who conceived of now-defunct payout fund",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzl5azNTNFhMSVRKeFNEbTVyczd1a0lRVmFubnA2Rnh4UjdJVWdEUkVUb28yTEJ2a1pCUjh5YTZJNDhOUklwb0lEQVhLVFlCaTBnOWZmRENRU0o1UTAxOGpMczNFc3k2RVZ3eE12VVN5ZjhKMWdvM0F3MWdBQUoxQ1ZnODJ5Qnk5WEw0aHczZmQ5YXpGMldKQTBZeVF2REE5aFVuMDVFY0JzUmZIY1h0MzJ5Y2hsdw?oc=5",
-          "pubDate": "2026-09-05T03:19:53.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Judge Orders DOJ to Disclose Who Conceived the Now-Defunct Payout Fund"
         }
       ]
     },
@@ -275,14 +275,6 @@
       "name": "The Economist",
       "color": "lilac",
       "items": [
-        {
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbktnUHdLTzFnb0J1VE56YjVOcVFjMXZCQVprZnlpa212c0R0LWhkd0VIQlNNMzAtNmFuMVc4OXFUWm02aXRDR2x5ODVJZnBmRzlVZXVxSExRbHd4ZXZiU2dwMWh0TjdmclhzSmh1MDdkYkduWFRwdFdHNVJMSTFNckZIc2tVbXByTW1pUVl0dmhxSmVHOWpndVBGZXFPdjBiOU5ZbUZRRFg3bURCcDlvWGJlbjZQQQ?oc=5",
-          "pubDate": "2026-09-04T18:05:02.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The job apocalypse has been postponed. An AI jobs boom is here"
-        },
         {
           "title": "Javier Milei’s outburst over the Falklands is a mark of weakness",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVBtOWh5VDJwTXN0MXoyelA4Y2E2NTRMT01fNnVjeWlMUC02aXRxRzBSVWVxSGUzRGprSEVVNFJmSzhoZm91RjBwelpRYmlmZnhlakh1WjVHZUtLNGQyUEZYSHN1MkRIMlpwRkVkZlI2eVpvRERUSXoydlBweEV4ZHE4QTB4RnhmVVF3NkQzY0tXRk5YR1Ffd0M3aWtWakkxZlZ2U1U2NjBkSzBLQXg1MzBoUQ?oc=5",
@@ -300,28 +292,20 @@
           "title_en": "Germany needs a new strategy for dealing with the AfD"
         },
         {
-          "title": "How safe is Nvidia’s empire?",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zWTJEVmltQkdCd2dlTjlIYXZGczZNM0JpOVUwWlc4YUFmM1dZZjZRR0c5NU5yQ3FhQnVyVFVKVWJ3V1IzLUpVeWZfcGM3elphMGRqMW0wVVlqN0w5bkoyMkJiWkJoLUZEbjVlNm5EOWNzR210NVV0dFlXTDE?oc=5",
-          "pubDate": "2026-09-03T17:00:00.000Z",
+          "title": "VW’s surprise job-slashing deal is a big win for its bosses",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnhzS2lKYzJNd1FReHVvRHl0VGcwOXdfb2QwLV85SGNaX2JXclhvTndJUEpEM19DbWVoV1ZqdkhTMjFYMGRLR1hPb1NBZjlVbGQ0a0FFLUpEaHp4emlYSW1hS3ZjbGNmLW5BekJucWU0dENpRDNmS0tITUMwdkM4LVpkejBpdXVxdGJwbmxzQ2NoOFEtbDdFRXBnRjVwMjVYN3BkQWJkWQ?oc=5",
+          "pubDate": "2026-09-04T18:09:55.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "How secure is Nvidia's empire?"
+          "title_en": "VW's surprise job-cutting deal is a big win for its executives"
         },
         {
-          "title": "The AI boom is coming for your gadgets",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVRvTnh4SGQwRjY3VFgwWjFfVm0zUVFpNWk2YUhUWlB0bE5YM19rNExyZE1maEJyZDZoVWVjVlZXWnc2aXBuNFd3WjhkUkZ2VlpKbHptRTd6dXRHNlJLMXg3Zmk3TXFtQjJIb0JLaVJ3OWNRNFRwRHBDRDltR2RNRzFNNXJEQ0hJOGpvcU9OU1RkY0d2?oc=5",
-          "pubDate": "2026-09-03T16:12:52.000Z",
+          "title": "Can humans keep control of AI?",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUGNsWUJ3cFBiakRDRjVqMnZJWnBfbVJWR1A4WklVVUhIWU1VNm00Z3FMZURJQVZtbjlOTkg4R3l1Wk1FcF9kQ2w3UEpKMG00WHNhZ3phNUF4Qmk5WDZRNmV2TERONnZTendpcXJMTmwxWmE2Z0RjbUhtRjJDanI0Yg?oc=5",
+          "pubDate": "2026-09-04T14:55:22.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The AI boom is coming for your gadgets"
-        },
-        {
-          "title": "Neoclouds like CoreWeave are getting much bigger—and riskier",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGJ6WHpXb0V2Sk5KTm1oakt2am0tVFNzTENnd0g3TDdyMVhmLW0yR2FwLXk4NFdjUEhNQ2NsVnliUy03YTR4S3NDVXRUMUpXenNqaXluR1hpWUJPWnNybW5iTHZZYU81LXpXRGhMZnJTaFI2T2x1dklYZEZ5ZHFQcXBTNGg5NWhjRWZ6ME5fOWtsZ1NpRjFMUXVBaXh6T3pZSURITTVacWRJUQ?oc=5",
-          "pubDate": "2026-09-03T13:09:26.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Neoclouds like CoreWeave are getting much bigger—and riskier"
+          "title_en": "Can humans maintain control over AI?"
         }
       ]
     },
@@ -330,28 +314,12 @@
       "color": "peach",
       "items": [
         {
-          "title": "Senador Cuauhtémoc Ochoa rechaza mala relación con gobernador de Hidalgo",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOckZZSFBSVjlpNGJPUDlSVGM3RTEzUlhLSzVGRnhtWHdxSVdsRTItMTc5UXpJNEI1aWJQeHdNV2k5d0dzUUxpSzVRdG8wRXI2NFVKOVRVZTVyd3ZkUW1OX1BjMHJhYlAwNFJnaG90RnRmb19TZ1V2YUI2RF9ZeDF2ZkNiSkUyYWZGSjRnSHJZWU9ieEUtWTVXNExEd3RjcXVuR2w0ZFRfZldZM3diTkFiVUFhSnJhXzM2TXhrVF9OWG1QM0pXNXpySVRHQjV1aHFmMDdNeGVqSk92UHRXbUhlTzdhbU5wSklyUjVIMdIBgAJBVV95cUxNM3lNM21faU9MRlNZa29GTjdWbXlKaVFJV1AxbEJJN002M0d0NVZ3RUxMSDVZSkM0N1BsNzN3N1JQYldyUE1IdUE0Z2J3S3M5bXRfN2FycWN2YmxMQjg2dFItamRmQjZHUzVGSndzUGpac3Rsa3FLb0oyY1lwb28zeUpmNnhQNnJET1d3LVFBTDlXbjVfcmJadm5sNDFwbl9nMWlIeW9iYTJrQjlIMmZVSUVCRk9EcG84ZHIxd2hISmkzeU1SdkRoVEFoVUFUd0NnMmNPRW03dnFXQU5FS0VQOWhIS0pVVzZFVnlONmpkQUJ4Q1VuVEFmYjhMU1VSMktf?oc=5",
-          "pubDate": "2026-09-05T01:42:16.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Senator Cuauhtémoc Ochoa Denies Having a Strained Relationship with the Governor of Hidalgo"
-        },
-        {
-          "title": "Cónclave más importante es con el pueblo, dice Andy López; asegura que seguirá informando casa por casa",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS2FoRDJXVmo1amJoWHBIelBPZXJiYnJ0MlZDQUR0V1gzYnE1Uk9KRFNRNGJKMmt5SXlUZGwyUVhhcWN1NDIxUzdLMW01VmRWT3JROENpWTJtQnljVkRJRjFkdHp2WGU5a1RPcmJfVWVHam1DVVMtNV9ibGZmZFh3NkY0UENsZjlMMGxBTDJoTUhFemptTEhMU1JteFhRNFliVDVtUkI5NEI1ZU4xczAxdUJkc3dFN1ZOQVhzZzBJdE51MXpTekZuUVNudUY2VjhFdkNKajZxUdIB6wFBVV95cUxONlloT2Z3RHpjRmR0LWJXWlFzb1EzV2NLSTFKcGRlR0h4RWdMREw0N0N2YWFJR3lSR2VIQzRnbG9Pdi1YMHBZMFVOSTh1Y3JKOWtCWEp1cjVOdk9MUW14clJfWm16U2s5bFBYVmR2NUNWM3JDYlIyWGpDSFBoc3RHVEVPX3JLTGdRNFREQnJHbFdEdzNzdVpEWGhxLS1Xa0V4ZFE5VTVlRkZoekZfMmYzbU9fb0JobU5JWTVnMG5feEJGNTYydHRFVDF3c2o5QUJtUlNWTUF5TkIwVVA3amdzZUoweGgyOEphMWVz?oc=5",
-          "pubDate": "2026-09-05T00:38:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "\"The most important meeting is with the people,\" says Andy López; he says he will continue to go door to door to keep them informed"
-        },
-        {
           "title": "SIP se pronuncia sobre denuncia de Morena contra contenido de IA hecho por TV Azteca; advierte peligro contra la libertad de expresión",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnY2YV85Yk5TRUozT1loLWExNGpaVnE4dklSbTNvRkRtWUdBNlQtZ3doWmhVWC1jdTFTVlN2ZlFZX2Vkak5NUGhOVjg5Uk9ILVhsMDBOUlNGc2dwSzA1SmhsXzRral9oNFJzakhHTU1IZVZQaURGLXZkdGhOWmJZdnhzUkNVZ1QzSC1LaEJqLW96SGYyamxtOXg5Sk1CWjZjdHltb2N3bnVDUXVpTkpaNDEwdjNfM01pT3hZZ1VSUXlzbmk1amtQY3FLSG8xUzBPTFRUSzJ3NkNmNkl1NVlFUExjUlhocmxwNEVzWjhUOGJBNHRiWHFkVFh3N1PSAZACQVVfeXFMUENJa1NNX2g3dThDMVB4NG5nVWRVbmJnaGtBa3lLNDVtaGs3RmctNUhwZEUzMEo4cDh4TGxwMWdNeHk3cC0tcEJ3UVplakIxUkd5Qy1vQmtFYl9WajIya1BrZV9OTWItTHRVWGFWZlNNMWRPX3NQbGs0ck4ySGdLb2s4TGxjc3FGaDFlVEVvQ1hkSkI0SnVIbkU1bHBidVJWYVhMa0pmZlJ2RGhOdGVRTDdDUnczU0lLMkFaaUo3QlpWY09NeVFmZGJzaUZuTVZObTFPNy1CaEM2cGZZRm1xcG1WNlpXZWF2MnlHMmtWc192VG1uQWJ1YTVkWDk2WXVMd2VmYVAxQTR5ZVZVWnJNWUQ?oc=5",
           "pubDate": "2026-09-04T22:41:01.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "SIP Weighs In on Morena's Complaint Against AI-Generated Content Produced by TV Azteca; Warns of Threats to Freedom of Expression"
+          "title_en": "SIP Weighs In on Morena's Complaint Against AI-Generated Content by TV Azteca; Warns of Threats to Freedom of Expression"
         },
         {
           "title": "MC en NL rechaza intento de imposición de Jesús Cantú Escalante en el Instituto Electoral local",
@@ -359,7 +327,7 @@
           "pubDate": "2026-09-04T22:19:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "MC in NL Rejects Attempt to Force Jesús Cantú Escalante onto the Local Electoral Institute"
+          "title_en": "MC in NL Rejects Attempt to Force Jesús Cantú Escalante on the Local Electoral Institute"
         },
         {
           "title": "Con nueva ley, Congreso de Jalisco busca prevenir el reclutamiento forzado de monores",
@@ -370,12 +338,28 @@
           "title_en": "With a new law, the Jalisco State Legislature seeks to prevent the forced recruitment of miners"
         },
         {
+          "title": "Sheinbaum descarta investigaciones contra \"Andy\" y Adán Augusto López por huachicol",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOEMtYmhXMV93Rlp4cVBBS2RfbGhxTThYRW5aeEdYa0lqOWlaUGdPRzFVNGFkcjZQSW9BN2FwWFRJRHhSUWN1YndETWhtR09nUi1sVy1hamlmSG5CTnU4WFFoUEhZWkxvbU5zYTNvUFRYZHZxTFVRbUZreVpDc0l5NE1PTGlVc0NmdGFneV94dDlTS0lBNk4wS2pPYVF2WTFuNUVENnN2NU5XRUhHQm5pS2x1VHBDMURmVzhSZnB1SDlHWlpEVVZTLUZ0SjJWRmR3cktqUU96NUtzTUMteWxhcVl2ajJoYUYzWUN5U3BNMXMtamPSAYcCQVVfeXFMT09ydzFRWFFOWHFpakpsVGJueWJkQS1HUlRFelFwdXVxTnVoTDVnMUQ4Y2tUMVQzTFpfbDJuWHNiR3JNYXdHOXF2YTA4UXpUM3ZIUnpDUmpySVVKeXMyVld4dmtYdnFoSU5CelU5WGZ4TFVHQXE5R2JJdmIyWkdrUHJ6Q3hBRUpNWlZFUXhRY3BSOFlPZFNFTHFkQ2M4X0k0MnZBMEIzQW9fTEQ5Q3FvREtmMmEwdTN3RnJWb2xnbTVadUZpUlg5Q1JqQXR4N1pMM0ZzX2FGYncxTE56QkdERnpIMXktTTZjWENMam1kVUNPcklzNmpvbDJzRjkzQkNFVDAzNFlYTFU?oc=5",
+          "pubDate": "2026-09-04T17:13:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Sheinbaum Rules Out Investigations Against \"Andy\" and Adán Augusto López for Gasoline Theft"
+        },
+        {
           "title": "Robo de criptomonedas y efectivo, posible móvil del ataque contra tecladista de Camilo Séptimo y su familia; Fiscalía de Edomex investiga",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdWRabWxXRk9FZTVfVjRLbkVaenBfS29JSEhFb2g4YWJZX2pNdzVUampWc0lTd2ZTVEZob1h4enByNl9HM0FYQ1NNZ1hIcDA3RmFUZ25aRG5veTljRFA1cXp5TzlWSlA3SHoxeGUyWGRQVW1vNnlnbk1hSkhQdFZvNTNNQ3U5VXdqQ1dYdHl1aXNzeWpDYmxXYTcxXzNNWVREX2ZfY2VDZ1N2OS1pQ0pjeVdES0lwX3FuU2VZdTFabTVsSC1DbU5LWHRJaGpYenJMVFRFeG5iYndXVWRSeTBXZjY3OW5POGNyWVJ1MmU1c0JRZ0ZIOXVVMnpYeHFWemlVczhqajhRRHPSAZwCQVVfeXFMT3huam5oTzFURm1pajNGN1I2UXRQS1Y2ZUMzakY2dVBlZXd1aVVKR0JaWDJwTEZ6OTQ4N2wzSzRCcUVKWUx3dUc4ZmNQLUdaV29UVW4tWkpqNzlqZ25EaHJBdmhncFpjSmF1UEs5RXIweVBCdWR2dFNabjA0RlFYaHUwZUtjV0pKV2ZCX3BKaGY5aXVHUDB2VTlodDJhb245S0hiNmN3WHRDeDFIY1BXWnBtcHNjODU2SE12TGl2UFhRQV95aThHNzd0Z3NLSmZZRlhWeEIyLWRkdmhzTWNzTnZvOGtERGxTMXpFeUQzXzRZanJHa0liTktud3lmNVRMRDF3eEZrSGVoWmp3TkRzazFEQnFTeHBGa3lEVHc?oc=5",
           "pubDate": "2026-09-04T09:25:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Theft of cryptocurrency and cash may be the motive behind the attack on Camilo Séptimo's keyboardist and his family; the State of Mexico Attorney General's Office is investigating"
+        },
+        {
+          "title": "Hallan en Tecámac vehículo ligado al asesinato del tecladista de Camilo Séptimo y su familia",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV015WWxGNDUzZzRDcUxTejM3VVVRN3RqTWVCYkE4Szl6M1RYTHBmZU1IWW8yV0ZsU2MyM1FRalNZNFRCVlBRNU0wenRvS2tFVE12OGVKaHRFaDNCcWF1amhYQ0RmSF9POHVGSTd3Z2F2T3dNckUxR0oxZHhQcmhFd2hXUkxXUm1DekFIV0pQLWp1OHVQbkMxZnpFZXpzWXdBMEhUdGV6WW1TYnB4ZUNza1RmZWZTcjF6NER1TUE3ZEJ2WXp3NGFSdUVUVFVuUkNQaFZfdUI1dWpTRHR5SDV5Z9IB9AFBVV95cUxQUk40U2JsMzFVYlhYVXJtS2ZNQVo4QVlGS0VTd2xuUlVlcUpWVVlHNUNuSmZCNzNzeS1XNHZmcmFNeG9TMWtCX2djX19GeVVhclprSExpQTZLWEFrSmM2a2ZReElkWmQ3ZDl0NUVPTF9zNGZKWDJCZnFtU2pIekVJcmprZnhTWkxyN1ZyMHdERWhnTllsTzNaTUdYQlY2ajd1c2ZUNmtDcVJxOGZOZHJaTWYtLUM1UnhPUW5BVVdscGlSQ0YyaV9EZkdVdXFOdFRFUzE2Z0JYT09DaWtFVlRmTS15UmhmTndKSktJNUIwZUxCU25a?oc=5",
+          "pubDate": "2026-09-04T00:59:34.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Vehicle Linked to the Murder of Camilo Séptimo's Keyboardist and His Family Found in Tecámac"
         }
       ]
     },
@@ -392,28 +376,20 @@
           "title_en": "Delcy Rodríguez alleges \"sabotage of the power grid\" following an agreement with the U.S."
         },
         {
+          "title": "Juzgado ordena suspender bombardeos en zonas donde puede haber menores, gobierno apelará decisión",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaW9FN210MExUejJFVnVDckx1NXdBd243cWhXanRzMF9td2I2RVY3ZFIycFR6STBxaXg0bl9oSUItLU5iZl9BZ3lpX2FMNkRWa0tfTV9fcGhJOV9vX2F4aEFGZXotMF9nWEVWbVRRNTVIM3Uwd2JBZTBXVXNtUG4xRmtEaWI3eXhNQU1zRFhBRDdabFZtTXRUN21WZUNMZExQNkV2ekpXLUZvSGtlVUhTUXdpbktRSFhXcmZQaGNCWExrVF85dGI0TjJtZTlSaWdSTHYtRUNuX2Q4LW1GbHRQS3JqSDVsZk5PbmV30gHrAUFVX3lxTE9pb0U3bXQwTFR6MkVWdUNyTHU1d0F3bjdxaFdqdHMwX213YjZFVjdkUjJwVHpJMHFpeDRuX2hJQi0tTmJmX0FneWlfYUw2RFZrS19NX19waEk5X29fYXhoQUZlei0wX2dYRVZtVFE1NUgzdTB3YkFlMFdVc21QbjFGa0RpYjd5eE1BTXNEWEFEN1psVm1NdFQ3bVZlQ0xkTFA2RXZ6SlctRm9Ia2VVSFNRd2luS1FIWFdyZlBoY0JYTGtUXzl0YjROMm1lOVJpZ1JMdi1FQ25fZDgtbUZsdFBLcmpINWxmTk9uZXc?oc=5",
+          "pubDate": "2026-09-04T21:58:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Court Orders Suspension of Bombing in Areas Where Children May Be Present; Government Will Appeal the Decision"
+        },
+        {
           "title": "Trump reclama reducción de intereses con mercado laboral sólido",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmx6clRNdnJrSC1RZE1uQXM5R3huYzVqbmtZNzZOeWxrZHU1RWRYWE56aDRzRGg1N0F6cjZnNlJNSmpZNXBxQUNvQ1piRTV3WVFtb2todEQzcXY2eWtaR2xhaFk3VGFudTJ2dE9ZbEZSVWYxRk83cFk1WllDVnd5S0pNN0xpbDlYeWpBVnloRDA1eDc2QlNwTGlNQzd2azhPMERqQnJaOUdaZlpB0gGyAUFVX3lxTE9sTW8zUEt0M1dYWThWb25kU1IwUmVRXzE1QjFnWFVZNTNLUnNBTzdaWElTM25yaWN3Q1J6Q3VwYkkyVnU5R19NWEQ0ZjF4dEl0cWtFTW9DaUc1a3pudENDR3FWd1FRRWg0UnJ4a2RMb1hSd2pnT1dGV1NVRmY4SDc5TXlmUnlGa0pLNmYtNGQxTk9SOGwzQmRtRnNqR3BWOFlvdl93dzQ3RVhrVjRCV3JKY2c?oc=5",
           "pubDate": "2026-09-04T17:47:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Trump Calls for Lower Interest Rates Amid a Strong Job Market"
-        },
-        {
-          "title": "Comienzan legislativas en EEUU con voto por correo en Carolina del Norte",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWW9qN1FuWEgtb2d0VXVKRjJKMnBlOEpzWm1EcWhtcFlvWlhYOUk4WTlqeTZvRTdMeDhFNjBNQTg4ZDlnZWV5U0lhQzh5WWY4ek9mS1N3QURGbDVPOGpsdGExVUJlVmZCOWtrZEp1YjNFOFFjS1h2SnlZSl83d051eE1peVNNZnphSjZkYzRTeWx0UFVNZzJtMFl1YUZVVVladjdZdTZTRm15YkM5anYw0gG0AUFVX3lxTE5WM1dkWjJBYV9vUTNIbkhyX3RJZlNScy0xeE5sLVFyVEw2X2pCeXk2VmVrSHlkS2d4dFFDcVl0WXhtdG1NUVNXRWN6MXFWOWRrZWJYQzBTZEpOemx6WnJoZVJMSUlyQXdiRTAtWEZJNnVzOXk3WmtQNlo5Qjk0d19qaXhfN3pjRVF5dkNJVHFyTkxNZFhRdGM3QVQxd0Y3UWxDZ1JoV0VuaWpZNDhWandiZnc4TA?oc=5",
-          "pubDate": "2026-09-04T16:51:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "U.S. midterm elections kick off with mail-in voting in North Carolina"
-        },
-        {
-          "title": "Miami-Dade aprueba primera fase de presupuesto de $14.2 mil millones",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZURNaTZWQnRDcXZZUmQtakNVVG5hOE9wZDA5d2ZWQkFvLUN2aTVQSkdCY1IyQ0R2RGZ2S29Za3RnVlpkeDE0aFpGWEN6X3lJZFVBdHY4bHNmVmxrTzNDTlJNTm0zemd2UWJSZlRKU3pGMEhvRDNPYW5kLTF1T0JIVWhKc3JNQ1Rtb3owUUpyWlZFaEs3UVMwajhnQXBONE1pOF9ncFpUUkppS2stTkMwRNIBtgFBVV95cUxQZW5Hek9XSVVYVVU3ZFZWUk9BdUJHTkVKNnlXNVoxeXctWTktd3RKb2JEbWVyejRLdHBMcS1zOEE2clp0YzB1VkMxS0lXNVdWbktXYVJUTmZsTmp1OGc3MjZXWEtGa0ZvUlJuT0VTSFU3T1c2OUM2TzJtWDdRaF9MUHIydW5ueXJKSnY2UUtUOWwydjc2Y3Nhcmt0WGpBZkEwQkltNDZaQ2tYODNBcjVmR2l5QW1BUQ?oc=5",
-          "pubDate": "2026-09-04T14:24:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Miami-Dade Approves First Phase of $14.2 Billion Budget"
         },
         {
           "title": "Florida veta ingreso de estudiantes indocumentados a universidades públicas",
@@ -430,6 +406,14 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "U.S.: Maritime traffic through the Strait of Hormuz returns to near pre-war levels"
+        },
+        {
+          "title": "Washington sanciona a nieto de Raúl Castro y al Banco Exterior de Cuba",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUdNbndtTXFzRVZsb2pMYUhDb1E3M2dNYU5HaG9HTWxJOE5QdmpraGFGdHNPN2pCbjZQbmhVZ3FON3ByZEZvQ0U1MnBMZ2JGVDJCa0ZrYlVHZkZLeVBjbGZJbVQ5Qi1HZlJWdGNOY2IwaEFlUzJad0U4Ti1ib3Bud3llSVNJMkJzOVpOWkpNY1A5cFdCWTRSVXlrZ1JZQ21va01maGh3dHpNX1BDTklEWDNVcU9YWUxiQkHSAboBQVVfeXFMTUVHTW53bU1xc0VWbG9qTGFIQ29RNzNnTWFOR2hvR01sSThOUHZqa2hhRnRzTzdqQm42UG5oVWdxTjdwcmRGb0NFNTJwTGdiRlQyQmtGa2JVR2ZGS3lQY2xmSW1UOUItR2ZSVnRjTmNiMGhBZVMyWndFOE4tYm9wbnd5ZUlTSTJCczlaTlpKTWNQOXBXQlk0UlV5a2dSWUNtb2tNZmhod3R6TV9QQ05JRFgzVXFPWFlMYkJB?oc=5",
+          "pubDate": "2026-09-03T17:31:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Washington Imposes Sanctions on Raúl Castro's Grandson and the Banco Exterior de Cuba"
         }
       ]
     }
