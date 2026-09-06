@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:17:48.229Z",
+  "generatedAt": "2026-09-06T10:01:57.054Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,14 +7,14 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "365 con Dios",
-      "host": "Wenddy Neciosup | Genuina Media",
-      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
-    },
-    {
       "title": "DianaUribe.fm",
       "host": "Diana Uribe",
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
+    },
+    {
+      "title": "365 con Dios",
+      "host": "Wenddy Neciosup | Genuina Media",
+      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
     },
     {
       "title": "Estoicismo Filosofia",
@@ -29,19 +29,14 @@
   ],
   "mundo": [
     {
-      "title": "The Daily",
-      "host": "The New York Times",
-      "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
-    },
-    {
       "title": "Crime Junkie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+      "title": "The Daily",
+      "host": "The New York Times",
+      "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
       "title": "Dateline NBC",
@@ -49,9 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     },
     {
-      "title": "Pod Save America",
-      "host": "Pod Save America",
-      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
+      "title": "The Joe Rogan Experience",
+      "host": "Joe Rogan",
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+    },
+    {
+      "title": "Morbid",
+      "host": "Ash Kelley & Alaina Urquhart",
+      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
     }
   ]
 }
