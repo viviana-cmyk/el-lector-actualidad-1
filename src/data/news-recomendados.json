@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:26:59.988Z",
+  "generatedAt": "2026-09-07T10:01:48.666Z",
   "outlets": [
     {
       "name": "InSight Crime",
@@ -17,7 +17,7 @@
           "link": "https://insightcrime.org/es/noticias/captura-lider-de-pulpos-frenara-crisis-de-extorsion-peru/",
           "pubDate": "2026-09-03T20:45:20.000Z",
           "snippet": "La captura de Jhonsson Pulpo difícilmente frenará la crisis de extorsión en Perú La captura de Jhonsson Pulpo golpea a Los Pulpos, pero difícilmente frenará la extorsión en Perú, donde cientos de grupos se disputan este lucrativo negocio. The post La captura de Jhonsson Pulpo dif…",
-          "title_en": "The arrest of Jhonsson Pulpo is unlikely to put a stop to the extortion crisis in Peru"
+          "title_en": "The arrest of Jhonsson Pulpo is unlikely to curb the extortion crisis in Peru"
         },
         {
           "title": "On the Radar: ¿El fin de la ‘Paz Total’ en Colombia?",
@@ -67,6 +67,13 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Oxford Hub - YOUTH2030",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHBydjdzd1BHX2ZtNVVyM1VnLURqaFNpdS1NMEJfLWdtZE5JUWI4b2x3SU9EbkdtT3BXSExHczk0ZEZBZldEcmNRTFpnZ1ZSQmtvQ0RpVTUyU3JlNHFWTDhmYUNjSTBYWUt3aU1FSjlHRERaMGEwUFFiaFNuMWNFRThvcENBUlBHeWVKQ05B?oc=5",
+          "pubDate": "2026-09-06T19:38:11.000Z",
+          "snippet": null,
+          "title_en": "Oxford Hub - YOUTH2030"
+        },
+        {
           "title": "Meet the Leader: astronaut Samantha Cristoforetti",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1loZ2NMSWQ2SGtRTFlyX1lWVGN5T2R1TDFLWE80VWVXOE5nbHpZNjUzUTdMN204U2NBUjFXX3hWRVhtWUdsRk5jTnFlcDU4TmdlQkpjMVFyRVNJOHBPaGVQQjlUSkFMeHJJSzdrU1p3NERjcEMySjBuWGNqMkVRNjJXVkdRSWxhVVdxZklVWDFOTk83QXg5SzU3aEFXQjZhelFDMA?oc=5",
           "pubDate": "2026-09-03T04:05:31.000Z",
@@ -74,18 +81,18 @@
           "title_en": "Meet the Leader: Astronaut Samantha Cristoforetti"
         },
         {
-          "title": "Event Details - Dar es Salaam Hub",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaE5jYXJwb1JaQUY5QTVLY0h6YzhLNEI0dU8tWjRYaW5WWGUzbUhhQmpXOTVyNlhQVVJNZFloSlBXREl3dWEzaGkwSnl2UTM4Q2UwbmNoa0ZLRVdHMWdnTUpjNG5FZzNXaFRBVkFCcERmZnVpZ21GNlFjcWNyQWtzU2JZVmxBRUc3c2szSFFYYmttZ0pCb2Jz?oc=5",
-          "pubDate": "2026-09-02T12:11:23.000Z",
-          "snippet": null,
-          "title_en": "Event Details - Dar es Salaam Hub"
-        },
-        {
           "title": "Annual Report 2025–2026",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdEpEaUh3bmpxTm5XVm9zY2FsWmhHZENqaFBJcDc0N1RoNXRPMlZ5NGdlT0s2VlV5VloxY3ZqZkdHZENrUGtXQVJrYjdFYXJ0cXQ4cmJZUVBpNWN1dlNLZ2N2NDRVcDhIemJ6Sg?oc=5",
           "pubDate": "2026-09-01T06:56:01.000Z",
           "snippet": null,
           "title_en": "Annual Report 2025–2026"
+        },
+        {
+          "title": "¿Quién es el Foro Económico Mundial?",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xMlJ5LWxRSWxVYlc2dEtxLUdGOF9sUlB0RUZpVW0xZ1c0ZVJmanVzdmNQdTZVSkZBNjZYU3o2bFVzNGVhRFNsTldUX3AtLTlCOWJiRmxuZmhFeVdBZkZLSmtBTXNsS3NjUnlUVFRJX1ZWZG1MNG9od0wwUkRKQQ?oc=5",
+          "pubDate": "2026-09-01T04:00:00.000Z",
+          "snippet": null,
+          "title_en": "Who is the World Economic Forum?"
         },
         {
           "title": "SDIM 2023 - Building Sustainable Trust in a Fragmenting World",
@@ -100,13 +107,6 @@
           "pubDate": "2026-09-01T04:00:00.000Z",
           "snippet": null,
           "title_en": "What is jobless growth, and how can we fix it?"
-        },
-        {
-          "title": "Global Risk Report 2024: Transitions in the age of information",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmVFR0tpWFJvX0VzRW9hejVwVnNaWXU3VFZRTVVrSkh6aXg0bkNEN005NVR4bldvMXJBUjRzMFpwTUM5X3VRMnN0VGZidzF1WnhxREFiTExlUV9mOTA0ZUVpRFlZUDBUVUU1Qnl6cmxJQnk2Ym5teHhZSGZnZkJrbTNBTGEtbVdDUVo0WmhXMDQwa3Q2VE1v?oc=5",
-          "pubDate": "2026-09-01T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "Global Risk Report 2024: Transitions in the Information Age"
         }
       ]
     }
