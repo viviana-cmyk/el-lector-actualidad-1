@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T10:02:08.310Z",
+  "generatedAt": "2026-09-08T14:12:37.972Z",
   "colombia": [
     {
       "city": "Bogotá",
       "city_en": "Bogotá",
-      "temp": 9,
+      "temp": 17,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -12,23 +12,23 @@
     {
       "city": "Medellín",
       "city_en": "Medellín",
-      "temp": 17,
-      "description": "Nublado",
-      "description_en": "Overcast",
-      "icon": "☁️"
-    },
-    {
-      "city": "Cali",
-      "city_en": "Cali",
-      "temp": 20,
+      "temp": 23,
       "description": "Parcialmente nublado",
       "description_en": "Partly cloudy",
       "icon": "⛅"
     },
     {
+      "city": "Cali",
+      "city_en": "Cali",
+      "temp": 25,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
+    },
+    {
       "city": "Cartagena",
       "city_en": "Cartagena",
-      "temp": 28,
+      "temp": 32,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -36,17 +36,17 @@
     {
       "city": "Barranquilla",
       "city_en": "Barranquilla",
-      "temp": 27,
-      "description": "Nublado",
-      "description_en": "Overcast",
-      "icon": "☁️"
+      "temp": 32,
+      "description": "Parcialmente nublado",
+      "description_en": "Partly cloudy",
+      "icon": "⛅"
     }
   ],
   "mundo": [
     {
       "city": "Nueva York",
       "city_en": "New York",
-      "temp": 16,
+      "temp": 22,
       "description": "Despejado",
       "description_en": "Clear sky",
       "icon": "☀️"
@@ -62,15 +62,15 @@
     {
       "city": "Madrid",
       "city_en": "Madrid",
-      "temp": 31,
-      "description": "Despejado",
-      "description_en": "Clear sky",
-      "icon": "☀️"
+      "temp": 34,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Tokio",
       "city_en": "Tokyo",
-      "temp": 25,
+      "temp": 27,
       "description": "Lluvia",
       "description_en": "Rain",
       "icon": "🌧️"
