@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
-      "#TerrorismoEnCauca",
-      "#CrisisDeSeguridad",
-      "#DelaEspriella",
-      "#ExtorsionBogotá",
-      "#EmergenciaNorteSantander"
+      "#DisidenciasEnArmas",
+      "#CrisisSeguidadColombia",
+      "#InflaciónAlertaRoja",
+      "#TítulosFalsosGuerrero",
+      "#DeficitFiscalHistórico"
     ],
     "mundo": [
-      "#AfDVictoria",
-      "#AlemaniaDerechista",
-      "#CrisisPolíticaEuropa",
-      "#IsraelLibano",
-      "#GeopolíticaMundial"
+      "#AfDVictoriaAlemania",
+      "#UltraderechaEuropa",
+      "#RusiaCoreaDelNorte",
+      "#ArancelesCanadá",
+      "#UcraniaCorrupción"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#AtaquesCauca",
-      "#CapturasTrenDeAragua",
-      "#IncendioAbrego",
-      "#InseguridadCali",
-      "#PolicíasColombia"
+      "#GuarraAlosAlcaldes",
+      "#InflaciónColombia",
+      "#TitulosFalsos",
+      "#ElNiñoAlerta",
+      "#CrisisSeguridad"
     ],
     "mundo": [
       "#AfDGana",
-      "#AlemaniaElecciones",
-      "#DerechaEnEuropa",
-      "#GuarraEnLibano",
-      "#PolíticaMundial"
+      "#TrumpAranceles",
+      "#AlemaniaUltraderecha",
+      "#RusiaUcrania",
+      "#IsraelVisa"
     ]
   },
-  "generatedAt": "2026-09-07T15:33:48.410Z"
+  "generatedAt": "2026-09-08T10:02:22.789Z"
 }

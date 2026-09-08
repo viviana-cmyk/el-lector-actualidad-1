@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-09-07T15:33:41.809Z",
+  "generatedAt": "2026-09-08T10:02:08.310Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Coche bomba en México revela nueva tensión entre el CJNG y La Mayiza",
+          "link": "https://insightcrime.org/es/noticias/coche-bomba-mexico-tension-entre-cjng-mayiza/",
+          "pubDate": "2026-09-07T18:56:38.000Z",
+          "snippet": "Coche bomba en México revela nueva tensión entre el CJNG y La Mayiza Un coche bomba en Zacatecas podría marcar una nueva escalada en la guerra entre el CJNG y La Mayiza, facción del Cártel de Sinaloa que se disputa el control de un corredor estratégico del narcotráfico. The post…",
+          "title_en": "Car Bomb in Mexico Reveals New Tension Between the CJNG and La Mayiza"
+        },
         {
           "title": "Ismael Zambada Sicairos, alias ‘Mayito Flaco’",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-mexico/ismael-zambada-sicairos-alias-mayito-flaco/",
@@ -17,7 +24,7 @@
           "link": "https://insightcrime.org/es/noticias/captura-lider-de-pulpos-frenara-crisis-de-extorsion-peru/",
           "pubDate": "2026-09-03T20:45:20.000Z",
           "snippet": "La captura de Jhonsson Pulpo difícilmente frenará la crisis de extorsión en Perú La captura de Jhonsson Pulpo golpea a Los Pulpos, pero difícilmente frenará la extorsión en Perú, donde cientos de grupos se disputan este lucrativo negocio. The post La captura de Jhonsson Pulpo dif…",
-          "title_en": "The arrest of Jhonsson Pulpo is unlikely to put an end to the extortion crisis in Peru"
+          "title_en": "The arrest of Jhonsson Pulpo is unlikely to put a stop to the extortion crisis in Peru"
         },
         {
           "title": "On the Radar: ¿El fin de la ‘Paz Total’ en Colombia?",
@@ -38,14 +45,7 @@
           "link": "https://insightcrime.org/es/noticias/the-insight-take-quien-mato-a-fernando-villavicencio-ecuador-rinde-cuentas/",
           "pubDate": "2026-09-01T14:55:42.000Z",
           "snippet": "The InSight Take: ¿Quién mató a Fernando Villavicencio? Ecuador rinde cuentas Tres años después del asesinato del candidato presidencial Fernando Villavicencio en Quito, Ecuador está cada vez más cerca de determinar quién ordenó el crimen. Esta semana, en The InSight Take, la edi…",
-          "title_en": "The InSight Take: Who Killed Fernando Villavicencio? Ecuador Must Answer for It"
-        },
-        {
-          "title": "¿Quién es quién en el escándalo del Banco Master en Brasil?",
-          "link": "https://insightcrime.org/es/noticias/quien-es-quien-en-historico-caso-fraude-banco-master-brasil/",
-          "pubDate": "2026-08-27T20:17:06.000Z",
-          "snippet": "¿Quién es quién en el escándalo del Banco Master en Brasil? A medida que avanza la investigación sobre el escándalo del Banco Master, las acusaciones alcanzan a un número creciente de personas de distintos sectores en Brasil. Banqueros, políticos, miembros de grupos criminales y…",
-          "title_en": "Who's Who in the Banco Master Scandal in Brazil?"
+          "title_en": "The InSight Take: Who Killed Fernando Villavicencio? Ecuador Must Answer for Its Actions"
         }
       ]
     },
@@ -54,11 +54,39 @@
       "color": "teal",
       "items": [
         {
-          "title": "Chad Blames Sudan’s Army for Strikes on Convoy",
-          "link": "https://www.crisisgroup.org/anb/africa/chad-sudan/chad-blames-sudans-army-strikes-convoy",
-          "pubDate": "2026-08-28T10:46:49.000Z",
-          "snippet": "Chad Blames Sudan’s Army for Strikes on Convoy cmoore Fri, 08/28/2026 - 12:46 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Analyst's Notebook / Africa 28 August 2026 2 min…",
-          "title_en": "Chad Blames Sudan's Army for Attacks on Convoy"
+          "title": "Israeli Actors Should Face a Choice: Building in E1 or Business with Europe",
+          "link": "https://www.crisisgroup.org/stm/middle-east-north-africa/israelpalestine-europe-united-states/israeli-actors-should-face-choice-building-e1-or-business-europe",
+          "pubDate": "2026-09-04T15:38:54.000Z",
+          "snippet": "Israeli Actors Should Face a Choice: Building in E1 or Business with Europe eschelhaas Fri, 09/04/2026 - 17:38 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Israeli far-rig…",
+          "title_en": "Israeli Actors Should Face a Choice: Building in E1 or Doing Business with Europe"
+        },
+        {
+          "title": "Suweida’s Exam Standoff Triggers Fresh Clashes in Southern Syria",
+          "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/syria/suweidas-exam-standoff-triggers-fresh-clashes-southern-syria",
+          "pubDate": "2026-09-04T12:57:35.000Z",
+          "snippet": "Suweida’s Exam Standoff Triggers Fresh Clashes in Southern Syria pzeiler Fri, 09/04/2026 - 14:57 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Analyst's Notebook / Middle E…",
+          "title_en": "Suweida’s Exam Standoff Triggers New Clashes in Southern Syria"
+        },
+        {
+          "title": "How Drones are Changing Colombia’s Conflict",
+          "link": "https://www.crisisgroup.org/vid/latin-america-caribbean/colombia/how-drones-are-changing-colombias-conflict",
+          "pubDate": "2026-09-04T09:41:59.000Z",
+          "snippet": "How Drones are Changing Colombia’s Conflict eschelhaas Fri, 09/04/2026 - 11:41 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Video / Latin America & Caribbean 04 September…",
+          "title_en": "How Drones Are Changing Colombia’s Conflict"
+        },
+        {
+          "title": "Somalia’s End-of-year Cliffhanger",
+          "link": "https://www.crisisgroup.org/pod/africa/somalia/somalias-end-year-cliffhanger",
+          "pubDate": "2026-09-03T14:47:04.000Z",
+          "snippet": "Somalia’s End-of-year Cliffhanger pzeiler Thu, 09/03/2026 - 16:47 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Africa 03 September 2026 1 minutes This week on Th…",
+          "title_en": "Somalia’s Year-End Cliffhanger"
+        },
+        {
+          "title": "Policing the Bangsamoro: Peace in the Southern Philippines",
+          "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/358-policing-bangsamoro-peace-southern-philippines",
+          "pubDate": "2026-09-02T22:00:00.000Z",
+          "snippet": "Policing the Bangsamoro: Peace in the Southern Philippines cthuratong Thu, 09/03/2026 - 00:00 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List policing-bangsamoro-peace-southe…",
+          "title_en": "Policing the Bangsamoro: Peace in the Southern Philippines"
         }
       ]
     },
@@ -95,18 +123,18 @@
           "title_en": "Who is the World Economic Forum?"
         },
         {
-          "title": "SDIM 2023 - Building Sustainable Trust in a Fragmenting World",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnIwdjEzTUdVeUlnRmZLb1dRZnJfZnNCYldTd21EYVJLVnEzWWhtcWkzWnh4NzVPcmxJM3hrLWpsYmV1dXFxaDlIakQ0Yk5WcVdFd204UWdycXYwa2cyNW5vY0hsTkViR2tvMU1qOXhtNC1PZWkyaDYtTGFoblktSlBPSWFxeWpvdGg3V0JjYnNFd3FEbklnSHo3WVNrT2M?oc=5",
-          "pubDate": "2026-09-01T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "SDIM 2023 - Building Sustainable Trust in a Fragmenting World"
-        },
-        {
           "title": "What is jobless growth, and how can we fix it?",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREhWd1NaNUxtUVNIR1gwRjlGb1AzbzdSdFpCRHNDWS1BZWw3MWw3UndSYzd2d0VCTk5ucU93NFZuTlNfTlVkaFFkcWwyWHlKeWpGbi04ZXN2eEhCSlpzbWgycFRxbU9TYVhHaVNiQUVtaFFqa2VSUE5KeG9fcEQtRA?oc=5",
           "pubDate": "2026-09-01T04:00:00.000Z",
           "snippet": null,
           "title_en": "What is jobless growth, and how can we fix it?"
+        },
+        {
+          "title": "Global Risk Report 2024: Transitions in the age of information",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmVFR0tpWFJvX0VzRW9hejVwVnNaWXU3VFZRTVVrSkh6aXg0bkNEN005NVR4bldvMXJBUjRzMFpwTUM5X3VRMnN0VGZidzF1WnhxREFiTExlUV9mOTA0ZUVpRFlZUDBUVUU1Qnl6cmxJQnk2Ym5teHhZSGZnZkJrbTNBTGEtbVdDUVo0WmhXMDQwa3Q2VE1v?oc=5",
+          "pubDate": "2026-09-01T04:00:00.000Z",
+          "snippet": null,
+          "title_en": "Global Risk Report 2024: Transitions in the Information Age"
         }
       ]
     }
