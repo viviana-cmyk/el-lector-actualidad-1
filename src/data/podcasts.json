@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:12:37.972Z",
+  "generatedAt": "2026-09-09T10:01:56.112Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -22,9 +22,9 @@
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Seminario Fenix | Brian Tracy",
-      "host": "matiasmartinez16",
-      "url": "https://podcasts.apple.com/co/podcast/seminario-fenix-brian-tracy/id1735157109"
+      "title": "Durmiendo",
+      "host": "Dudas Media",
+      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
     }
   ],
   "mundo": [
@@ -39,6 +39,11 @@
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
+      "title": "Good Hang with Amy Poehler",
+      "host": "The Ringer",
+      "url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480"
+    },
+    {
       "title": "Dateline NBC",
       "host": "NBC News",
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
@@ -47,11 +52,6 @@
       "title": "The Bill Simmons Podcast",
       "host": "The Ringer",
       "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613"
-    },
-    {
-      "title": "Morbid",
-      "host": "Ash Kelley & Alaina Urquhart",
-      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
     }
   ]
 }
