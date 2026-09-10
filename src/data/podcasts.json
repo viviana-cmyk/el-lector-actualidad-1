@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:13:30.844Z",
+  "generatedAt": "2026-09-10T10:01:46.452Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -22,26 +22,21 @@
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+      "title": "Seminario Fenix | Brian Tracy",
+      "host": "matiasmartinez16",
+      "url": "https://podcasts.apple.com/co/podcast/seminario-fenix-brian-tracy/id1735157109"
     }
   ],
   "mundo": [
-    {
-      "title": "Crime Junkie",
-      "host": "Audiochuck",
-      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
-    },
     {
       "title": "The Daily",
       "host": "The New York Times",
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "Dateline NBC",
-      "host": "NBC News",
-      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+      "title": "Crime Junkie",
+      "host": "Audiochuck",
+      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
       "title": "Good Hang with Amy Poehler",
@@ -52,6 +47,11 @@
       "title": "Pardon My Take",
       "host": "Barstool Sports",
       "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
+    },
+    {
+      "title": "Dateline NBC",
+      "host": "NBC News",
+      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     }
   ]
 }

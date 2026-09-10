@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-09-09T14:13:30.844Z",
+  "generatedAt": "2026-09-10T10:01:46.452Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela",
+          "link": "https://insightcrime.org/es/noticias/fin-cajas-clap-una-decada-de-corrupcion-crimen-organizado-venezuela/",
+          "pubDate": "2026-09-09T20:28:32.000Z",
+          "snippet": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela El fin del programa CLAP, creado para garantizar el acceso a alimentos subsidiados, revela su instrumentalización como mecanismo de corrupción y fuente de financiamiento para redes de crimen orga…",
+          "title_en": "The End of the CLAP Boxes? A Decade of Corruption and Organized Crime in Venezuela"
+        },
+        {
+          "title": "The InSight Take: Crimen organizado y elecciones en Brasil",
+          "link": "https://insightcrime.org/es/noticias/the-insight-take-crimen-organizado-elecciones-brasil/",
+          "pubDate": "2026-09-09T17:09:37.000Z",
+          "snippet": "The InSight Take: Crimen organizado y elecciones en Brasil En el InSight Take de esta semana, analizamos cómo el crimen organizado y la seguridad pública están marcando la campaña presidencial en Brasil, y qué hay detrás de los esquemas de lavado de dinero controlados por el PCC.…",
+          "title_en": "The InSight Take: Organized Crime and Elections in Brazil"
+        },
         {
           "title": "Coche bomba en México revela nueva tensión entre el CJNG y La Mayiza",
           "link": "https://insightcrime.org/es/noticias/coche-bomba-mexico-tension-entre-cjng-mayiza/",
@@ -24,7 +38,7 @@
           "link": "https://insightcrime.org/es/noticias/captura-lider-de-pulpos-frenara-crisis-de-extorsion-peru/",
           "pubDate": "2026-09-03T20:45:20.000Z",
           "snippet": "La captura de Jhonsson Pulpo difícilmente frenará la crisis de extorsión en Perú La captura de Jhonsson Pulpo golpea a Los Pulpos, pero difícilmente frenará la extorsión en Perú, donde cientos de grupos se disputan este lucrativo negocio. The post La captura de Jhonsson Pulpo dif…",
-          "title_en": "The arrest of Jhonsson Pulpo is unlikely to put a stop to the extortion crisis in Peru"
+          "title_en": "The arrest of Jhonsson Pulpo is unlikely to put an end to the extortion crisis in Peru"
         },
         {
           "title": "On the Radar: ¿El fin de la ‘Paz Total’ en Colombia?",
@@ -32,20 +46,6 @@
           "pubDate": "2026-09-03T15:17:40.000Z",
           "snippet": "On the Radar: ¿El fin de la ‘Paz Total’ en Colombia? Esta semana en On The Radar: Colombia pone fin a negociaciones de la “Paz Total” y abre la puerta al regreso del glifosato, Ecuador avanza en el caso Villavicencio y la región vuelve a apostar por la estrategia contra los capos…",
           "title_en": "On the Radar: Is This the End of “Total Peace” in Colombia?"
-        },
-        {
-          "title": "Estados Unidos reanuda los ataques antidrogas con misiles. Pero ¿están funcionando?",
-          "link": "https://insightcrime.org/es/noticias/estados-unidos-reanuda-los-ataques-antidrogas-con-misiles-pero-estan-funcionando/",
-          "pubDate": "2026-09-02T21:28:50.000Z",
-          "snippet": "Estados Unidos reanuda los ataques antidrogas con misiles. Pero ¿están funcionando? A finales de agosto de 2026, Estados Unidos reanudó su ofensiva marítima antidrogas tras dos meses de pausa. Pero, aunque los ataques han alterado algunas rutas, la evidencia disponible indica que…",
-          "title_en": "The United States is resuming anti-drug missile strikes. But are they working?"
-        },
-        {
-          "title": "The InSight Take: ¿Quién mató a Fernando Villavicencio? Ecuador rinde cuentas",
-          "link": "https://insightcrime.org/es/noticias/the-insight-take-quien-mato-a-fernando-villavicencio-ecuador-rinde-cuentas/",
-          "pubDate": "2026-09-01T14:55:42.000Z",
-          "snippet": "The InSight Take: ¿Quién mató a Fernando Villavicencio? Ecuador rinde cuentas Tres años después del asesinato del candidato presidencial Fernando Villavicencio en Quito, Ecuador está cada vez más cerca de determinar quién ordenó el crimen. Esta semana, en The InSight Take, la edi…",
-          "title_en": "The InSight Take: Who Killed Fernando Villavicencio? Ecuador Must Answer for Its Actions"
         }
       ]
     },
@@ -95,11 +95,25 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Leaders for European Growth and Competitiveness 1st Edition",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFgzTmluc3gzYlRnd200Rk9tR1ctcjU3X0dVRVZVLUotakxWa1ItcmJxV0JBQ1pVa18zVFpUMEtxZ1lzamdlaWpMako0UnNEXzdPMG5ua0NLVHkxdFp2YW01ZlVwMDNCWUtZQnR6WUIxMnJ1d0lwOGpZdDJrZzRocHBua0Q1N1V2Q1JJeThqc3l0YkgzTDZWV2doaGgwOWNCOFdr?oc=5",
+          "pubDate": "2026-09-09T06:17:29.000Z",
+          "snippet": null,
+          "title_en": "Leaders for European Growth and Competitiveness, 1st Edition"
+        },
+        {
           "title": "Oxford Hub - YOUTH2030",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHBydjdzd1BHX2ZtNVVyM1VnLURqaFNpdS1NMEJfLWdtZE5JUWI4b2x3SU9EbkdtT3BXSExHczk0ZEZBZldEcmNRTFpnZ1ZSQmtvQ0RpVTUyU3JlNHFWTDhmYUNjSTBYWUt3aU1FSjlHRERaMGEwUFFiaFNuMWNFRThvcENBUlBHeWVKQ05B?oc=5",
           "pubDate": "2026-09-06T19:38:11.000Z",
           "snippet": null,
           "title_en": "Oxford Hub - YOUTH2030"
+        },
+        {
+          "title": "Event Details - Arusha Hub",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOem5TbF9HdXk2dDhVMF9jdU5QMjB3VnVXdEctNmZHWjMzWWJNREdFYVJ1SkVIQlNIYS1xTG5fUXo3TXUyUnZjS0RQYWpJU0N0Q1RpNGpSeGpwTFpvLThqSnp2dXJnRVY1ZjdjR3REMi1UOVg3c1d2NjZka1Z4WUlXY0JpUlRmbzlvVUVlVEFB?oc=5",
+          "pubDate": "2026-09-03T14:00:00.000Z",
+          "snippet": null,
+          "title_en": "Event Details - Arusha Hub"
         },
         {
           "title": "Meet the Leader: astronaut Samantha Cristoforetti",
@@ -109,32 +123,18 @@
           "title_en": "Meet the Leader: Astronaut Samantha Cristoforetti"
         },
         {
+          "title": "¿Qué es el \"Davos de Verano\"?",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WS21xcGduY2hNSVJWdjg4ZVMzWFNyeVpvcGo1NWhvWDFBOVBlU2lFd2R2TENHUXQ2YWxKZjBJVzMycTBpNEFyQUU2NVN1Tk50anVOb2pDTDZnRmZDc01pRGpTWUQxTTA?oc=5",
+          "pubDate": "2026-09-01T07:00:00.000Z",
+          "snippet": null,
+          "title_en": "What is the \"Summer Davos\"?"
+        },
+        {
           "title": "Annual Report 2025–2026",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdEpEaUh3bmpxTm5XVm9zY2FsWmhHZENqaFBJcDc0N1RoNXRPMlZ5NGdlT0s2VlV5VloxY3ZqZkdHZENrUGtXQVJrYjdFYXJ0cXQ4cmJZUVBpNWN1dlNLZ2N2NDRVcDhIemJ6Sg?oc=5",
           "pubDate": "2026-09-01T06:56:01.000Z",
           "snippet": null,
           "title_en": "Annual Report 2025–2026"
-        },
-        {
-          "title": "¿Quién es el Foro Económico Mundial?",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xMlJ5LWxRSWxVYlc2dEtxLUdGOF9sUlB0RUZpVW0xZ1c0ZVJmanVzdmNQdTZVSkZBNjZYU3o2bFVzNGVhRFNsTldUX3AtLTlCOWJiRmxuZmhFeVdBZkZLSmtBTXNsS3NjUnlUVFRJX1ZWZG1MNG9od0wwUkRKQQ?oc=5",
-          "pubDate": "2026-09-01T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "Who is the World Economic Forum?"
-        },
-        {
-          "title": "What is jobless growth, and how can we fix it?",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREhWd1NaNUxtUVNIR1gwRjlGb1AzbzdSdFpCRHNDWS1BZWw3MWw3UndSYzd2d0VCTk5ucU93NFZuTlNfTlVkaFFkcWwyWHlKeWpGbi04ZXN2eEhCSlpzbWgycFRxbU9TYVhHaVNiQUVtaFFqa2VSUE5KeG9fcEQtRA?oc=5",
-          "pubDate": "2026-09-01T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "What is jobless growth, and how can we fix it?"
-        },
-        {
-          "title": "Global Risk Report 2024: Transitions in the age of information",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmVFR0tpWFJvX0VzRW9hejVwVnNaWXU3VFZRTVVrSkh6aXg0bkNEN005NVR4bldvMXJBUjRzMFpwTUM5X3VRMnN0VGZidzF1WnhxREFiTExlUV9mOTA0ZUVpRFlZUDBUVUU1Qnl6cmxJQnk2Ym5teHhZSGZnZkJrbTNBTGEtbVdDUVo0WmhXMDQwa3Q2VE1v?oc=5",
-          "pubDate": "2026-09-01T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "Global Risk Report 2024: Transitions in the Information Age"
         }
       ]
     }
