@@ -37,7 +37,8 @@ const MESES_DISP        = Math.max(1, _dia >= 16 ? _mesActual - 1 : _mesActual -
 const MESES_COMPARACION = Array.from({ length: MESES_DISP }, (_, i) => i + 1);
 const LABEL_PERIODO     = MESES_DISP === 1 ? 'ene' : `ene-${_MESES_NOMBRES[MESES_DISP - 1]}`;
 const FACTOR_PROYECCION = Math.round((12 / MESES_DISP) * 100) / 100; // ej. 2 para 6 meses
-const _corteDate    = new Date(_ahora.getFullYear(), _ahora.getMonth(), 0);
+// MESES_DISP is 1-indexed (e.g. 7 = July); new Date(y, MESES_DISP, 0) = last day of that month
+const _corteDate    = new Date(_ahora.getFullYear(), MESES_DISP, 0);
 const CORTE_POLICIA = _corteDate.toISOString().slice(0, 10);
 
 // ── Cargar población DANE ────────────────────────────────────────────────────
@@ -129,6 +130,7 @@ function calcDelito(idx, cod, pob) {
     variacion_pct_ene_abr: vari.valor,
     base_pequena:          vari.base_pequena,
     tasa_2025:             tasa(c25,  pob.poblacion_2025),
+    tasa_2025_ene_abr:     tasa(c25ea, pob.poblacion_2025),
     tasa_2026_ene_abr:     tasa(c26ea, pob.poblacion_2026),
     tasa_2026_proyectada:  c26ea && pob.poblacion_2026
       ? Math.round((c26ea * FACTOR_PROYECCION / pob.poblacion_2026) * 100000 * 10) / 10
@@ -238,6 +240,7 @@ async function main() {
         'Series comparables desde 2019; quiebre SIEDCO-SPOA en 2016-2018.',
         'Variación % suprimida cuando base < 20 casos (campo base_pequena: true).',
         `Tasa proyectada = casos ${LABEL_PERIODO} × ${FACTOR_PROYECCION}; ETIQUETADA como proyección anual.`,
+        `tasa_2025_ene_abr = casos_2025_ene_abr / poblacion_2025 × 100.000; misma ventana que 2026 para comparación homogénea.`,
         'Rankings y mapa: siempre por tasa x100k, nunca por absoluto.',
         'Hurto automotores: dataset csb4-y6v2 filtrado por tipo_delito=ARTICULO 239. HURTO AUTOMOTORES.',
       ],

@@ -76,6 +76,15 @@ const cityData = [...data.municipios]
   .map((m: any) => {
     const coord = COORDS[m.divipola] ?? null;
     const f = (campo: string, k: string) => m[campo][k] ?? null;
+    // tasa_2025_ene_abr: mismo período que 2026 para comparación homogénea
+    // Si ya viene en el JSON usarlo; si no (datos anteriores), calcularlo
+    const t25ea = (campo: string): number | null => {
+      const cached = m[campo].tasa_2025_ene_abr ?? null;
+      if (cached !== null) return cached;
+      const c = m[campo].casos_2025_ene_abr;
+      const p = m.poblacion_2025;
+      return (c && p) ? Math.round((c / p) * 100000 * 10) / 10 : null;
+    };
     return {
       municipio: m.municipio,
       div: m.divipola,
@@ -85,26 +94,32 @@ const cityData = [...data.municipios]
       h26: f('homicidio','casos_2026_ene_abr'),   h25: f('homicidio','casos_2025_ene_abr'),
       hv:  f('homicidio','variacion_pct_ene_abr'), hbp: m.homicidio.base_pequena,
       ht:  f('homicidio','tasa_2026_ene_abr'),     htp: f('homicidio','tasa_2026_proyectada'),
+      hte: t25ea('homicidio'),
       // hurto personas
       u26: f('hurto_personas','casos_2026_ene_abr'),   u25: f('hurto_personas','casos_2025_ene_abr'),
       uv:  f('hurto_personas','variacion_pct_ene_abr'), ubp: m.hurto_personas.base_pequena,
       ut:  f('hurto_personas','tasa_2026_ene_abr'),     utp: f('hurto_personas','tasa_2026_proyectada'),
+      ute: t25ea('hurto_personas'),
       // extorsión
       e26: f('extorsion','casos_2026_ene_abr'),   e25: f('extorsion','casos_2025_ene_abr'),
       ev:  f('extorsion','variacion_pct_ene_abr'), ebp: m.extorsion.base_pequena,
       et:  f('extorsion','tasa_2026_ene_abr'),     etp: f('extorsion','tasa_2026_proyectada'),
+      ete: t25ea('extorsion'),
       // hurto residencias
       r26: f('hurto_residencias','casos_2026_ene_abr'),   r25: f('hurto_residencias','casos_2025_ene_abr'),
       rv:  f('hurto_residencias','variacion_pct_ene_abr'), rbp: m.hurto_residencias.base_pequena,
       rt:  f('hurto_residencias','tasa_2026_ene_abr'),     rtp: f('hurto_residencias','tasa_2026_proyectada'),
+      rte: t25ea('hurto_residencias'),
       // violencia intrafamiliar
       vi26: f('violencia_intra','casos_2026_ene_abr'),   vi25: f('violencia_intra','casos_2025_ene_abr'),
       viv:  f('violencia_intra','variacion_pct_ene_abr'), vibp: m.violencia_intra.base_pequena,
       vit:  f('violencia_intra','tasa_2026_ene_abr'),     vitp: f('violencia_intra','tasa_2026_proyectada'),
+      vite: t25ea('violencia_intra'),
       // hurto automotores
       a26: f('hurto_automotores','casos_2026_ene_abr'),   a25: f('hurto_automotores','casos_2025_ene_abr'),
       av:  f('hurto_automotores','variacion_pct_ene_abr'), abp: m.hurto_automotores.base_pequena,
       at:  f('hurto_automotores','tasa_2026_ene_abr'),     atp: f('hurto_automotores','tasa_2026_proyectada'),
+      ate: t25ea('hurto_automotores'),
     };
   });
 
@@ -791,10 +806,12 @@ function palColor(t, brks) {
 }
 
 /* ══════════════ SELECTOR DE CIUDAD ════════════════════════════════════════ */
-function kpiCard(tipo, n26, n25, vari, bp, tasa) {
-  const ant = numCO(n25);
-  const ts  = tasa != null ? tasa.toFixed(1).replace(".", ",") + " x100k" : null;
-  const nl  = n26 != null ? numCO(n26) : '<span class="sin-dato">sin dato</span>';
+function kpiCard(tipo, n26, n25, vari, bp, tasa, tasa25) {
+  const ts   = tasa   != null ? tasa.toFixed(1).replace(".", ",")   + " x100k" : null;
+  // Preferir tasa del mismo período para comparación homogénea; fallback a conteo
+  const ref  = tasa25 != null ? tasa25.toFixed(1).replace(".", ",") + " x100k"
+                               : (n25 != null ? numCO(n25) + " casos" : null);
+  const nl   = n26 != null ? numCO(n26) : '<span class="sin-dato">sin dato</span>';
 
   let badge;
   if (bp) {
@@ -808,7 +825,7 @@ function kpiCard(tipo, n26, n25, vari, bp, tasa) {
     badge = '<span class="ck__badge ck__badge--neutro">—</span>';
   }
 
-  const partes = [ts ? `<strong>${ts}</strong>` : null, ant ? `vs. ${ant}` : null].filter(Boolean);
+  const partes = [ts ? `<strong>${ts}</strong>` : null, ref ? `vs. ${ref}` : null].filter(Boolean);
   const sub = partes.join(" · ") + (partes.length ? ` <span style='opacity:.5'>${labelPeriodo} 2025</span>` : "—");
 
   return `<div class="ck">
@@ -821,12 +838,12 @@ function renderCity(c) {
   const L = getLabels();
   document.getElementById("ciudad-nombre").textContent = c.municipio;
   document.getElementById("ciudad-cards").innerHTML = [
-    kpiCard(L.hom, c.h26,  c.h25,  c.hv,  c.hbp,  c.ht),
-    kpiCard(L.hur, c.u26,  c.u25,  c.uv,  c.ubp,  c.ut),
-    kpiCard(L.ext, c.e26,  c.e25,  c.ev,  c.ebp,  c.et),
-    kpiCard(L.res, c.r26,  c.r25,  c.rv,  c.rbp,  c.rt),
-    kpiCard(L.vif, c.vi26, c.vi25, c.viv, c.vibp, c.vit),
-    kpiCard(L.aut, c.a26,  c.a25,  c.av,  c.abp,  c.at),
+    kpiCard(L.hom, c.h26,  c.h25,  c.hv,  c.hbp,  c.ht,  c.hte),
+    kpiCard(L.hur, c.u26,  c.u25,  c.uv,  c.ubp,  c.ut,  c.ute),
+    kpiCard(L.ext, c.e26,  c.e25,  c.ev,  c.ebp,  c.et,  c.ete),
+    kpiCard(L.res, c.r26,  c.r25,  c.rv,  c.rbp,  c.rt,  c.rte),
+    kpiCard(L.vif, c.vi26, c.vi25, c.viv, c.vibp, c.vit, c.vite),
+    kpiCard(L.aut, c.a26,  c.a25,  c.av,  c.abp,  c.at,  c.ate),
   ].join("");
 }
 const sel = document.getElementById("ciudad-select");
