@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-04T14:03:32.257Z",
+  "generatedAt": "2026-09-11T14:07:04.989Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada militar en Ucrania y ataques rusos a infraestructura crítica",
-      "titulo_en": "Military escalation in Ukraine and Russian strikes on critical infrastructure",
-      "region": "Europa Oriental",
+      "titulo": "Escalada Israel-Hezbollah en Líbano",
+      "titulo_en": "Israel-Hezbollah Escalation in Lebanon",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Russian drone strikes Ukraine's security services HQ, says Zelenskyy",
-        "link": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
-        "fuente": "The Guardian"
+        "titulo": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
+        "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Los ataques rusos dirigidos a la sede del servicio de seguridad ucraniano representan una intensificación táctica en objetivos estratégicos que busca desarticular la cadena de mando defensiva. Esta escalada ocurre mientras persisten negociaciones diplomáticas inciertas, lo que sugiere que Moscú mantiene presión militar para mejorar su posición negociadora.",
-      "analisis_en": "Russian attacks targeting Ukraine's security service headquarters represent a tactical intensification in strategic objectives aimed at dismantling defensive command structures. This escalation occurs while uncertain diplomatic negotiations persist, suggesting Moscow maintains military pressure to improve its negotiating position."
+      "analisis": "Israel ejecuta operaciones contra infraestructura subterránea de Hezbollah en el sur de Líbano, indicando intensificación de confrontaciones militares directas que van más allá de ataques aislados. Esta escalada ocurre en un contexto de creciente presencia iraní en la región y amenaza con desestabilizar todo el Levante si se expande a conflicto abierto.",
+      "analisis_en": "Israel is executing operations against Hezbollah's underground infrastructure in southern Lebanon, indicating intensification of direct military confrontations beyond isolated attacks. This escalation occurs within a context of growing Iranian regional presence and threatens to destabilize the entire Levant if it expands into open conflict."
     },
     {
       "rank": 2,
-      "titulo": "Crisis de seguridad y violencia criminal en Haití y Filipinas",
-      "titulo_en": "Security crisis and criminal violence in Haiti and the Philippines",
-      "region": "Caribe y Asia-Pacífico",
+      "titulo": "Hutíes controlan vía navegable estratégica del Mar Rojo con respaldo iraní",
+      "titulo_en": "Houthi Control of Strategic Red Sea Waterway with Iranian Support",
+      "region": "Oriente Medio - Mar Rojo",
       "noticia": {
-        "titulo": "Can a Country Really Hold an Election in the Middle of a Gang War?",
-        "link": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
-        "fuente": "The New York Times"
+        "titulo": "Rebeldes hutíes respaldados por Irán capturaron una isla clave en una vía navegable vital",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmg4SkhSOE5lT1pJZmVmZXVwejJDLVhiTU0xdk9McGZhSXQwOGRwX0VYTXlwWUpjd2M5c1g1dFBUMmE0dmdVMVVhTk5WOWoxQnF6WllIUFhRTEExd1c5ZzV3bExRNkUtejgwZlBTZFVDSEpFZENVQ19kNDNxOVdWM2tUMA?oc=5",
+        "fuente": "CNN en Español"
       },
-      "analisis": "Haití enfrenta un colapso institucional donde la violencia de bandas criminales impide procesos electorales democráticos, mientras Filipinas experimenta crisis política con la detención de su vicepresidenta por amenazas de asesinato. Ambos casos reflejan el debilitamiento de instituciones estatales en regiones con relevancia geopolítica donde potencias externas disputan influencia.",
-      "analisis_en": "Haiti faces institutional collapse where criminal gang violence prevents democratic electoral processes, while the Philippines experiences political crisis with its vice president facing arrest for assassination threats. Both cases reflect weakening state institutions in regions with geopolitical relevance where external powers dispute influence."
+      "analisis": "Los hutíes capturan posiciones clave que refuerzan el control sobre rutas marítimas vitales para el comercio mundial, consolidando el poder de proyección de Irán en el Índico y Golfo Pérsico. El dominio de estas vías navegables amenaza con interrumpir cadenas de suministro globales y elevar tensiones con potencias occidentales que dependen del comercio marítimo.",
+      "analisis_en": "The Houthis capture key positions that reinforce control over vital maritime routes for global trade, consolidating Iran's power projection capabilities in the Indian Ocean and Persian Gulf. Domination of these waterways threatens to disrupt global supply chains and escalate tensions with Western powers dependent on maritime commerce."
     },
     {
       "rank": 3,
-      "titulo": "Amenaza houtí al comercio marítimo global y control del Estrecho de Ormuz",
-      "titulo_en": "Houthi threat to global maritime trade and Strait of Hormuz control",
-      "region": "Medio Oriente",
+      "titulo": "Represión política en Hong Kong y consolidación del control chino",
+      "titulo_en": "Political Repression in Hong Kong and Consolidation of Chinese Control",
+      "region": "Asia-Pacífico",
       "noticia": {
-        "titulo": "Yemen's Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
-        "link": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+        "titulo": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
+        "link": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
         "fuente": "The New York Times"
       },
-      "analisis": "El avance territorial houtí hacia el Estrecho de Ormuz amplifica su capacidad de disruption sobre rutas comerciales vitales que canalizan aproximadamente el 20% del tráfico petrolero global. Esta consolidación militar, junto con el regreso del tránsito marítimo a niveles preconflicto, indica una normalización de la amenaza que podría motivar intervenciones de potencias navales para resguardar intereses energéticos occidentales.",
-      "analisis_en": "Houthi territorial advances toward the Strait of Hormuz amplify their disruption capacity over vital trade routes that channel approximately 20% of global oil traffic. This military consolidation, combined with maritime transit returning to pre-conflict levels, indicates normalization of the threat that could motivate naval interventions by Western powers to safeguard energy interests."
+      "analisis": "Las sentencias a organizadores de conmemoraciones sobre Tiananmen demuestran la sistemática eliminación de espacios de disidencia política y memoria histórica en Hong Kong bajo jurisdicción china. Esta represión refleja el avance de Beijing en neutralizar autonomía local y refuerza el modelo de control autoritario que genera fricción con democracias occidentales.",
+      "analisis_en": "Prison sentences for Tiananmen vigil organizers demonstrate systematic elimination of political dissent and historical memory spaces in Hong Kong under Chinese jurisdiction. This repression reflects Beijing's advance in neutralizing local autonomy and reinforces an authoritarian control model that generates friction with Western democracies."
     }
   ]
 }

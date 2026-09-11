@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-11T10:01:57.990Z",
+  "generatedAt": "2026-09-11T14:07:04.989Z",
   "dia": {
-    "nombre": "Día Nacional de la Independencia de Cataluña",
-    "descripcion": "Conmemoración del movimiento independentista catalán, aunque no es reconocido oficialmente por organismos internacionales de primer nivel."
+    "nombre": "Aniversario de los atentados del 11 de septiembre de 2001",
+    "descripcion": "Se conmemora el vigésimo quinto aniversario de los ataques terroristas en Nueva York, Washington y Pensilvania, que marcaron un punto de inflexión en la historia contemporánea y la seguridad global."
   },
   "dia_en": {
-    "nombre": "Catalonia National Independence Day",
-    "descripcion": "Commemoration of the Catalan independence movement, although it is not officially recognized by top-level international organizations."
+    "nombre": "Anniversary of the September 11, 2001 attacks",
+    "descripcion": "The twenty-fifth anniversary of the terrorist attacks in New York, Washington, and Pennsylvania is commemorated, which marked a turning point in contemporary history and global security."
   }
 }
