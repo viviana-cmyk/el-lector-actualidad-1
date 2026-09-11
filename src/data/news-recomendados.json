@@ -1,16 +1,30 @@
 {
-  "generatedAt": "2026-09-10T14:07:27.437Z",
+  "generatedAt": "2026-09-11T10:01:52.230Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
         {
+          "title": "Clan del Golfo – Autodefensas Gaitanistas de Colombia",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/urabenos-perfil/",
+          "pubDate": "2026-09-10T17:19:34.000Z",
+          "snippet": "Clan del Golfo – Autodefensas Gaitanistas de Colombia El Clan del Golfo, también conocido como Autodefensas Gaitanistas de Colombia (AGC) y Urabeños, surgió de las cenizas del movimiento paramilitar colombiano y se convirtió en una fuerza criminal con alcance nacional. The post C…",
+          "title_en": "Clan del Golfo – Gaitanista Self-Defense Forces of Colombia"
+        },
+        {
+          "title": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia",
+          "link": "https://insightcrime.org/es/noticias/on-the-radar-ataques-contra-botes-en-ecuador-carceles-en-peru-y-cultivos-de-coca-en-bolivia/",
+          "pubDate": "2026-09-10T15:02:22.000Z",
+          "snippet": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia Esta semana examinamos en el cambio en la estrategia de Estados Unidos de ataques contra embarcaciones vinculadas a Los Choneros en Ecuador, el estado de emergencia de Keiko Fujimori en…",
+          "title_en": "On the Radar: Attacks on Boats in Ecuador, Prisons in Peru, and Coca Crops in Bolivia"
+        },
+        {
           "title": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela",
           "link": "https://insightcrime.org/es/noticias/fin-cajas-clap-una-decada-de-corrupcion-crimen-organizado-venezuela/",
           "pubDate": "2026-09-09T20:28:32.000Z",
           "snippet": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela El fin del programa CLAP, creado para garantizar el acceso a alimentos subsidiados, revela su instrumentalización como mecanismo de corrupción y fuente de financiamiento para redes de crimen orga…",
-          "title_en": "The End of the CLAP Food Boxes? A Decade of Corruption and Organized Crime in Venezuela"
+          "title_en": "The End of the CLAP Boxes? A Decade of Corruption and Organized Crime in Venezuela"
         },
         {
           "title": "The InSight Take: Crimen organizado y elecciones en Brasil",
@@ -31,21 +45,7 @@
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-mexico/ismael-zambada-sicairos-alias-mayito-flaco/",
           "pubDate": "2026-09-03T21:12:49.000Z",
           "snippet": "Ismael Zambada Sicairos, alias ‘Mayito Flaco’ Mayito Flaco ha emergido como uno de los principales líderes del Cartel de Sinaloa, al frente de La Mayiza y en guerra con los Chapitos. Conozca su historia, actividades criminales, aliados y rivales. Perfil completo actualizado The p…",
-          "title_en": "Ismael Zambada Sicairos, also known as “Mayito Flaco”"
-        },
-        {
-          "title": "La captura de Jhonsson Pulpo difícilmente frenará la crisis de extorsión en Perú",
-          "link": "https://insightcrime.org/es/noticias/captura-lider-de-pulpos-frenara-crisis-de-extorsion-peru/",
-          "pubDate": "2026-09-03T20:45:20.000Z",
-          "snippet": "La captura de Jhonsson Pulpo difícilmente frenará la crisis de extorsión en Perú La captura de Jhonsson Pulpo golpea a Los Pulpos, pero difícilmente frenará la extorsión en Perú, donde cientos de grupos se disputan este lucrativo negocio. The post La captura de Jhonsson Pulpo dif…",
-          "title_en": "The arrest of Jhonsson Pulpo is unlikely to put an end to the extortion crisis in Peru"
-        },
-        {
-          "title": "On the Radar: ¿El fin de la ‘Paz Total’ en Colombia?",
-          "link": "https://insightcrime.org/es/noticias/on-the-radar-fin-de-paz-total-colombia/",
-          "pubDate": "2026-09-03T15:17:40.000Z",
-          "snippet": "On the Radar: ¿El fin de la ‘Paz Total’ en Colombia? Esta semana en On The Radar: Colombia pone fin a negociaciones de la “Paz Total” y abre la puerta al regreso del glifosato, Ecuador avanza en el caso Villavicencio y la región vuelve a apostar por la estrategia contra los capos…",
-          "title_en": "On the Radar: Is This the End of “Total Peace” in Colombia?"
+          "title_en": "Ismael Zambada Sicairos, alias “Mayito Flaco”"
         }
       ]
     },
@@ -130,11 +130,11 @@
           "title_en": "What is the \"Summer Davos\"?"
         },
         {
-          "title": "Annual Report 2025–2026",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdEpEaUh3bmpxTm5XVm9zY2FsWmhHZENqaFBJcDc0N1RoNXRPMlZ5NGdlT0s2VlV5VloxY3ZqZkdHZENrUGtXQVJrYjdFYXJ0cXQ4cmJZUVBpNWN1dlNLZ2N2NDRVcDhIemJ6Sg?oc=5",
-          "pubDate": "2026-09-01T06:56:01.000Z",
+          "title": "How The Wysa AI Chatbot Delivers Mental Health Support",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tTmh6SXJzX2owYXhZZ3BvZnFfbVRXQWl5bzdtWjlKVm9PQzJkODd0SGVrc0xteGxxZDdFM0pBenBqdGtQb2R4ejFDb05XT1BJaThhRi1EN1VRMVFxMGlUaTVoQzh6SjZHZDM1cTFPVEFHdmw2OUVCQ3hrY1RlUQ?oc=5",
+          "pubDate": "2026-09-01T07:00:00.000Z",
           "snippet": null,
-          "title_en": "Annual Report 2025–2026"
+          "title_en": "How the Wysa AI Chatbot Provides Mental Health Support"
         }
       ]
     }
