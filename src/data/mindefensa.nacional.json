@@ -3,6 +3,30 @@
   "documento": "Seguimiento a Indicadores de Seguridad y Resultados Operacionales — 2026",
   "periodo": "Ene-Jul 2026",
   "generado": "2026-09-12",
+  "homicidio": {
+    "casos_2025": 8012,
+    "casos_2026": 8195
+  },
+  "hurto_personas": {
+    "casos_2025": 169676,
+    "casos_2026": 156116
+  },
+  "extorsion": {
+    "casos_2025": 7137,
+    "casos_2026": 7661
+  },
+  "hurto_residencias": {
+    "casos_2025": 14921,
+    "casos_2026": 14159
+  },
+  "violencia_intra": {
+    "casos_2025": 79748,
+    "casos_2026": 89455
+  },
+  "hurto_automotores": {
+    "casos_2025": 5403,
+    "casos_2026": 5020
+  },
   "masacres_casos": {
     "casos_2025": 49,
     "casos_2026": 62

@@ -18,6 +18,14 @@ const SALIDA  = join(ROOT, 'src', 'data', 'mindefensa.nacional.json');
 
 // Indicadores que queremos extraer y su fila-etiqueta exacta en el Excel
 const INDICADORES = {
+  // 6 delitos principales (mismos que SIEDCO pero con depuración FGN de Mindefensa)
+  homicidio:           'Homicidio intencional',
+  hurto_personas:      'Hurto a personas',
+  extorsion:           'Extorsión',
+  hurto_residencias:   'Hurto a residencias',
+  violencia_intra:     'Violencia intrafamiliar',
+  hurto_automotores:   'Hurto automotores',
+  // Indicadores exclusivos Mindefensa
   masacres_casos:          'Masacres (casos)',
   masacres_victimas:       'Masacres (víctimas)',
   secuestro_casos:         'Secuestro total (casos)',

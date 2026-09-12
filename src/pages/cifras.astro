@@ -25,23 +25,21 @@ const generadoStr = new Date(meta.generatedAt)
 const labelPeriodo     = (meta.label_periodo      as string) ?? 'ene-abr';
 const factorProyeccion = (meta.factor_proyeccion  as number) ?? 3;
 
-// Totales nacionales — desde el bloque `nacional` del JSON
-const nac = (data.nacional as any) ?? {};
-const fn = (campo: string, k: string) => (nac[campo]?.[k] ?? null) as number | null;
-
-const homNac26ea = fn('homicidio','casos_2026_ene_abr'),   homNac25ea = fn('homicidio','casos_2025_ene_abr'),   homNacVar = fn('homicidio','variacion_pct_ene_abr');
-const hurNac26ea = fn('hurto_personas','casos_2026_ene_abr'), hurNac25ea = fn('hurto_personas','casos_2025_ene_abr'), hurNacVar = fn('hurto_personas','variacion_pct_ene_abr');
-const extNac26ea = fn('extorsion','casos_2026_ene_abr'),   extNac25ea = fn('extorsion','casos_2025_ene_abr'),   extNacVar = fn('extorsion','variacion_pct_ene_abr');
-const resNac26ea = fn('hurto_residencias','casos_2026_ene_abr'), resNac25ea = fn('hurto_residencias','casos_2025_ene_abr'), resNacVar = fn('hurto_residencias','variacion_pct_ene_abr');
-const vifNac26ea = fn('violencia_intra','casos_2026_ene_abr'),   vifNac25ea = fn('violencia_intra','casos_2025_ene_abr'),   vifNacVar = fn('violencia_intra','variacion_pct_ene_abr');
-const autNac26ea = fn('hurto_automotores','casos_2026_ene_abr'), autNac25ea = fn('hurto_automotores','casos_2025_ene_abr'), autNacVar = fn('hurto_automotores','variacion_pct_ene_abr');
-
-// Mindefensa: masacres, secuestro, fuerza pública
+// Totales nacionales — fuente Ministerio de Defensa (Excel mensual)
+// Los 6 delitos principales usan depuración FGN de Mindefensa (más precisa que SODA crudo)
 const md = mindefensaData as any;
 const mdf = (key: string, year: number) => (md[key]?.[`casos_${year}`] ?? null) as number | null;
 const pct = (a: number | null, b: number | null) =>
   (a && b) ? Math.round((b / a - 1) * 1000) / 10 : null;
 
+const homNac26ea = mdf('homicidio', 2026),        homNac25ea = mdf('homicidio', 2025),        homNacVar = pct(homNac25ea, homNac26ea);
+const hurNac26ea = mdf('hurto_personas', 2026),   hurNac25ea = mdf('hurto_personas', 2025),   hurNacVar = pct(hurNac25ea, hurNac26ea);
+const extNac26ea = mdf('extorsion', 2026),         extNac25ea = mdf('extorsion', 2025),         extNacVar = pct(extNac25ea, extNac26ea);
+const resNac26ea = mdf('hurto_residencias', 2026), resNac25ea = mdf('hurto_residencias', 2025), resNacVar = pct(resNac25ea, resNac26ea);
+const vifNac26ea = mdf('violencia_intra', 2026),   vifNac25ea = mdf('violencia_intra', 2025),   vifNacVar = pct(vifNac25ea, vifNac26ea);
+const autNac26ea = mdf('hurto_automotores', 2026), autNac25ea = mdf('hurto_automotores', 2025), autNacVar = pct(autNac25ea, autNac26ea);
+
+// Mindefensa: masacres, secuestro, fuerza pública
 const masNac26c = mdf('masacres_casos', 2026),   masNac25c = mdf('masacres_casos', 2025);
 const masNac26v = mdf('masacres_victimas', 2026), masNac25v = mdf('masacres_victimas', 2025);
 const masVarC = pct(masNac25c, masNac26c);
