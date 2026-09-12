@@ -27,6 +27,10 @@ const SODA_BASE   = 'https://www.datos.gov.co/resource';
 const DESDE_ANIO  = 2019;   // quiebre metodológico SIEDCO-SPOA 2016-2018
 const BASE_MINIMA = 20;     // menos de este nº de casos → variación % suprimida
 
+// Población nacional Colombia (DANE — Proyecciones Municipales 2018-2042, CNPV 2018)
+const POB_NACIONAL_2025 = 52_215_503;
+const POB_NACIONAL_2026 = 52_531_626;
+
 // Período dinámico: SIEDCO publica el día 16 con datos del mes anterior
 const _MESES_NOMBRES = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 const _ahora       = new Date();
@@ -64,6 +68,52 @@ async function fetchConReintentos(url, intentos = 4, espera = 8000) {
       espera *= 2; // backoff exponencial
     }
   }
+}
+
+// ── Consulta SODA nacional (sin filtro de municipio) ────────────────────────
+async function fetchNacionalMensual(datasetId, filtroExtra = '') {
+  let where = `fecha_hecho >= '${DESDE_ANIO}-01-01T00:00:00'`;
+  if (filtroExtra) where += ` AND ${filtroExtra}`;
+  const params = new URLSearchParams({
+    '$select': 'date_trunc_ym(fecha_hecho) as anio_mes,sum(cantidad) as total',
+    '$where':  where,
+    '$group':  'anio_mes',
+    '$order':  'anio_mes',
+    '$limit':  '1000',
+  });
+  return fetchConReintentos(`${SODA_BASE}/${datasetId}.json?${params}`);
+}
+
+// ── Indexar mensual nacional: { "2025-01" → nº } ────────────────────────────
+function indexarNacional(rows) {
+  const idx = {};
+  for (const row of rows) {
+    const ym = row.anio_mes.slice(0, 7);
+    idx[ym] = (idx[ym] ?? 0) + parseInt(row.total, 10);
+  }
+  return idx;
+}
+
+function sumarNacional(idx, anio, meses) {
+  return meses.reduce((s, n) => s + (idx[`${anio}-${String(n).padStart(2, '0')}`] ?? 0), 0);
+}
+
+// ── Calcular campos nacionales de un delito ───────────────────────────────────
+function calcDelitoNacional(idx, pobNac25, pobNac26) {
+  const c25ea = sumarNacional(idx, 2025, MESES_COMPARACION);
+  const c26ea = sumarNacional(idx, 2026, MESES_COMPARACION);
+  const vari  = variacion(c25ea, c26ea);
+  return {
+    casos_2025_ene_abr:    c25ea || null,
+    casos_2026_ene_abr:    c26ea || null,
+    variacion_pct_ene_abr: vari.valor,
+    base_pequena:          vari.base_pequena,
+    tasa_2025_ene_abr:     tasa(c25ea, pobNac25),
+    tasa_2026_ene_abr:     tasa(c26ea, pobNac26),
+    tasa_2026_proyectada:  c26ea && pobNac26
+      ? Math.round((c26ea * FACTOR_PROYECCION / pobNac26) * 100000 * 10) / 10
+      : null,
+  };
 }
 
 // ── Consulta SODA con agregación mensual (server-side) ──────────────────────
@@ -140,23 +190,34 @@ function calcDelito(idx, cod, pob) {
 
 // ── MAIN ─────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('▶  Datos y Cifras — descargando SIEDCO (6 datasets en paralelo)...\n');
+  console.log('▶  Datos y Cifras — descargando SIEDCO (12 datasets en paralelo: 6 municipal + 6 nacional)...\n');
 
-  const [rowsHom, rowsHur, rowsExt, rowsRes, rowsVif, rowsAut] = await Promise.all([
+  const [
+    rowsHom, rowsHur, rowsExt, rowsRes, rowsVif, rowsAut,
+    nacHom, nacHur, nacExt, nacRes, nacVif, nacAut,
+  ] = await Promise.all([
     fetchMensual(DATASETS.homicidio.id,         allCodes),
     fetchMensual(DATASETS.hurto_personas.id,    allCodes),
     fetchMensual(DATASETS.extorsion.id,         allCodes),
     fetchMensual(DATASETS.hurto_residencias.id, allCodes),
     fetchMensual(DATASETS.violencia_intra.id,   allCodes),
     fetchMensual(DATASETS.hurto_automotores.id, allCodes, DATASETS.hurto_automotores.filtroExtra),
+    // Totales nacionales (sin filtro de municipio)
+    fetchNacionalMensual(DATASETS.homicidio.id),
+    fetchNacionalMensual(DATASETS.hurto_personas.id),
+    fetchNacionalMensual(DATASETS.extorsion.id),
+    fetchNacionalMensual(DATASETS.hurto_residencias.id),
+    fetchNacionalMensual(DATASETS.violencia_intra.id),
+    fetchNacionalMensual(DATASETS.hurto_automotores.id, DATASETS.hurto_automotores.filtroExtra),
   ]);
 
-  console.log(`  Homicidio:               ${rowsHom.length.toLocaleString()} filas`);
-  console.log(`  Hurto a personas:        ${rowsHur.length.toLocaleString()} filas`);
-  console.log(`  Extorsión:               ${rowsExt.length.toLocaleString()} filas`);
-  console.log(`  Hurto a residencias:     ${rowsRes.length.toLocaleString()} filas`);
-  console.log(`  Violencia intrafamiliar: ${rowsVif.length.toLocaleString()} filas`);
-  console.log(`  Hurto automotores:       ${rowsAut.length.toLocaleString()} filas`);
+  console.log(`  Homicidio:               ${rowsHom.length.toLocaleString()} filas (38 muns)`);
+  console.log(`  Hurto a personas:        ${rowsHur.length.toLocaleString()} filas (38 muns)`);
+  console.log(`  Extorsión:               ${rowsExt.length.toLocaleString()} filas (38 muns)`);
+  console.log(`  Hurto a residencias:     ${rowsRes.length.toLocaleString()} filas (38 muns)`);
+  console.log(`  Violencia intrafamiliar: ${rowsVif.length.toLocaleString()} filas (38 muns)`);
+  console.log(`  Hurto automotores:       ${rowsAut.length.toLocaleString()} filas (38 muns)`);
+  console.log(`  Nacional: ${nacHom.length}+${nacHur.length}+${nacExt.length}+${nacRes.length}+${nacVif.length}+${nacAut.length} filas mensuales`);
   console.log('');
 
   const homIdx = indexarMensual(rowsHom);
@@ -165,6 +226,26 @@ async function main() {
   const resIdx = indexarMensual(rowsRes);
   const vifIdx = indexarMensual(rowsVif);
   const autIdx = indexarMensual(rowsAut);
+
+  // ── Indexar totales nacionales ───────────────────────────────────────────
+  const nacHomIdx = indexarNacional(nacHom);
+  const nacHurIdx = indexarNacional(nacHur);
+  const nacExtIdx = indexarNacional(nacExt);
+  const nacResIdx = indexarNacional(nacRes);
+  const nacVifIdx = indexarNacional(nacVif);
+  const nacAutIdx = indexarNacional(nacAut);
+
+  const nacional = {
+    pob_2025: POB_NACIONAL_2025,
+    pob_2026: POB_NACIONAL_2026,
+    nota: 'Colombia total — DANE proyecciones 2018-2042',
+    homicidio:         calcDelitoNacional(nacHomIdx, POB_NACIONAL_2025, POB_NACIONAL_2026),
+    hurto_personas:    calcDelitoNacional(nacHurIdx, POB_NACIONAL_2025, POB_NACIONAL_2026),
+    extorsion:         calcDelitoNacional(nacExtIdx, POB_NACIONAL_2025, POB_NACIONAL_2026),
+    hurto_residencias: calcDelitoNacional(nacResIdx, POB_NACIONAL_2025, POB_NACIONAL_2026),
+    violencia_intra:   calcDelitoNacional(nacVifIdx, POB_NACIONAL_2025, POB_NACIONAL_2026),
+    hurto_automotores: calcDelitoNacional(nacAutIdx, POB_NACIONAL_2025, POB_NACIONAL_2026),
+  };
 
   // ── Construir resultado por municipio ───────────────────────────────────
   const municipiosResult = [];
@@ -248,6 +329,7 @@ async function main() {
         Object.entries(DATASETS).map(([k, v]) => [k, v.id])
       ),
     },
+    nacional,
     municipios: municipiosResult,
   };
 
