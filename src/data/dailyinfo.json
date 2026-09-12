@@ -1,5 +1,11 @@
 {
-  "generatedAt": "2026-09-12T10:02:08.103Z",
-  "dia": null,
-  "dia_en": null
+  "generatedAt": "2026-09-12T13:23:55.106Z",
+  "dia": {
+    "nombre": "Día Internacional de la Protección de la Capa de Ozono",
+    "descripcion": "Se conmemora la firma del Protocolo de Montreal en 1987 para proteger la capa de ozono de la destrucción por sustancias químicas, logrando uno de los mayores éxitos ambientales globales."
+  },
+  "dia_en": {
+    "nombre": "International Day for the Protection of the Ozone Layer",
+    "descripcion": "It commemorates the signing of the Montreal Protocol in 1987 to protect the ozone layer from destruction by chemical substances, achieving one of the greatest global environmental successes."
+  }
 }
