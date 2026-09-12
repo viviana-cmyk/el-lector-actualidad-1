@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import cifrasData from "../data/cifras.data.json";
 import lideresData from "../data/lideres.data.json";
+import mindefensaData from "../data/mindefensa.nacional.json";
 
 const data = cifrasData as any;
 const meta = data.meta;
@@ -34,6 +35,27 @@ const extNac26ea = fn('extorsion','casos_2026_ene_abr'),   extNac25ea = fn('exto
 const resNac26ea = fn('hurto_residencias','casos_2026_ene_abr'), resNac25ea = fn('hurto_residencias','casos_2025_ene_abr'), resNacVar = fn('hurto_residencias','variacion_pct_ene_abr');
 const vifNac26ea = fn('violencia_intra','casos_2026_ene_abr'),   vifNac25ea = fn('violencia_intra','casos_2025_ene_abr'),   vifNacVar = fn('violencia_intra','variacion_pct_ene_abr');
 const autNac26ea = fn('hurto_automotores','casos_2026_ene_abr'), autNac25ea = fn('hurto_automotores','casos_2025_ene_abr'), autNacVar = fn('hurto_automotores','variacion_pct_ene_abr');
+
+// Mindefensa: masacres, secuestro, fuerza pública
+const md = mindefensaData as any;
+const mdf = (key: string, year: number) => (md[key]?.[`casos_${year}`] ?? null) as number | null;
+const pct = (a: number | null, b: number | null) =>
+  (a && b) ? Math.round((b / a - 1) * 1000) / 10 : null;
+
+const masNac26c = mdf('masacres_casos', 2026),   masNac25c = mdf('masacres_casos', 2025);
+const masNac26v = mdf('masacres_victimas', 2026), masNac25v = mdf('masacres_victimas', 2025);
+const masVarC = pct(masNac25c, masNac26c);
+const masVarV = pct(masNac25v, masNac26v);
+
+const secNac26c = mdf('secuestro_casos', 2026),   secNac25c = mdf('secuestro_casos', 2025);
+const secNac26v = mdf('secuestro_victimas', 2026), secNac25v = mdf('secuestro_victimas', 2025);
+const secVarC = pct(secNac25c, secNac26c);
+const secVarV = pct(secNac25v, secNac26v);
+
+const fpAse26 = mdf('fp_asesinados', 2026), fpAse25 = mdf('fp_asesinados', 2025);
+const fpHer26 = mdf('fp_heridos', 2026),   fpHer25 = mdf('fp_heridos', 2025);
+const fpAseVar = pct(fpAse25, fpAse26);
+const fpHerVar = pct(fpHer25, fpHer26);
 
 // Hero
 const totalMunic = data.municipios.length;
@@ -241,6 +263,55 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
           <span class={`cifras-ind-card__var ${varCls(autNacVar)}`}>{varArrow(autNacVar)}{fmtPct(autNacVar) ?? "—"}</span>
           <span class="cifras-ind-card__tasa">vs. {fmtN(autNac25ea) ?? "—"} en {labelPeriodo} 2025</span>
           <div class="cifras-ind-card__footer"><span>Nacional</span><span>Policía</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mindefensa: masacres, secuestro, fuerza pública -->
+    <div class="cifras-ind-bloque">
+      <p class="cifras-ind-bloque__label">Otros indicadores · Colombia · Ministerio de Defensa</p>
+      <div class="cifras-ind-cards">
+        <div class="cifras-ind-card">
+          <span class="cifras-ind-card__tipo">Masacres · casos</span>
+          <span class="cifras-ind-card__num">{fmtN(masNac26c) ?? "—"}</span>
+          <span class={`cifras-ind-card__var ${varCls(masVarC)}`}>{varArrow(masVarC)}{fmtPct(masVarC) ?? "—"}</span>
+          <span class="cifras-ind-card__tasa">vs. {fmtN(masNac25c) ?? "—"} en {labelPeriodo} 2025</span>
+          <div class="cifras-ind-card__footer"><span>Nacional</span><span>Mindefensa / Policía</span></div>
+        </div>
+        <div class="cifras-ind-card">
+          <span class="cifras-ind-card__tipo">Masacres · víctimas</span>
+          <span class="cifras-ind-card__num">{fmtN(masNac26v) ?? "—"}</span>
+          <span class={`cifras-ind-card__var ${varCls(masVarV)}`}>{varArrow(masVarV)}{fmtPct(masVarV) ?? "—"}</span>
+          <span class="cifras-ind-card__tasa">vs. {fmtN(masNac25v) ?? "—"} en {labelPeriodo} 2025</span>
+          <div class="cifras-ind-card__footer"><span>Nacional</span><span>Mindefensa / Policía</span></div>
+        </div>
+        <div class="cifras-ind-card">
+          <span class="cifras-ind-card__tipo">Secuestro · casos</span>
+          <span class="cifras-ind-card__num">{fmtN(secNac26c) ?? "—"}</span>
+          <span class={`cifras-ind-card__var ${varCls(secVarC)}`}>{varArrow(secVarC)}{fmtPct(secVarC) ?? "—"}</span>
+          <span class="cifras-ind-card__tasa">vs. {fmtN(secNac25c) ?? "—"} en {labelPeriodo} 2025</span>
+          <div class="cifras-ind-card__footer"><span>Nacional</span><span>Mindefensa</span></div>
+        </div>
+        <div class="cifras-ind-card">
+          <span class="cifras-ind-card__tipo">Secuestro · víctimas</span>
+          <span class="cifras-ind-card__num">{fmtN(secNac26v) ?? "—"}</span>
+          <span class={`cifras-ind-card__var ${varCls(secVarV)}`}>{varArrow(secVarV)}{fmtPct(secVarV) ?? "—"}</span>
+          <span class="cifras-ind-card__tasa">vs. {fmtN(secNac25v) ?? "—"} en {labelPeriodo} 2025</span>
+          <div class="cifras-ind-card__footer"><span>Nacional</span><span>Mindefensa</span></div>
+        </div>
+        <div class="cifras-ind-card">
+          <span class="cifras-ind-card__tipo">Fuerza pública · asesinados</span>
+          <span class="cifras-ind-card__num">{fmtN(fpAse26) ?? "—"}</span>
+          <span class={`cifras-ind-card__var ${varCls(fpAseVar)}`}>{varArrow(fpAseVar)}{fmtPct(fpAseVar) ?? "—"}</span>
+          <span class="cifras-ind-card__tasa">vs. {fmtN(fpAse25) ?? "—"} en {labelPeriodo} 2025 · en actos del servicio</span>
+          <div class="cifras-ind-card__footer"><span>Nacional</span><span>CGFM / Policía</span></div>
+        </div>
+        <div class="cifras-ind-card">
+          <span class="cifras-ind-card__tipo">Fuerza pública · heridos</span>
+          <span class="cifras-ind-card__num">{fmtN(fpHer26) ?? "—"}</span>
+          <span class={`cifras-ind-card__var ${varCls(fpHerVar)}`}>{varArrow(fpHerVar)}{fmtPct(fpHerVar) ?? "—"}</span>
+          <span class="cifras-ind-card__tasa">vs. {fmtN(fpHer25) ?? "—"} en {labelPeriodo} 2025 · en actos del servicio</span>
+          <div class="cifras-ind-card__footer"><span>Nacional</span><span>CGFM / Policía</span></div>
         </div>
       </div>
     </div>

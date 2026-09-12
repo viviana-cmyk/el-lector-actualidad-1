@@ -1,0 +1,46 @@
+{
+  "fuente": "Ministerio de Defensa Nacional — Observatorio de Derechos Humanos y Defensa Nacional",
+  "documento": "Seguimiento a Indicadores de Seguridad y Resultados Operacionales — 2026",
+  "periodo": "Ene-Jul 2026",
+  "generado": "2026-09-12",
+  "masacres_casos": {
+    "casos_2025": 49,
+    "casos_2026": 62
+  },
+  "masacres_victimas": {
+    "casos_2025": 168,
+    "casos_2026": 223
+  },
+  "secuestro_casos": {
+    "casos_2025": 171,
+    "casos_2026": 143
+  },
+  "secuestro_victimas": {
+    "casos_2025": 348,
+    "casos_2026": 217
+  },
+  "fp_asesinados": {
+    "casos_2025": 107,
+    "casos_2026": 61
+  },
+  "fp_asesinados_ff_mm": {
+    "casos_2025": 64,
+    "casos_2026": 34
+  },
+  "fp_asesinados_policia": {
+    "casos_2025": 43,
+    "casos_2026": 27
+  },
+  "fp_heridos": {
+    "casos_2025": 486,
+    "casos_2026": 451
+  },
+  "fp_heridos_ff_mm": {
+    "casos_2025": 316,
+    "casos_2026": 306
+  },
+  "fp_heridos_policia": {
+    "casos_2025": 170,
+    "casos_2026": 145
+  }
+}
