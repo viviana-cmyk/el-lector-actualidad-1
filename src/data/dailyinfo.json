@@ -1,11 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:07:04.989Z",
-  "dia": {
-    "nombre": "Aniversario de los atentados del 11 de septiembre de 2001",
-    "descripcion": "Se conmemora el vigésimo quinto aniversario de los ataques terroristas en Nueva York, Washington y Pensilvania, que marcaron un punto de inflexión en la historia contemporánea y la seguridad global."
-  },
-  "dia_en": {
-    "nombre": "Anniversary of the September 11, 2001 attacks",
-    "descripcion": "The twenty-fifth anniversary of the terrorist attacks in New York, Washington, and Pennsylvania is commemorated, which marked a turning point in contemporary history and global security."
-  }
+  "generatedAt": "2026-09-12T10:02:08.103Z",
+  "dia": null,
+  "dia_en": null
 }
