@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:01:52.890Z",
+  "generatedAt": "2026-09-13T14:07:37.257Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -22,9 +22,9 @@
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "El Pulso del Fútbol",
-      "host": "Caracol Pódcast",
-      "url": "https://podcasts.apple.com/co/podcast/el-pulso-del-f%C3%BAtbol/id868214427"
+      "title": "Durmiendo",
+      "host": "Dudas Media",
+      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
     }
   ],
   "mundo": [
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
-      "title": "Morbid",
-      "host": "Ash Kelley & Alaina Urquhart",
-      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
-    },
-    {
       "title": "Dateline NBC",
       "host": "NBC News",
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "Morbid",
+      "host": "Ash Kelley & Alaina Urquhart",
+      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
     }
   ]
 }
