@@ -923,8 +923,8 @@ const map = typeof L !== 'undefined' && L.map("cifras-mapa", {
   zoomControl: true,
 });
 if (map) {
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png", {
-    attribution: '© <a href="https://carto.com/">CartoDB</a> · © <a href="https://osm.org/copyright">OSM</a>',
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '© <a href="https://osm.org/copyright">OpenStreetMap</a>',
     maxZoom: 14,
   }).addTo(map);
 }
