@@ -1,38 +1,45 @@
 {
-  "generatedAt": "2026-09-13T14:07:37.257Z",
+  "generatedAt": "2026-09-14T10:01:47.849Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
-      "items": []
+      "items": [
+        {
+          "title": "Ivete Sangalo canta \"Corazón partío\" en Rock in Rio",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOW50NlY3eXlOczlPaV9ScHo0T05SSDVhcnFwa3FMaXZLX3Nta014TDRVVTZLSjRndWdBdlNObnYxeDVhczktUzhVLVRoR1RVeThBYXNGbTdwd2dlQ1NIQ19ZVzBJYjBTa1FmVVFBeklWMU9ITmx3UnBxV09DdlV5eW05UzI0MnRJbVRvdlhoU2g4dFdQSU14eHdNZDlsVnBjSXp1azREckFzMmllTWhJdERBWTEtUzBKeGxB0gHKAUFVX3lxTE1rOWdIQWxQUlVwX2xxMVZpWFk3Umk0R1JzLUVpMG40ZkFpWXlRbFZPNzVrZ1Z1ZlZPMk9yc3AweU1XLVJmckNKRnQxMU1aY20za3VwMTAzajE1M1dxdGM2enZiN0sxREQwRGNsZG1HbFVmekJNc1ZZNnc5SWlzeWVWZU5DRjIxYlBwLXZ4LXFqM3BDT3FSVlpDanZmN3pkOEpsNDAxX1BBOTd2VTRaeHZoVzI4STRwcW5IcUZ3cUJrOW84dTc4RHdLYXc?oc=5",
+          "pubDate": "2026-09-13T20:56:37.000Z",
+          "snippet": null,
+          "title_en": "Ivete Sangalo canta \"Corazón partío' no Rock in Rio"
+        }
+      ]
     },
     {
       "name": "La Nación (Argentina)",
       "color": "sky",
       "items": [
         {
-          "title": "Cambió el mercado: el negocio de bajo perfil que multiplicó por 20 sus exportaciones y puso al país en un ranking mundial por EE.UU.",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRFNNallOZEF1MnNrUERaQmNVZk4yUXRKclVNM1ExdTNwbUVMMHJSa1lTbXFKaEdraWJYNmtkNm5vU243Vm4wOFRPNlhsLWdPVjdTaEl1WTQ1NGtxWVUta0JGRW8xandob1lxYVpsMm5TZmNWV0I1VFhOeTNYaXo4MVdBV1ptSDlVRDhHZkpoeUJlT2J3bHBvcG5abVpGckZwdFpDX3l3ajBhYWllMTk5MnliU1JBdGFBTlhkeVNoZXZTbERfYU5OZWxENi0ta1BrdExhbVdZRzZqNWtGbld2Nk5vdHZfSTBpZFE?oc=5",
-          "pubDate": "2026-09-13T13:26:00.000Z",
+          "title": "Senado: el oficialismo reanuda esta semana el debate de la reforma política y la oposición dialoguista presiona por la ficha limpia",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2ZuLWNNSDFZemFlMUVXR3ZDWUJxZkZTdFY0azhrN2c1OHVEb2hlQm92LVkzN0l0bWRHd2VueUJjcFJDbnMtaGFrRDlCM283NlEzVEVpMmFEYjAtdkVueFFFWEJRbkpHZ0pRczVVcjZXV2dzY3pFVG1rVnZ4cjdDWTg3d0RseGpRelV2SlhJUkt0c2FJRjNFaTB6RmNUR1BIaEZ0NmZEbEVJVWpHQzk1Z1hYOVpRV0JURVhsMFA1S3VLZ0lxRl9VYnV6b1hBMGNNS1FMUFBB?oc=5",
+          "pubDate": "2026-09-13T23:56:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The market has changed: the low-profile business that increased its exports 20-fold and placed the country on a global ranking compiled by the U.S."
+          "title_en": "Senate: The ruling party resumes debate on political reform this week, while the opposition, which favors dialogue, pushes for a \"clean record\" requirement"
         },
         {
-          "title": "El juicio contra Cristina Kirchner y su hijo Máximo por Hotesur y Los Sauces comenzará antes de fin de año",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLVNOazRNMDBkZkRyLXc2Mm1YQ0ZiVUNXX19meHNGZlZvWGxaakxlQ1QxWGV2QkFncW9WbEhuRGlmbnFkWnkwc3Q5aUdrQmh6SHR0clUtMkZHM1pwakd1dWZlT3Q0SG5JbDJYWGRXZEd0QUFpbmJTdDVmcGNaemlvYmVERmtDMmxxSTZOdzZINkY1czJ4Zk1nZ25SamZTeUxuZG90dThkQllFUE81bVRYSTl2bnVFWTQ1bC16UTJWS0d3aTRtb3pGVHZlejhNUHh3QTU2TEVLbHdUZUFybldtdXpZNA?oc=5",
-          "pubDate": "2026-09-13T10:23:00.000Z",
+          "title": "La historia del comisario de la F1 que le dio la bandera a Colapinto en el Gran Premio de España",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMFpQR3U1ZlIzNGRKajZGNVZQQzNnMHpEamlqNlVOaHVBR3pKVVZLNnZnNEgtTmRuSU1OMlFrc1BkT1pURDExMUN6Rnl2WDYzZkp6ZmhZa1B0QjQxalhtRGZwSVJ2a3Y1Vi1lYkJuUTcxbHlTcFlXZjRTR0ZXREVFOEU2YXRsOHJuc0lVb1dqNWNsenFUSWdVeldDMnctQ1V6bDNxWF9SR0t3Y2I0a1kwLUZ3d2s4NzE1bXljTEVqZlJBUTVtVm1nUTJRVEpvaU03a0M3U3U1cDY0U3hPZHUxZnZrQW53Wjd0a2NqR3NpOG1MUQ?oc=5",
+          "pubDate": "2026-09-14T02:02:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The trial of Cristina Kirchner and her son Máximo in the Hotesur and Los Sauces cases will begin before the end of the year"
+          "_priority": "DEPORTES",
+          "title_en": "The story of the F1 race director who gave Colapinto the checkered flag at the Spanish Grand Prix"
         },
         {
-          "title": "Tormenta en el Banco Nación: un crédito de $52.600 millones, una empresa bajo sospecha y el traslado del gerente que se negó a firmar la financiación",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeUhCSE04d0tqbEdxRmQ5dVVUTGJlZUViNktSYVMxbjI0NGJPWjlmbjdMcG1RQy1mVXdndTNFZGJ5MndoZ1B0M3VQVUswT3FuUlEybG04b1RPY1BYZnlfelhaQVc4SVlsRDd3ZjcwM29sUXJKSGE4eU5yMDNVUklhVkh2ZG5pWk9uT0FQNzU3RFlFSzBvb25ieFdDYVFSSng3Q2ZkZTVQYVgxcWRobzM3U1BGbzJ4YktxUXBMa1hWRlJSa0FueV9vWnU2dUVMX3hTX2s2ZDQzYUtFR3pEM3FYLVhCYmg?oc=5",
-          "pubDate": "2026-09-13T06:25:00.000Z",
+          "title": "Oficial y confirmado: la nueva aplicación gratuita de la CBP para quienes llegan a Estados Unidos",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMzc5cnd2SDV2WlVmc19PS2toRUtQODZEaUo0WXBoQUFodzdqdGNjQldGNk50M25zSlhhSENyQjhRaVYyN2V2cmNqNE9URExobEs0RTVRT0RGMVZNQWVod3ltcnhuMktybzRhR1QwSW1Ha0dVZTRveVZ4T3pDekUwVFE4X0JqSzhxQzcxVXd3aGpLMWEtQmYyWnpXOEduajdobnZwbnBsa1FHLWR4aGExcmkwRFJheWpwaGdyZncxZGZsU3NOUWh6aS12OEY0bEZZWmtnRjhDVVc0YlVSOFE2N25FYTNyMHc?oc=5",
+          "pubDate": "2026-09-14T09:11:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Storm at Banco Nación: A $52.6 billion loan, a company under suspicion, and the transfer of the manager who refused to sign off on the financing"
+          "title_en": "Official and confirmed: the new free CBP app for those arriving in the United States"
         }
       ]
     },
@@ -41,28 +48,26 @@
       "color": "rose",
       "items": [
         {
-          "title": "Aviadores de Taddei cobraran 6 mdp en el INE",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUW5RRER1bHdQeGxGdUR0OUZkMnhSUHdvOWNwcjlBSDFOQUJicEdjM2wxcUJpcUZuWllxa3pZdWRpS0FsZWUtMzVmd0Q4NDVZejNUcVNjU1dneFZFYVB3TGZGVFRyRjdPSU03b3ZxbExrcjRMUEVoUHV0eTlfQlFNVEhueDdMeWRlYU1B0gGfAUFVX3lxTFBtN3RRYjBRSkRkNFB1ZlFwdTA1NkdodXB6d3J4QVQ0QVI5cG4xMk9TU0xwOGdpakwzcUZqaHUxUDltV1pESUNKMW1RY1FNNnZmejBqTXNOTWxQT1BtNVhhUmtwV2dYMU16N1pyR0F6VHZhM3dKSW1peGpvbTlyS0RMU3FZLXdBZ0NMeTBYRXRqRVBXMm9Ec2xtaG1PNnluNA?oc=5",
-          "pubDate": "2026-09-13T09:30:00.000Z",
+          "title": "Sheinbaum presume respaldo en asambleas de rendición de cuentas; afirma que México está “bien, contento”",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTmZfakRJR29XVUJkUlJxcFNWVTlnV0RJYmFQcGFvV21qeDlCdU10cGtqakJ6YzNsNG5tMHBNNGY2UjlkbFlMX1FzWHU0cEJla21KVU5HWS04bWl2d2RyU0Z6d3VjR29QQnFSNUd1aVM1SU1UVXRzeVhGcDR0NUNMVkgzWGd6cWMtZUhKcjFCYjZlTVF1MXZCT04yZmo1Z2UyMkdOSTVMYlFhamUyZ0NZU2N0b3VmcHFNcVAzMnBfcnB4V3FHNDBfNVBlMkxYeHV1Nk1yZC130gHqAUFVX3lxTE1QRTdHeUIxR3pqZ21hZlgxYmJJT3E3TGEtTHh0eUU2VE9nNG1qOHctd2NYNF9SVGNGRDY5TDVfc1ZjM1diQVhlNG10b0lvazFtYmdGMEVudGcwd0JvcHA0c2tGOTBTMV9nWlc1NUdYeWozRENjd0M3ODNUYkZnTzRsRUVhTnNWYWJCWkhBRGxqWUxtS3RDSzIyUHRRMjBUai0tRjU3cVZJdTJnckV3b2RiU3lYMUdvWklheUQxZWxjNGJhVjBxOTFHX2g5LU82emxrb1FPdDRhR0RUUU15UVQzV1NldDlLT3BhUQ?oc=5",
+          "pubDate": "2026-09-13T23:33:14.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Taddei's \"Aviadores\" Will Be Paid 6 million pesos by the INE"
+          "title_en": "Sheinbaum Boasts of Support at Accountability Assemblies; Says Mexico Is “Doing Well and Happy”"
         },
         {
-          "title": "Continúa Fase 1 de Contingencia Ambiental por Ozono en la ZMVM",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUROV1lTalVoWEFURjQyUXpvSTNVWkc0Sk1Ua3BZVExmT1BjX1ZXc3BNanFIN3JXM1pzdDNicHR0X2MyLWp1d2Vrek55UmlfTExwNmQ0ZURwVXpyS1lSbG1zR1k2eTRGb3QtV2E5cHFNVjN0cjBFMVN2Sm81RUx3b2t0VHNacnFrTTh3RnhpTDZ2d0Y2LVNVc0lTb2tpSFJpX1NLa2FKellLMFJSbUgwN3N2THB5ZGRtNlFlNVo0Q0JEaVowT1BzQmdvQ0JEal96NlQ2QmY2SdIB6wFBVV95cUxNd1pyZkVpSGhpUkxWUUsxN05VRlNaOUlwU0tIMlgzWFVZdlJHWmZQa0MxLVJBTlQycDN4NktaMDc0UUtzc00zVW5oQ05IbEtRMEJiaFBLTnl1T1RpM2FtNU9HVjg0Qi1saUZTY0tjZFpPSDRWeWNXM2Z2b2FmOTF3b19vMnAtNHlWMlhpbWpkVWNZXzFOMEZhWU8wX1Q0eG9GS1pfV2tJY0FkWU11WHdPbTcxZGVrYTk3MnA5d3ZIRW1KaHdBUW1nWnlHZC04RVdBaTMxSmlzSVdvc2VwcDB6d2xDb1NvR3AwOXFn?oc=5",
-          "pubDate": "2026-09-13T03:02:00.000Z",
+          "title": "Proponen fondo para fortalecer la seguridad",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzMxWTdDaDdPSUE3ak9NdVFjMGJOczdMa2tqSEhDUDl0UndIelRaN0g0RGg4SXpueTFYY2d1bU5Qa1pqeWFXcjBqeFZTQ29pSFd1SUcySnZGVUVmZ0VNUDZvdEljSnBYSTN2eFBlT1ZQNjhlY05sZ0RwSmdpMlhJMW4wMG1EakxfMXfSAZ4BQVVfeXFMTzBUV1ZGQU9CTlpVd1FEUkhvOFJLSGFLWERuQmpYWUxvUUhMMUM0dkRtSHZtWnRFYnUyZl92Z01nV0xXVUNmMnlQeWxBWUMza0V5ZkdkRkVzdFVudXBEQ2ZkQU1YbHVQVlRTV0g0QkdFTFVNTUdKTGtpSHhaczFWVVhBWWJDQkJ3V2k5c3Bjam1fd29BZU8wXzFCLW5rWUE?oc=5",
+          "pubDate": "2026-09-14T06:27:14.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Phase 1 of the Ozone Environmental Contingency Plan Continues in the ZMVM"
+          "title_en": "Proposal for a Fund to Strengthen Security"
         },
         {
-          "title": "Alcalde de Ciudad Victoria destaca inversión de 13 mil 462 mdp",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUlFBVkJYTVhYVTh6QnpKYW9HTS00LXdSV0lPbnAxTXIzUmRhQ0x3dmhrRjBmU2t4eGc2N2o3NE01S05rUEs2NkV6Zmo2MDM1VllKbGxIZHdfYzY4ek5hemx2N2FHa3NkNUpkY01XalMxdzNhc2FWTFdRdjhkcWhDekJQVGdoYkRSR2Q5bVZkZjRVM09uOWIwWDFTMTFqcVJJY2ZXNXlEdlRYS3VzazZRSmUzcDl0dDNNbXoyZ1NTNWl0R2J1bml4dFZIYXJibERDdFZXMNIB6AFBVV95cUxPS1E0YlFNM1RJUzJlUnA5YVJvOTNiSVFWWFB1Y0NkbFpicmI0eEdWelJxcnFXUndYUXJHLW1kQlN4TjdhbTNldHdtc3RvemgtakI4VFJPblEyNjRUZHh2QzVOdzJvMlZaQzRvS2tKZHhEWG9QeFN2NEYzLXpGcDhBLVpXRGUwSlBRVzhsRzVNcVhfc2djWDM0UFZUR29FNGhzbDlLTzdUcmpudzQ1SkJ5eld5UURsTkRsT1o1Q3RibWNPWXF2YVp3TU1KWU1YWjdzbEprdnpGS3gwSG82eExnTGU1a1pCNHpj?oc=5",
-          "pubDate": "2026-09-13T02:50:45.000Z",
+          "title": "Inauguran centro de salud mental para mujeres en Azcapotzalco",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHk0eEZWVWFlcWlpaldkQ3FBLVVPWUtnMWFZVHdoWFZyRFcxU3JwLUZ5cE1LMzNWX1Z5NnNDQWgtODVqRkZfUW5UMnRsUkhaNDA3WWZwZFVQek4yUHoxaE9yZWE5UElSUzctVVRFSDE1MGtQdkU0dGRYemdjWEZ4RlNGckgtQ1g3X3JHRXAtcUM2SmxZMUFuWV9ZYWl4Y0tfNEFHcmYzZDdrUTROX2QxeWZkVG03bGRjQ0JEQ2d4bzF2Y3F5Uy1HQkJuSdIB3wFBVV95cUxOa09Hc1JLZXhsOGtQdS1nSURndUJoWnEwNnROQVlydC04Q0Q5NC1wUEVPTVVtMWFYdFlFWE1EYnV5RjA0ZTZUZ2tFNUs5SGJuc2dQMzBKdEtMamtROU16YlJrZC0wT3JWRjNRSWI3SVZUZjg5bjZwbmJYMndGV0Q3NjFfTm1MenVuSEpEeGFxQnVIVGhrN01Ick43MVMtSVNVa1dxbS1lWkJ2c2laSDlkU0lRUHZUYm5GVF8yVHpIREg0Y2NOVmpIYjZTVHBjNHdFdkY0V20yVUtiR1Npei1V?oc=5",
+          "pubDate": "2026-09-14T01:24:06.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Mayor of Ciudad Victoria Highlights Investment of 13,462 million pesos"
+          "title_en": "Mental Health Center for Women Opens in Azcapotzalco"
         }
       ]
     },
@@ -71,28 +76,28 @@
       "color": "peach",
       "items": [
         {
-          "title": "Presidenta Fujimori pide al Congreso dar celeridad a las facultades: “Es muy fácil quedarnos atrapados en las diferencias”",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNXd2TUNINVhBck9yMlV0d2NuSkp4VUc4UXFEdDVIdElWUHpwTGFpWl9YdW9ZenBWazZreUxSUXJzd1JQb0NpODIzczBuSmZld1R0ZlRfZUF3dHRsTlp0YjVtYy05cTI5dGhSbHp1bUgteHlPMTJqQ1hrSlR5T2RMVFBRS21QZGNGVTgxSGJtX3BHNF93ek5IOEgzZ1BMdS1Qblg5UEhHYXNkZW5lcHJESFJpOU1WbGF5eE5zSk1hMEVna0JOUEVYSUJUOWhzRXJVRjVJV08zeUtCM3BPSkVvYmdyTUk0VVV4cGdqWHRnUDU?oc=5",
-          "pubDate": "2026-09-12T20:06:39.000Z",
+          "title": "Elecciones Regionales y Municipales 2026: Más de 10 mil candidatos no tienen domicilio legal en la jurisdicción donde postulan",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLVI4SURXM1dsdGFZeXZxcDBoVnltV0dKMXdlVzJUQ2kwek15S3R2Ti1BWHViYjRfZGFTd3BjaVlvQW5QQWVFaW9lZnBVc2Z5UEpJbzYtYnktY3NES2JYdElibi1hbktzSW9uVHg5TUtxNFNtWTUtdUxaaHdCam0ybDJxNURfYmZ4ZGJ4all1b3N2bGtYbV9hLXZVTmF4NDRBX1ZCYS1WU3VyemcyOG5qSm84ZlVKQjBMNzd1N3huaUhZNjUtOERrd1ZIbFhkaVc5amlCcmNYT0d0SXNaNWt3dF9MQ1JMVG5CNEdhTkRFX0lpNnFqN2FDYzhDemNtdEdUelY3N1k5Unp4R1VaUGVidjdjZGFmMmVVeU5oZmZnT01fTnVESHM3MDgxOUdkbm8?oc=5",
+          "pubDate": "2026-09-14T06:21:53.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "President Fujimori Asks Congress to Expedite the Approval of Powers: “It’s Very Easy to Get Stuck on Our Differences”"
+          "title_en": "2026 Regional and Municipal Elections: More than 10,000 candidates do not have a legal residence in the jurisdiction where they are running for office"
         },
         {
           "title": "Bruce ratifica decisión de condicionar presencia en debate a pronunciamiento del JNE sobre credenciales: ¿Qué dicen otros candidatos?",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTEphSG4xTVpRT0hVSnJ0WTB0RDVzakxnamU4QXNTdzFWNUxQR1NicldVQk5kSFpFNm9Xb2dsS29VMXVwYWlUN1FQOTJRc0lNMjhlSktPR1dHa1ZJbVZON2FzalRfT1F3OHZCOEZ0SjlFNkUya0d2M2x6VkpJR2trSENMRFBtMFMwVlNPUTA4WnVQOUJ3UFFpMnFpbnlTdk50U3VNQnBLc2VHcS0wNTFHeEhyRS1RZ3ZTOHpFbnFySEJGMlNCbC1JZS0xZzBOM1liYzBNWHFFUWljUmFlVU9ESWZmSDliRVFwSUZYU1MzLXIyQ2E1VmZmQmIwaVVQdG83a2tHLXpGNjV5QXpsY1ZKUFdBbFE5emFpWVVzc1lyU3drYlnSAbcCQVVfeXFMUERCa2otZDhteE1ZYUtpS0U2LV92ZzV1YXJDMVAyWDIwaTNRVEI5a3hZbXFsTDJEclhwS0VmcjBXSV9mWk9OUFpVejk5QW1NVlIwNkw1bV9FOEhXQWVDV0lpSHJXdXpNNmpZYUFzd1BUY1VLLWg5YmFaZFhubjNPbUZCS3hKSmhIcmI4N1FmRFo0RWhIYWcwemNLYVZwOG5GbXB4ci1zd2JMdWRVanlZVGhaRHVjOGZJZjlzYm5kWl9CSWViTGlTZTNQeWo3NV9xekN4X2t2MzBUeWZqeWN3MktMZHpkY25jaXl6cmx0SnhVRjBweWlVdXJ5VWpwZGt0QmZvRE05OFRDdzAwVDNEWWRMMTJNT0JkcmVBY2RoenJBakNWSklHWnMxTTlOeFNCUVRyMXRCLTg?oc=5",
-          "pubDate": "2026-09-12T20:06:25.000Z",
+          "pubDate": "2026-09-13T21:57:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Bruce Reaffirms Decision to Make His Participation in the Debate Contingent on the JNE's Ruling on Credentials: What Do Other Candidates Say?"
         },
         {
-          "title": "Matute es mi casa y la ‘U’ es líder: ¿Por qué la jerarquía del Tricampeón se impuso al último minuto y estira a 8 años su paternidad en La Victoria?",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNaXQyVGtFOUhLaWNaQUpWZTNkdlVtMzdwX0l2ZXh3NmZybXlHeFhHc3hNWkJkMVlLTGxNMW5ETE5tUEtIS0xfX1ptLVhIX01Pc2I4Y1A0NnhkNzhFTXhfZktSb1AwS1FDQUpCWGVyRlBVSHdfc2xGaWZ2Y3lETTBGc0pqaUxBaTRvcXB4Vy03bUZ0bWtUbkdhTkpsOHhEWVZIY0RfVlNOMUV0ZkZFS3BRN1J2Q2h4QUpQLVBZVFlGeEZYVDgwWmRDUWlrRDgxZ3NtUUhSbEV3akI4NWJ2ay1oUU9pRk5oWHZFSjZMMGFkYWJXRnByUkpydUhKMmJvMkRYUHBjWjQ2dXhBUXRtQVFUeGRZYzlZZE1kaWlfZEtnbDlheXJmcUVWb09fcW4zMEo5cFB1UVN3cU5TRm5pWHRYenhJaTZDWTJjbHVKaFAzNXQzU0JKQ2JNRWgxeEI?oc=5",
-          "pubDate": "2026-09-13T05:08:57.000Z",
+          "title": "De la era Castillo al nuevo gobierno: al menos ocho funcionarios regresan a la actual gestión en el Ejecutivo",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMXR0UE5CVUZ6ZFVTUkJzWXlsdVI4ZlJFaDl1bTFXRGlCTkZmSktrUDV0WTVVYXVfamxjS2xwZDFXMGpybXdaNEZWRk5QMi1pQjhORTFmOW5iS0g0Ujg2cVpyQkxNTUROZmdHM182aUNXUEd5b3lXM0RXcWlSTVFLczNOTHp1ek9SZnlUSnlqVm5wTzcxWFhyRzlxSjBKM2xXWXFCaWlsWWNvVGRoa2stX1dVbzd5YkVQTGgzd3FvN0NTMUN1VXNSLW52S0RNR242T3JPUlhSU3JGZXRfRTRhbFFaS0tKN29UeGpDM2tkVllzMXljU3ZXeEpoNkdPR0lnOTUwLTY3RFNtdw?oc=5",
+          "pubDate": "2026-09-13T19:05:29.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "Matute is my home, and the “U” is in first place: Why did the three-time champion assert its dominance at the last minute and extend its reign at La Victoria to eight years?"
+          "_priority": "ALTA",
+          "title_en": "From the Castillo era to the new administration: At least eight officials are returning to the current administration in the Executive Branch"
         }
       ]
     },
@@ -101,28 +106,28 @@
       "color": "blue",
       "items": [
         {
-          "title": "Brandon Judd: “Voy a seguir siendo un tipo diferente de embajador (…); si las personas se molestan por mis respuestas es su problema”",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRXdnX05GLVE1bUktLWkxWF9RYWo0OVN6OHFXSTVWS0hDd051ME5wbkRNSVBGaEVNVmJWNDZ1YUdyUTlpMFc1ZzFDbWkzLXVyTTNhWXNFM1p3di1jWXBxamhPcmE0Tk9ndUExT2tYSnhpRUlsSkVqZUZCTC13c2U2ejJEZEJyZUUtd2RVNFZKVVdjckY1dEtaRzVtZTNSVXduVDY5dm5ZRmhfTmRWbFZCekFkNGZCRzROUWZyZUZzQllZZVZCUll6MGlWeXV4aDdKNUU1M3dyeUhxa3U3VWpuLU8zUlRsYWJGX3prTG54OHYyMVNONnBNNHQ1dmZKUdIBnwJBVV95cUxOSEJHakZLVWpxUnVvZVNqeko4SUt1ZXZVRVJSb0d0d00zcXdGdzNSUGw3WkxBc1pvejRkZE9YM29xVVhoSEFWRnNlQ0t1OFhoZk9GQXVDYnF4TUtQYUIwOXBxek5KVGNGN1p1dHl3ZlBVelRkTVplZmZscGJZcnpfczd1clN0eTloZW01cHhXREx3d0JxX29XbXlCY1dPaUZ3X0w5ckVUc3VQRC1zUFBPemRwampyU3VMYmFaUklnOWxEcnhrUFoyY3RXUEpRMjlRWGlsRmVNNUFaRDJlZW9SY3BqYTFvWHJ4ZDE1VE5SOXhhUkJDS2xzOFZ5Yjc0Q1Nla1lHbEs1VTVXOFp3cXpENjhuWVQyOS1zbVppM1Z4aw?oc=5",
-          "pubDate": "2026-09-13T09:00:00.000Z",
+          "title": "Seis meses del gobierno de Kast: promedia nota 3,4 y un 62% piensa que ha sido peor de lo que esperaba",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmtPaEJTZW5uTkNlbVdHbGF5b25MYWZrMkRoRndfUW81aC1ETTk1WWRQdUY4cUJfWlVGU2hKTndON3dQekx2a0ZhaVJjemRqQUd0UmdZbWxDZ0hZS05tUklvaEx0cEo4TzB5OVpyaGt3Q3hORTdzWHRPbngyZGJmNEF3SFVkRzBqR09fUWlEWHhRY3pvZmpTdlBLN0NNVTd5VTdnVHNZMDF0c25wWkJ1Sl9FYUxEcTZlbTd1bFZvU0Z3eEh1d2plMDRPdTRzbXktTVVjd2N4ODhJRDZRWXFPX21DMUFzRzjSAYgCQVVfeXFMT05QUklIMWVDdmJuX2RzOFZpS0piREd3dlRySFNuWFhBSjROLS1JMTdoSjB1SHd0SkltOG5oRllzYWNnUkVrV2hZR3lWSTNsMGdpR05oN1IyQ3Y2SmFjcHhNbUZsd0J6T2hWWjZUanJUeXBCTGc0WEI5ZldEeW1zU3p4RF9pZFZOT1BCN19iSm1yMjg2UWJsVlFlRFR4OS16WkdFc3lkcHQ4MGhpRnNXcThubG1OdlpHVnBNdXN2VUlpZTRfX1M3MXVyYWIxbzNJa2gydmtsbUZrejZZSUpCbktGQ2JOZERsdklmWmxJWDdTYTIyNTE5dnhIREhyTWpucE41RzVxQXlW?oc=5",
+          "pubDate": "2026-09-14T04:05:43.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Brandon Judd: “I’m going to continue being a different kind of ambassador (…); if people get upset by my answers, that’s their problem”"
+          "title_en": "Six months into Kast's administration: His approval rating averages 3.4, and 62% think it has been worse than they expected"
         },
         {
-          "title": "PC conmemora 50 años del hallazgo de Marta Ugarte en Playa La Ballena y endurece críticas contra Kast por DD.HH.",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdi1NLXN6RE5KZTh4ek9Kd2dvT1FBU1JjanNFMEhCS3huVWw4Zmg0aVh6WmxRd0ZqOGh4NzFhU2JLY3VjbG41YjBuZUJNS0dnQWhLOFBzdTVxd1FpckNXV2xnZC1DUFZBYWhEVzl1M3JUdUYtVHFwOGJtQk1aUGRHbzgweUJuUVpzNTF6VVNGVWNMNkxrZFVHdkxhYmY5RE1lXzcxYWdPdTlQVjdCb1NBVXI0TGIybVdxcmk5V1dFTDZsWC0tTXN5WWJiV0x6WmxUTE1Sc1huenB3LVdtSWxYaU9SN2FBU3U0NGfSAYsCQVVfeXFMT1pwdktyNkF4VVMxdkNLcmpvYmlSbkdYanExdkpiX1QtM2xpMVptQUxaN2pQWHdpRTlOaEhQemJQOXNmZVFJY0tGWHJFTUltcFFvd1l5djVSV1MxRnRrMFpiQmE5NVYwSnVwMDc0Yy0wNDZSclJIMzVOWnU3Z0tPR05PUEphbEw0N2k4MUJrYThTdDVhMEFGM0RHWUFCWlhJMmR0THFpUVUxaTFlU2pDZGd3bVAzbVJKb3E3Ym1FLTJEeVR0Y0hHOXlZazMyYXV2N09wNTFmTW0zZnMwZlpRWXo4aVlrdkpyYVRDU1daZ3ItZGRSZ2ktWVo2Z09kVUFFSUFsUE9LT0lWX1Z3?oc=5",
-          "pubDate": "2026-09-12T18:56:40.000Z",
+          "title": "Marcel valora reforma al mercado de capitales, pero matiza la pecera de Quiroz: “El agua bajó, pero con la reforma previsional eso se va a ir rellenando”",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXhxaUgzR3d0VW16c3gyNjVQNUx0WjJ3VXFvVEJ5eVdYa1ZWNFR4WlpRR1F0LWtQSGdoZFVjVmJmSDBPOE5VR2Z1WXZfMVJNT1FJYXc4U3B5c2drVGpEcmFLb1YzVDBMeWhuMW9mMWJBTmw1eU0tYVVSeU9ZbmRkVExzcE01Nkp5R1FQelUzN3RzU0h5VUhTLVBXY25PSVJucnNVbXMzRXZ1N2hQSWpfZmtRcV9nWklKWXfSAdsBQVVfeXFMTkotaTE3dWhhOTJzQVI0bGZBRlU0Q0N3cVlJaTUtYW11RThSaVNPREIwc3ZQc1FiV1Nyc3hqTkt4azdJbi1uQm9LUHBJVC1XVFJoeVo2RlA5RkdEMWNZWWJRZzNEUnJQUHRZYUtEQVRqTkNUaXQ0XzJJRlRYejhuUDdPNFI2cktzazZjVEFjQjNlRlltLWx0VUVhanBDem9SaU5wX19JQi1TOE03SFYxTllnYWdiYmRrdWxPY0liTUQ2V1NfdFBWNm9EVUVuVXhCZ1U1R2pmY0FvTmZR?oc=5",
+          "pubDate": "2026-09-13T18:37:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The PC commemorates the 50th anniversary of the discovery of Marta Ugarte at Playa La Ballena and steps up its criticism of Kast over human rights issues."
+          "title_en": "Marcel supports capital market reform, but qualifies Quiroz’s “fishbowl” analogy: “The water level has dropped, but with the pension reform, it’s going to fill back up.”"
         },
         {
-          "title": "Se confió en el área: Dibu Martínez protagoniza un nuevo blooper en la Premier League",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ3BkZ0xCMFR6M2VEQW9wOHRreWNqb2w2WHhZQ09zMy1KS2hGcU0wTDhFdlRpNC1zSlRGa3cydU12YmxWOVJIU1RuLWNhMXJYVXlwaVN6UXNVQS1ZR1RlanB4ZlU5bnRjbXRvQzZnVkNLWHo0SE1xMTlWR0V5NnhHWTRhSXpvcmc2ME92OXFMRGJHXzlWVHlPMjRDbUpkNTRydDhHN3M4RVVNN29XRlQwUGlOMkNzd2FGcVJvWXB4OE1rYjVXUG55TjZscWHSAe4BQVVfeXFMUGd3bHZOSy1Ya1ZlOERBSHFaWGRaSmVNbGhucnFEOWtzc1MwbHRzOVVqenExN0wyT2NvY1dlOEk0S0lTVThtR0FHMTBJeHBDYjc5ZHJyeDd0a24zNzJKbEI2Vm56bVhPbXB5Y1ZnVFM2clo3R0JuUUhZS1N5X0ZDUGloazhjenV6YXVFVEpGRnBsS3pqZjREYlYxVEtSRFVyeDN2OFEwaGJRUUpvU3h2ZXpjTE5ROHFjaFF1N0J4ZER6WkE0RHJwWVhUQkc3NDV4OWhMb3k1RXExSmdQbVdHODBtTDBlMzhlV21CejY2UQ?oc=5",
-          "pubDate": "2026-09-13T12:14:14.000Z",
+          "title": "Gago y el plantel de la U revelan la clave del triunfo ante La Serena: “Marcelo Díaz nos dio mucho fútbol”",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3VYX2poZ3BabGZlcWpMVDhlOXpoSDNqal83d0pnR2dHSGNmZHgtZ2VyMlZYRzNUT2lRUmpib3lCVWwybmVvLXQ2NHRtdkc0ZnBiWlNHRlZCR05pM3N6WV93UzJYYWVTWWw1clRjSm9KRVpYMEFvWXZtdUxiX2E4SS1WREFDd0Q5MVI3c2ZkcFpZX0xkQzE4RVlIaWVGY2ZmZGZPSFNFRjhJTFJlTXJxczBlN1lkeTB2Z1cyOFVONmlhR3RGWHk0cDI3RTlSOUt6MmRzUzdzdE5Wc1ZBc2ZmdmtSa2lHUdIBhwJBVV95cUxPaU9SVDFraEVocXEtQ3dxdFJHS2RGcWRlWURQc1paekhnQzJVRVBsWnR0T240Q1J3MXFnUzltajFfTHp0NVFKbUVVcFliV056STItVEh4WVFnYkt5TGk4Rlg0UXFLYTZaTHBWekVobmVnRERMNTJvbGFmZXpfeHg0Tl9jQnJQcjJEOWZDZkp2UFRUbWZBaVVweVZubGdvZm1VVHlfaDdTX2otSHhWZlVpVkZsUXg5RnJ0OUM0WGxHTFdzS0RYblFLR1dnOWRrWmtPUFVsVlhYSFNYa2NTeElPUUFBRmptSFgtaGZrWkh2RjhiOFJvT3BCcDhFUXo3MTlmTF9RN0RITQ?oc=5",
+          "pubDate": "2026-09-13T21:52:11.000Z",
           "snippet": null,
           "_priority": "DEPORTES",
-          "title_en": "He was trusted in the box: Dibu Martínez stars in another Premier League blooper"
+          "title_en": "Gago and the U’s squad reveal the key to their victory over La Serena: “Marcelo Díaz brought a lot of soccer to the table”"
         }
       ]
     },
@@ -131,28 +136,28 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Se difunden fotos de la bomba supuestamente lanzada desde Ecuador, tras denuncia de Petro",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzI1d1l0MXZSdDRjbUFjNTUtSndZV1dka2JQQ2tsQjhWZmVvdm9qSlhRUWFMQmE1aEJKcWZldzd0dlJOUDl4Ynhid0hNNFdXeHFac0d5amc0TGJkRW42eXRqTFlISTM4MWdQVW90UjZiYkJqdnFzZnBFWk1yTHNUQ3NkdEs0VkhHNElvX2U3bkJrVWtnbEZydk44MUlqdGJiWkpkbzdDQ0JNSEZJOEZLRXNROFFnMVkyalF5OXc5UVN5TEU?oc=5",
+          "pubDate": "2026-09-13T18:37:52.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Photos of the bomb allegedly dropped from Ecuador are circulating, following Petro's accusation"
+        },
+        {
+          "title": "Destituyen a fiscal que no formuló cargos a sospechoso de trata de una menor en Pastaza",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmV5X3N1amJFeTF0YmNUN1FyNjdfT21HWlZmNjZuYXNudUs4cW1NdjVxd0hEZG5nTTZzamNBM3NjMUZpeVBoa25KaXUzd0JUdFVUcklNZ3hLRFpPeV9FQ1JVZm12aGJ4SUxSX25sTXR1bUdGVFQ1clBWRzRJVTFyZ3BXV0NBcGxlaWEzZUlRRHZxU1R1VU9JU2hRbG9oRFNNcTlmR3dYNlJ5bG9Ea01FcjhFTko3M2JwQk5aa3Jn?oc=5",
+          "pubDate": "2026-09-13T15:44:30.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Prosecutor Who Failed to File Charges Against a Suspect in the Trafficking of a Minor in Pastaza Is Removed from Office"
+        },
+        {
           "title": "Ecuador rompe récord de exportaciones con camarón y petróleo ¿Llega al bolsillo de los ecuatorianos?",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDUwLXR0d0pHU3FWcERPMnRHM1lQdHFqSkNwNHY1VlloZmhqUjQ5S3JCOF91TERxQzNCeGxURXRUNTZwMk1zVXNkd2lDVlAwTFlCaHlQYWhZSWQ2Mkp3U1FwckQ3RERZRjRGYzcxVTRyU2xINzlGaHh2TkFfZ1c1S2R0a2cwdzJWblcxNDNxa0pMVEY1cGRQN1ZjaWNuWENXcnhldGRJaDJwem5LUHFsNE9kRG9HNDFhRHd2OUJhU29wRVU?oc=5",
           "pubDate": "2026-09-12T17:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Ecuador Breaks Export Records with Shrimp and Oil—Does It Make a Difference in Ecuadorians' Wallets?"
-        },
-        {
-          "title": "Cinco presos son condenados por causar 16 muertes en la cárcel de Machala",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUno2RHlGdi0waHZ1SzZKSnNtT3h3Qk9GTjV0VF94aVI3Tkt0aGZZRVpqWG15Y1BCQ29nLXVKUHhWdXNqWWJRM0pOc1hIQmdTQl9WeDhiSnV3VXI2eExrdlZSQ2VRZkxndDRZOXp3cDREWmx4WURqdG1OZXFFT1VhdXlWemRoNzFoT3MzN1NNcFRPMHJyUHFCbXpkNEtJT3NOWEFSYU00Qzk?oc=5",
-          "pubDate": "2026-09-11T22:18:48.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Five inmates are convicted of causing 16 deaths at the Machala prison"
-        },
-        {
-          "title": "Ecuador exporta 23 289 millones de dólares, pero ¿cuánto de ese dinero llega al bolsillo?",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ20zNWpaMF9wSXRERThaTTZfQ3FENUw2eEJrQURZZUthZ190a21KLXEtWGE5YnR0ZUF5OHVjaFFGMHhyZjZ6ekdVNkNvQUo1SHNJdmIyQ3VTTk00RXlFc3pSQk1tSVN2X2NjQmdUcVF5MFUwbEdMd2RPUkJRaFBJTFRNbW1JM2FlWVBkUGFXaXpFOV81QmdvYWZuX3hBaU1FZGRQamZsTlNURlF4VGMxNmF4aF8wYzk5alJKUjRPZUxLdw?oc=5",
-          "pubDate": "2026-09-11T21:50:49.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Ecuador exports $23,289 million, but how much of that money actually ends up in people's pockets?"
         }
       ]
     },
@@ -161,26 +166,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "Mientras el retiro exige miles de dólares en el mundo, Paraguay enfrenta el reto de formalizar",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLWV6dE1vVUVuQ1ZFbkk0ZWpCNDBsUldUc1BEUGV3T04yRnFIUk8xWkRVSTR5ZmRoX0hFbDdkTVdJd2dKa3VuSE95NFVZRzZLdzJLRVVMYXpsWG51SWh1SnAwLVpCV0U4MTFYQVRXVkhLMUdYTEViUmZpVzBJQzZMcVZTN1hpY1RXMG1QR0lrdE5yM1lXZXlhVGJXMHVUZi12LXNST29TcnI3aGFTTWlwRGMwaFRZSWxyYy1IaXpPZEVBQ1o2Njc3aEZaUDhuSXlTcm85UFVwbDhpbGNBUjc1RHJIZ1Y0VVd4MjV1c011aG9BNFFGdVlGTVh30gGOAkFVX3lxTFBIUXJRMlc3ZElZaXphdmV1TkpmdVVoQ1JRYnpENllYVkZTQ3BLNFZHcVZMNDlQSGhKQU5yWDNLWU1fVGJYMzhRcGMyVHUwWF9uQ0RUSTVjWHI1MW9sbFoyR3ZIU0ZkYlJHVV9ESzZYRVN5YlBRdWgtd1ZFRkdkdnZjdlBPZWhMOTlfdnJka2Y4M0RiR2dLTEhSUldqVS1ISEZQRmFaX3VFYWdKZGhYUU0zX0Y0U1hpTDY3THZuSS1WWWJoM0pOWHdTbzhkdEU1ZndrTExYeklvczNnSG80dUtXZWlMbFhmZzllVFZQX091TExiRDQyR1JRdTZtdFRYQktWYThuZnNNWU9vSERtZw?oc=5",
-          "pubDate": "2026-09-13T04:13:00.000Z",
+          "title": "PGN 2027: “Sin reformas estructurales, solo administraremos la brecha del déficit”, afirma exministro",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRkRBbkl2aWhJR0RnUFdzeHFkZTJQSzI3ZThrNDhuTjBCSHpqdHY4d29Ga1RacmdsU1NyWTJwdEc3Vm15TTEyYVJmdGtiaG91QU1qOXZETDZ2YTZ6MFpoRzlfbkRpRVk0T0FFcURmTUtROFkxVUluVks3OUNLWHVLdTNsTnlUeW5VZkZqd29Tc2lOSUJDNUMzWnpuMkhBVUY3TS1QdUdQZng0LVl3MHJTT3ZwTk1tLTE3b3FLVTE2bGl6Y3dSQl9yM19iUHJWX3JuWjBmUUl3Z9IB6wFBVV95cUxNd0gxaTIybktQekpnUTI4WWlRazY1MVZqdi1ZcUw4STVhNGxRNllJanVRZ0FRRTNveEZFUFdQa09lRUxlSkI0elJTVXo1Nm5rZ0VJYXQtZUljU0lyV2VFbXB5ZlFXTVd0QUY4MEZubEZlVHpTQ1FYa2NzVEh2UnpJN3h0bGROQXE1RnFMcUVJcWV0UFlpOHg4bTgxT1pWckdRM2VFenVOZkR1RkhmMkNnUnRjaTIxOTRENGNmR1h2Um5kSExFSlJNeVlqZ0tKS0NXWlNtdm9qeG1TeEtWMVRrVTlpcGJVXzMxZnlv?oc=5",
+          "pubDate": "2026-09-14T09:07:03.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "While retirement costs thousands of dollars around the world, Paraguay faces the challenge of formalizing"
+          "title_en": "2027 National Budget: “Without structural reforms, we’ll just be managing the deficit gap,” says former minister"
         },
         {
-          "title": "Gretha Matiauda, Miss Universo Paraguay, está de gira por Estados Unidos",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSk9iWGRXX3cxWUI4SFNZSk8zaUwxaGFUQWRHal81X3RkM0NRVEFDUU9wclFwUUFLQ3Y1d1RaSVozQ2N1S05XR1ItbXhXazN5a3lYeVhwb3VYY2VkOGFIU0s4Uy1QMzM3bkNkMGlUTF9Cdm5RZ0ZDbDFhb0VxX0xSRFhfMzVPeklfMWtaaDRrUlVtYVhmcWpFbUt6YVRsR2tvTE5TS1FENTladWpDamVqStIBxAFBVV95cUxNNGdjSVFYa3ZMVTBJOVUyQjhRZzkwUC1NbkZzdXhLNk9PMU1odFI4SkJDT1BxS09UREZkX3ZtVk9yYVEyVW5VNWt0WXk5cTUzRVVOTVRyRHczamF3dzQ1OHVHQmVueTIyR3VVczFCZ3R1bzFsSEI2eVhEV1N5al9RSnpqdjVDRDVrSnVJVFI5dGxVdjBVVHZ0QzF3U1dRcHg3dFU3UXNiWndET1dxckpXdUYyVEU3RV9Vb0RpMDRuOVFKQ29i?oc=5",
-          "pubDate": "2026-09-13T13:06:25.000Z",
+          "title": "PGN 2027: Policía Nacional absorberá casi 90% del aumento del Ministerio del Interior",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZW9vTWh3Y1FpU3NteUZYNi1HeHA4R0lfVVFRdXZBTzJESktXbVdvb2hrMnBYNThRZlRGNW1ZZk9oanJBRThGcGtRUUhpM2d5cWlNMUVqOHpVWGpBNGNnZmRfdEVFZFRNc2sxMEVoOWZXVTlUNG5NaVZNRnRGemhUeHBtRi0zbTZuYUNjcHh3eFNrZTg1SkVXMW5Ca2kxeGd4ZXZjSkVMWHE3VEVTVDQzMHROQWtJa1FObk5sWk1hbVNLLTJZeVHSAdoBQVVfeXFMT1ptSWktTWIwMVlXei12bHdZNDRTMnRMQ2JBa0RMUUwwb2xUdXBLZ2wzWGpfUDQxSHhmLVMta2Iza0t1LXNqaVluOTd4NWtVcjhjQmpwTThpZk0yT2RvNXdLWlh1WTRnVV9QMllicG5YMmVzaXQxUm51S0tSbFVGLVF6emFMQVFCSnA4RXFBY1JFWC1WTWlzUWJOdUg5bEN3MjcyU1ZqLWtUV3QxV1dyMWlYYVhBbE93NG1LaFowNkFuYmVGc1NqaXJBYVpVdHdwUWl3T05QeEtTSmc?oc=5",
+          "pubDate": "2026-09-14T09:07:03.000Z",
           "snippet": null,
-          "title_en": "Gretha Matiauda, Miss Universe Paraguay, is on tour in the United States"
+          "_priority": "ALTA",
+          "title_en": "2027 National Budget: The National Police Will Account for Nearly 90% of the Ministry of the Interior’s Budget Increase"
         },
         {
-          "title": "Duelos dominicales en Villa Elisa y Capiatá",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWxPdWliMWNtM0I2TG5RdkZJQzhqUG5XTm45NEJ6WnJNNGgzbWpGeE5aSzNwZUNKckpieTVSTncxZnNWa0tGTU5KWi1XN1N3aGRwNDhYZllveDVYY2U1Sm9hNFpZUDFkbnZFV2U3c0tnaDNPcmQzMWxaa183NjhZRGFoN0VDM0s0aGtKemgzeDJnY095YVFiNDI5YjZsSU1SVzBrcdIBuAFBVV95cUxQaGJ5VDAzcFZ4TFVqQUlKeWl2MnFEUU5zRXhjWWtzSlZ1VGc0akFPR1gzd0EwWXFSRXJ1TF9Pb1Zzc0VReDNjVllvc1M0ZjlVZmtud005U0FIcTJ4QXpjdkl0WEdmUWZvclM3bklydERfWXJhQURvMmlzSXRBMmt6d3JPWjRXSlJNZGlQZ3RLTW9PQ2VuY04xU1A0Vi0tSVc2c3BmRHJJVnNhYkd0RWUzWnFMN2YzZnBf?oc=5",
-          "pubDate": "2026-09-13T11:30:25.000Z",
+          "title": "Bioquímicos reclaman más de 14 años sin reajuste salarial",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTlOQWhUY2JrSFptY3JxQ2NwbDA5YW1wdjM0dTdjdE8tZWQwRXl2UEZaUzQ0ZzZfeV9oQVFZbnduWUR0Q2hqUVNjcXY3T0hUd1dfLTNIakpxYkNNTXRvNEZTemNzSGRHTFYzbF9IZ2FWb0tRRWhBTFVXbThfa09wYThvb1VmenJfbElYMUktTFJJVnpHeDJMMklrM0FFOGJ5WkY0VmJB0gG6AUFVX3lxTE5SLW45dEJFV3hpZzJ1bXBLa09DQVRndlBKcGNxUG5MRHhUUDVDaGpzQ0VKUk1GU0pBdy01VTM0cFV6c2t6T1pPWmNJMnVta2xUOGRtVDRhang1dVp3S1JYT2M5dWFwcWh6dExEYnF3UC1uYmtkeFRtc19ZTUZuRU1Ua0hkemtpRm0zNTBlM0MycEtLaDhkTHRTeERzVXduUjNXVVQ1SHVUSWctMlpIbmk4dWIyTmNIbE9mQQ?oc=5",
+          "pubDate": "2026-09-13T21:35:52.000Z",
           "snippet": null,
-          "title_en": "Sunday Matches in Villa Elisa and Capiatá"
+          "_priority": "ALTA",
+          "title_en": "Biochemists Say They Haven't Received a Pay Raise in Over 14 Years"
         }
       ]
     },
@@ -189,84 +196,61 @@
       "color": "slate",
       "items": [
         {
-          "title": "¿Quién tiene la preferencia al doblar en el tránsito? El cambio que defiende Unasev y la postura de la Udelar",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObFhtYkgtdUR0Zm5uT3hTcmVObURoRXdoVTZDWFR5M0djYTk0dEpnNjFYbndkQ2ZjSDRJejBrSlhiZlNSRkxwbFVCR0xVeGxhaEpYN2pHMU0xalRheEF5TWppYmcwMGJ4TWpENzZiU2pFQUdKc0RmMk1HMEE4QXl5aXpMUVJaTGtwZ2VmNGhTNDVHQVlZZXN2bUNWUnludkhKSkRJTzNEWDhxc1puMEp4YWE5Mm50QmpiWGh4aVo1Z1ZHclRiUzhnbmhuaEVPN1NqdXdobERMQzY1eEFaRkltMFRsZnRqX20teUE?oc=5",
-          "pubDate": "2026-09-12T20:03:50.000Z",
+          "title": "Jerarca de Cancillería cuestionó dichos del presidente Orsi sobre el ataque ocurrido en Facultad de Medicina",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVGNySXlUeFh0ZkJka1l6bE5nbHUzX1dwN1EyM3lLR2lTTWw5aDNienNBWHZUM0FjUktXR2RkSGRQNlhwbXBiMU9MbG1kTFFpVHVTQlJSOGE4U3RBMWdoVm1RMG8zUkJLcm5jZzBMeWtaM1JpR0tnVTk3Q1JYMWRIZXZrR05SekhYeXNDM1NJOTQwX3hCenpSLW1sZG13MG9FTlJkTE9lcDJfbHZzUWVRbGgwY29LeVlST21vYUp4SnI1N2tWT1FJUi0yWU5ONmZEeHdvMzlSRjdCM1o4VXBVeDN2WUUxYzJCa2ZF?oc=5",
+          "pubDate": "2026-09-13T07:13:58.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Who Has the Right of Way When Turning in Traffic? The Change Advocated by Unasev and Udelar’s Position"
+          "title_en": "A senior official from the Foreign Ministry questioned President Orsi's remarks regarding the attack at the School of Medicine"
         },
         {
-          "title": "Tragedia en Filipinas: 76 muertos tras el incendio de un ferry frente a la isla de Palawan",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGpLUnlzckJGTDBuQ0lZWDdROWlrMmdzWGpGZHJ0RTZlSWNlUkoyYnJzeWlyS3pLbTRkRGhfQTBrdVRkcGpOdy10d2F1QzFfRlhnTVc1dVdtcjZHU21lNElmRzZ2VUhDSFQ1anZZYkR3bWZBX1YySm0taGpzZm54WC1pOE5wZ05aTndaTUotcWNSN08tS2J6YjNTSzZUNUJVMENWN1JaSFNSN2I2b2VUSmdQUG4zMVRkclp6NHdR?oc=5",
-          "pubDate": "2026-09-12T15:52:38.000Z",
+          "title": "Víctor Rostagno tras su debut en los Juegos Odesur de Santa Fe 2026.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0pEX0ZhNUpLLTdlS1lZek44eThzZ1ZCOUI0bG03c3ZxbExrU0Zta09hbXhQX1M2OWpIcmhYcnZnWGUxVS10aFpnempVUVpFa0tXak5MU1JlUGdHU3RHTTdWOHFOQXl4d1RmSk8xbVVLaXJWNEo4ckJRYUs1ZjdzX0JUc2VRYnNFdVhtWmtKUFl1eDE4d1pLdg?oc=5",
+          "pubDate": "2026-09-14T04:06:07.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Tragedy in the Philippines: 76 Dead After a Ferry Catches Fire Off the Coast of Palawan Island"
+          "title_en": "Víctor Rostagno after his debut at the 2026 Odesur Games in Santa Fe."
         },
         {
-          "title": "El Coraje de crecer en familia y vivir en el campo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalpJTzBPZ2FsbmhOUUxYam04VTd4WXFxbm5fQkhGUlVKZWZ3dFIybndkTVFUbnN3NG9MWjczRjJ0d0diSmtYQXBoVjdKWmE3TFdYTDRtM29RVjZ2b0YxTGFfZk5TYUdzdlFhTDBoem9QX1FHUnM1UnIxUU4wdjlWa2lMUEV5R3ViTlJPSXpNNUpQVEpX?oc=5",
-          "pubDate": "2026-09-13T08:28:43.000Z",
+          "title": "Sebastián Rubio tras el triunfo junto a Luciano Fernández frente a Nicolás Llambías y Lucas Mocellini en duelo de duplas uruguayas en beach volley",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdW8zMHp1UWZGVnd0ekFQMjZpRzAtbTVhTDZNbHktRDd1V2RucTllNjVudVp1Zl9hc0R4b1hEN29IanlkZzFlWk8wTEs0cnJ4TzJjZFRWT0dtTHJSTl9uaENLbEs5VkJPemdfNlJzNF9lREIwLXEzSzRPVl9sRVZFMVpwTS1fV0hfSHBnWWx2alR1SjQ2RmdiUU91YWpOTFNfcVdQWHhwVG5sZmJZQ21NVk1DYnZ0dHlWNWtnRDVBQlZySG1RblVkLTlTVGRVZDZSZFhxS1Fma1dGNU5ONHpVRFFkVDNMNXZKa1pudThzZFNaVTViOEFSR244bmJLNkIza0E?oc=5",
+          "pubDate": "2026-09-14T04:06:07.000Z",
           "snippet": null,
-          "title_en": "The Courage to Grow Up as a Family and Live in the Countryside"
+          "title_en": "Sebastián Rubio after the victory alongside Luciano Fernández over Nicolás Llambías and Lucas Mocellini in a beach volleyball match between two Uruguayan pairs"
         }
       ]
     },
     {
       "name": "La Razón (Bolivia)",
       "color": "cream",
-      "items": [
-        {
-          "title": "Page 1 - 13 de septiembre del 2026 - La Razón",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVDlINXA4dW93MnlfbnNtOUJ0a2RVWDAzX2NWd1ZXZklKYXpsMm5UZ2MtTEQyU2xmMmc3ZzJKTU5HMGNuQVJLNFZGcDEydWxFRzFkV1dtTFpwZ1pMWDZsM3FSWkVBbnEyb2Ryd1FuSEJZc1VvYU8zclBxRm1QS1lzbDB0bnNycXNtSlB3MFZlUkwzVGM3RmFGM0pFSmFvYmNCR3c?oc=5",
-          "pubDate": "2026-09-13T12:30:51.000Z",
-          "snippet": null,
-          "title_en": "Page 1 - September 13, 2026 - La Razón"
-        },
-        {
-          "title": "Page 1 - 11 de septiembre del 2026 - La Razón",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzdSeU9Nbk8yVW5jSFZxWW85bnRmQm5GUDlMbVQ0LVIwN0NTbkhjRGozdmI1c3lsQjlubTdzVmhyUnYxMVNfNk9hcmNzaG9vNkdyMFpiUFZ2VEVZWG4zenBQRDFqTTRhX1FFVDFybGlFblRaYkhVTEptdExJb2lwTW9yend1bUlYQl94SnZ5UGQ0TmhsM1NoZ1I4eVh4dkNGaVE?oc=5",
-          "pubDate": "2026-09-11T07:03:12.000Z",
-          "snippet": null,
-          "title_en": "Page 1 - September 11, 2026 - La Razón"
-        },
-        {
-          "title": "Page 9 - 09 de septiembre del 2026 - La Razón",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVNEcHFxZHdrTVAtb19RX2NhbEpPcUU5dDVMTVlFT2ZTRmZtVVNWdnlkVkdjRGZHWDhFa0NCczBQdXl5MG9NYjlSZ1JIcFpVUUhwNkU5TS1aaUl5QUJRdVRXc3JVWTRxOHRTa3d5MTQ5ZXp1TUljVHFjTXZ1aGt1T2ZKcVdSV1hHdXdhMHBad2tmYW44TzlHeG1tRmtqTW4zbXc?oc=5",
-          "pubDate": "2026-09-09T19:08:38.000Z",
-          "snippet": null,
-          "title_en": "Page 9 - September 9, 2026 - La Razón"
-        }
-      ]
+      "items": []
     },
     {
       "name": "El Nacional (Venezuela)",
       "color": "grey",
       "items": [
         {
-          "title": "Armando.Info: Con la muerte del Niño Guerrero, todo cambió para seguir igual en las minas",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUdjR0k4ZTI2NmhfLUh4QllfRWZHeXRnb1VHamxUbkpMUV9fcmpZY3kwNUdPRDNBRElxeFJ2eUxsZ01sYnhqN0JPTDhuZEo2dlJhSm9CZjlka18zRTlwb0d0UDNqdms4ZUt4QnN4MElYbTZNOE1KbmswenpFY0s0ZVp0dHRzeXFIaE9YVVZCeXNnNks3dndfUUNEdFdjcmFsOW1JdnNtWXJmS2hFRVFUYV9Kei05MlpaYXNwbFJ5V2s?oc=5",
-          "pubDate": "2026-09-13T10:15:50.000Z",
+          "title": "Familiares de los presos políticos realizaron vigilia por la libertad en la plaza Bolívar de Chacao",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGZldlRFT3I2ZW5pZHE2SXVGU09kS1pRXzR2cldzQ012cHNsZ0M5cjFxaUpSS3pseFE4aVBHTmYwOTBHSjlhX2pyM2V3ZDg5WGdYd0hRZWc0X05QZVBjOEJKT0RXRUdfbHhkcDJZZ2hWMnhjVXBWYk9aTk5tcDM4Mm5ZamRraEgzcUgycTVTb1RxS0FWZlpJek1Fa3hkRW12Mk5YWUUzVklfNzRoa0h6bVM3dFZKNUI4OVBKZjlXTlRBVFo0WnpQamlxdGVGQQ?oc=5",
+          "pubDate": "2026-09-14T00:55:07.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Armando.Info: With the death of Niño Guerrero, everything changed—only to remain the same in the mines"
+          "title_en": "Relatives of political prisoners held a vigil for freedom in Chacao's Plaza Bolívar"
         },
         {
-          "title": "Trump publicó video sobre la operación que derivó en la captura de Nicolás Maduro el 3 de enero",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaTVaTVNkeWR1VXFGaUhLTDl3M2dBQWl5MWYyN20ybl9WUEZ3aHZxSUY3c19hRW9KR1lIcG1BaGxCNGg3VnNJNklxMUZlaW5zdDJIREswN29JS3l3OFhNSE1kQmJtQ1kwUGY5djV3SWJSMjVPbWVRakMyMjdPQXE2MTNpeEtPTHNpdzNxUHVIXzhURjBRZ2tRbUM3c3h6RjA0VGJSUjduUkJ3UkthbGhjWE8tRXhXRTdBRVpuczcxZjRZZ2s0cllOTkxRMA?oc=5",
-          "pubDate": "2026-09-12T17:06:48.000Z",
+          "title": "Ramos Allup sobre el chavismo en las presidenciales: \"Saben que no van a ganar y que gana una candidata de oposición\"",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY1JEanAzc3RFX3p2c2xvODBSYmxmNjFiS0dqWE94Zlo1cUl4X2s5bjZIVkZVb3gwTURBeHhvamctRkIwY3BZbVBWVEpuQnQzRWZrQlhsQmhFcXdtcGR3YmZIY1A0TlFjdHY1SWtpNUlMTGMtSUxtN0tmM3hHVlBXOWN2SmxsMUpEUENCTFRhcG56NjNUUlVVRGxhVElieFgtVjZBTFBPcXhzUkxZdWdUTmdQaWNEQUsxS2FPSjg5TEZpeGlkZFV6WUxibFRvOVpYTHhYTVM0Y2lOdHJ3WUNKSXNMdGZWT2tFWVNIMmljbGNQZw?oc=5",
+          "pubDate": "2026-09-13T23:30:07.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump posted a video about the operation that led to Nicolás Maduro's capture on January 3"
+          "title_en": "Ramos Allup on Chavismo in the presidential election: \"They know they won't win and that an opposition candidate will win\""
         },
         {
-          "title": "Fujimori propuso extender detención de migrantes irregulares en Perú para completar sus expulsiones hacia Venezuela",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT1BYLVRkME5tTks2RVNqVVpiZ0dVdWp6VW83RzBXYnZ1eUE4WHhBMTRwb3E4dmNGR3VTb0VqTGdIX1NrZ014T1NicDctQ3dmOG52akRzRXZzTkF3UUpqUlJIWFlOMWZsaThTS2VaNlQ0V1dxZV81ZXlmekVIUTM0ZkdkS1ZqLXVDVGRIQzlucmhJUjE4SGpid2x4RFFGZG5rdWd2ODZGWFVSR2EtMmtTUkZXWGhmclRFdUxyWWpNMVZwUTFUdkZkeXYzNG54aldBdUlsOVo0MEtfWTBRblpneVZGcHFDUQ?oc=5",
-          "pubDate": "2026-09-12T15:22:20.000Z",
+          "title": "Detienen a dos colombianos y un venezolano con 595 paquetes de cocaína en República Dominicana",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUm82OF90SDUyRExtQS0yUFp1TEd6WGtLX0t5X1VJT3AyQWN3Zm8tMnJ3cy1xa0dwdFY3R2gxQ0lUN1g4UXEzcXZqSW9YOWlZZXdVdDRwZlVNRHZzVU9mNk9vVlNHbU9pNVpEVjU0MHd1cVRkVnpZZjFuVzF0OXNnTlJuTUFvd1EwTk5fWl85Q3F2LVI2WW9EZ0xTZHRNdmJtRHg5SW5GR1RBYXlzNnFjUF9KUEhKUXpVQnhsVi1Id2pTVXFFcjdYM05B?oc=5",
+          "pubDate": "2026-09-13T20:10:06.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Fujimori proposed extending the detention of undocumented migrants in Peru to complete their deportations to Venezuela"
+          "title_en": "Two Colombians and one Venezuelan Arrested with 595 Packets of Cocaine in the Dominican Republic"
         }
       ]
     },
@@ -275,28 +259,28 @@
       "color": "teal",
       "items": [
         {
-          "title": "Las razones de las grandes empresas de Silicon Valley para ignorar las advertencias sobre los peligros de la IA",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOUZLMFZUeEdwc2tfZWV5cW1VQkx3bnlrWmpPRTZPSmNfTVZ0UWRGYzhFZWQ5SEJDUXF4anM5MkpqVVFtcTRWdzZZTTRVVmlFc3RFOFJ6eUlZQVBqSnBuS3dKZm4yWmFHNTJtSTA4Q3NHVGhDTVFQcTQ4S2RjMG5VLVhWam9mdzA1M0FTQ05IRkFPdE56VXdoblhiampaOUpIdWl1NU5sbTlwUjZKWmF4bXFfR1huMV9xREUwbDFhNk9iVVBud3lnelQxa3piR1Vxc254QnBCLTJ2THBadWs2UWd6QUZmTnNoTzl2RnJ2ZTlwV3Q4UTNXaHhkVUtqWnlpZ1dSZjhuZzUwUFRCQmdQZA?oc=5",
-          "pubDate": "2026-09-13T10:50:49.000Z",
+          "title": "“Los impactos de la sequía ya están llegando a las áreas urbanas”: la crisis alimentaria amenaza con extenderse a las ciudades",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaDEwLVg2cTZJV3Y4aW1TcnNsRUlWS1pVZ0xENlNFR20wb0ljZDRzMm05cm94WFZzV0MzYUV3S1hLY2ZsOWRjZk1UbGxyZ0ZyX0hQQTdCYmJPY0JqZFNFZlhiS1p3Z1JjNDhCeGVJUVFvc2hldUJXQXJwUXFEQVFIYlZBQ0xONkFEUUlyQ0tyWnMyUzRnaHdTNkdhRnJuVFZBWUpQdDRYZVdZRmlBeDMtVnB6MmNCUzV4U0ZSa0MtT2Z3T3cxaVBHVVhCUUtSRmxRU2p5T2w1eW5qOHptcXZ1OGJ5Q2FNQ1B6RmgzTXp0NS1qdVlG?oc=5",
+          "pubDate": "2026-09-14T06:12:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Why Silicon Valley's Big Tech Companies Are Ignoring Warnings About the Dangers of AI"
+          "title_en": "“The effects of the drought are already reaching urban areas”: The food crisis threatens to spread to cities"
         },
         {
-          "title": "Por qué la figura de Mao sigue tan vigente en China 50 años después de su muerte",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmFuTzhZVEUwd19ra0VzcDdaMTh1TVF1SHJ1TjdrTmp5RjRFVG9xQ1R3b0xBYnI0V0dfNDVaamd1LTROUTFWeG04YldNS0lPbjJGSU1EUUItMExoR2szUERLbTdTMS1SYlJ1MEREU05jR3daQ0txTGViX1hUWW81aEdPZlZUVVROVWpuZlVlNjVoOXkwbXJheTJXZkxCYVV3TjBobHhZa1MzUVk4dmZtbDI1am5YYlJMSVo5SnhzMjVkb21PaktvVjRJbVFqcFhDdHpXcWtjU29OcGZYeV9HOTYzLWwwRDg?oc=5",
-          "pubDate": "2026-09-13T04:18:14.000Z",
+          "title": "TPS para salvadoreños: empresas comienzan a despedir trabajadores ante la incertidumbre en EE. UU.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGZQTjNoMFlsMVIwSDRNSW1QaWZMQkMwV2FSMlRQcE0yb3hERy1SdUx3UVdxbWp3ZVA0TjN0NlhqcG56SWEzOWo1eHloMDdXTGdERTR4aVJoWmttbHA0TV85UDJCanhFcW9YZzhzZ3Q2TDNYRHkxTFNjbEFlNjU4eklXb3lJV0hrWVprYmlRTnZjd29rU3BtZkZJYTN4WTg0a3I5eTRwQWYxRi04M1M4RjREVVg2dkRaRThYdXV4bW9xSUlVVmhQNVB4ZXhnV0o4MFlqUg?oc=5",
+          "pubDate": "2026-09-14T06:05:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Why Mao Remains Such a Prominent Figure in China 50 Years After His Death"
+          "title_en": "TPS for Salvadorans: Companies Begin Laying Off Workers Amid Uncertainty in the U.S."
         },
         {
-          "title": "Capturan en México a guatemalteco señalado como presunto cabecilla de red de tráfico de armas",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQTUxQ3pnbFcycHRvSmRUeWFOVUJKcHhoOWhVdmJRQlhlN3BzYV9WR0twQkY1aW15M0JVdFZMMWpvQm9OTGVuenliUXVxMEozYTZOVUFCcjQ3MTl3RkdHNjVVbktiaHk4ZUxPUzlPRVVJRnVYYVNLWThKejRtTUF0M1hqS1lNSVg5VWYyMjJNMUFuQ2pfM3cxTzVERDh4RjhxSmdfZ2JGTnJ2VDZjVnplQ251bDFvYjBURm9ZOGdmRmgtRzV2dno1dkxSOHZRTXc5WGVSUF9TN1VpeGl1d0xWNXBUMmI?oc=5",
-          "pubDate": "2026-09-13T03:44:07.000Z",
+          "title": "“Ahora el teléfono no para de sonar”: la abogada que atiende a migrantes guatemaltecos frente a la nueva realidad migratoria en EE. UU.",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPazBmRFV4bUE2VURNbUpmQk0wQVdkTURWUl9OUnlKRnZtWlFqTEFQaUpFRTZWYTl0cG01YVdtNXB1Wm44UDFZc2k2azhodHRPbFFURDVSdU85MWNYYlNpcHlGbmFfY0ZjMFRZcnEzdFBvd05kT3JtMXplcWl2aFBocFpaVjc2bjZQTGl6OERHTWxTRmI2SGFzc1lPdWVxMFhlWFJ2NjhHamR6UjVucE8tZFhqTU15WGVxX1VyRDRtcVU4YmpPMTVtXzN1RTYzZjk3MHN3aTdCLTlleUIxRllMWDRjR2xqSVI1SVMtd3JRUmZ2ZnJvSDVDTDA3amhtQQ?oc=5",
+          "pubDate": "2026-09-14T06:01:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Guatemalan Man Identified as Alleged Leader of Arms Trafficking Ring Arrested in Mexico"
+          "title_en": "“Now the phone won’t stop ringing”: The lawyer assisting Guatemalan migrants in the face of the new immigration reality in the U.S."
         }
       ]
     }
