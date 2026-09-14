@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-11T14:07:04.989Z",
+  "generatedAt": "2026-09-14T16:12:52.770Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada Israel-Hezbollah en Líbano",
-      "titulo_en": "Israel-Hezbollah Escalation in Lebanon",
-      "region": "Oriente Medio",
+      "titulo": "Escalada del conflicto Rusia-Ucrania y amenaza a aliados occidentales",
+      "titulo_en": "Russia-Ukraine conflict escalation and threat to Western allies",
+      "region": "Europa del Este y Europa Central",
       "noticia": {
-        "titulo": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-        "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-        "fuente": "The New York Times"
+        "titulo": "Imágenes muestran llamas tras ataque de dron ruso a un tren de Ucrania",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjhqS1RSZHhHZEFhd0RXT3R4ZVJWaEVHQnZiSVNyb2QwRGctMEtpT2Q5Q3A5Sm40aVQwbU05WWNJbnF4WG1hWEJnTGlNQXN2ZlBhWk04UHg4enJrcVJkNlQ1SzhubTJMQ0YzbzNrbFRzNkhrZlhPaDVxMks2Yk42ZlRIaUs?oc=5",
+        "fuente": "CNN en Español"
       },
-      "analisis": "Israel ejecuta operaciones contra infraestructura subterránea de Hezbollah en el sur de Líbano, indicando intensificación de confrontaciones militares directas que van más allá de ataques aislados. Esta escalada ocurre en un contexto de creciente presencia iraní en la región y amenaza con desestabilizar todo el Levante si se expande a conflicto abierto.",
-      "analisis_en": "Israel is executing operations against Hezbollah's underground infrastructure in southern Lebanon, indicating intensification of direct military confrontations beyond isolated attacks. This escalation occurs within a context of growing Iranian regional presence and threatens to destabilize the entire Levant if it expands into open conflict."
+      "analisis": "Los ataques rusos a infraestructura civil cerca de la frontera polaca funcionan como advertencia explícita a la OTAN sobre los límites de su compromiso con Ucrania. Este patrón de escalada deliberada busca fragmentar la coalición occidental mediante la intimidación, mientras Trump presiona a Kyiv para detener operaciones contra objetivos energéticos rusos.",
+      "analisis_en": "Russian attacks on civilian infrastructure near the Polish border serve as an explicit warning to NATO about the limits of its commitment to Ukraine. This pattern of deliberate escalation aims to fragment the Western coalition through intimidation, while Trump pressures Kyiv to halt operations against Russian energy targets."
     },
     {
       "rank": 2,
-      "titulo": "Hutíes controlan vía navegable estratégica del Mar Rojo con respaldo iraní",
-      "titulo_en": "Houthi Control of Strategic Red Sea Waterway with Iranian Support",
-      "region": "Oriente Medio - Mar Rojo",
+      "titulo": "Competencia tecnológica y carreras de armamento AI entre potencias",
+      "titulo_en": "Technological competition and AI arms races between powers",
+      "region": "Global (EE.UU.-China-Europa)",
       "noticia": {
-        "titulo": "Rebeldes hutíes respaldados por Irán capturaron una isla clave en una vía navegable vital",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmg4SkhSOE5lT1pJZmVmZXVwejJDLVhiTU0xdk9McGZhSXQwOGRwX0VYTXlwWUpjd2M5c1g1dFBUMmE0dmdVMVVhTk5WOWoxQnF6WllIUFhRTEExd1c5ZzV3bExRNkUtejgwZlBTZFVDSEpFZENVQ19kNDNxOVdWM2tUMA?oc=5",
-        "fuente": "CNN en Español"
+        "titulo": "Leaked A.I. Queries Raise Fears of New Biological Weapons Race",
+        "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Los hutíes capturan posiciones clave que refuerzan el control sobre rutas marítimas vitales para el comercio mundial, consolidando el poder de proyección de Irán en el Índico y Golfo Pérsico. El dominio de estas vías navegables amenaza con interrumpir cadenas de suministro globales y elevar tensiones con potencias occidentales que dependen del comercio marítimo.",
-      "analisis_en": "The Houthis capture key positions that reinforce control over vital maritime routes for global trade, consolidating Iran's power projection capabilities in the Indian Ocean and Persian Gulf. Domination of these waterways threatens to disrupt global supply chains and escalate tensions with Western powers dependent on maritime commerce."
+      "analisis": "La filtración de consultas de IA enfocadas en armas biológicas revela que la carrera por dominancia tecnológica ha trascendido el espionaje convencional hacia capacidades ofensivas existenciales. Trump impulsa aceleración de desarrollos AI sin regulación mientras China y potencias menores buscan nivelar capacidades, creando un escenario donde la disuasión estratégica tradicional se erosiona.",
+      "analisis_en": "Leaked AI queries focused on biological weapons reveal that the race for technological dominance has transcended conventional espionage toward existential offensive capabilities. Trump pushes for unregulated AI acceleration while China and lesser powers seek to level capabilities, creating a scenario where traditional strategic deterrence erodes."
     },
     {
       "rank": 3,
-      "titulo": "Represión política en Hong Kong y consolidación del control chino",
-      "titulo_en": "Political Repression in Hong Kong and Consolidation of Chinese Control",
-      "region": "Asia-Pacífico",
+      "titulo": "Crisis institucional y fragmentación política en democracias occidentales",
+      "titulo_en": "Institutional crisis and political fragmentation in Western democracies",
+      "region": "América del Norte, Reino Unido y Unión Europea",
       "noticia": {
-        "titulo": "Organizers of Hong Kong Vigils for Tiananmen Massacre Sentenced to Prison",
-        "link": "https://www.nytimes.com/2026/09/11/world/asia/hong-kong-tiananman-vigil-prison-sentence.html",
-        "fuente": "The New York Times"
+        "titulo": "Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido",
+        "link": "https://elpais.com/internacional/2026-09-14/los-nacionalistas-de-escocia-gales-e-irlanda-del-norte-se-unen-para-impulsar-su-independencia-del-reino-unido.html",
+        "fuente": "El País"
       },
-      "analisis": "Las sentencias a organizadores de conmemoraciones sobre Tiananmen demuestran la sistemática eliminación de espacios de disidencia política y memoria histórica en Hong Kong bajo jurisdicción china. Esta represión refleja el avance de Beijing en neutralizar autonomía local y refuerza el modelo de control autoritario que genera fricción con democracias occidentales.",
-      "analisis_en": "Prison sentences for Tiananmen vigil organizers demonstrate systematic elimination of political dissent and historical memory spaces in Hong Kong under Chinese jurisdiction. This repression reflects Beijing's advance in neutralizing local autonomy and reinforces an authoritarian control model that generates friction with Western democracies."
+      "analisis": "La coordinación estratégica de movimientos independentistas en el Reino Unido simultáneamente con investigaciones de espionaje ruso dentro de la OTAN evidencia debilitamiento de instituciones democráticas occidentales. Esta convergencia entre presiones internas (secesionismo, polarización electoral) y externas (penetración de servicios de inteligencia) reduce capacidad de respuesta cohesionada ante amenazas geopolíticas sistémicas.",
+      "analisis_en": "Strategic coordination of independence movements in the UK simultaneously with Russian espionage investigations within NATO reveals weakening of Western democratic institutions. This convergence between internal pressures (secessionism, electoral polarization) and external threats (intelligence service penetration) reduces capacity for cohesive response to systemic geopolitical threats."
     }
   ]
 }
