@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-09-14T16:12:44.681Z",
+  "generatedAt": "2026-09-15T10:01:48.506Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Cocaína líquida: un método de tráfico en expansión",
+          "link": "https://insightcrime.org/es/noticias/cocaina-liquida-metodo-trafico-expansion/",
+          "pubDate": "2026-09-14T19:20:45.000Z",
+          "snippet": "Cocaína líquida: un método de tráfico en expansión Claves para entender el tráfico de cocaína líquida: qué es, cómo se oculta y recupera, y por qué este método está ganando terreno en Europa. The post Cocaína líquida: un método de tráfico en expansión appeared first on InSight Cr…",
+          "title_en": "Liquid cocaine: a growing trafficking method"
+        },
         {
           "title": "Clan del Golfo – Autodefensas Gaitanistas de Colombia",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/urabenos-perfil/",
@@ -17,7 +24,7 @@
           "link": "https://insightcrime.org/es/noticias/on-the-radar-ataques-contra-botes-en-ecuador-carceles-en-peru-y-cultivos-de-coca-en-bolivia/",
           "pubDate": "2026-09-10T15:02:22.000Z",
           "snippet": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia Esta semana examinamos en el cambio en la estrategia de Estados Unidos de ataques contra embarcaciones vinculadas a Los Choneros en Ecuador, el estado de emergencia de Keiko Fujimori en…",
-          "title_en": "On the Radar: Attacks on Boats in Ecuador, Prisons in Peru, and Coca Crops in Bolivia"
+          "title_en": "On the Radar: Attacks on boats in Ecuador, prisons in Peru, and coca crops in Bolivia"
         },
         {
           "title": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-07T18:56:38.000Z",
           "snippet": "Coche bomba en México revela nueva tensión entre el CJNG y La Mayiza Un coche bomba en Zacatecas podría marcar una nueva escalada en la guerra entre el CJNG y La Mayiza, facción del Cártel de Sinaloa que se disputa el control de un corredor estratégico del narcotráfico. The post…",
           "title_en": "Car Bomb in Mexico Reveals New Tension Between the CJNG and La Mayiza"
-        },
-        {
-          "title": "Ismael Zambada Sicairos, alias ‘Mayito Flaco’",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-mexico/ismael-zambada-sicairos-alias-mayito-flaco/",
-          "pubDate": "2026-09-03T21:12:49.000Z",
-          "snippet": "Ismael Zambada Sicairos, alias ‘Mayito Flaco’ Mayito Flaco ha emergido como uno de los principales líderes del Cartel de Sinaloa, al frente de La Mayiza y en guerra con los Chapitos. Conozca su historia, actividades criminales, aliados y rivales. Perfil completo actualizado The p…",
-          "title_en": "Ismael Zambada Sicairos, alias “Mayito Flaco”"
         }
       ]
     },
@@ -54,39 +54,46 @@
       "color": "teal",
       "items": [
         {
-          "title": "Israeli Actors Should Face a Choice: Building in E1 or Business with Europe",
-          "link": "https://www.crisisgroup.org/stm/middle-east-north-africa/israelpalestine-europe-united-states/israeli-actors-should-face-choice-building-e1-or-business-europe",
-          "pubDate": "2026-09-04T15:38:54.000Z",
-          "snippet": "Israeli Actors Should Face a Choice: Building in E1 or Business with Europe eschelhaas Fri, 09/04/2026 - 17:38 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Israeli far-rig…",
-          "title_en": "Israeli Actors Should Face a Choice: Building in E1 or Doing Business with Europe"
+          "title": "Special Episode: Will the Houthis Shut Down the Bab al-Mandab Strait?",
+          "link": "https://www.crisisgroup.org/pod/middle-east-north-africa/yemen/special-episode-will-houthis-shut-down-bab-al-mandab-strait",
+          "pubDate": "2026-09-14T15:03:11.000Z",
+          "snippet": "Special Episode: Will the Houthis Shut Down the Bab al-Mandab Strait? hschaub Mon, 09/14/2026 - 17:03 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Middle East &…",
+          "title_en": "Special Episode: Will the Houthis Close the Bab al-Mandab Strait?"
         },
         {
-          "title": "Suweida’s Exam Standoff Triggers Fresh Clashes in Southern Syria",
-          "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/syria/suweidas-exam-standoff-triggers-fresh-clashes-southern-syria",
-          "pubDate": "2026-09-04T12:57:35.000Z",
-          "snippet": "Suweida’s Exam Standoff Triggers Fresh Clashes in Southern Syria pzeiler Fri, 09/04/2026 - 14:57 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Analyst's Notebook / Middle E…",
-          "title_en": "Suweida’s Exam Standoff Triggers New Clashes in Southern Syria"
+          "title": "Ten Challenges for the UN in 2026-2027",
+          "link": "https://www.crisisgroup.org/sbr/global/sb15-ten-challenges-un-2026-2027",
+          "pubDate": "2026-09-14T08:00:00.000Z",
+          "snippet": "Ten Challenges for the UN in 2026-2027 eschelhaas Mon, 09/14/2026 - 10:00 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Candidates for United Nations Secretary-General posi…",
+          "title_en": "Ten Challenges for the UN in 2026–2027"
         },
         {
-          "title": "How Drones are Changing Colombia’s Conflict",
-          "link": "https://www.crisisgroup.org/vid/latin-america-caribbean/colombia/how-drones-are-changing-colombias-conflict",
-          "pubDate": "2026-09-04T09:41:59.000Z",
-          "snippet": "How Drones are Changing Colombia’s Conflict eschelhaas Fri, 09/04/2026 - 11:41 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Video / Latin America & Caribbean 04 September…",
-          "title_en": "How Drones Are Changing Colombia’s Conflict"
+          "title": "An Historic Poll Puts Peace to the Test in the Philippines",
+          "link": "https://www.crisisgroup.org/qna/asia-pacific/philippines/historic-poll-puts-peace-test-philippines",
+          "pubDate": "2026-09-11T15:10:01.000Z",
+          "snippet": "An Historic Poll Puts Peace to the Test in the Philippines cthuratong Fri, 09/11/2026 - 17:10 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Campaign posters in Cotabato Cit…",
+          "title_en": "A Historic Poll Puts Peace to the Test in the Philippines"
         },
         {
-          "title": "Somalia’s End-of-year Cliffhanger",
-          "link": "https://www.crisisgroup.org/pod/africa/somalia/somalias-end-year-cliffhanger",
-          "pubDate": "2026-09-03T14:47:04.000Z",
-          "snippet": "Somalia’s End-of-year Cliffhanger pzeiler Thu, 09/03/2026 - 16:47 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Africa 03 September 2026 1 minutes This week on Th…",
-          "title_en": "Somalia's Year-End Cliffhanger"
+          "title": "Nuclear Deterrence in Europe (and another round of U.S. Ukraine-Russia diplomacy)",
+          "link": "https://www.crisisgroup.org/pod/europe/nuclear-deterrence-europe-and-another-round-us-ukraine-russia-diplomacy",
+          "pubDate": "2026-09-11T14:59:58.000Z",
+          "snippet": "Nuclear Deterrence in Europe (and another round of U.S. Ukraine-Russia diplomacy) hschaub Fri, 09/11/2026 - 16:59 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Eu…",
+          "title_en": "Nuclear Deterrence in Europe (and another round of U.S. diplomacy regarding Ukraine and Russia)"
         },
         {
-          "title": "Policing the Bangsamoro: Peace in the Southern Philippines",
-          "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/358-policing-bangsamoro-peace-southern-philippines",
-          "pubDate": "2026-09-02T22:00:00.000Z",
-          "snippet": "Policing the Bangsamoro: Peace in the Southern Philippines cthuratong Thu, 09/03/2026 - 00:00 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List policing-bangsamoro-peace-southe…",
-          "title_en": "Policing the Bangsamoro: Peace in the Southern Philippines"
+          "title": "What Future for Venezuela after the U.S. Oil Carve-up?",
+          "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/venezuela-united-states/what-future-venezuela-after-us-oil-carve",
+          "pubDate": "2026-09-11T09:11:08.000Z",
+          "snippet": "What Future for Venezuela after the U.S. Oil Carve-up? pzeiler Fri, 09/11/2026 - 11:11 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List US Energy Secretary Chris Wright (L) an…",
+          "title_en": "What Does the Future Hold for Venezuela After the U.S. Oil Carve-up?"
+        },
+        {
+          "title": "The Critical Minerals Linking Myanmar’s Civil War to the World",
+          "link": "https://www.crisisgroup.org/vis/asia-pacific/myanmar/critical-minerals-linking-myanmars-civil-war-world",
+          "pubDate": "2026-09-09T22:05:00.000Z",
+          "snippet": "The Critical Minerals Linking Myanmar’s Civil War to the World eschelhaas Thu, 09/10/2026 - 00:05 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Visual Explainers / Asia-Pac…",
+          "title_en": "The Critical Minerals Linking Myanmar’s Civil War to the World"
         }
       ]
     },
@@ -94,6 +101,13 @@
       "name": "World Economic Forum",
       "color": "yellow",
       "items": [
+        {
+          "title": "ASEAN Digital Economy Outlook 2026",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3YlhjZ3ExMEJyOFB4MFJJV2duZUlCSjJkUUdpa3FGRUx2cU54SU1lRHBYYXJOZDdxc240SXNQRjZ1VTlqeEhoYzZMS1FFVFdEQm9IOXMybHZYUkMxVFNTcS1pZjMxanVjX3NkUFVmOUFyaFZ3eWNEaWVxVQ?oc=5",
+          "pubDate": "2026-09-14T22:38:31.000Z",
+          "snippet": null,
+          "title_en": "ASEAN Digital Economy Outlook 2026"
+        },
         {
           "title": "Global Gender Gap Report Media Briefing 2026",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2VVVTVjckYwaE04cl83aGc3UjJhMFBwRWhtaGRJMlBYZDFLR2dzT2Fqa3RIME1oNWJCZGl3QWxkNVR1dld4TE1UX1RtdGxVaTNYUDQ1ZTNmNUF6QjFVRk9hQzJncHJ0SDBTZ2RPNE01VmdtcmJlV2l0RVcwRHN0UUVFUDZ4dkRweHFWLVJWdnloZHo4VE8yd19rckQ2T1BRTkpnRVlpLXdkNlNyaXBaTG9Uc3hya3hqQWVPTFRZWEJsclFFLV9IZXRaOA?oc=5",
@@ -128,13 +142,6 @@
           "pubDate": "2026-09-06T19:38:11.000Z",
           "snippet": null,
           "title_en": "Oxford Hub - YOUTH2030"
-        },
-        {
-          "title": "Event Details - Prague Hub",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXU2RXFPdGJ0VXBrSndxYVNZVEF3TlhCeGNRaXVTeFEtTTR2UXVlQTlfdjFZNHpSdlpSYkVtVzM0OFg3bENoaHRHLTA4NGYxdWk5NVg4eHk3cjRHOWtoZWtPcEFtY0FDWnVzaXJQc2xMV3pLWV9NR0Y1V0tManoxMzBKeDNjS0otanZRdjVR?oc=5",
-          "pubDate": "2026-09-03T14:00:00.000Z",
-          "snippet": null,
-          "title_en": "Event Details - Prague Hub"
         }
       ]
     }
