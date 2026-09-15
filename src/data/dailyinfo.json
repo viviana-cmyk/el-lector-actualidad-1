@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-15T10:01:56.792Z",
+  "generatedAt": "2026-09-15T14:41:47.502Z",
   "dia": {
-    "nombre": "Día de la Independencia de Guatemala",
-    "descripcion": "Se conmemora la independencia de Guatemala del Imperio Español en 1821, marcando el inicio de la soberanía centroamericana y siendo festividad oficial en Guatemala."
+    "nombre": "Día de la Independencia de México",
+    "descripcion": "Se conmemora el grito de independencia de 1810 iniciado por Miguel Hidalgo, marcando el inicio de la lucha de México contra el dominio español."
   },
   "dia_en": {
-    "nombre": "Guatemala Independence Day",
-    "descripcion": "It commemorates Guatemala's independence from the Spanish Empire in 1821, marking the beginning of Central American sovereignty and being an official holiday in Guatemala."
+    "nombre": "Mexican Independence Day",
+    "descripcion": "Commemorates the cry for independence of 1810 initiated by Miguel Hidalgo, marking the beginning of Mexico's struggle against Spanish rule."
   }
 }
