@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-09-15T14:41:11.415Z",
+  "generatedAt": "2026-09-16T10:01:56.716Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora?",
+          "link": "https://insightcrime.org/es/noticias/the-insight-take-paz-total-colombia-salio-mal-viene-ahora/",
+          "pubDate": "2026-09-15T22:02:28.000Z",
+          "snippet": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora? Los grupos armados de Colombia casi duplicaron su tamaño durante la Paz Total de Petro. Pero ¿puede el plan militarizado de De la Espriella dar mejores resultados? The post The InSight Take | La Paz To…",
+          "title_en": "The InSight Take | Colombia’s Comprehensive Peace Agreement: What Went Wrong and What’s Next?"
+        },
         {
           "title": "Cocaína líquida: un método de tráfico en expansión",
           "link": "https://insightcrime.org/es/noticias/cocaina-liquida-metodo-trafico-expansion/",
@@ -24,7 +31,7 @@
           "link": "https://insightcrime.org/es/noticias/on-the-radar-ataques-contra-botes-en-ecuador-carceles-en-peru-y-cultivos-de-coca-en-bolivia/",
           "pubDate": "2026-09-10T15:02:22.000Z",
           "snippet": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia Esta semana examinamos en el cambio en la estrategia de Estados Unidos de ataques contra embarcaciones vinculadas a Los Choneros en Ecuador, el estado de emergencia de Keiko Fujimori en…",
-          "title_en": "On the Radar: Attacks on Boats in Ecuador, Prisons in Peru, and Coca Fields in Bolivia"
+          "title_en": "On the Radar: Attacks on Boats in Ecuador, Prisons in Peru, and Coca Crops in Bolivia"
         },
         {
           "title": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-09T17:09:37.000Z",
           "snippet": "The InSight Take: Crimen organizado y elecciones en Brasil En el InSight Take de esta semana, analizamos cómo el crimen organizado y la seguridad pública están marcando la campaña presidencial en Brasil, y qué hay detrás de los esquemas de lavado de dinero controlados por el PCC.…",
           "title_en": "The InSight Take: Organized Crime and Elections in Brazil"
-        },
-        {
-          "title": "Coche bomba en México revela nueva tensión entre el CJNG y La Mayiza",
-          "link": "https://insightcrime.org/es/noticias/coche-bomba-mexico-tension-entre-cjng-mayiza/",
-          "pubDate": "2026-09-07T18:56:38.000Z",
-          "snippet": "Coche bomba en México revela nueva tensión entre el CJNG y La Mayiza Un coche bomba en Zacatecas podría marcar una nueva escalada en la guerra entre el CJNG y La Mayiza, facción del Cártel de Sinaloa que se disputa el control de un corredor estratégico del narcotráfico. The post…",
-          "title_en": "Car Bomb in Mexico Reveals New Tension Between the CJNG and La Mayiza"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "link": "https://www.crisisgroup.org/pod/europe/nuclear-deterrence-europe-and-another-round-us-ukraine-russia-diplomacy",
           "pubDate": "2026-09-11T14:59:58.000Z",
           "snippet": "Nuclear Deterrence in Europe (and another round of U.S. Ukraine-Russia diplomacy) hschaub Fri, 09/11/2026 - 16:59 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Eu…",
-          "title_en": "Nuclear Deterrence in Europe (and another round of U.S. diplomacy regarding Ukraine and Russia)"
+          "title_en": "Nuclear Deterrence in Europe (and another round of U.S. diplomacy on Ukraine and Russia)"
         },
         {
           "title": "What Future for Venezuela after the U.S. Oil Carve-up?",
@@ -102,9 +102,23 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Global Gender Gap Report Media Briefing 2026",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2VVVTVjckYwaE04cl83aGc3UjJhMFBwRWhtaGRJMlBYZDFLR2dzT2Fqa3RIME1oNWJCZGl3QWxkNVR1dld4TE1UX1RtdGxVaTNYUDQ1ZTNmNUF6QjFVRk9hQzJncHJ0SDBTZ2RPNE01VmdtcmJlV2l0RVcwRHN0UUVFUDZ4dkRweHFWLVJWdnloZHo4VE8yd19rckQ2T1BRTkpnRVlpLXdkNlNyaXBaTG9Uc3hya3hqQWVPTFRZWEJsclFFLV9IZXRaOA?oc=5",
+          "pubDate": "2026-09-16T07:37:24.000Z",
+          "snippet": null,
+          "title_en": "Global Gender Gap Report Media Briefing 2026"
+        },
+        {
+          "title": "Institutional Lessons from the Malaysian Palm Oil Board for Strengthening Indonesia's Palm Oil Governance",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSElrRjIzaTA2MTFDVHU5WU9zaTE4VlRpalNfQ2Z2RFljNUJpWjlMaGtHWnhuU1RiQUVWX3NlRVMxSl91bUttWmpkNk42WW15b19BdkpoQ2hvZXBkaTlBOU5UaE9hSkMxQnJlQnlPVHpFUEN0TmlPRUtSUWNNUTBxV0tzSHAwa2dwdVBSTnZTSnZRZXpHSHBiRklHZTdXS18zbmQzV2p6SHhGRWQxTEdwc2p4SWlPcWEwR2d0T0pKS1gxZDUyc2hxRWNoQlFBQ1JtWnRkY2cxTE4?oc=5",
+          "pubDate": "2026-09-15T11:37:19.000Z",
+          "snippet": null,
+          "title_en": "Institutional Lessons from the Malaysian Palm Oil Board for Strengthening Indonesia's Palm Oil Governance"
+        },
+        {
           "title": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2tWMGtGZF95RkQxTGdfSlVYQzVXc0tIaXNhTFdUTkx6ZUU5NmJqUERCZTBfdUR3dFRnUFpheGw1VUhncXR2Vncza0RzS0hScnlaUkZlOXdVckExMU11UGd1Y2NZNHJnYXBENEZzVmtialZ2ZnNPLXktWWNJXzR2alRYTTBQQ3lwSUlrbXlRbnlfajFFMjZ4TV90NUliTnN4SFJfVWQ0ZTAyM2k2WXQyc2E5UGZvMThMT1kwS0ttakxSdXpNV0QzUWF3OTdHV283WldXWVZn?oc=5",
-          "pubDate": "2026-09-15T11:37:19.000Z",
+          "pubDate": "2026-09-15T11:35:52.000Z",
           "snippet": null,
           "title_en": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability"
         },
@@ -116,32 +130,18 @@
           "title_en": "ASEAN Digital Economy Outlook 2026"
         },
         {
-          "title": "Global Gender Gap Report Media Briefing 2026",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2VVVTVjckYwaE04cl83aGc3UjJhMFBwRWhtaGRJMlBYZDFLR2dzT2Fqa3RIME1oNWJCZGl3QWxkNVR1dld4TE1UX1RtdGxVaTNYUDQ1ZTNmNUF6QjFVRk9hQzJncHJ0SDBTZ2RPNE01VmdtcmJlV2l0RVcwRHN0UUVFUDZ4dkRweHFWLVJWdnloZHo4VE8yd19rckQ2T1BRTkpnRVlpLXdkNlNyaXBaTG9Uc3hya3hqQWVPTFRZWEJsclFFLV9IZXRaOA?oc=5",
-          "pubDate": "2026-09-14T11:33:44.000Z",
-          "snippet": null,
-          "title_en": "Global Gender Gap Report Media Briefing 2026"
-        },
-        {
-          "title": "The System Is Not the Patient: Next Steps for Implementing Outcome-Based Care",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGNmWkQtTm1mUnMzRzk1U0FCZTdyV1JESG5Zdk8xbFRRRnkwZjVtT0FpcmFCRTdJNUdqZ1Z6S2piZWVSd2JVZUxQOUlCYUNYLTJfR25WR1FqUVBhdm9rRzhGUXlGSUsxcWJvaE9VZjdJYURwS0xQdV9JX21xNjlPTEdnTlNvRFhiNi1VRkhfSHZvdl95X2x0OElRdEk5Y3BjZDVkcDdtUFNWSVNGSXc5dUlwZw?oc=5",
-          "pubDate": "2026-09-14T07:16:52.000Z",
-          "snippet": null,
-          "title_en": "The System Is Not the Patient: Next Steps for Implementing Outcome-Based Care"
-        },
-        {
-          "title": "Leaders for European Growth and Competitiveness 1st Edition",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeFgzTmluc3gzYlRnd200Rk9tR1ctcjU3X0dVRVZVLUotakxWa1ItcmJxV0JBQ1pVa18zVFpUMEtxZ1lzamdlaWpMako0UnNEXzdPMG5ua0NLVHkxdFp2YW01ZlVwMDNCWUtZQnR6WUIxMnJ1d0lwOGpZdDJrZzRocHBua0Q1N1V2Q1JJeThqc3l0YkgzTDZWV2doaGgwOWNCOFdr?oc=5",
-          "pubDate": "2026-09-09T06:17:29.000Z",
-          "snippet": null,
-          "title_en": "Leaders for European Growth and Competitiveness, 1st Edition"
-        },
-        {
           "title": "Experts Explain | Adam Tooze | What is the Polycrisis?",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanVZUm0teGIwdFpoaHlJQktzb3ZKQXZnd2diWVZsVjlfNmI1VWdNYnVndEc5d2RoWmNMaDlFakFnXzhxdmdiakxQYkVuT2k0VGp3T2R2N2JZS3I1OWtCMVg5V2dyM2NhaGFTbEw2WU1IMzdodm1hbjRTU2g0UzRqeWY3RFU3alU?oc=5",
           "pubDate": "2026-09-09T04:00:00.000Z",
           "snippet": null,
           "title_en": "Experts Explain | Adam Tooze | What Is the Polycrisis?"
+        },
+        {
+          "title": "Renminbi and the World",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGhuMjA5NE1NZ3Y3MVRJdmpCZGh0SDUzN0J5dUItczViWlpPRkZpSUg0eFpUelVpSWo3T2ZJdDRfeVluYUQ1TFZyRnNwRWYwNFZoSHp0R0hncWdHcTY0cDJhVFM2T0w2clRVVjRKelQwWkR3MU9pZTFuM2JKVHpITS0zaE1uRkZoM0tfemdOVURPQQ?oc=5",
+          "pubDate": "2026-09-07T07:00:00.000Z",
+          "snippet": null,
+          "title_en": "The Renminbi and the World"
         }
       ]
     }

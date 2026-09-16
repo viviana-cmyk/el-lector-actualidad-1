@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-15T14:41:47.502Z",
+  "generatedAt": "2026-09-16T10:02:19.177Z",
   "dia": {
     "nombre": "Día de la Independencia de México",
-    "descripcion": "Se conmemora el grito de independencia de 1810 iniciado por Miguel Hidalgo, marcando el inicio de la lucha de México contra el dominio español."
+    "descripcion": "Se conmemora el grito de independencia de 1810, cuando Miguel Hidalgo inició la lucha por la independencia de México del dominio español, marcando un hito en la historia latinoamericana."
   },
   "dia_en": {
-    "nombre": "Mexican Independence Day",
-    "descripcion": "Commemorates the cry for independence of 1810 initiated by Miguel Hidalgo, marking the beginning of Mexico's struggle against Spanish rule."
+    "nombre": "Mexico Independence Day",
+    "descripcion": "Commemorates the cry for independence of 1810, when Miguel Hidalgo initiated the struggle for Mexico's independence from Spanish rule, marking a milestone in Latin American history."
   }
 }
