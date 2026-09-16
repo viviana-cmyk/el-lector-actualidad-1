@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-16T10:02:19.177Z",
+  "generatedAt": "2026-09-16T14:41:01.164Z",
   "dia": {
-    "nombre": "Día de la Independencia de México",
-    "descripcion": "Se conmemora el grito de independencia de 1810, cuando Miguel Hidalgo inició la lucha por la independencia de México del dominio español, marcando un hito en la historia latinoamericana."
+    "nombre": "Día Internacional de la Preservación de la Capa de Ozono",
+    "descripcion": "Se conmemora el Protocolo de Montreal de 1987, tratado internacional para proteger la capa de ozono eliminando sustancias químicas dañinas."
   },
   "dia_en": {
-    "nombre": "Mexico Independence Day",
-    "descripcion": "Commemorates the cry for independence of 1810, when Miguel Hidalgo initiated the struggle for Mexico's independence from Spanish rule, marking a milestone in Latin American history."
+    "nombre": "International Day for the Preservation of the Ozone Layer",
+    "descripcion": "Commemorates the Montreal Protocol of 1987, an international treaty to protect the ozone layer by eliminating harmful chemical substances."
   }
 }
