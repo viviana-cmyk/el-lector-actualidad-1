@@ -1,16 +1,23 @@
 {
-  "generatedAt": "2026-09-16T14:40:40.179Z",
+  "generatedAt": "2026-09-17T10:01:49.897Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
         {
+          "title": "Los Menores se fortalecen pese a los operativos en Argentina",
+          "link": "https://insightcrime.org/es/noticias/los-menores-mantienen-poder-rosario-pese-operativos-en-contra/",
+          "pubDate": "2026-09-16T16:54:28.000Z",
+          "snippet": "Los Menores se fortalecen pese a los operativos en Argentina Los Menores se han convertido en uno de los grupos criminales más poderosos de Rosario, la tercera ciudad más grande de Argentina. The post Los Menores se fortalecen pese a los operativos en Argentina appeared first on…",
+          "title_en": "Los Menores Are Growing Stronger Despite Crackdowns in Argentina"
+        },
+        {
           "title": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora?",
           "link": "https://insightcrime.org/es/noticias/the-insight-take-paz-total-colombia-salio-mal-viene-ahora/",
           "pubDate": "2026-09-15T22:02:28.000Z",
           "snippet": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora? Los grupos armados de Colombia casi duplicaron su tamaño durante la Paz Total de Petro. Pero ¿puede el plan militarizado de De la Espriella dar mejores resultados? The post The InSight Take | La Paz To…",
-          "title_en": "The InSight Take | Colombia's Total Peace: What Went Wrong and What's Next?"
+          "title_en": "The InSight Take | Colombia's Total Peace: What Went Wrong, and What's Next?"
         },
         {
           "title": "Cocaína líquida: un método de tráfico en expansión",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-09T20:28:32.000Z",
           "snippet": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela El fin del programa CLAP, creado para garantizar el acceso a alimentos subsidiados, revela su instrumentalización como mecanismo de corrupción y fuente de financiamiento para redes de crimen orga…",
           "title_en": "The End of the CLAP Food Boxes? A Decade of Corruption and Organized Crime in Venezuela"
-        },
-        {
-          "title": "The InSight Take: Crimen organizado y elecciones en Brasil",
-          "link": "https://insightcrime.org/es/noticias/the-insight-take-crimen-organizado-elecciones-brasil/",
-          "pubDate": "2026-09-09T17:09:37.000Z",
-          "snippet": "The InSight Take: Crimen organizado y elecciones en Brasil En el InSight Take de esta semana, analizamos cómo el crimen organizado y la seguridad pública están marcando la campaña presidencial en Brasil, y qué hay detrás de los esquemas de lavado de dinero controlados por el PCC.…",
-          "title_en": "The InSight Take: Organized Crime and Elections in Brazil"
         }
       ]
     },
@@ -79,7 +79,7 @@
           "link": "https://www.crisisgroup.org/pod/europe/nuclear-deterrence-europe-and-another-round-us-ukraine-russia-diplomacy",
           "pubDate": "2026-09-11T14:59:58.000Z",
           "snippet": "Nuclear Deterrence in Europe (and another round of U.S. Ukraine-Russia diplomacy) hschaub Fri, 09/11/2026 - 16:59 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Eu…",
-          "title_en": "Nuclear Deterrence in Europe (and Another Round of U.S. Diplomacy on Ukraine and Russia)"
+          "title_en": "Nuclear Deterrence in Europe (and another round of U.S. diplomacy regarding Ukraine and Russia)"
         },
         {
           "title": "What Future for Venezuela after the U.S. Oil Carve-up?",
@@ -109,6 +109,13 @@
           "title_en": "Global Gender Gap Report Media Briefing 2026"
         },
         {
+          "title": "Chief Sustainability Officers' Outlook September 2026",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1NwR2F5TWhUaTdsdEdjcTFyQU1tdWs5bnM0UVY3UHFNUDZ5Q2licDIyZFBSZlI3UWdZR043VXV0RGlOeDUteHNoWHNIYmdFamh3bG9ER1ViYVpDSWVRWEU0ZU5EUDdEYkFaMGpsS0ZRc1djaXotcFJZa1BJRjRhYjVrM0RJaE5Cb3BzaFRUUkhoWUE?oc=5",
+          "pubDate": "2026-09-15T13:23:49.000Z",
+          "snippet": null,
+          "title_en": "Chief Sustainability Officers' Outlook, September 2026"
+        },
+        {
           "title": "Institutional Lessons from the Malaysian Palm Oil Board for Strengthening Indonesia's Palm Oil Governance",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSElrRjIzaTA2MTFDVHU5WU9zaTE4VlRpalNfQ2Z2RFljNUJpWjlMaGtHWnhuU1RiQUVWX3NlRVMxSl91bUttWmpkNk42WW15b19BdkpoQ2hvZXBkaTlBOU5UaE9hSkMxQnJlQnlPVHpFUEN0TmlPRUtSUWNNUTBxV0tzSHAwa2dwdVBSTnZTSnZRZXpHSHBiRklHZTdXS18zbmQzV2p6SHhGRWQxTEdwc2p4SWlPcWEwR2d0T0pKS1gxZDUyc2hxRWNoQlFBQ1JtWnRkY2cxTE4?oc=5",
           "pubDate": "2026-09-15T11:37:19.000Z",
@@ -120,7 +127,7 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2tWMGtGZF95RkQxTGdfSlVYQzVXc0tIaXNhTFdUTkx6ZUU5NmJqUERCZTBfdUR3dFRnUFpheGw1VUhncXR2Vncza0RzS0hScnlaUkZlOXdVckExMU11UGd1Y2NZNHJnYXBENEZzVmtialZ2ZnNPLXktWWNJXzR2alRYTTBQQ3lwSUlrbXlRbnlfajFFMjZ4TV90NUliTnN4SFJfVWQ0ZTAyM2k2WXQyc2E5UGZvMThMT1kwS0ttakxSdXpNV0QzUWF3OTdHV283WldXWVZn?oc=5",
           "pubDate": "2026-09-15T11:35:52.000Z",
           "snippet": null,
-          "title_en": "The New Global Security Stakeholders: How Public-Private Cooperation Can Promote Security and Stability"
+          "title_en": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability"
         },
         {
           "title": "ASEAN Digital Economy Outlook 2026",
@@ -135,13 +142,6 @@
           "pubDate": "2026-09-09T04:00:00.000Z",
           "snippet": null,
           "title_en": "Experts Explain | Adam Tooze | What Is the Polycrisis?"
-        },
-        {
-          "title": "Renminbi and the World",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGhuMjA5NE1NZ3Y3MVRJdmpCZGh0SDUzN0J5dUItczViWlpPRkZpSUg0eFpUelVpSWo3T2ZJdDRfeVluYUQ1TFZyRnNwRWYwNFZoSHp0R0hncWdHcTY0cDJhVFM2T0w2clRVVjRKelQwWkR3MU9pZTFuM2JKVHpITS0zaE1uRkZoM0tfemdOVURPQQ?oc=5",
-          "pubDate": "2026-09-07T07:00:00.000Z",
-          "snippet": null,
-          "title_en": "The Renminbi and the World"
         }
       ]
     }

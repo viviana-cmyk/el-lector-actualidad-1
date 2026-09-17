@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-14T16:12:52.770Z",
+  "generatedAt": "2026-09-17T10:01:57.822Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada del conflicto Rusia-Ucrania y amenaza a aliados occidentales",
-      "titulo_en": "Russia-Ukraine conflict escalation and threat to Western allies",
-      "region": "Europa del Este y Europa Central",
+      "titulo": "Crisis migratoria y soberanía en Ceuta",
+      "titulo_en": "Migration Crisis and Sovereignty in Ceuta",
+      "region": "Norte de África / España",
       "noticia": {
-        "titulo": "Imágenes muestran llamas tras ataque de dron ruso a un tren de Ucrania",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjhqS1RSZHhHZEFhd0RXT3R4ZVJWaEVHQnZiSVNyb2QwRGctMEtpT2Q5Q3A5Sm40aVQwbU05WWNJbnF4WG1hWEJnTGlNQXN2ZlBhWk04UHg4enJrcVJkNlQ1SzhubTJMQ0YzbzNrbFRzNkhrZlhPaDVxMks2Yk42ZlRIaUs?oc=5",
-        "fuente": "CNN en Español"
+        "titulo": "Crisis en Ceuta y actualidad política, en directo | Feijóo pide a Europa \"reconocer el fracaso del Gobierno de España\" en Ceuta",
+        "link": "https://elpais.com/espana/2026-09-17/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
+        "fuente": "El País"
       },
-      "analisis": "Los ataques rusos a infraestructura civil cerca de la frontera polaca funcionan como advertencia explícita a la OTAN sobre los límites de su compromiso con Ucrania. Este patrón de escalada deliberada busca fragmentar la coalición occidental mediante la intimidación, mientras Trump presiona a Kyiv para detener operaciones contra objetivos energéticos rusos.",
-      "analisis_en": "Russian attacks on civilian infrastructure near the Polish border serve as an explicit warning to NATO about the limits of its commitment to Ukraine. This pattern of deliberate escalation aims to fragment the Western coalition through intimidation, while Trump pressures Kyiv to halt operations against Russian energy targets."
+      "analisis": "La acumulación de migrantes en Ceuta refleja un colapso de coordinación europea y control fronterizo, con acusaciones cruzadas entre gobiernos sobre responsabilidades. La situación escaló con denuncias de sabotaje a operaciones de traslado, evidenciando tensiones internas españolas mientras la UE cuestiona la gestión del fenómeno migratorio en sus fronteras exteriores.",
+      "analisis_en": "The accumulation of migrants in Ceuta reflects a collapse of European coordination and border control, with cross-accusations between governments over responsibilities. The situation escalated with allegations of sabotage to relocation operations, evidencing internal Spanish tensions while the EU questions the management of the migration phenomenon at its external borders."
     },
     {
       "rank": 2,
-      "titulo": "Competencia tecnológica y carreras de armamento AI entre potencias",
-      "titulo_en": "Technological competition and AI arms races between powers",
-      "region": "Global (EE.UU.-China-Europa)",
+      "titulo": "Escalada de tensiones entre Irán y Estados Unidos",
+      "titulo_en": "Iran-United States Escalation",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Leaked A.I. Queries Raise Fears of New Biological Weapons Race",
-        "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
-        "fuente": "The New York Times"
+        "titulo": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+        "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+        "fuente": "The Guardian"
       },
-      "analisis": "La filtración de consultas de IA enfocadas en armas biológicas revela que la carrera por dominancia tecnológica ha trascendido el espionaje convencional hacia capacidades ofensivas existenciales. Trump impulsa aceleración de desarrollos AI sin regulación mientras China y potencias menores buscan nivelar capacidades, creando un escenario donde la disuasión estratégica tradicional se erosiona.",
-      "analisis_en": "Leaked AI queries focused on biological weapons reveal that the race for technological dominance has transcended conventional espionage toward existential offensive capabilities. Trump pushes for unregulated AI acceleration while China and lesser powers seek to level capabilities, creating a scenario where traditional strategic deterrence erodes."
+      "analisis": "Un informe de la ONU atribuye un bombardeo en una escuela iranî a operaciones estadounidenses, mientras reportes paralelos documentan daños extensos en bases militares estadounidenses en la región por ataques iranís. Esta secuencia de acusaciones y represalias representa un punto de inflexión crítico en la confrontación regional que podría desestabilizar el equilibrio de poder en Oriente Medio.",
+      "analisis_en": "A UN report attributes a bombing at an Iranian school to US operations, while parallel reports document extensive damage at US military bases in the region from Iranian attacks. This sequence of accusations and reprisals represents a critical turning point in regional confrontation that could destabilize the balance of power in the Middle East."
     },
     {
       "rank": 3,
-      "titulo": "Crisis institucional y fragmentación política en democracias occidentales",
-      "titulo_en": "Institutional crisis and political fragmentation in Western democracies",
-      "region": "América del Norte, Reino Unido y Unión Europea",
+      "titulo": "Amenazas comerciales de Trump contra la UE y alianzas OTAN",
+      "titulo_en": "Trump's Trade Threats Against EU and NATO Alliances",
+      "region": "Atlántico Norte / Europa",
       "noticia": {
-        "titulo": "Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido",
-        "link": "https://elpais.com/internacional/2026-09-14/los-nacionalistas-de-escocia-gales-e-irlanda-del-norte-se-unen-para-impulsar-su-independencia-del-reino-unido.html",
-        "fuente": "El País"
+        "titulo": "Trump threatens to stop trading with EU over 'laughable' membership offer to Canada",
+        "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+        "fuente": "The Guardian"
       },
-      "analisis": "La coordinación estratégica de movimientos independentistas en el Reino Unido simultáneamente con investigaciones de espionaje ruso dentro de la OTAN evidencia debilitamiento de instituciones democráticas occidentales. Esta convergencia entre presiones internas (secesionismo, polarización electoral) y externas (penetración de servicios de inteligencia) reduce capacidad de respuesta cohesionada ante amenazas geopolíticas sistémicas.",
-      "analisis_en": "Strategic coordination of independence movements in the UK simultaneously with Russian espionage investigations within NATO reveals weakening of Western democratic institutions. This convergence between internal pressures (secessionism, electoral polarization) and external threats (intelligence service penetration) reduces capacity for cohesive response to systemic geopolitical threats."
+      "analisis": "Trump amenaza con represalias comerciales contra la UE por su oferta de membresía asociada a Canadá, reflejando una ruptura en la retórica occidental tradicional y el unilateralismo estadounidense en cuestiones comerciales. Estas amenazas colocan bajo presión la cohesión atlántica y las estructuras de alianza que han sostenido el orden internacional de posguerra.",
+      "analisis_en": "Trump threatens trade reprisals against the EU over its associate membership offer to Canada, reflecting a rupture in traditional Western rhetoric and US unilateralism on commercial matters. These threats place strain on Atlantic cohesion and alliance structures that have sustained the postwar international order."
     }
   ]
 }

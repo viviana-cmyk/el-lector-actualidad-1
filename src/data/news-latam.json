@@ -1,38 +1,46 @@
 {
-  "generatedAt": "2026-09-16T14:40:40.179Z",
+  "generatedAt": "2026-09-17T10:01:49.897Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
-      "items": []
+      "items": [
+        {
+          "title": "Marina Sena canta 'Doçura' con Luis Lozano, de Çantamarta",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUw1T0JzdTY3X01kWjRjTHNGTnBZaXlyZzR3NF9Wa0pZYmxETlE3YUJqYU9TY2t2UUllT0hQSF9qeGdyQzVXZWlaaVJobmdQOE1oMkNYNmZBSGZVT1RuUDN4eFdHNlcyX2tWYTQ0THVRMXJvLTQ0V0NXSlVMNjVyalFoaWt2M21BSGRMMWhtN0s2VHk2a0ZRb0V2Zk1qdnhSV1YzVVpFT09Dc29nVVg5U0JSc2JMSlVIZlo1YVdiVTFRd9IB0AFBVV95cUxNY0pOSGxlVjhEOFU5bW1ONlpKblNGR0MydzM0V25iN1ZSREZjYlJRSVlyT2VkU2lma21pZHZkMDZkZkExVTJLOWpVVDVmbG9xQXI5OVJSQXVUOTRoUEJjbmt3X3dPbHI0Mzh1YWdYQzh5cS1zckxhMlMyazBuSVhlcVpBaWc3VXNwQ0pxZ1NDbVRDM2xvcTFrdHhQNzdLSWhrYU1MazB1alZ3NDRwUTdyUGxMYjFFZFBlR0lZVUthS1RTQktIczgxNS00SGJwcVg0?oc=5",
+          "pubDate": "2026-09-13T23:47:02.000Z",
+          "snippet": null,
+          "title_en": "Marina Sena canta ‘Doçura’ com Luis Lozano, do Çantamarta"
+        }
+      ]
     },
     {
       "name": "La Nación (Argentina)",
       "color": "sky",
       "items": [
         {
-          "title": "Escándalo en la Armada: la Justicia investiga maniobras fraudulentas por $1600 millones en el pago de haberes del personal naval",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeW1GUzByRUQydW5WTE42ZzR4T0R4V3o1ZExoSThrMlBWelFaZmt6MnFqZVlBQks2aWRVZzJuOExzX19mcDNIeEVUY0FMb3lBS0pWN0NKc0xfdzJsVnFORFZ2S1Nna1o2Ym1YS3UxVUt2eUpIeDd0dzlKeHo4Qmg5VlNXOTRpWm5MVmVERGI5QWZjby1UR1cxd0VVT3NtZ1dQOHFYTHRUUTEzZ0Y1SDlsbGJUZlBwZkh2dzVhN0VqUVlSY0VpSVRMVFFxUW9FRHN5S1FSWkZ1TlBaRDMzVElxUXBFZw?oc=5",
-          "pubDate": "2026-09-16T11:54:00.000Z",
+          "title": "Malvinas: héroes reivindicados en los discursos, pero abandonados a su suerte",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemM0ajRlUVBxMDhzRlFTRmJtdjh6Z2txTDZOb1hmb0FDZjFwWlktRkFua3VUUHdfYl9YZmpKS0JWaUQ0aktWTjRKZExGN2poWHNnZGcxSzdBMGQzdkN5Nk9GNm1iMS00cVNXaEdQMlI3U0V0N3lLZHNWOFdoSDE3dE5SVmNmSnViOTczM3ZaREVNWWNoQUhIZktZVHpHSVNTLTF4VTZOM3A0Q2JNaXM2ZnZQeFllaGJlMnItZldRaGY5dw?oc=5",
+          "pubDate": "2026-09-17T03:05:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Scandal in the Navy: The courts are investigating fraudulent schemes involving $1.6 billion in the payment of naval personnel salaries"
+          "title_en": "Falklands: Heroes Honored in Speeches, but Left to Fend for Themselves"
         },
         {
-          "title": "Las 10 claves del presupuesto 2027 de Javier Milei: cómo se moverán el dólar, los precios y los salarios",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWER2VzlaU2U5VVRmdEdHUktvUlVFWVJlMWVYQ2pPal9KVDItX2lOTHJUOVo3SHQ5VHNkZmhTRVhybTViem8za0hLS1hnWW1mWUtodGtVclBtTkNZTHg4VmhBamhlczlRdjF5ZTVUQ01VWXdya3BGVnFoaFN6VzhsdkVIdFl2VzMyUTVYQnNweEVQejl6R2N6V25JMGZfOVBMcE1URVdSN1dfYVJlNkFLaVd2eUU1MlV1M3o1VGp2M042NUhLZUxpQk95OEZ3cDBCaW45Z2pzaw?oc=5",
-          "pubDate": "2026-09-16T13:22:00.000Z",
+          "title": "El humo volvió al Paraná: focos de incendio en las islas reavivan el fantasma de la crisis ambiental en los humedales",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFp5MVhhMmdaQkstZmxSMHNvRUFlOU9lSkxLZkJQUmczYjJENGdMc3lTUGhNd3J0ZUhzbC1RSElxRGc4c1h1QXBtYXp1TmVVdktZZ2xDaUFXTnNyWFU0WkN2VWF0eTFFaVc4Unp6STJISjA4OG1Nc3ZhU0N2MmRtaU5JQlVyNk9fWTJuVEtMR1UtV3ZYSVd3TV9zbHRsN3ZrOGkyYXRTYW5xYlJTak1ENlFuQXJGRjE0ODRHbWVTZC16Tk03RUQ4dGZrLTgzNlZEQmJJUmEwVzg1c2RHSlFjbXdVcw?oc=5",
+          "pubDate": "2026-09-17T01:29:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The 10 Key Points of Javier Milei's 2027 Budget: How the Dollar, Prices, and Wages Will Change"
+          "title_en": "Smoke has returned to the Paraná: wildfires on the islands are reigniting fears of an environmental crisis in the wetlands"
         },
         {
-          "title": "Sobreseyeron a tres hermanos del ministro Caputo en la causa que investigó el financiamiento de Revolución Federal",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUVVUbFI4MEZKNjBkQkVaa2F4MDZoSVJHbHdqNjREM1ctbHFHYWFyajBSZEx1WmFNMXpoUHJvR0l1LUduSk9lM3ZfYnhiY2ZFWnNvQTRPZm1PZC1TX0diSEhKRC0tVS1RZ2hnVFVZR1hjVUlycC1kc0JYbE9jNW9WQlZrT3Zld3NtMDZLQWc4TUFILTJXWEpYNTRaNW40NU5vNDhzWWktbFFqdkg2VmNZa3J1bnFGS1FzV00xZFl3RkFLUldRbDZDbW5hanVxcEJGSkswWkVtT2tmV3dUbXc?oc=5",
-          "pubDate": "2026-09-16T13:40:00.000Z",
+          "title": "Acusaciones cruzadas en el Gobierno por los cambios en la emergencia en Discapacidad que incluyó el Presupuesto",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSDJYeUF4S0Q3MVdzXzZxZHBWTUlRbUtXYVNqcmhVRmRCOExKMFBrWU55MjVhVzUybGFWS01TSktLNlZsaE0xQkE0SXhYbW5VYkRkYVZrN1JEbGtFUmY0eF84QmdIWVNsdmdCaHR5c1JhOFRTRVZrQjA2aG1hMTB1LXVnRC1uakpWTG5mRDdXM05IOTdsRUtRN2RZVzV2N3VwY1hjanZoemxqTF9ERHhmVjZlck4zMUY2YURTNUlDcVRKczAyLUZEa2dDVUV6QzVxXzJXWXhDVWIwbERncjNnRXMtdw?oc=5",
+          "pubDate": "2026-09-16T23:03:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The case investigating the financing of Revolución Federal was dismissed for three of Minister Caputo's brothers"
+          "title_en": "Mutual accusations within the government over changes to the disability emergency measures included in the budget"
         }
       ]
     },
@@ -41,28 +49,28 @@
       "color": "rose",
       "items": [
         {
-          "title": "Ejército y GN alistan desfile cívico-militar",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0tMVk1BX1dobzJKRzMzV1FpOUlZd0gxR0NMWDRhMnV3OVJrRHVsVG1XRXNsOU5VQWFfZlVCMmRGcFlPWkMxZjZST3hoWjJyTmtOalllU3RhbDJDT3ZOYVFMcDdLalltZ3N2UFFxc2hQXzJnSjdJS1hHQmgyVzZZLXBhWFlVbmktWEpn0gGfAUFVX3lxTFB5R1dvQ0RXV0tBS2xhdXRtSkJyZ1UtbHRSY1JWcUpSc3V6alhObGkzeGxKSDc5ZHh5d2NLT2NESE1aTTFrTVFnZHE3VTlqeWNWbkdzNkFHODVWbVhEQW53a3B0a0xyMURlVHdCc3ZQREdOS0tOYVhHTF9Oam5jbU9ReHFaOFU2UXY4SU0teEptbFVJa2VpR1EzcmFjWjk5TQ?oc=5",
-          "pubDate": "2026-09-16T14:03:34.000Z",
+          "title": "Más de 11 mil personas han sido detenidas por delitos de alto impacto en CDMX",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeHNfVnJ6ZkNvN2RjTVlseHVEcE03dko2S1U3QzJRR1NKTWdBR3pqTWNvMGU2Ymh6NXhKWlpBc19JNWZOZ0k2Rks1eXJjUnVYTENEemV0dlhrNG4tRkJiLU1ETEZYWEdfZi1pRzZSTzZZNjNiOFNaRGs1UmtUVTRpeThmRENYbzlQVkU5bmJ6RFFpNy1uZXhTV3ZvSU9JLVB2MTM4ZThHMm5kSERycG54bUNidlNBMy1nUUdHc3lQT29WTmpPOGF3cE0wTG95by1qX2o5V1h1MjFsTlZqcGhiU3FIVHZySWdqVEFuUVE2MGNkcGVD0gGIAkFVX3lxTE5zcGwxREJGTlN0WnI2cW1rR2hRQXFuWGRLdkdMWTY5S1Vtb00xSVJsbGNuTEJhS2h5NlplMkJTZDNYNi1SRWU3Y0FnQ2c4X295aW9tRXM4VDVNZDg0c3pvUUJDUkdrRFcwY3JqWUFNMk9WZUlBbm9CRlNucnByX0hnNDBPUnhkQ0F5b2ZHYmUwOWFRMlMwTnBuSGFkMVZoeFV4LWlkR1g0Q3kyLXZZQVR0M05mZHhnWGVCYW1SYmlvejQzMFNabU1OdzA5cmdJMGJlTVI0Y2Q0WWw1cHAwa2NEYzhWa2M1YjRxUHNZcW1IaldRRy1JeWhnaUlZd3hDWjhrQ2lJNjdsbg?oc=5",
+          "pubDate": "2026-09-16T22:24:38.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Army and National Guard Prepare for Civic-Military Parade"
+          "title_en": "More than 11,000 people have been arrested for high-impact crimes in Mexico City"
         },
         {
-          "title": "Perro detecta cargamento de café con cocaína en el AICM; decomisan más de una tonelada",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFNTSHBmVERmT2wyS3djY2NrSTBmTXdFUFBfQ1ExWnhRbHZtcHBmdEd5a3JRaVlDaWNVMzg0VjU2ckpDTDBwczNTSkIybVdDNGUwVF9HVFRKSGFXRjR4NjY3VjZNbElGSlU3WW90bzFNdnI5VGd4c2c4Z18wUTAxYXNaWlgtR2hwbk4zSWJZSHZYbmhZOFBaMVU0ZkJMa3l6UFM0SEd6SFhKdmdYUGU4MGctaW43WE1leVJsN3dyT0U3QdIB1gFBVV95cUxPUXNkY1FSTGlHemlydHhVZGMzUkVwU2dHUWx3alRXejZzYUFrelRLU0E4ekE1UmFJdjhCRmphQXJleTVIeXFkOUU1Z0FvbEFCMGsya0hpWFF2NGpUVVY3Y19pQUVSc1VDVUdiOUhJcmQ1emVhaFZvSHd3b1dZVlFaRVU0Tmt0a3pZQ0VkNTZzZnl1TDhPVXFpNUcwcFhVZjBxNWh2al9uRnNzbFo0WDl0RXlXV29mWTJodkY1aFJVMGxqNVZPTUhGNHpEVVU1Nmt1TkxNbUR3?oc=5",
-          "pubDate": "2026-09-16T02:55:56.000Z",
+          "title": "Renuncia secretario ejecutivo del Instituto Electoral de Tabasco; lo acusan de proselitismo a favor de candidato de Morena",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHNHUmRCTjBNeXRnNUhsTE5xX2JLVFJsOG5HMzQ5S1lvRGpWeFhRVzBGbXBfSnB6S2lUOXVRNjlFd0lMbVp1WkRvT0t0NVBQZ0kxWDhDT09GUTBfVldrQTdJbEtJNzF4Z2h2MlJUU2ZCNFViNWJQQnl2b0NMVU5MOWx0ZzRJZDJhaGhNYlR6cklya2dNQnNwLU5HZmQtQjlINmtVNTRNcXdRdjMzME1vOThwUnEwYW1qMVhpb2VNXzU5MUZ1dFJpWVVDZVlzZ2ZQZkRVNEw4T2pFUnphajJodDNjMG1Xc3M0c3dZYXFueDRxYkXSAYcCQVVfeXFMT3Ewa2ZkckxYM3k3eVJuZlQ1NlkxcndCYWZ0NnM0TTBwUmRZTnhSQWZzc2NjQlBlRXVoeVo5SUo5RUZKVXoycVNEZkpsVVZmdFdweUluVHp5TUJlUE8tb3B4WWJVeTJCd0hLUW9zajZPSXd0UHVxU0RjX1piRzgxQjBURklBMGEyX1VfX0ZBWGlXWDBnem5tTV9IbnhFc05SaWdnWnlHcmthWFBNcVk4Z0JBN3NOYWZUMnhzTG1FWmYxU2J5SUY4LWFMZjNDREcyUmpRakpxYXRWT2tVSDlkMmU3THJKaFhzTHppR0d6Q1JoZHhjVnpidFpLeFpXdHdSVnE3MWRKRU0?oc=5",
+          "pubDate": "2026-09-16T22:00:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Dog Detects Shipment of Coffee Laced with Cocaine at the AICM; More Than One Metric Ton Seized"
+          "title_en": "Executive Secretary of the Tabasco Electoral Institute Resigns; He Is Accused of Campaigning on Behalf of a Morena Candidate"
         },
         {
-          "title": "Detienen a comisario municipal en Guerrero; lo ligan al homicidio de un Guardia Nacional que dejó grabado un video",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdlJHN1BoYjkycllVS2c5ZVFmZ1VFV1A0YU00dUJrMjZydVUyR3B1WDRTQ0JqZWJWZW1zMldVSzlva1JYRVdjQ2dlMmdlRjhERHZiZF9mRzhYZXZnSjlyeENNVXVqc2JvTGJEem9ZXzRLNmVxMTdWY2NOR084cG4wcEhlaUVkOTFEaDRjVDc1a1hrVF9xV1FrZUJoeHVLMDAwRl9XTm9PMWREY3dwNW9nYlpNUmpuQU1qZGtTLUNldTNaLVNLLWtteldncDl2aHh6LVN1LWw0QS1Gd0pRRTlaZmE1aXVJa1XSAfsBQVVfeXFMT2U5ZE5LM0NIUnhqYll1VktaTzlKUkp4c2h1clhLSTUyZWxsck4xQTNxQTRHY3dCYzRXaGZ0b184VEhreFB0ajVfdV9PSGUtWmNiV09OSG5FcWpxZkMyenpZbE4zdU9uLXVDZVFfU0tuVkl2VWs5VFlKQ0pKUVhvNlNrbm9ZR3hYNUhoYTZWNFNOTThaN1B6eVdBNnVLMkg1MXlGM2pKMUJ4N0cxOHNSSm1QSGFwWkU3UGRfZXNGQTlpVy1xV1M1bm9NUlVzRXJkTE1BaU0zZkpLOEVmaVc1S2dVZUNxUlJxUDBMQk9oWEdORG1IaXp5d1VPVlU?oc=5",
-          "pubDate": "2026-09-16T01:09:00.000Z",
+          "title": "PVEM propone hasta seis años de prisión a quien abandone a un adulto mayor",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDVkX0JCaUVnemE0TUlSREY1bk05dFplNmRBdERGcHdISTR0eG56OWxRa0tnbUxCVVhFQjFWTU93VEZGc2VGOEIwMkp0RUw4enRIVUdCTVdEdVk2RWJnNkl3RE15WWlLRUFkYWpGUm1Qbm4tMlBOb1dlSGlCenBNRUt6WjFuTVRDZl9FQllnbVIzYnNVZ2RFNzNYNkRHdThGZWZXeGtNd3RkWGFFQV93WHU2V05VWFp3WlVFRlA2M1FnY1lnUWV2SFlEU2NGWEs2enpzbHpfLW1xYmlQLUR5UXZrOHdzNjBIcVhiYtIBgAJBVV95cUxNVWZtdTVlT3lTbXo0ZE1qWmt5Ynl2N01STXcwb2ctcDhlTlQ3RFplMVdPcEtqbHQyRThEQTZ3cjhJVzhRSXpWdHRPVkl4UEo2ZU04SW54RjAyYm94Y2dDYVBKbS02c2ExWXktOFZWU0NaNjQyYW9JTkxhV0VCVlBDRXZLa1N4M1BBaDQ2T1RCdVJEREQzdE1lUUtHRnY1LU0zN1hJSzlFb1hURU9kSFIzUjVTWkVSdFlVTy13WEFSZ3pWOXUxckdvaTN3X3BjV2NDLWlCcVA2cHppUDhBYTl3b0ktWGRtUmZ6STN3MzgzWGFrYm9TZWptOUdKVmhJSmtT?oc=5",
+          "pubDate": "2026-09-16T20:21:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Municipal police chief arrested in Guerrero; he is linked to the murder of a National Guard officer who recorded a video"
+          "title_en": "PVEM proposes up to six years in prison for anyone who abandons an elderly person"
         }
       ]
     },
@@ -71,28 +79,26 @@
       "color": "peach",
       "items": [
         {
-          "title": "Yenifer Paredes y la Confemin: Los detalles de la reunión entre la congresista y los representantes de los mineros informales",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaUlRMDdoS0RRc2dKYmZnNlliOWtZa250Ym1oV2FleGFaTl9rSWFMeG5YMGJfUXQ4aFJJTWF0cnJCTUtZWWVnQnY5RVZkc1lSeTZ4dThDVF90aGNoMndKOFZaT1hwYlQ3eHRxNEJzV0VreE1sWGRtNDI2bDVrLW91MERZSXp5Q1NIcnExalZCNm1BZk90aXZfMGsxSDZqYzBNbnFIaVVTZDYtMDZMLTNId2ZHWEdRd2VkQTItTy1tZUZ0R2dXcF9LYll2N1dFTmlSWUlTS2VmZ3dpdHJCV3VXTjlvWHdoTExCZzdWSHNkTzQyRWt0WGxJ?oc=5",
-          "pubDate": "2026-09-16T12:29:22.000Z",
+          "title": "EE.UU. tiene armas en órbita: qué se sabe de la militarización del espacio (y sus riesgos)",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNUZ1c1JIYk1LSnFudmtpR3drcF8xZU8yMzd5aEpadVE5OUVJUDFGU2xlVlFhX2l1N0xXcDNNc2trN2pXTjFEOVZDclVQdDE1SWZjVTY1ZUJnSmZlNzM0clpMbnRyMjhqb2l4YldPSDE0Ri1ZdnUzaGpadldPZkJKdEpWZHRMRUVscFFVci1xaVBKb3pGajVOZVloTVFQZEhoTHZPU3pBZmhuYXA2Y1BkUWhtVjBtcUxicWFoYnZrUUlhcU9xLUp4elVYd1NpUQ?oc=5",
+          "pubDate": "2026-09-16T20:17:48.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Yenifer Paredes and Confemin: Details of the meeting between the congresswoman and representatives of informal miners"
+          "title_en": "The U.S. Has Weapons in Orbit: What Is Known About the Militarization of Space (and Its Risks)"
         },
         {
-          "title": "Informe consultivo de la Comisión de Modernización concluye otorgar parcialmente las facultades al Ejecutivo",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVGFVQ21yd1VNNlBodkNWdnJfbDdMendnSVRPdldxZURGRTN2cHAyWDlhVkZTTm9oX2NRY1JIUUxGOEIwMUxqRzFyYTJZcUlDbktzV0lzemVYTjhCNmVwMU5OaEpJVTg1Y1JwamVfY3JHUjdSazFXYm9oUWVNbWRoTENXSlE2MzZWLWxLLWZ5SEs4Q1l0NXhQQVFHbEp5LVBYQ2xUS3c2NjlXb1lzNWtwRXpJYWoxNVR0dW1ZcmVMUkdDRkFXYkU4TDFaanFjVzQydFNtdU1mTVJGSElRdWljMUZOZ2w3MUgtYy1wb3Rnd3FJZ0hsNnhYeXAxLXpEMDZIZDZzaFpYVTJxaUZR0gGgAkFVX3lxTE52WHRqY1h5eS1vbVBPdzRIUTZnYlg2cTFBaVUtLW5ldDVKVFhsNFBRTVUteVN1VHp0MVpIQXA5OWZHQ2JzXzRrN3hpdTF1VlgyOWtOTGp4RWx6MzkxYktMVkNqeDMyaTF5UnVvWmRQeDB0TGJGM3AyV29SWlo3UHRiSDRiSUxmWGlTOGdnVnotbi1sYmo0cWplRWRZWWJJMGYzTFBLY25SdVJuXy03NFFsS1RwQXhJbU11UWhfaXVRcnVsSFcxZ3pfLTZ2cGlpZDhiR3NiQnEzZnhwaDZDNWw1NTdnR0tJZDFZY0V2X3AtUTYtY3JqZ1Y2dDAzNDBSXzNYSFdzeW5aYi14dUM5WGh0Mk94ejVZRHE2a295STY4TA?oc=5",
-          "pubDate": "2026-09-16T12:16:48.000Z",
+          "title": "Torquay United vs AFC Stoneham (-) H2H 2026-09-19 - FA Cup 2026/2027",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0RvVDhTUkpOeHNSVmY2N1FZWWNnaElsb0dPRTlWZnVWeVFldVl5U0xvUUY1VTVFX2xBSXZuOG54eEtZYXF3TXRaVVl3MDY4MFNZdDZNYzFPN2J4WEk5cUVzM2UxUEZxRkNMdldxNHJnaTBJbW9mb0hMS1I1Y1lad194N214dnNudVE?oc=5",
+          "pubDate": "2026-09-17T05:58:42.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Advisory Report by the Modernization Commission Concludes That Powers Should Be Partially Granted to the Executive Branch"
+          "title_en": "Torquay United vs. AFC Stoneham (-) Head-to-Head 2026-09-19 - 2026/2027 FA Cup"
         },
         {
-          "title": "Debate para la Alcaldía de Lima: temas, fechas, duplas y la situación de Rafael López Aliaga",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFg2OXo2TnBQMTNHTUZZYUx3MmxRYnZJVXNhV1RjeW1zb2R3M1RWQW13R2w4eFlCcUMzS2ZMRjhXdHNndkIxd2E2STdXSEJlclJtYXdabjFyTWIyOVVCaEV2N3ZuY3Y1OFV0YjZCNmowMmF1Rmk2VzFMeURxa1pPanZ6enFickk2Q09COFgwdUs3aVkxNFJDX3l2S1REZFlkUDdldnVWM3FxbGlyNVNEWXBSbHVXZlZ1SVVGeGZfNURRaXdrQjVvdVFjb20wNUtreDVRV3hKQdIB6wFBVV95cUxOMjA4SkpuRVBqZkRaNWpaMWxBWTRkaTVKd01NNFpraEhxci05RjkyZmpzaFNNQzdwdjB4YndiSWQ2U3hiZ0dvSjk3NjN0QTNYbEZpU0taSTNlWXhucWhQQlBOcEdQejJsemlyTHByRXl2NmdZV0FHZmtzTkh2TU5odUNncGVsQ0RNWHBLQVhSM01qLUJmZGczdHVzTWY4MmlYZ1c4aWNfb0o3emIyZ3MweWhKenIxcXVvMUhSNE5BdXZfeUtqaC1mYkhzdEtmVHRScDY2RmxvbW95X2tyRkxhbWlDTF82UkdkMEd3?oc=5",
-          "pubDate": "2026-09-15T21:07:21.000Z",
+          "title": "LDU vs. Palmeiras: penales, resumen y goles del partido por Copa Libertadores",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPRTR5UzZra1ViU01RZ05URDgyUVBrQ2JuZEpWc3lOX2kyaFdPczRVZ3B5ZUU0T01SNkpjcmMzYnRGN2lMQ3NfczVQbXl3NUIzMWRlajVWVGRsUTltb2dPd1RVVjkzV1NldThLZkpsR1VQT2FqeGk3Vjg2Mzl0cXRWOHkyb1JMY2dWNjlsM0VTSkItd09ZdVFpd2Y5WktDa2J5cXNmR0RfTkZjdzZqSXI4TWI1OXZiTnU5MUppQkdFbTVSQlMtSERpbVUzaVF4VVdpYkVVaE5sRGMweUgwMG9Ja1lIVVRrNDZ5eTFEUUU2Qk1ITkVWaGdhZmQ4am94WFllNXl3ZXA1eEU2MVVleHVnaEd1dlV2U3dNdElFNXNMN2twNHhNTHdJVGMtRWpQSC1KS2Z0UHhkQ09KMnRFblJsWGU1Tk1lU2EyVzFyQmxWd3ZjcjMyOFMw0gHrAkFVX3lxTFB3bXZaVGdpUWJObm5Xc1NTaDBoTWJwZHRVdXlHby1tbmFUVXdWbmd0RHFjTXFoTjVmODVLV251Snl5dHFpWXhQa3gwZlZYc2tpVHFNNHY0QUdZRVRfTEhrNUpQR2VTaFJVRnlPRlk2dUNoQWdScFRMWUFiQ3ljamNGZXBhb3hoVUhUZktweXNRVmd4eE9QaHdjem1yVjZhM0RiemNuVG15TWFsVWFQYWZFMGtFeGFyQlFzTm5TOVB4emNMdGVMa2owTHRmSU5rdzZPTmhnb0VhbkFwT2ZYbE40eXNpWGlWRGZRSVd2dEw3WnF6VGlWSmZPXzdYbWhMWE9pZWw3MW85c0Rsd3RZRU96ZVJOX19yaGZ6ZFBrWmw1LUxoQllWMzZEUTFnSk44VTZRa2U0M1pkelZlR3VFMkpnNTBzeVZzbHQtMHhreThLenlYbjNFTUNlb3Rua1gtY1JUcXF4U2tBSGhJOA?oc=5",
+          "pubDate": "2026-09-17T02:05:24.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Lima Mayoral Debate: Topics, Dates, Candidates, and Rafael López Aliaga's Situation"
+          "title_en": "LDU vs. Palmeiras: Penalty Kicks, Recap, and Goals from the Copa Libertadores Match"
         }
       ]
     },
@@ -101,28 +107,28 @@
       "color": "blue",
       "items": [
         {
-          "title": "Matthei arremete contra la coordinación del Ejecutivo: “A Alvarado no lo inflan”",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmpscjJ4aGxlbHRUYVFxaC1YZVNhY2ozLVdjU2xVWDU2VFJMc0p4enFHMkdQTHZ5ZVRKdjJmdW1Ya1VnWU14NWpPdW1rZG1lOTJiNkg2RVFsOUVtRUFGTFVVWG5Ub2tPZGxSdkFYbmEtRFhGd2FaR2FDcFlfcnZ1cFdRYm0xSVIwenN6aXFnMm00WWdDOUJHQktYTlRRR19feC1laTZ4VmZXdGZwb1EyQmRfZHpPRmpDMEZnNjBR0gHfAUFVX3lxTFA0VGtrNWpIUkxyUUI5c2Y2Q3NKSWplV0NuSENmR2lpempJSVZxUXFJRVFoaFNWVzdFUmZPUkdqR1J3bk96NElaZUFIVFJITDJpd0hkU202N1o4SktsZWxyTE95NW9yUTV4ZG1FS3Qzc19LcktpTThXemM3RWNXVHdHWGJIS0lzeXMwMnR0cE5HQmNBYVBPeHpFTFlYSkQyYzlhZldjWFU2dlZETXlwWFBiTTc0cm9qNk9kVGRxaUdPbzEwbTBGT1lhQkxHeTVqWnRJWHJvTzd3eU1JWGtlaWs?oc=5",
-          "pubDate": "2026-09-16T02:05:36.000Z",
+          "title": "Gobierno busca reactivar obras del GAM y alista concesión a privados para la Torre Villavicencio",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaURXN2FnQWg3TWtPTkU3Wl9YMkpPejNocUNURU9KS0ZBYm9jLXpaWEhHUWg0U001Zlltci1nTHJUNHNOenJWRHZTMTVDM0NFbDdkZndhMGlpVjJIVGl2RkxoRldVbWx5QTlDVDNhUUl2OGFKTl9yb3ZmMzNuYnB6LTRvNEZKMTB0VWsyUlhsdDFrRFY3T1F2TjJCSHV1c25zOWRsbTE0YVdVWnFrTWRlYW96VS1qVnFFWmEtV0s1Q2lIbGpHcGpHZmlVeHBFb180S0tnOGVSMNIB-AFBVV95cUxPVWFTeFM2OTFiR25pX1dwcnRjU0pxSzJ5QTNJQlZyX1JPOXkxckNaYzFIUmtscDBBY3BVUXZGaXNmcVo3YWRwWGh5N19aMXVVZE5GejlZYWE5LWFpNkdCSFU3X0pMTGtLaE9USERtOHhEZE9RQmdtUmZZR3ZUN2NEWmZYeEt0MFZrZmhlRDhiejQ2Q0w5c3F6U1A0aHd6V3ZJcGdhT0pwRmRXak5nZnRjN0FkRUl5N2Fza0U0WHA5QVZRZXBRdTdFQ2pteEYxYVdGb0hVWENnX3NYRkhQaUJDaDR6dHlmWlhPSEFYdUp5WW5sLXY4YW9jUQ?oc=5",
+          "pubDate": "2026-09-17T00:10:41.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Matthei lashes out at the administration’s coordination: “Alvarado isn’t overrated”"
+          "title_en": "Government Seeks to Resume GAM Construction Projects and Prepares to Award a Concession to Private Entities for the Villavicencio Tower"
         },
         {
-          "title": "Minsal pide renuncia a seremi de Salud de La Araucanía debido a declaraciones post tragedia en Pitrufquén",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa3c2eTN1dUxzd296UHlrVWR3Qk13VjJzTmZXWUI2RUVsaHFwWGNLYnpPc0xhYkQ3VFlOS20tTXdyUlBJSWh3YUFDS2VQaHFZTHN4S1ZTVDc3cmJjaTZ4ZDJ0MmFOYkxzQXN0Vlp5ZnlSbDFQY1oyT2Q4dDBqdjZra0loZ0lCVHRvc0VHc040YzJTSUFaai1NWHRMZnRIdkR5Z1FMTmdoVERzNVExR2hYS21mNzR6bEdOQnNQODBEajZLZ0h1aUR2V3ZtRXhvb3NwaVFhVU94RjhkTk9mdUYta2ZFa9IBhAJBVV95cUxQWE5wNW5tdXRxNjhnaG9TNGtDbzdJeUR1S3BzX2VDcWpDSEJRbnNvaDZoNTdnUWppZ1BucjlMeXZySThSMnM5MHJtb2tVNEdlSEN5WWdSRXJVTTR2MHAyZ3FLZ0NpVkszSFkzeHA3NjI4VFBZYkZoR3BrY054dUdsaEQzaG5pcEdOZTJWYy1ZU2VHT3BQUzVPZktfVUhpYmRuRXVDRl9PRHFtYzAxODFob3FNV2dSVjdVQkRURHRWLWlIb1Q1aXU0aFVlZ3RiN3FVbjZKU0xLa2JkQkU1U1IzaDRCUUZYR0g4bDZtM1hfSlVkT2pkTlBuRmU2MkcxRkt3QXdVSg?oc=5",
-          "pubDate": "2026-09-15T19:42:25.000Z",
+          "title": "En prisión preventiva quedan 6 funcionarios del Juzgado de Policía Local de La Granja imputados por fraude de multas de TAG",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVm51UVhxYTZNcGxhYm5NdVBmNUpxeGhBdW1zNk9QWldRTU4tQS1uQWpJS1ZsQXRkU3ZNYjNwZ1NtTEZ2MnBST1dpdUFMRWZKRzZNX3E1cktod3lfSWlLRGVReEEzTUxNeFdta0tCNzF4Y0s3T29fT1ZsdXhabXBMaHA4QnpmN3VLN1pzZnhXQlpFX0hTUlpudHdMaGNkcHFVeXZ4LVdVcDBJbVhFOUlTQ2ttd1FXT0JMT21nWVV1TFdSLTd5NUVvaEtXNTU4aFRuM2gzQUd2Q01GS2ZyVl9aekNDMThVdy1TZmJSNUtQR2cxTFZTV3F0T0NPMNIBnAJBVV95cUxQeGp4bkRJbVFrRTRzWU9VaVVOWFVfTEJPM2wyQ3gtREczc1ZUZWhPd2owTGpWZlBsWGt1b3JIdkFsQ09ZMElJRzNjaEtjUU9uc1lGX2M3V3BwVk5ZaDlHeHdWRGVGTkQtZVlFX2NNQ0NDdEFPQzl4bEQtREtRM1hLem5ET3A0UTBBb0d2akJjYmlpNlNPY1VBcWVKU1lPMXpFWVhadW80Ul9JbGEwUTFrWDFUOTN0SzRfQndlWmZEWFhaQUpaanRGWnk1cENuM3djeFdlVmRMNURQN09DVUx6alBzUUhqN3ZlNzBGZHUwSGh2eWpZeEZmTm91c0ZsXzBsWjBlMTktbDBRNVpFdC02Uno5eWQ5NW1VeDdKTg?oc=5",
+          "pubDate": "2026-09-16T22:27:44.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Ministry of Health Calls for the Resignation of the Regional Minister of Health for La Araucanía Due to Statements Made After the Tragedy in Pitrufquén"
+          "title_en": "Six officials from the La Granja Local Police Court, charged with fraud involving TAG fines, remain in pretrial detention"
         },
         {
-          "title": "Parada Militar será la más grande en 17 años y estará marcada por rol especial del Ejército e inclusión de la Virgen del Carmen",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV0dORnpQZng1RUFqaE5NU3JOdXF3cjl6MDQzd2tzSjhhNlotNEtSNzJETXp1UTNnUGlMeENBd3VpaXFScjlWTzE3S096M3Z5bWhzaVpJaTRzZElfdFBqaF9saTlSY0tLVHVtNXBoNm5JbEdETTVSQW5nSlM0S0tYMlFVYk1heFZpTVhkMG12ZGtEMnl3akc3VFRVT2ZnZno1b2NoQXplVlIwbzBad3FXLVhsRHlaZVdHSEVlcldHSHpac2tGRjZoemtBSjBIalltREVYcEsxdEZDanVrTWtTclIyVTVObkJmMEV0QjE3ZHhuWlFpLWpRc1N1RUNxQzF10gGiAkFVX3lxTE5mdU51R3ZZQVNkX3JUZ0xtMUI5NW9UQk5uemFzbFZnZUtJNHktSXVwOHNVWkpraWQycFE4bXFaRXFueEZhNWpucjRuVzVXdmI3VFJqUDNrbklUOTVNLXgtZWRfSVROWDBaX2VWTDRjczNtTUxEV2t1LUw5cGxHeWdCZXRkX1Q4MFc0ZWI2ZDZzR0ZyZWZGWG4yZ0dFWHhsZDY2NmxFVUVqVGhfWTlzLU1IdlBlRGdsd3ZyVFFENDVnSUc5S3JNSlBuMG0xT0lGc3dQNmstMXpNMGVPVk94a0RNM0ZWSUhSVmFvMktxVnZQbmlrVzZCWlg4WTBldnNYeEdSOFNUY1l1Y0Q3cXdZRTg4dDRJdWtkZnkyRWFQY2NBalB3?oc=5",
-          "pubDate": "2026-09-15T19:00:25.000Z",
+          "title": "TC da el golpe final y confirma la constitucionalidad del instrumento usado por la Corte Suprema para remover jueces",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ205UmpwQnVranZuRnA3NzdmUzdnOHlGV1ZMTTV6RjF4bVNMQUdpemt4cGg0OE5VYTg0Wk9QVGdYSGVLb2d1LUhlVEJfSXRwR09IcWYyMWxEcGVFSVZScnRfYXFqTjZ6c1F4YnRhdmRGb09EVkFOUzREdkszQ3lZd1FlNW9yWDFjYTA2M09LTWxtUDNnNGc4NGxxUUxiZ0ktaU1IS2RGcm9zdGc0TWd3Qkg0Qlg1VENLbHYtc0V0NXI2TVFtcWlYbU8tTUJOelZnbjQwN2FzWW9qR3lQT00wd1lvMkJLUURLanBuY1NCa3RYT2Z10gGWAkFVX3lxTE9BRnFCaW81M1BSY0hqdVpiTDk5TmpmZmJ2RE90N3FIcU1fNk02cTFNMEtqRm5DbHJzdGRjb3JNNXI3enlZVzFkUk54VVI3bTJkOGRVU1pWQ0R4WDFrcnl4aW1UYnluWVJ5Rm5MWnZEZVJ4T2tQaGlWVjdnWDl6OElNVXZQcmR1a0kteG9yS1ZRRm5PaHhuZ2IwWlhXWUFmTG5FZ3FWbnRlTlpZSndNTmZIXzNKcmFIYlJhMjZNYzdfajZBcE9qZ3hWalZhVnFEYVcwSTVISkJxZlZmOEVPeF9LM1NfSWJiNVZYMGdEWDFXcUNkUnpfSU1haHZOUnpudVRyWlk5Mi1sV3dRd0RPeS1ORkpXdFlR?oc=5",
+          "pubDate": "2026-09-16T20:11:19.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Military Parade will be the largest in 17 years and will be marked by the Army's special role and the inclusion of the Virgin of Carmen"
+          "title_en": "The Constitutional Court delivers the final blow and confirms the constitutionality of the mechanism used by the Supreme Court to remove judges"
         }
       ]
     },
@@ -131,28 +137,28 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Sin jóvenes en la agricultura, Ecuador se queda sin quién le produzca la comida",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR296WVM1bGFUNm8tVERGeTFqMTJUc1B2alV0aGFhSmNDSmxGY0FWeEY5RFlpN3E3QzFjWUtkRXlUNlpGX0V0RDltU0pJQ0t2YWFKMDNXZFRBa0xPZWVqLW1XTWFaSTdUY0V5ZWVPX2NtX1p0RWVsaUwwa1lZeDJhTVBqVmJMNzlNMHRHdTJpRXdHU0lUcDJQRnlRVXZzeldEOVI4UElOUlZ0cExZMVE?oc=5",
-          "pubDate": "2026-09-16T05:15:00.000Z",
+          "title": "Ecuador aplica estado de excepción y toque de queda con diferencias clave",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWdJM1hlWF9jbC1ERExjaW5jQ0t4bGE5Mk51aElYUk1GZlN5TkhNSW52S3M1MnFYaFFKelJMVFZUeFl6Y015VDZaNkxPWWdXQ2R4RndKVFE3UldUOWVoOHZFOXVwcTBLVkRVZHA0SkExR0hvZlpjenA0UGMtemd3R2kwS1ZORVFCTFVoUnZoVHlzZDh6Vl9qX1cyXy1KM29aZFEtZk1Wck1lVU8zd3Nn?oc=5",
+          "pubDate": "2026-09-16T21:41:36.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Without young people in agriculture, Ecuador will have no one left to produce its food"
+          "title_en": "Ecuador Implements a State of Emergency and Curfew with Key Differences"
         },
         {
-          "title": "¿Ecuador aún tiene jueces anticorrupción tras la decisión del Consejo de la Judicatura?",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmVxSXhGSlN0LUxWdEFIdDZuNUtfc01PTUl4SDFJQjBOUTV1dE1GZ2RlU2NTLThVa01jaHFRa19ScEQ4RGE1czcwQ2RFM094R2tRVlo2TDZTby1XVjBrSk9EaXFWX1RJNDN1NmhIT01HbzQ5MXFfaTBKdGEteVI0NDhKa3hLV3lZNGE2QkNzWV90T3RCdlItWjR4bFFhUmRscDlsam5fNFg4OFItal9LMDktclZiR2ti?oc=5",
-          "pubDate": "2026-09-15T22:22:17.000Z",
+          "title": "Incendio en La Vicentina deja 14 pacientes y un aprehendido",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONVpMMk1XTHZrMzVHbHVGV1hrLThmaGhkbHZkZVBtZFhkRmhEWjNfYTlRTi1UT0x5MEppSXZCUExVaVdEZVZ3RXZVWEVVdVJQYUxFTnl0RFpFbUZCOE00aFhuUXRMYkdONFZlR0d5eW9MQTlPcEtHb2ZpNml3cEo2XzBSX1V2MGZZMWJYWGU0Y2Fhd3F0LTdKOFQxNWE1UQ?oc=5",
+          "pubDate": "2026-09-17T04:20:36.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Does Ecuador still have anti-corruption judges following the Judicial Council's decision?"
+          "title_en": "Fire at La Vicentina Leaves 14 Patients Injured and One Person Arrested"
         },
         {
-          "title": "Juez llama a juicio a 25 personas por peculado en la Portuaria de Esmeraldas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUE2QUxyd2JfX2pLdXNkdkljb1dTUG5fYjhYM1FHaTlVV1VMTUJ0MFZ6cUJlajV5RU45dEtfa0E5djllaFhROE1fUmxnRkJpSWVFaFFuZ3F5TTBwRVBxakpCb2c2dXNObzZUT0hJQ1F5NDR1Z1hTOG9wRkxRSW84V0VIdHV0ZFJvb2labmgwZk5FNjMtVjQ2ZTRjMUF3dw?oc=5",
-          "pubDate": "2026-09-15T21:49:01.000Z",
+          "title": "Mark Zuckerberg, CEO de Meta, critica frenar la IA y pide mejorar la seguridad",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3U0M4NFotVTg5eVJWUm0wejNYV003SGlWMGY3c3ZYWV9hZnYyXzZiZDJ5Z2tLMGh6WGpOclk2Nm1weUlmUWRSaVRDZHZRY1RiU3FLMkQ4TGxyV2dZZy1ULS1IT1F4aUFmZGlqLW9LOWlwYU1GcWc?oc=5",
+          "pubDate": "2026-09-16T20:00:18.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Judge Orders 25 People to Stand Trial for Embezzlement at the Esmeraldas Port Authority"
+          "title_en": "Mark Zuckerberg, CEO of Meta, Criticizes Calls to Slow Down AI and Calls for Improved Safety"
         }
       ]
     },
@@ -161,28 +167,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "Caso Lalo Gomes: Rachid rompe el silencio y develo \"show\" judicial detrás de los arrestos",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybTJqdGVVTmxCY243Z2FhMTloMFgxdGg1QXlPdkpPdDY0dTZzb25sdkhKcm96ODVTXzBRT1lCbXE0c0M2MTgycHRxakFsZF9FN0E?oc=5",
-          "pubDate": "2026-09-16T14:12:27.000Z",
+          "title": "Médicos aprueban propuesta del Gobierno en asamblea y desactivan la huelga nacional",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzRMRG94RmpfZHJtRnlKQ0N4NXE2WWdCa014RHV2UlpNM1htOVdtOUZ2T1BIM1NOaXJzZ29CRTgxOVlpNHVKWjhZVzd6WGJQa0NNa2U3eVAxNWpUeVFERG9IX2lkQlJnaWFCc29wSnBoRFVFVjdJalQ4UkpRam1TY2JJUFRla0lyVmNRT29ydXVYYlJ1MktXMVNhVVg1Q3F3b2VOZGtyWFRwaHFvUzdNS2VUeHl1RjBhOEdyc2kyM3VsQkZ0NWRJctIB3AFBVV95cUxOdE8xSDJUbGhuQ3p1bGYxbVFsSFJsVzFsQ00xZVVIUU9pVGZCSDZYbG5JUWxla2NRMU5TemZwalJNbS1ISlpERXpLQlBRVnVlWVhrOEl5UzllUmtRS20xdTR3WGJPVEozbXdnZFdzQXZ5SkVoU3FWY0lyaUtvb2d2ZktxZmM2dlJLVUE5alBPOHBodjJjT3hHU3EyZVhwcmFKazZicDZZX1o3YTVIclV5dHFaX3dyODhXdl9wUVhxelpGZEQxSTVwQmF3eFZpdy1ScGpQVTc2LUVrazlE?oc=5",
+          "pubDate": "2026-09-17T00:01:53.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Lalo Gomes Case: Rachid Breaks His Silence and Reveals the Judicial \"Show\" Behind the Arrests"
+          "title_en": "Doctors approve the government's proposal at a meeting and call off the national strike"
         },
         {
-          "title": "AUDIO: Jalil Rachid “es el responsable político y debe ser investigado”, dice Filizzola sobre caso #LaMafiaManda",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQlZ1aGhuV0NUanc4SGg3V0xaUl9lNkpQQ3VabGswcUZ1X3dJRk5abVR5a19YaUZPTGlwQ3VnSXF4OEZtYmM2THl0SmdfZGp5WmtGeTBxWjBXeFc5ZEVuLTBNLWF0M244YmRIMHVzYmt2RmZNbC1zdkRCWkpaYW5JTkp6UXhFYzZ4d2RVbVN4SzZCdFgzUHJSdUlhamVFV3ZYM2V0NkhuSnRKcWNZVVRFQVhtUUc4cDlwb24xMUl4UVBOYXpPWlh1ODdBLTBrbk5uWDJEemFiQS16VGlmc3V6MlFQVFA0bjIybnc?oc=5",
-          "pubDate": "2026-09-16T12:59:30.000Z",
+          "title": "Advierten que tendencia alcista de combustibles afectaría a toda la cadena de producción",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd05DOXljUjNzQ3Y2TFpsamF5ZEVDMDFOWWttYmc1ZHl1ODBBaW9kWVQ1SzRWU0VEVmpLbUNTaXduM0JFbVliVTRaT05GOEQzcVpCQ0Jsb2d4cGRtUkxmZXU4MUFuOGJrYTJWdjRkWXNGSDc2MFNyRDZLaTZTVWNlQ0VxcEVRcFdzX0FSYkd5djhTcF9yS2lOUGN1STEwRkNKMVRWT0dCQTU5aURaalNXLXg0NkJVNG54ZHU5OW5hVHotOUYzM2pSQXdSU2jSAeABQVVfeXFMTkFISlNTaU1aRzQzMFo1dEJPcDZMMTlZWktFc0pCcW9ab0t2bWJoTTZOWl9jeGJxOXp2QjVPREF2OXh6VGg4OHlWQjF6WE9aMXhRcG8yQ05VSUMwazc1R1lLR2dmSXMzRDhrTl91ZW5fdHgzdkloY01RMEdpRzdHRFoxTDVqbDFuVTJiT3lLZ1NJeHktMlVEbTlibDJXRTFZY2ZJdF9MTnNBNExRRTIyaUFXVnFheXZYcXVaUlVZLVRIa1pLd0luZV9Xb2VEbnEydlJlTzNVVlBXcXozcS1uSFo?oc=5",
+          "pubDate": "2026-09-16T22:01:49.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "AUDIO: Jalil Rachid “is politically responsible and should be investigated,” says Filizzola regarding the #LaMafiaManda case"
+          "title_en": "Experts warn that the upward trend in fuel prices could affect the entire production chain"
         },
         {
-          "title": "¡Turbulencias en Honor Colorado! El senador Derlis Maidana rompe el silencio sobre Peña",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JdDY5dDIweE43OEtYazhyWV95QnRSaTFBdHdhblZYSTNlWm1IbThRcHFxUEdEVDZrcnJNR3ZzZFR3aWNyc2U0aTg4QUlQaWlXaWc?oc=5",
-          "pubDate": "2026-09-16T12:38:58.000Z",
+          "title": "Denuncias de agresión, retención de cédulas y tensión electoral en Mariscal Estigarribia",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNE80SlNfVjJMSlFCYVdsbmYxTk1LV0taV3lHd05HSGFOX1Ztam9TdTRQNHk1VnBQTHhUakJ3LXEwNzhHd0NVdjczNG1VNkVmellXUklnNGttRlZkLXAwdTNzVW5fTmg3WHFXOE9PMnJmYktlajg0MkR0cHJ4R3EtUVJVYVQ4YUN6S2xuMEVnRWtrNHQ4OGFWaHZiSVlqNUtLdUR1dkdRVEgyVXNySzliRmhraG1KaEdrX05UbzBWc1V2WE94aHZSWlR2cw?oc=5",
+          "pubDate": "2026-09-16T21:31:50.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Turmoil at Honor Colorado! Senator Derlis Maidana Breaks His Silence on Peña"
+          "title_en": "Reports of assault, confiscation of ID cards, and electoral tension in Mariscal Estigarribia"
         }
       ]
     },
@@ -191,26 +197,28 @@
       "color": "slate",
       "items": [
         {
-          "title": "La era de la electricidad puede ser la era industrial de América Latina",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUhJUHJMRVVST21uRGs0WnhlaElmT01ySkQ3OTh1U0VGSG9OX29sVnZfS0NHU3BRMWZGbm1zLThSbjF3ZG9LbUF0NmZIa1hVR0JGSzdQS015NDRmWjhGUTFYQUVtV0VKQXo1MEVhcTE2Q1BtOUU0TExGNUQ5OXQ4RU94a1g3MDFManNTVzJuMDlqWVA4OGU1cXB4dk8yaEFzUlNCcUVINzREVVcwN0k0Rkh6a2VTZ0k?oc=5",
-          "pubDate": "2026-09-16T10:25:26.000Z",
+          "title": "Operativo luego de que un helicóptero se estrellara en Los Ángeles (EE.UU.) y dejara tres muertos",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnQ5RHpmdG16X1Zuc25UUUFURVBDMUROQ3hyQ1EwUEs2UnR5MDFhWHpBc0txTm5mTHFYblNGZTJpRXpCT2lKMFJTU0dGUEZlMHkxOTJBaHJ3YzBVX2taT2tlOW9iV3k3azhPY3dzS0RwUWVERlFDMFdoRUEzSk1iNDdUcV9aMFg0N0lsTW15TG1maENOaUQyT0hWZzFCamFXZF9ZbDI0SXFsd0ZFalp1S0JnWnFHYVBUMTJocA?oc=5",
+          "pubDate": "2026-09-17T06:04:50.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Age of Electricity Could Be Latin America's Industrial Age"
+          "title_en": "Rescue operation following a helicopter crash in Los Angeles (U.S.) that left three people dead"
         },
         {
-          "title": "Un helicóptero de un canal de televisión se estrelló en Los Ángeles mientras cubría un siniestro de tránsito",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOGROTDQtNnNqMjd6a0lLSURoLWJaUHNKM3pxZ1VXUmR2NEVLdGUySlJwS2xNdWptRnpZRTBqY3pMS2E5STNJOEhRUHd5ZmVhU2xGV0h1VUdod0NqWW1CSTk3YjBwNGtlSmFCT0NaWnpkNDFweEtMeFRmWmJUOVhsV3RSdlF4Z1pQSGZLbWRZaGVuelBpYWgwdlNWLVUwRkR0dUxqdUpmUUFLV19iOTBXYUg2NExmSjg4VHRUbGxKM2ZnMWxqTDN4MEVnNkFCQTlBT00tSERMcGFLclRBV09WLWRBX0JnVTEzN0VB?oc=5",
-          "pubDate": "2026-09-16T10:15:32.000Z",
+          "title": "De sectores inaccesibles a toneladas de residuos extraídos: el plan para recuperar el arroyo Carrasco",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU0NPVTlJMDJUSXJidkVNVjNfV0FSUXhiT2I5MGN4c25CWTduMGlSRWx0aGZxNUZaWDJORjU2cWIxeUd3aXYyekVuSDZodGVLYTVyWmZ2ZmdIcjFxQTh0Y1pqWk5LTjAycC1aVkNtdW1kbi1wdzIwa01nY0dlYk4xNlhueWg1ckRVbENzLXdiWU9hWmZ1a1diNFJMeExUUFAxWGQzY2FnSEIyT3Zkd0lueEYxaDRFRV9KYWVXdWpRZVBRR2ZJaXAzekhzd0MwT3Rmc2xDRC13X212QUM3TkxNMw?oc=5",
+          "pubDate": "2026-09-16T17:19:06.000Z",
           "snippet": null,
-          "title_en": "A television station's helicopter crashed in Los Angeles while covering a traffic accident"
+          "_priority": "ALTA",
+          "title_en": "From inaccessible areas to tons of waste removed: the plan to restore the Carrasco Stream"
         },
         {
-          "title": "Unidad Indexada hoy: cuánto cotiza la UI este miércoles 16 de setiembre de 2026 en pesos uruguayos",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT25kb05NVUdSdTNzWkx0WkVhN0QxaTU5dXFCMXd1Nk9hck1UNzFmVm5PUDVvdi1oamRfN2FPd2FFTVozVUNMcU9mVGhCTGw0WUF5cTJIQ0p2dF8zMFlEQTJyRlBQLUJaVC00SlhjbG5rNHpNXzFOaXptNWpfMktwUzNzbDQ0Tmg4WVF2RWx6UURSZWlZc2Uyc1hKRVk4cTd6THdVUmlYSk1MVG9fbkVKUVFsclpFMWI1VTVxYkIzaG9ITXdPOXhXTVBjZFY5Sk8tX3lIVnVqN2U?oc=5",
-          "pubDate": "2026-09-16T09:15:41.000Z",
+          "title": "Fuerte impacto de la sequía en el agro: por qué la economía uruguaya cayó y qué advierten los analistas",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVm9CdVpLc2ZIeFZROVl2QzhMVjRHYS03OUNSR3ZJSHMwcVdoZEdrLTN1RVNMNGQ4OG1SeGNuTlAxOVdJLXdoZk1YVGxoSV9meWk0ZGxOM1JzN2NMV21LUzJ3LU9xUjAtR2FPX2l1d1NENUxLSVN4WFdGMnl6T3hEdjVROVNuWnJpQjBBWWkwU21oakJ4T1UzQ1NLbWcza1NnWHppeTZTenNfazZ4V3FObjJxNk5QQlpST3VVRTRqNnhjakhScUVWTjVCVTJ0bFZHS1E?oc=5",
+          "pubDate": "2026-09-16T13:41:28.000Z",
           "snippet": null,
-          "title_en": "Indexed Unit Today: What Is the UI Exchange Rate This Wednesday, September 16, 2026, in Uruguayan Pesos?"
+          "_priority": "ALTA",
+          "title_en": "Severe Impact of the Drought on Agriculture: Why the Uruguayan Economy Slipped and What Analysts Are Warning About"
         }
       ]
     },
@@ -224,27 +232,27 @@
       "color": "grey",
       "items": [
         {
-          "title": "Republicano Thomas Massie presenta cargos contra Peter Hegseth por acciones en Irán y la captura de Maduro",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLU1OQWF2bU1QTjJ1Uk85cy1Zb1dCTEp0M0NzTmhDc3laUlRDQ0lGdXRWTFB6cFhwLS1WM1NsQURFLUljV1R5ZS1vcURxXzZPNGtXR2hHQ3RScWhaRU85U2FXZ3ExVWUtTXNKUDYtaU9ldU9HR3JzQ0NreVJDZDR6WWxpQUlySXF1SDVPOEM4WjUxeVFuTmlvS0xjRTNIWFRWVEJCNzVuaTY0SnJvY2ZrZmFKM0prMkl1QXdlNWd2c3kxZnU1RFA0SWFyZ0E1cUZGcmRWRi1uSV9aZw?oc=5",
-          "pubDate": "2026-09-15T22:39:29.000Z",
+          "title": "Edmundo González alerta sobre la continuidad del aparato represivo en Venezuela",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDlWcGdBOFpETlNwMDFXTDJ1OGoxUkREOUFHY0RYWkRXal9pY3U0aExGR28zVGVjcVhCdDVjTUNFX1hGODhDV3ZWZzZGMG51Tm1VUHdZTm1QOFFmOVloQWxMWVVuNU1xX1dLVHA3V29YSmhWMU9XNGRZWDVkRi03V2tiWER4dUp2cTh4aDVIS0xKYVNoaWM2XzAwam5NVkZabGFLQlhTU1h5VW1SelhiZTl2TXFUZw?oc=5",
+          "pubDate": "2026-09-17T00:49:10.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Republican Thomas Massie Files Charges Against Peter Hegseth Over Actions in Iran and the Capture of Maduro"
+          "title_en": "Edmundo González Warns of the Continued Existence of the Repressive Apparatus in Venezuela"
         },
         {
-          "title": "Alex Saab se declara culpable de lavado y transacciones financieras ilícitas tras acuerdo con la Fiscalía de EE UU",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcG9YcTZVVzh6WE9sRGlUNGkyeHNRUDBMM2VfelBoQ1lnaDhGQlhBRi0ydW1ZaENSeGxFdlJNTUo5em1OMEladGhuZzJGdklXLTBzLUF5QkR3dU5oa2JYNHJ4WmZvNm1xRXRLNG1TSXRCVndzZDdZd2tVbUpNV1RhQk9fYnBrS3J2ajBIbDd3bFFpWExKWG1mNXdJY053YUItN2VTbWVMR212c2V1V2JxREFkQQ?oc=5",
-          "pubDate": "2026-09-15T16:43:06.000Z",
+          "title": "Alex Saab conocerá su condena el 20 de enero de 2027 tras declararse culpable de lavado de dinero en EE UU",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGFkZGhPMDczTy10UWxXcHphZzkxd3hySjIxMFdGbXV4SXBRZ3lPajd6WUpSeDYxRWpBaktHTURYVDVZRVlDNE5HTVJ3M1BHUm5FZzNxX3lFQng1N2dxX0pUanR5bVlDVUhrR29sZGFHakpRQVRGQjI4TG56aTZfaXFCdEx0Z3ZCemphOTg0UFpHNURRTVFaOUlIVlhiNmZiUjR0SUNXQ2lleGloVXp6b0FPaE9VNU5UNDFZLVlaalAzS0RMSngwNmNDeFRYTlBSZlRxUGl1c25hUQ?oc=5",
+          "pubDate": "2026-09-16T17:20:37.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Alex Saab Pleads Guilty to Money Laundering and Illegal Financial Transactions Following a Plea Agreement with the U.S. Attorney's Office"
+          "title_en": "Alex Saab will be sentenced on January 20, 2027, after pleading guilty to money laundering in the U.S."
         },
         {
-          "title": "El rabino Isaac Cohen confía en el acercamiento entre Venezuela e Israel: \"Todo tiene su momento\"",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkF3UDJTenpwVWducXJjeDNyTkVwM0JtbnIwTUVCUnR1ODc0QWpuaVFTYTV6RUlXUGlTUV90Q3ptQXNsOUE2TTAzT041STMwWW5sRTh5Z1h2SHo5eVpzX0NSbjZrU0FOUUVudUJqSFI0YXpCdDQxS3JLZkZ2OUZtcVFBbzV2V3FESkdQVWJuaG03aER0M09yVXpvQUlmV00?oc=5",
-          "pubDate": "2026-09-16T07:03:23.000Z",
+          "title": "Baruta aplica cierres parciales en Las Mercedes durante una semana por plan de adecuación y modernización vial",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGRtVGhEWndJVDUwLVRoRFRHUWYxM29lZzJzWEVJc19tUm8wQzlVS3dhZGszU1YxTjhwSUF0UV9WU0dHY1pUMHJEV0NFdGplaTZzR2VYajVycTRkMnlZMXJBTmpJdmNKWGN3MkJ6R0NNNFZtVVkwazFSRVMzSW5IMlVNOEo3Q2pFbEtJSzFkZXAwdXNITkNyYlRjbHRaX1pnZmpxZUlZT1d6OFo3SUdLdWM2RzMxVXVPZElOMXdDMDlPOVhlVy12cWZsNnRLVVZHRkNEODhua3U5WUtZRG5v?oc=5",
+          "pubDate": "2026-09-16T19:44:09.000Z",
           "snippet": null,
-          "title_en": "Rabbi Isaac Cohen is optimistic about the rapprochement between Venezuela and Israel: \"Everything has its time\""
+          "title_en": "Baruta is implementing partial closures in Las Mercedes for one week as part of a road improvement and modernization plan"
         }
       ]
     },
@@ -253,28 +261,28 @@
       "color": "teal",
       "items": [
         {
-          "title": "¿Diésel a Q55? Analistas explican qué puede pasar con los combustibles y el subsidio en Guatemala",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNblVybHREcklBbkNzNDBuZGpSSVBoTlV3alhYRHdVcWNFSFN1OERxTGlfNUNWT1RfRnFQc25ueE9Jbk9KeUw2M0pxSk4wcldBNFFjdVJGZl9RcWlZWXNYTE5DcTZQZU9aaWVfUlFJXzUzcU5QdWxhNWd4X3AwVnBhcmtUdXI5SXhKRmtaNVJ0STNEU1ZvWko1MnE0dnBsTGgzcG1xTXltczhMRTA2cXRqZ1g3SlB1bWpvcjMzVXVJUXBldlRmeHU4aHlhdm5iZw?oc=5",
-          "pubDate": "2026-09-16T11:00:00.000Z",
+          "title": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYTJMc3JWUjFRalI0dWJHd2F1ZWlieFVSME1RTW1WMmNhQVlvZVNXSjhOelRES3NmT25KcHdvdmlFOFpRbHplX1p2eTJETjZ4TXRkekI4aHV3andnZXQ0YnZ4dlMxMFhHYUdmaGNMejVaREJqd1RZelNVX203VXpKT0hKMmpfR2xXS2pFMXUtT2xkZmp4N3NCa0tuVWRUSnlBcGMzbXhhQjZvUDBnOGtTanIzMnpUc1B3OERFa2EyY1pEd09ZV3RYcFAzaFZPQzZOd2Jzb00tQ1ZMbHdBcUFYT1RLaVdxeEFaSjQwRDhGdzZIaVpGNVN2d3dJejVwYlV6em50RWVCbEpVeFlCRm4w?oc=5",
+          "pubDate": "2026-09-17T03:43:05.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Diesel for the Q55? Analysts Explain What Might Happen with Fuel Prices and Subsidies in Guatemala"
+          "title_en": "Who are the Houthis, the Iran-backed rebels in Yemen who are keeping the global oil market on edge?"
         },
         {
-          "title": "La IA llega a la justicia de Guatemala: el plan piloto del OJ y las dudas que genera entre abogados",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXgyYWNMZ1NzU3dUZTNVbUxZZUxEVWtVcVF6U1MwY2R5MmhrT2RlRnRnMkRsMG8xMjA0X2d5TnFzRmd0eVRCbXpZY3dBNl9vRkJ4ZnRkaW0ybm9DSzIxQnotSENwaC1KaUhnejBMQUpJMi12NUswSVFmTkdpVzBmdkUzUFJUaDFtOUE4NWNONnFseU1sUENmWW9QOTRQMFZiUlZaMEZST2x4emhrZGxnSDFDcWNjaWlGN3FNZHJHMFNfR3BNRU9SM21sVzBYMWQ4NXlr?oc=5",
-          "pubDate": "2026-09-16T06:10:00.000Z",
+          "title": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNLUprVzNCOVpJNWtlbFl5SDR4VmllNjA4Ti1VNkduTWp0RDZQVVZXdDFyQ2tmR1FqTDFxRVlHNkRnX1VUbG9lbmhYekp6T3p4Z1d2MHhRSXU2SXNwZ3ZJT1VFaVJhODBMQVJjcWJZY1UwbHpOamlGbHhkaERmbjlKSlh4VmZhVmNMakV0U3JTcFVBX1dnNElzZEtFUEhScDZqXzlKOTZjZ3NUblFEdXVQWUlpcmxLVnBEREgzUm9iVk1ZcXBTVHBYZGNueHltY0JPZndTLVRReXpFUWM0b09GblJJWmN2a202Nm5UNzhvT20xelY1cGdJbHp5bjB6NWtBblJOdWs2dktzT09OaDhocjlaVVdmUThuVS1rWjhxTGJ3clU?oc=5",
+          "pubDate": "2026-09-17T01:02:28.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "AI Comes to Guatemala's Justice System: The OJ's Pilot Program and the Concerns It Raises Among Lawyers"
+          "title_en": "The U.S. Federal Reserve defies Trump and raises interest rates for the first time in three years: What will be the consequences of this move?"
         },
         {
-          "title": "Exportaciones de café crecen, pero preocupa déficit de lluvia que se reflejaría en cosecha 2026-2027",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmFDTV9nd2ZVc1pIV3Z0Tm1KYmZ6dmFybGludnB6NDlINWNBdWZMczM2TEUxS0F4S2RUZEFuS2tnM2h2cWV6R0thLXdlbExoSWEtVDBia1J1MmZlLTBfQVF6S29vVGF5a05YVXViQU04TTZCekFKTTJBWFBvQ3lmdkE2dmpWMzdhbjBHaEFVeVdrWFo1MWlvS282RzBWb0NOcUxGTXBiMFp2UzBxRklWY01EbU9kWDRVUU5IYTJBMkRFNzVFbTJjOHlzVE5IdDhITkNj?oc=5",
-          "pubDate": "2026-09-16T06:10:00.000Z",
+          "title": "Seis propuestas buscan bajar el precio de las gasolinas y el diésel: qué plantea cada una y cómo avanzan",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjBpZ1JoVVk4Rl9QSnBBeEViS1JZY2RrcWp5M0tjYlJKem12eEMzQkRRc1lGTDBQRVMxSjlUWTNTOGZXTTVLNmk5OXVldWhXQ2tDdnZOUmhzUVY4SjNpOWtra1BlbVp1MDFsTVFFdUp6cDlodkh6VHVVelduWHp4dlBIalhFTV8xSVNVR2ZIOTY1b3dsT095bFp1T2hiQ0pMUk52MFFtNnUwZnZZWEFKVHE2Wm1Ma3pCOTlyUWVGdXRQb3QxcWRVSWtMRmVnaU00dEExQmM2ZFQ?oc=5",
+          "pubDate": "2026-09-17T02:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Coffee exports are growing, but there are concerns about a lack of rainfall that could affect the 2026–2027 harvest"
+          "title_en": "Six proposals aim to lower gasoline and diesel prices: what each one proposes and how they are progressing"
         }
       ]
     }

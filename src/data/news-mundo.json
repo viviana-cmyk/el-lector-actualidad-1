@@ -1,57 +1,30 @@
 {
-  "generatedAt": "2026-09-16T14:40:40.179Z",
+  "generatedAt": "2026-09-17T10:01:49.897Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "Helicóptero de prensa se estrella en Los Ángeles: al menos tres personas murieron, entre ellos una reportera y un piloto",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlViQzFrZWxPT2RFQWowWV9oNUhrUUpZVTU4c25DTWV2eGswVDA3WW83R2NsdkdMTC0weXktbi1CdkZVNENLOTJyQWV2NDFtZkxSbHBQUEVId1RIdzN6djdBV2J0SXhRX2VzS1hzWVlCeW40aVU2TDRCSUxvS3FNZWFYaTlaUQ?oc=5",
-          "pubDate": "2026-09-16T10:57:00.000Z",
+          "title": "Las 5 cosas que debes saber este 17 de septiembre",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90ekc0azdVWnRrMnY1anhkQ0ZtcUljWVNSdnNNQVRJdW1la2FlaXQxcGUwTk5JNmtXRjJJMHBSbWlRZWJVM0R6aFRBUDgydEcyTnJObWo0UWx3Q0dyNUVoUV9ENXlZUzJjdl8yV0FsQ29FYU5GTEhVbjFn?oc=5",
+          "pubDate": "2026-09-17T09:48:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Press helicopter crashes in Los Angeles: at least three people were killed, including a reporter and a pilot"
+          "title_en": "5 Things You Should Know on September 17"
         },
         {
-          "title": "“Nosotros decidimos las reglas, no las grandes tecnológicas”: Unión Europea anuncia regulaciones para redes sociales",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVQVRZZ2RVbDQ1U3hzLXNsVExwQk9Jc0piYnIxTUhrUTFTdFNsQVhkcTBDdlNtWF9QMVdRZUdDNUN3RjM1OFZrT1lLYmlZdlRYcEoxRUZoWVpJLTV6eHRLSDJpUlNaY3RtcTlKT2FOd29fNmlzeGNoZDBQbw?oc=5",
-          "pubDate": "2026-09-16T13:10:27.000Z",
+          "title": "\"Si no lo hacemos, cerrará\": Trump explica por qué debería aparecer su nombre en el Kennedy Center",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd0w2c21yOFZUaFRGei1sWGVVT1hDbFFaXy1XaE0xQUdSOVhzcEh0cm4wSElNV2NXZTBTUjdfOUFwV3JITUxaMl85NXRSVC1FUXg0VXFJZVVPeXd0MEE0UmNBM05tRk9nRlNkMUtqZXI1d0VUYzltYmZ1Mm5qcGxMNEJMNUhPeDNjbENB?oc=5",
+          "pubDate": "2026-09-17T07:21:24.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "“We Set the Rules, Not the Tech Giants”: European Union Announces Regulations for Social Media"
+          "title_en": "\"If we don't do it, it will close\": Trump explains why his name should be displayed at the Kennedy Center"
         },
         {
-          "title": "Arabia Saudita afirma haber derribado un dron hutí cerca de La Meca, la ciudad más sagrada del islam",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnd3UExUNmZwSlc1Ul96R3hKYk1Vb0g0Ynk2MmxzNFVQSlpVVGZ1R01QLWNCWHE5dGVSUGlSU2tycWN0TDZ1WVVyN05laWhyTU84TEY3VHVkWHhSbThWRWNTV1d4QmhWV0l3TEtVeUt1d1pKVDAxa0JfVVlnN3BiVm5JRzE?oc=5",
-          "pubDate": "2026-09-16T05:30:00.000Z",
+          "title": "Macklemore convierte su salida de la gira de Ed Sheeran en una donación para los palestinos",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHFZMWYzN1ZtWWJVenBxQU9COHh4Wlc2ZjJNODF5V0pSclFySURYdjBtRGxNSmtGcG80MzBQMVdEZmNTWkREczg3aGhpZ3dnb3Rod3RhNEZCR2NxUWpzQ09KUDFVZXA3cGtnQk4zektXUVdScmxwc3d4RlJEczhCZjRWVWVvaENpMUF4SEFTX2M5aFdIY3pVT2Vn?oc=5",
+          "pubDate": "2026-09-17T02:47:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Saudi Arabia claims to have shot down a Houthi drone near Mecca, Islam's holiest city"
-        },
-        {
-          "title": "Como Trump, estos líderes de América Latina endurecieron su política migratoria. ¿Qué medidas tomaron y con qué resultados?",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDN1ME02Z2sxZUxjQlAxM3hzeFlzaFg5QU5iN0wtNEhGUkN0c0FUaFN0MVpuVGdGYkgyR3FjdmdUMnM5NEc1dDhyenVVbk9MSFhjc3psTWxaN3hDZjRRMHYwSlZjbkdWU2xzYUxrWHZiQWUzRG93UG03MG9KTnE1Y2ZnbExkclhKX0xNQ0Qta1F5cDJiQWxqOE51SHlLaHlJeVNIM1lYUnI?oc=5",
-          "pubDate": "2026-09-16T12:30:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Like Trump, these Latin American leaders tightened their immigration policies. What measures did they take, and what were the results?"
-        },
-        {
-          "title": "El aumento de los precios del combustible desata protestas en todo el mundo",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2xkLUcwZW93ckw5THRvQl9pWjhmU2FBRkpScVVvcDBkaW92ZGdQY2E5Y1I1VTdQX2dFeEEyblhVblF4NGlpanYwSV9neDdVdmt1Snl2X3JxTklDSWlRaDladUFXZ0l3T3M0Sk9KUzlhSUV1WVR0b01NanN0dlR4MGFNS2s2RjVEYVhIVkVGbDQ?oc=5",
-          "pubDate": "2026-09-16T06:13:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Rising fuel prices spark protests around the world"
-        },
-        {
-          "title": "Pánico en un vuelo en Irán: fuertes turbulencias provocan el colapso del techo de la cabina de un avión",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUo4cEpkd3dQOFJLYTV2UUtRN3hFbnVBa25qUG9vcS16S0JDZGJSdmZkLU5mMzRJaG9nYWhNb3J4QXBoUXFNb3o5Mk1VZ25KMDJ1WnJJbWhiMF85MXN2SGoyZEZ5MnFJR1BTb0RrZTdHTXM0c0JXYXN1eld3NjFjcnRkcFU5cFk?oc=5",
-          "pubDate": "2026-09-16T12:32:09.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Panic on a Flight in Iran: Severe Turbulence Causes the Cabin Ceiling to Collapse"
+          "title_en": "Macklemore Turns His Withdrawal from Ed Sheeran's Tour into a Donation for the Palestinians"
         }
       ]
     },
@@ -60,52 +33,52 @@
       "color": "sky",
       "items": [
         {
-          "title": "La Fiscalía se opone a la decisión del Gobierno vasco de ampliar la semilibertad del etarra Henri Parot",
-          "link": "https://elpais.com/espana/2026-09-16/la-fiscalia-se-opone-a-la-decision-del-gobierno-vasco-de-ampliar-la-semilibertad-del-etarra-henri-parot.html",
-          "pubDate": "2026-09-16T14:14:59.000Z",
-          "snippet": "El ministerio público considera que el acceso del preso al tercer grado penitenciario “resulta prematura” y “no se ajusta plenamente a los criterios legales”",
+          "title": "Crisis en Ceuta y actualidad política, en directo | Feijóo pide a Europa “reconocer el fracaso del Gobierno de España” en Ceuta y “presionar para que la crisis no se enquiste”",
+          "link": "https://elpais.com/espana/2026-09-17/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
+          "pubDate": "2026-09-17T09:33:07.000Z",
+          "snippet": "Puente, tras el freno judicial al campamento en el puerto de la ciudad: “Hoy se iban a trasladar a 1.800 migrantes” | El ministro insiste en que el uso del puerto fue acordado con el Gobierno ceutí",
           "_priority": "ALTA",
-          "title_en": "The Public Prosecutor's Office opposes the Basque Government's decision to extend the conditional release of ETA member Henri Parot"
+          "title_en": "Crisis in Ceuta and Current Political Events, Live | Feijóo Calls on Europe to “Acknowledge the Spanish Government’s Failure” in Ceuta and “Apply Pressure to Prevent the Crisis from Becoming Entrenched”"
         },
         {
-          "title": "Amnistía acusa a Irán de crímenes contra la humanidad por los asesinatos, torturas y violaciones durante las protestas de 2022",
-          "link": "https://elpais.com/internacional/2026-09-16/una-oleada-de-atrocidades-amnistia-acusa-a-iran-de-cometer-crimenes-contra-la-humanidad-en-la-represion-de-las-protestas-de-2022.html",
-          "pubDate": "2026-09-16T14:08:20.000Z",
-          "snippet": "La organización documenta la “oleada de atrocidades” cometidas por el régimen iraní durante las manifestaciones en el país por la muerte de la joven Yina Mahsa Amini, de la que se cumplen cuatro años",
+          "title": "Pedro Sánchez entra en la polémica de los centros de datos y carga contra el excesivo consumo de energía y agua",
+          "link": "https://elpais.com/economia/2026-09-17/pedro-sanchez-entra-en-la-polemica-de-los-centros-de-datos-y-carga-contra-el-excesivo-consumo-de-energia-y-agua.html",
+          "pubDate": "2026-09-17T09:28:23.000Z",
+          "snippet": "El presidente del Gobierno publica una tribuna en la agencia Bloomberg con el título “Cómo evitar que los centros de datos consuman demasiada energía”",
           "_priority": "ALTA",
-          "title_en": "Amnesty Accuses Iran of Crimes Against Humanity for Killings, Torture, and Rape During the 2022 Protests"
+          "title_en": "Pedro Sánchez Weighs In on the Data Center Controversy and Criticizes Excessive Energy and Water Consumption"
         },
         {
-          "title": "Peramato culmina la renovación de la fiscalía de Madrid tras el caso del fiscal general del Estado",
-          "link": "https://elpais.com/espana/madrid/2026-09-16/peramato-culmina-la-renovacion-de-la-fiscalia-de-madrid-tras-el-caso-del-fiscal-general-del-estado.html",
-          "pubDate": "2026-09-16T14:27:42.000Z",
-          "snippet": "José Luis García Juanes será el nuevo jefe de la provincia en sustitución de Pilar Rodríguez, que compareció como testigo en la causa de García-Ortiz y ahora está en el Supremo",
+          "title": "Puente denuncia una campaña para frenar las soluciones en Ceuta: “Se iba a trasladar hoy a 1.800 migrantes”",
+          "link": "https://elpais.com/espana/2026-09-17/puente-denuncia-una-campana-para-frenar-las-soluciones-en-ceuta-se-iba-a-trasladar-hoy-a-1800-migrantes.html",
+          "pubDate": "2026-09-17T09:01:00.000Z",
+          "snippet": "El ministro de Transportes pide a la Audiencia Nacional que se pronuncie “cuanto antes” tras la paralización temporal del campamento en el puerto ceutí",
           "_priority": "ALTA",
-          "title_en": "Peramato Completes the Overhaul of the Madrid Prosecutor's Office Following the Case Involving the State Attorney General"
+          "title_en": "Puente denounces a campaign to block solutions in Ceuta: “1,800 migrants were supposed to be transferred today”"
         },
         {
-          "title": "Migrantes hacinados en condiciones infrahumanas a precios abusivos en pisos patera de Ceuta",
-          "link": "https://elpais.com/espana/2026-09-16/migrantes-hacinados-en-condiciones-infrahumanas-a-precios-abusivos-en-pisos-patera-de-ceuta.html",
-          "pubDate": "2026-09-16T12:34:00.000Z",
-          "snippet": "Dos operaciones policiales destapan el lucrativo negocio ilegal de alojar a migrantes llegados en el salto masivo en la ciudad",
+          "title": "Aemet alerta de “peligro extraordinario” por lluvias torrenciales en Campo de Cartagena y Mazarrón",
+          "link": "https://elpais.com/sociedad/2026-09-17/aemet-alerta-de-peligro-extraordinario-por-lluvias-torrenciales-en-campo-de-cartagena-y-mazarron.html",
+          "pubDate": "2026-09-17T08:56:38.000Z",
+          "snippet": "Los móviles han recibido un aviso alertando de “riesgo de inundaciones”",
           "_priority": "ALTA",
-          "title_en": "Migrants crammed into subhuman conditions at exorbitant prices in makeshift apartments in Ceuta"
+          "title_en": "Aemet issues an “extraordinary danger” warning due to torrential rains in Campo de Cartagena and Mazarrón"
         },
         {
-          "title": "La jueza Tardón cita como testigos al presidente Vivas y al exjefe de gabinete del Delegado de Gobierno en Ceuta",
-          "link": "https://elpais.com/espana/2026-09-16/la-jueza-tardon-cita-al-presidente-vivas-y-al-exjefe-de-gabinete-del-delegado-de-gobierno-en-ceuta.html",
-          "pubDate": "2026-09-16T13:45:34.000Z",
-          "snippet": "La magistrada de la Audiencia Nacional fija las primeras citaciones y solicita a organismos militares y policiales las alertas que se produjeron antes de la entrada masiva de migrantes",
+          "title": "Sumar apunta a los ultrarricos y propone un nuevo impuesto para patrimonios de más de 50 millones",
+          "link": "https://elpais.com/economia/2026-09-17/sumar-apunta-a-los-ultrarricos-y-propone-un-nuevo-impuesto-para-patrimonios-de-mas-de-50-millones.html",
+          "pubDate": "2026-09-17T08:00:15.000Z",
+          "snippet": "El socio minoritario de Gobierno calcula que podría recaudar 4.200 millones al año, que se destinarían a financiar un fondo de protección a la infancia",
           "_priority": "ALTA",
-          "title_en": "Judge Tardón summons President Vivas and the former chief of staff of the Government Delegate in Ceuta to testify"
+          "title_en": "Sumar is targeting the ultra-wealthy and proposing a new tax on estates worth more than 50 million"
         },
         {
-          "title": "Al menos 20 gazatíes mueren al derrumbarse el edificio en el que se refugiaban, parcialmente destruido por los bombardeos israelíes",
-          "link": "https://elpais.com/internacional/2026-09-16/varios-muertos-por-el-derrumbe-de-un-edificio-en-gaza-previamente-bombardeado-por-israel.html",
-          "pubDate": "2026-09-16T12:11:36.000Z",
-          "snippet": "Los rescatistas buscan con sus propias manos supervivientes entre el centenar de desaparecidos bajo los escombros, debido a la negativa de Israel a permitir la entrada de maquinaria pesada",
+          "title": "Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”",
+          "link": "https://elpais.com/espana/madrid/2026-09-17/ayuso-comparece-en-la-asamblea-de-madrid-en-plena-polemica-por-el-maquillaje-de-las-listas-de-espera-sanitarias.html",
+          "pubDate": "2026-09-17T08:50:09.000Z",
+          "snippet": "El consejero de Presidencia explicará la compra del ático de lujo",
           "_priority": "ALTA",
-          "title_en": "At least 20 Gazans were killed when the building where they had taken shelter collapsed; it had been partially destroyed by Israeli bombing"
+          "title_en": "Ayuso ignores the documents proving the manipulation of waiting lists at Ramón y Cajal and insists it is a “hoax”"
         }
       ]
     },
@@ -114,52 +87,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "House votes for a third time to end Iran war in symbolic move as conflict drags on – US politics live",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
-          "pubDate": "2026-09-16T14:22:13.000Z",
-          "snippet": "The action is likely the last House vote on issue ahead of the midterm elections Sign up for the US Breaking News email Chris Jahn, the president and CEO of the American Chemistry Council, said China is ahead of the US on chemistry and “that lead is growing”. “There are more chem…",
+          "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+          "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+          "pubDate": "2026-09-17T09:05:31.000Z",
+          "snippet": "Fact-finding mission says military strikes on school and sports facility in ⁠February constitute war ⁠crimes A UN fact-finding mission on Iran has said there are reasonable grounds to believe the US was behind two military strikes on a school and sports facility in Iran in ⁠Febru…",
           "_priority": "ALTA",
-          "title_en": "House Votes for a Third Time to End the War in Iran in a Symbolic Move as the Conflict Drags On – U.S. Politics Live"
+          "title_en": "Iran School Bombing: UN Finds Grounds to Believe the U.S. Was Behind the Atrocity"
         },
         {
-          "title": "Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
-          "pubDate": "2026-09-16T14:15:12.000Z",
-          "snippet": "Thaçi held criminally responsible for war crimes during the violent break from Serbia in the 1990s Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market, world class industries and services. She says its single…",
+          "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
+          "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+          "pubDate": "2026-09-17T08:25:32.000Z",
+          "snippet": "US president responds as Mark Carney seeks to move closer to Europe and diversify defence ties Europe live – latest updates Donald Trump has threatened the EU with “serious tariffs” and a halt to trade after the bloc proposed making Canada its first ever associate member – an ide…",
           "_priority": "ALTA",
-          "title_en": "Former Kosovo President Thaçi Sentenced to 25 Years in Prison by International Court in The Hague – Europe Live"
+          "title_en": "Trump Threatens to Stop Trading with the EU Over a 'Laughable' Membership Offer to Canada"
         },
         {
-          "title": "European Union invites Canada to become first ever ‘associate member’",
-          "link": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-          "pubDate": "2026-09-16T13:48:07.000Z",
-          "snippet": "Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offer Europe live – latest updates Canada has been invited to become the first “associate member” of the EU by the European Commission president, Ursula von der Leyen. In an unprece…",
+          "title": "Turkey detains dozens in crackdown on LGBTQ+ activists and journalists",
+          "link": "https://www.theguardian.com/global-development/2026/sep/17/turkey-raids-detains-dozens-crackdown-lgbtq-activists-journalists",
+          "pubDate": "2026-09-17T04:00:38.000Z",
+          "snippet": "Protesters teargassed as minister claims widespread raids and arrests under obscenity laws were to ‘protect families’ Turkish authorities have used accusations of obscenity to justify a wave of raids and arrests targeting the LGBTQ+ community, which has grown to include journalis…",
           "_priority": "ALTA",
-          "title_en": "European Union Invites Canada to Become Its First-Ever “Associate Member”"
+          "title_en": "Turkey Detains Dozens in Crackdown on LGBTQ+ Activists and Journalists"
         },
         {
-          "title": "Amazon to launch Ring ‘neighbourhood watch’ app in UK amid US privacy fears",
-          "link": "https://www.theguardian.com/technology/2026/sep/16/amazon-ring-neighbours-app-uk-doorbell-privacy-safety",
-          "pubDate": "2026-09-16T14:00:21.000Z",
-          "snippet": "Doorbell firm aims to replace WhatsApp or Facebook groups with platform where people can post about safety or lost pets Amazon’s doorbell camera maker Ring is to launch its Neighbours community app in the UK in an attempt to supplant neighbourhood WhatsApp or Facebook groups. The…",
+          "title": "Thousands of Barclays staff revolt over return-to-office mandate",
+          "link": "https://www.theguardian.com/business/2026/sep/17/barclays-staff-return-to-office-travel-working-from-home",
+          "pubDate": "2026-09-17T09:31:36.000Z",
+          "snippet": "Union calls for payouts to help cover travel costs and exemption for those living more than 40 minutes away Business live – latest updates Barclays is facing a growing backlash over return-to-office plans, with thousands of staff calling for payouts to help cover travel costs and…",
           "_priority": "ALTA",
-          "title_en": "Amazon to Launch Ring 'Neighborhood Watch' App in the UK Amid Privacy Concerns in the U.S."
+          "title_en": "Thousands of Barclays Employees Protest the Back-to-Office Mandate"
         },
         {
-          "title": "US to bar some South Africans over claims of anti-white discrimination",
-          "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
-          "pubDate": "2026-09-16T12:35:45.000Z",
-          "snippet": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates…",
+          "title": "Queensland to create outback boot camps for youth offenders – as it happened",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
+          "pubDate": "2026-09-17T08:05:02.000Z",
+          "snippet": "This blog is now closed Get our breaking news email, free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have so…",
           "_priority": "ALTA",
-          "title_en": "U.S. to Bar Some South Africans Over Allegations of Anti-White Discrimination"
+          "title_en": "Queensland to Create Outback Boot Camps for Juvenile Offenders – As It Happened"
         },
         {
-          "title": "At least 20 killed after Israeli-hit building in Gaza City collapses",
-          "link": "https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
-          "pubDate": "2026-09-16T11:34:31.000Z",
-          "snippet": "Rescue workers say search for dozens of people hampered by lack of heavy machinery A building housing about 100 displaced Palestinian families has collapsed in Gaza City, killing at least 20 people, as rescuers search the rubble for dozens of people believed to be trapped, includ…",
+          "title": "Peers call for UK to enact tobacco-style ban on gambling advertising",
+          "link": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
+          "pubDate": "2026-09-17T06:00:42.000Z",
+          "snippet": "Lords’ report faces criticism from lobby groups after suggesting ban would be ‘most effective’ way to reduce public harms The UK should introduce a ban on almost all gambling advertising to protect public health, a cross-party group of peers has urged, prompting fury from the lob…",
           "_priority": "ALTA",
-          "title_en": "At least 20 people were killed after a building in Gaza City struck by an Israeli strike collapsed"
+          "title_en": "Peers Call for the UK to Enact a Tobacco-Style Ban on Gambling Advertising"
         }
       ]
     },
@@ -168,52 +141,52 @@
       "color": "mint",
       "items": [
         {
-          "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
-          "link": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
-          "pubDate": "2026-09-16T14:27:26.000Z",
-          "snippet": "A tribunal in The Hague found Hashim Thaci, who led Kosovo’s independence struggle in the 1990s, responsible for arbitrary detention, torture and murder.",
+          "title": "State Department Extends Visa Ban on Abbas, Other Palestinian Officials",
+          "link": "https://www.nytimes.com/2026/09/16/us/politics/visa-ban-abbas.html",
+          "pubDate": "2026-09-17T09:24:20.000Z",
+          "snippet": "The move would prevent Mahmoud Abbas, the leader of two governing Palestinian groups, from traveling to the United States next week for the United Nations General Assembly.",
           "_priority": "ALTA",
-          "title_en": "Kosovo’s Former Leader Is Sentenced to 25 Years in a War Crimes Case"
+          "title_en": "State Department Extends Visa Ban on Abbas and Other Palestinian Officials"
         },
         {
-          "title": "E.U. Offers to Make Canada ‘Associate Member’ as U.S. Ties Weaken for Both",
-          "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-          "pubDate": "2026-09-16T11:23:13.000Z",
-          "snippet": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
+          "title": "Why Israel Wants More One-Ton Bombs From the U.S.",
+          "link": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
+          "pubDate": "2026-09-16T23:41:22.000Z",
+          "snippet": "The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.",
           "_priority": "ALTA",
-          "title_en": "U.S. Offers to Make Canada an 'Associate Member' as U.S.-Canada Ties Weaken for Both Sides"
+          "title_en": "Why Israel Wants More One-Ton Bombs From the U.S."
         },
         {
-          "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-          "link": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-          "pubDate": "2026-09-16T14:15:35.000Z",
-          "snippet": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
+          "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+          "link": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+          "pubDate": "2026-09-16T23:14:29.000Z",
+          "snippet": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
           "_priority": "ALTA",
-          "title_en": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of the U.S.-China Summit"
+          "title_en": "U.S. Intelligence Warns of Chinese Theft in Connection with the Sale of F-35 Jets to the Saudis"
         },
         {
-          "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
-          "link": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-          "pubDate": "2026-09-16T13:58:41.000Z",
-          "snippet": "The Iran-backed militia in Yemen said it had downed a Saudi jet, while the Saudi-led military coalition accused it of firing a drone near Mecca. The Houthis denied doing so.",
+          "title": "The Hidden Human Cost of Kim Jong-un’s New Power",
+          "link": "https://www.nytimes.com/2026/09/17/world/asia/north-korea-exploitation-kim.html",
+          "pubDate": "2026-09-17T04:11:08.000Z",
+          "snippet": "The North Korean leader’s financial and diplomatic leverage rests on the brutal exploitation of his own people, from coal miners to diplomats, at home and abroad.",
           "_priority": "ALTA",
-          "title_en": "Houthis and Saudis Exchange Allegations of Military Attacks as the Conflict Escalates"
+          "title_en": "The Hidden Human Cost of Kim Jong-un’s New Power"
         },
         {
-          "title": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community",
-          "link": "https://www.nytimes.com/2026/09/16/world/middleeast/lgbtq-arrests-erdogan-turkey.html",
-          "pubDate": "2026-09-16T13:10:23.000Z",
-          "snippet": "The government has called the campaign an effort to protect families. Rights organizations have accused the authorities of criminalizing L.G.B.T.Q. people and of seeking to thwart political activism.",
+          "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
+          "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
+          "pubDate": "2026-09-16T19:25:40.000Z",
+          "snippet": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
           "_priority": "ALTA",
-          "title_en": "Turkey Launches a Widespread Crackdown on the L.G.B.T.Q. Community"
+          "title_en": "Belarus Frees 25 Political Prisoners in Exchange for Relief from U.S. Sanctions"
         },
         {
-          "title": "The World Economy Is Becoming Wary of the U.S.",
-          "link": "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html",
-          "pubDate": "2026-09-16T13:41:06.000Z",
-          "snippet": "America’s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions.",
+          "title": "The Canaduropean Union?",
+          "link": "https://www.nytimes.com/2026/09/16/world/canada-eu-ed-sheeran-iran.html",
+          "pubDate": "2026-09-17T04:39:18.000Z",
+          "snippet": "As ties with the U.S. fray, Canada and Europe are pulling closer. But defining a new partnership could prove tricky.",
           "_priority": "ALTA",
-          "title_en": "The World Economy Is Growing Wary of the U.S."
+          "title_en": "The Canaduropean Union?"
         }
       ]
     },
@@ -222,52 +195,52 @@
       "color": "green",
       "items": [
         {
-          "title": "GOP defections widen as House passes measure intended to halt the Iran war",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVncxd3pVRmcyMWN2RzcyRHJOMFRQanI3cF9UYjdNOEU0aVF2aE9KajVQUFFKcXNYc0pac3AwNG1udzFnenNJR1VCX1FuV1V1MXZvdmpNMVlJLTdrbzJ4V2lUUHJhWUY5UHRib1d3dnBsUUYyQ1AzbEx1TERPUTlORlpKdkJTOTBkMG1xZFcwdGdYVWNjQXg0Z1FjUk9xLW01TFhqUmVJWQ?oc=5",
-          "pubDate": "2026-09-16T05:55:00.000Z",
+          "title": "Sen. Cassidy says measles surge will be administration’s ‘terrible legacy’",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczhmZEhJLUFnSE4yVjU5SDVFdXZrQnI5QV9INEVlSDBNakYwM1MxQUxPZ1Z0d2FaeGZkcVNUTjNIS0R5R2VpUXpUdER4Wno1VEEwODBqejN3TlZIUHVoWWlEQjNkSXQ5bHV6Mjl5alFpbG5QTDhqaUZUZTNCa0ZVYWVKLUtNbURnSW1WMW9ZSWlmQWVKQ3I4bGVBVlU1N1NQMEthcVZKZTh3QTZtMm9NaFJnWQ?oc=5",
+          "pubDate": "2026-09-17T02:34:28.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "GOP defections increase as the House passes a measure intended to stop the war in Iran"
+          "title_en": "Sen. Cassidy says the measles surge will be the administration’s ‘terrible legacy’"
+        },
+        {
+          "title": "ICE likely violated First Amendment by issuing warning to critic, judge rules",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnY1OW1LUDlnN3BpeFJVMHBGaDNkX09jZUF0YkxGeGc1NGZVaGoxSkwzb0lQMGJxeWNiRnozRVpRdjh1S3VnQmN2T0FlQlZUTFlNeFJGSW5kcnprR2FEcWVZQlhVVWhrT2o4MDhIT29Ca0x4Z05wUFhxZHNEMnliSUVVRHBMUmhyU2VLYS02bFVKMTUzVWpiNF9fYm40d25zSHdnRzJKS0tKVW5VQjI1UXZkbWZKWi1xYXJGUFBPVks?oc=5",
+          "pubDate": "2026-09-17T00:13:23.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "ICE Likely Violated the First Amendment by Issuing a Warning to a Critic, Judge Rules"
+        },
+        {
+          "title": "Fed raises interest rates by quarter point to tackle inflation",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
+          "pubDate": "2026-09-17T03:14:59.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Fed Raises Interest Rates by a Quarter Point to Tackle Inflation"
         },
         {
           "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ?oc=5",
-          "pubDate": "2026-09-16T13:19:49.000Z",
+          "pubDate": "2026-09-16T20:07:28.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Iranian strikes have damaged hundreds of structures at U.S. bases, according to a watchdog"
         },
         {
-          "title": "Trump’s planned sale of controversial bombs to Israel is largest in years",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmpWdEY0a2lfckhvRTRFeTc4a1V6NldVV2JpeFVHQnlkZ2dxMjl5Q0thYW52NEhYVHNSdlhheFRzb0xUZkRfSVFiYjZnSmhEYlVuVmdhX2ZKYjljcmpHSlRkNGhTa2U0aGh1cDhrZ3M1WFMtZ1JpZHY0NlBEbmdqV196eEhIUTFndHFJNEQzMEE3ZUFZc2hmNEo1ZkVVb2FTU28zVUFuS0RqQWdzdFJ1OHloY1R6Y2tUNERZQzJxYw?oc=5",
-          "pubDate": "2026-09-16T03:41:45.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump's planned sale of controversial bombs to Israel is the largest in years"
-        },
-        {
-          "title": "FBI director faces sharp questions from senators about his firing of agents",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnlrcTJIMGNhVk9WaVAzUDhKTFUwRWZzdXRiZWN5NWluZUFKMFZGLXRVMGVIcFhyQUJRYUtUemhXREJYX3Itbkg2T2EyZDlVWjAtaTVldEo5LXhqRjhhcXN3b0dUZVdDN1ZQRkN6U3g3dXdFNTNnR2Qyd1QyMTFJb2ZtdVdaTDhTM2liQnpoYzZBTm5NUEpyNHIzVXdRNGlO?oc=5",
-          "pubDate": "2026-09-16T04:08:38.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "FBI Director Faces Tough Questions from Senators About His Firing of Agents"
-        },
-        {
-          "title": "Inside the campaign to convince Washington that AI could end human life",
+          "title": "How a fringe AI movement convinced Washington the end is near",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHlzQkZTYTR2VnNCaU9wYU5OUURIWWpyWEFuQ2VqRUdMbkdVQkNlSy1IUmhkcURKS3ZiOTBPcVV2V2R0S0pnaEJjek1zQ0ZGeXdQczZWTjhtbHFhNHUySUJEUldOZ2d0TFdJMUVZNHhoMVpSODAxaW5UN1BWTWlFV3lJRmJVVE11S3ZXWld6eHlXOXdQQVVlaE9zOUF1enNiTlZBYWZZRDRvOF83aWlMXzBKNWs4VHpObGc?oc=5",
-          "pubDate": "2026-09-16T13:32:02.000Z",
+          "pubDate": "2026-09-16T16:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Inside the campaign to convince Washington that AI could end human life"
+          "title_en": "How a fringe AI movement convinced Washington that the end is near"
         },
         {
-          "title": "Trayon White Sr.’s attorneys say lawmaker was set up as bribery trial opens",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUm8xSVl0UmlWY2pIVXRIb0IzZnNuU1ZPc01xSXpyOGpNTHg1TnlrVXMxQndlNEdUNEZGaEUzLTdNSXQ3d0N0NGNaamkzOG1WT0FXTW1YSmE2QTJjQmNqRXZOZFc4VktaNjFxUzFKNkxsLTV3MVdLZGRySkRWOXFGM0ZSQzM0emhvVExmekF0bFJqRGJtYmlQOW9mNFpud215RG1ucVRNQVRjVzhiUkZZVThZUQ?oc=5",
-          "pubDate": "2026-09-16T06:51:28.000Z",
+          "title": "Senate Republicans manage to advance farm bill with McConnell’s return",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFozODFwcFZrZldUZThSNndzeHU2N19jLVZMZzhPRi1ibi04U2xrNlNRMjl6ZFlvNWJvMFJMNzFSVllJZ1U2eUd1d2tZLUxMVUNTWGVnMElGeFJhc3UtaFdZdHM1WTd0NzNBOFBYdm14UXhUVm5YeldnRXBHWU1BZmI4YTlIUUFZTDZZSzR4ZDc1T0ZVTUdCTUw0MnVpTXBIbGt6UUQ3c29UcWh3ZFdQbFlfOVN6blp0ckE?oc=5",
+          "pubDate": "2026-09-17T03:03:40.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trayon White Sr.'s attorneys say the lawmaker was set up as his bribery trial begins"
+          "title_en": "Senate Republicans Manage to Move the Farm Bill Forward With McConnell's Return"
         }
       ]
     },
@@ -275,6 +248,22 @@
       "name": "The Economist",
       "color": "lilac",
       "items": [
+        {
+          "title": "Russia’s sham election is descending into farce",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUllaUlkSGZJZjM2enJBb0prYlNsVm81X1hpcFBXel9CRjZTZEJJNENWbkdaX3I1VXdXM3hVSTY2UmtqcEk5RnJpRFVSUmdDeTBVZThzWkQxejBVeFR0WU5BQWVjU1BtdUFfOWdLVmRsbUljMmdqc3NwVDNkZU9DdGZqb1BzcDVNRmVwZEJSOE9UaVho?oc=5",
+          "pubDate": "2026-09-16T16:08:21.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Russia's sham election is turning into a farce"
+        },
+        {
+          "title": "An electoral result that helps Japan’s defence buildup",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONk03Rm1DRjlRRWpOdFhEUlZFcmxTRVRNMmNpYTBTc2s4R3gwN1otcHBxcE1Ec3ktU0hoeUlESjBzN0JRM2RuMU5yYTRES2JpZkhERkFaRzh2MFdIa0N4UHNtS3NfMGUxRU9LVDljQnJodThkdXN0SE8tWFYydVctR2lEUndoR0tiaDA5RXJVLV9WUEtRSUZFbDBfWQ?oc=5",
+          "pubDate": "2026-09-16T12:34:19.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "An election result that aids Japan’s defense buildup"
+        },
         {
           "title": "China is not ready for a post-American world",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVBwUXRnaS1jTDRBVzJXNDc1dHRfbzlTNHE5N2lsYXp6UENTUTc0NHBBSnpBNlNpTElUSmdLTnpKNDdQOGVqcHdjc1NtV2toNnVzNUpJcDZ3LXRVZ054bHNFMFRJLUNRSmEzdkJxd1Q3WGhxRHZubDRqWFNYaFZpb1FleGNRU2pWdENEcEw4YlpaX2syZXp6elhDbw?oc=5",
@@ -284,44 +273,28 @@
           "title_en": "China is not ready for a post-American world"
         },
         {
-          "title": "South Africa is at risk of becoming a mafia state",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTZzTVZXX1JJRTNlWmdsZk14MUdtQW5DZHRmeHJ3NmZfOVd4cGtTZk1UMEJyLXZJTnk1RmR0VW52ZHdmOFIzWHQtczdPUGI0T1pzTzdjYjlIa0hsREp5bUNpVTI0SmVENlN0NkFLSkRvelBwcHl0ZWFHSzJyeDRpLWdLVnJpXzJMQ2czR3Q0SzBONWIxWHVUNGd3UnhwTW1QYlAxZjhONk9xOWtnekE?oc=5",
-          "pubDate": "2026-09-14T16:14:59.000Z",
+          "title": "US Senate 2026 forecast",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5iZF9CcElOTXkydDhVWVJsUDVaalhNYlpZT1VacEEtVG93VnNVdTkzVUVIRWxpZ2tHN0xUdEFKY1Q0SDkyX3lzRk50cS1wLVVYOG1QRnBGWmlzdnowZjE1WE9vNURDTWM1RVVJdVVuOVJ6STNGaERacDBNSUFFU0YteGw?oc=5",
+          "pubDate": "2026-09-17T08:53:03.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "South Africa is at risk of becoming a mafia state"
+          "title_en": "2026 U.S. Senate Forecast"
         },
         {
-          "title": "Alarming lessons from our week in Ukraine",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDRzenR0TW5wN0ZtSHAtbzdzUFFuRGlVVmUzZ09MNU9xWHl0T3pDdlBHY2pJOUZVZVFSMHV6Q0dXdWR4U0V6N1NVSnJoeGZjWFBFS3gxT2lPNW90d0RPa0hlV0RXMGkxV3dlU0FIaDAzVlVPYVRDVXZDSUxFVU9Dc00xUWZWNGo4X3lCcTNnZ0s?oc=5",
-          "pubDate": "2026-09-15T17:00:00.000Z",
+          "title": "Researchers have created a mouse with a partly human brain",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkw3NEZxSGJsVWE1a09zQXVWa0g1aWhVYzVnY1FCN3A5UnpRbS1lRmdCQTgxUDZSdkRJTXAzUFdtY3cxSnRyeldiSFJtRmRNVmNNS0RvRmNRSGY0N196dkkwcWpCVGF0MzRMbjdNYlh1aWJsVlVyLXc4X1NjR1loZDY0QXVfUlZVTXhDelRoOC1ZVGxoamFrV0lXeEFJUXVxbnotZjdXNENhbktJRW5NX2FfZ2trdlNieXc?oc=5",
+          "pubDate": "2026-09-16T18:50:02.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Alarming Lessons from Our Week in Ukraine"
+          "title_en": "Researchers have created a mouse with a partially human brain"
         },
         {
-          "title": "A new device helps severely paralysed patients communicate",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdk1GN0lOOG1YRmtrSnBCYjhOYlpyUmRYd3BYRHYwOHRLYTJpUXRHUG5DUll0V2czVEtvMVVzNEVqNnJMRTVCSy1CN3FDMFR1UU1rMU9jSk9ETlRWbmNDSzQ0cGpOVk5uYnVva25IMnBsQS1xVjM0cGV6bWp2TDNXd2h2TGlrOFJzekxHeHo5YVpCSXlLVFFuUV83VjBqeUwtRlRTUFowUFpEN3NGZTA0Tmtkc05fNkxmLUE?oc=5",
-          "pubDate": "2026-09-14T17:07:20.000Z",
+          "title": "Artificial intelligence now beats some of the best human forecasters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVE2WlNjSlVyUjdJZzRYT1ZTSlI1cWFHdHJYcHhMNnREaXYzRzhINE8xWHZIZmh2TTFaOGllS0lTVU5sNDctUzhuOXpNQi1BbjBwalduUkE3SllUbEp3ZTFveEVZajZwOGRSVXhDaS02bnVCMkM3OWdBZTd5STl4a2dBbjNidGhpSlQ1OXlCanZRaXpoay02TU45cXk5b2c5dndkQnRCVHdCbUxvV1ljTkNtMmY4aDFnUEFHNm5iMGdhWjB4SHNR?oc=5",
+          "pubDate": "2026-09-16T18:47:08.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "A new device helps severely paralyzed patients communicate"
-        },
-        {
-          "title": "Islamism in Britain: what is the threat?",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVJNMkIzWFBvYXIwc2F6VTBSdW5fa0FYNkVTbW0yMnJpS21GaGVEbDU3OXlSUWh3X0oyVFYxck43UEdGZEVKLTBEQ0p1TEJtRjVpVnlBR2twR0VweVZUMTBjV3lYaVJpWmdBWjdQcDEtWk5jVjJjVHRsT1Z6ZjVVekxKUUNoOWlYV2lQQQ?oc=5",
-          "pubDate": "2026-09-15T10:25:49.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Islamism in Britain: What Is the Threat?"
-        },
-        {
-          "title": "France’s centre has one question: who can beat Marine Le Pen?",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlFSX0x3cTZmY25oSUFmdE5rVm80R2p2RXYtNGV3TFpaNHpWMFFmMkM5THFMN2RoNTVNazQxSFZ5UFUtbG5HWDAyRk1Qd0ItUnBGRUJHUVRfOGRYLUhVXzVEak5fMmpuUlpwdHNBYnFDekVUTnJvTXM2bFg4UGFPaEhxUm1lNl9kdGFiMUppVTRac1NaRUxCWl9KT3EzUG91S1NfXw?oc=5",
-          "pubDate": "2026-09-14T17:47:32.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "France’s political center has one question: Who can defeat Marine Le Pen?"
+          "title_en": "Artificial intelligence now outperforms some of the best human forecasters"
         }
       ]
     },
@@ -330,52 +303,52 @@
       "color": "peach",
       "items": [
         {
-          "title": "CNDH urge a regular la IA ante riesgos de manipulación y uso de datos; pide que avance tecnológico sea acompañado de normas",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPa0Z5T3hfZWlZdlp5YVcwYzBPa0xwSUhYUi0xZTZMdnNlRGNqU0JpUVVmUF9PMHpfZF9YRklGUi1CbUZPR0Iya1dxajdpSVVVSENFTGpHRnV0YzFGSFpiLThfbjU0eVI1VDZDSmpweHJPRVNPN3dXdWRiRkZuU2ozbVE5UUQ1UUN3M01VWFQ1UUU0ODZqdFhvVTdIck1NRVZqbHhCbnp1N2lWYjVtNGp5RzFxT0lsMEIwUmx5OFQ3Y1VfNWhMZ3RkZVFHN1BfVjNDbjNURTd1dEZXWDRzNFF1MER6SUIzNjRzOEd6UUhabUhpdW_SAYcCQVVfeXFMTWVlZ3phb0dNQnpHdksteDVwbVpKTmJNSkxBRUJQbjFqUHJpSER6Z3NGeFFGbEFLd0x5amZ2NktaUkl5Y0djeEdta3NwQzRmTlhsQWFVdEVRT0xibWNZTkx0dmpXU3hwMmdnWk0wNWFSdWVCZE9pcmd1QnI3NkNjRjVxQ3ExazV0WjZqOGZrNk5qZU5PZV9vUU9oOWhsc0hmV2Y2d05VU2JPSEYxd3d6MWJKc0NYcVBiVlo0YWI5Z3ZzVHR5V1BneU95TnI4dlpXemw0ZGkyOEtzcU16MlNUYjVaV21nTzJSUW1MTmFVY3F1VEU2eFpjV1VTOTRFUHBUOGM3NE9IeTQ?oc=5",
-          "pubDate": "2026-09-15T18:30:40.000Z",
+          "title": "Critican blindaje a patrimonio del almirante Ojeda",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXNUMmRDc0t3YmhadnE1b011Z3daWmsyVldoSTI5N2xiNjF6dDNmaDFfRFVVNTA4bzc0UzdKd2VHYkh1S3pzeVd5NmFFSUY0OS0zZjRUaTJWWXk2VVpPRFlIelRobW5WLVVGZGRNdXk4bWx1aXpfckhfQ1hQSlYzZkh3WUN5NFZHRlc5ai1FTnJsR1hBVmhITkZfUHFJSUxtY1JOeGluLU9pUHd6UjZNUFo0RHlockxhN3F0WW5ud0fSAdQBQVVfeXFMTWxCUXY2bEIyV3RHWERuRzRhcFgyMmVtZjlfU3ZtbWZRN0lmR21lMlZOMmV3TDVFaHFrTWpySUtpdnFmak9ZX2hwd2k1WUlZZzVqdzlWQnZZNDBSNGJHMldLRHdLNHdabmx0NWxFVU1HcGYzc3VyTmplLTF2UVVacFpqLVVnNGJyaDNxSTVSLVRHWnFTNnowd2pqMlJSRGljRkx4Q0F5T3VJQ0dkQkcxcnBpWTN1U2o3WkFIZzNBXzNWd3dpYUFuS3pqdldRcnFyMzV0R2o?oc=5",
+          "pubDate": "2026-09-17T09:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The CNDH urges the regulation of AI in light of risks of manipulation and misuse of data; it calls for technological advancements to be accompanied by regulations"
+          "title_en": "Criticism of the Protection of Admiral Ojeda's Estate"
         },
         {
-          "title": "Detienen a comisario municipal en Guerrero; lo ligan al homicidio de un Guardia Nacional que dejó grabado un video",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdlJHN1BoYjkycllVS2c5ZVFmZ1VFV1A0YU00dUJrMjZydVUyR3B1WDRTQ0JqZWJWZW1zMldVSzlva1JYRVdjQ2dlMmdlRjhERHZiZF9mRzhYZXZnSjlyeENNVXVqc2JvTGJEem9ZXzRLNmVxMTdWY2NOR084cG4wcEhlaUVkOTFEaDRjVDc1a1hrVF9xV1FrZUJoeHVLMDAwRl9XTm9PMWREY3dwNW9nYlpNUmpuQU1qZGtTLUNldTNaLVNLLWtteldncDl2aHh6LVN1LWw0QS1Gd0pRRTlaZmE1aXVJa1XSAfsBQVVfeXFMT2U5ZE5LM0NIUnhqYll1VktaTzlKUkp4c2h1clhLSTUyZWxsck4xQTNxQTRHY3dCYzRXaGZ0b184VEhreFB0ajVfdV9PSGUtWmNiV09OSG5FcWpxZkMyenpZbE4zdU9uLXVDZVFfU0tuVkl2VWs5VFlKQ0pKUVhvNlNrbm9ZR3hYNUhoYTZWNFNOTThaN1B6eVdBNnVLMkg1MXlGM2pKMUJ4N0cxOHNSSm1QSGFwWkU3UGRfZXNGQTlpVy1xV1M1bm9NUlVzRXJkTE1BaU0zZkpLOEVmaVc1S2dVZUNxUlJxUDBMQk9oWEdORG1IaXp5d1VPVlU?oc=5",
-          "pubDate": "2026-09-16T01:09:00.000Z",
+          "title": "Trump pide que México detenga a \"funcionarios corruptos\" que encubren a los cárteles; destaca labor de Sheinbaum contra el narco",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTndUaFJNOHFLMURlckxXa3JJaTNfX1dYbk1heG1xU0pkeEloM1lINWtsS3YwaE5uWmxDTG5wZFVya2hzZWdzenBlZ2FJUEYzQjkwSGFFRHB5WVI0M2RuejYtTURnTllqci1DQTgzeVp6dUcwRkNnSEhWeHMzelF5NzQzNnNvbGYyVDdMeG9yM1lEWTZHN1JYTHY3R0pKaklSQXRGWWlucFdxVS1PaDNacWZwS0dmTkRJaThsbnhtQlNUYWFRWTd1SUk0UmRIU0RoOThvNkgzZzhWeW1PcFNQR25ISzlZX3VNWUZjQtIBgAJBVV95cUxPdkFET2tVVFdGeFZGa3JvaVZEVUhqWDJJVUc0cXVXQWVVVDhYQ1ZnU1dyc0ROaFozNDYyZmExbGZkM2F4Zlhtbko1UzI5N0NGcmJFeVVZcU9jZmxNUmZkYkFoS0FVOU5tZVIwTDZyMUNOZmRGWVV5dkFmUWlDMHl1cURzRjFzT05FT1B6em1rYWRSMTYyb2ZNZ0dfbmpSZDZNeXVnOWhYZVhhWkNWOHhLeXMyZDI1RkJwQ29xTFV4RE9FUFlRNkdjS3hzSnpWdnNtdk9henlPd3RYVzRkcG9NQTBsYnJyb01NdjR1SkhvWEVIN1dLLUpRNVA4bmxETmNy?oc=5",
+          "pubDate": "2026-09-16T20:07:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Municipal police chief arrested in Guerrero; he is linked to the murder of a National Guard member who recorded a video"
+          "title_en": "Trump Calls on Mexico to Arrest \"Corrupt Officials\" Who Cover Up for the Cartels; Highlights Sheinbaum's Work Against Drug Trafficking"
         },
         {
-          "title": "Perro detecta cargamento de café con cocaína en el AICM; decomisan más de una tonelada",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFNTSHBmVERmT2wyS3djY2NrSTBmTXdFUFBfQ1ExWnhRbHZtcHBmdEd5a3JRaVlDaWNVMzg0VjU2ckpDTDBwczNTSkIybVdDNGUwVF9HVFRKSGFXRjR4NjY3VjZNbElGSlU3WW90bzFNdnI5VGd4c2c4Z18wUTAxYXNaWlgtR2hwbk4zSWJZSHZYbmhZOFBaMVU0ZkJMa3l6UFM0SEd6SFhKdmdYUGU4MGctaW43WE1leVJsN3dyT0U3QdIB1gFBVV95cUxPUXNkY1FSTGlHemlydHhVZGMzUkVwU2dHUWx3alRXejZzYUFrelRLU0E4ekE1UmFJdjhCRmphQXJleTVIeXFkOUU1Z0FvbEFCMGsya0hpWFF2NGpUVVY3Y19pQUVSc1VDVUdiOUhJcmQ1emVhaFZvSHd3b1dZVlFaRVU0Tmt0a3pZQ0VkNTZzZnl1TDhPVXFpNUcwcFhVZjBxNWh2al9uRnNzbFo0WDl0RXlXV29mWTJodkY1aFJVMGxqNVZPTUhGNHpEVVU1Nmt1TkxNbUR3?oc=5",
-          "pubDate": "2026-09-16T02:55:56.000Z",
+          "title": "Más de 11 mil personas han sido detenidas por delitos de alto impacto en CDMX",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeHNfVnJ6ZkNvN2RjTVlseHVEcE03dko2S1U3QzJRR1NKTWdBR3pqTWNvMGU2Ymh6NXhKWlpBc19JNWZOZ0k2Rks1eXJjUnVYTENEemV0dlhrNG4tRkJiLU1ETEZYWEdfZi1pRzZSTzZZNjNiOFNaRGs1UmtUVTRpeThmRENYbzlQVkU5bmJ6RFFpNy1uZXhTV3ZvSU9JLVB2MTM4ZThHMm5kSERycG54bUNidlNBMy1nUUdHc3lQT29WTmpPOGF3cE0wTG95by1qX2o5V1h1MjFsTlZqcGhiU3FIVHZySWdqVEFuUVE2MGNkcGVD0gGIAkFVX3lxTE5zcGwxREJGTlN0WnI2cW1rR2hRQXFuWGRLdkdMWTY5S1Vtb00xSVJsbGNuTEJhS2h5NlplMkJTZDNYNi1SRWU3Y0FnQ2c4X295aW9tRXM4VDVNZDg0c3pvUUJDUkdrRFcwY3JqWUFNMk9WZUlBbm9CRlNucnByX0hnNDBPUnhkQ0F5b2ZHYmUwOWFRMlMwTnBuSGFkMVZoeFV4LWlkR1g0Q3kyLXZZQVR0M05mZHhnWGVCYW1SYmlvejQzMFNabU1OdzA5cmdJMGJlTVI0Y2Q0WWw1cHAwa2NEYzhWa2M1YjRxUHNZcW1IaldRRy1JeWhnaUlZd3hDWjhrQ2lJNjdsbg?oc=5",
+          "pubDate": "2026-09-16T22:24:38.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Dog Detects Shipment of Coffee Laced with Cocaine at the AICM; More Than One Metric Ton Seized"
+          "title_en": "More than 11,000 people have been arrested for high-impact crimes in Mexico City"
         },
         {
-          "title": "Así se vivió la noche patria en los estados",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVNNWXVZS1ZvYS1vam5QY1k0RkRqb2JYVC1SeDhndl9Ca2dlTndlUUMzeG1yb2ZNazJxU0VFWU5OZ3dVMzEwV3NfbDRDSUoxeEhjVy1RRlM1M0l4ZjZlUUJFWnlrTUllcHJ1X216VXVnZno4Qk9PZFk2a21EU3FOWFN0Ulkwc3NMWHA1amppajV1V0JSbFlqUnZVMHVuOGw4TTZBdFV5dDZLaHVXRThBUm1kY2FJYUZaT1FVNGJBVE5aNXJ2cXVrSdIB3AFBVV95cUxOOWprZlVTLU5IRnZ3Uldwb1dOZGkzTlQ3Q2xaUnR3MUE5LUNJMHhXZWxqSGpWTTVJbVlxLW9sZ01TRk9zcnBOdUR4WEtkMzR4NkQzRWVfaDF2aERsRHpNNFlqbDJRenBKS0pCTU1uUDd5VjNOSVBLV3M4V0hLVnp5cXpMbUhIQzlfODg1MzNFc1R3eS1ydVdhX2ZJS0RHVlBocF9MYXVNYkhaVEZRMGF6eWVJMWg2bk1KR1BUWWQ0QjhGemFjVUkzNl9nSHNxWXQ4eU5rRHBodm1Ka3Rf?oc=5",
-          "pubDate": "2026-09-16T13:03:01.000Z",
+          "title": "Renuncia secretario ejecutivo del Instituto Electoral de Tabasco; lo acusan de proselitismo a favor de candidato de Morena",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbHNHUmRCTjBNeXRnNUhsTE5xX2JLVFJsOG5HMzQ5S1lvRGpWeFhRVzBGbXBfSnB6S2lUOXVRNjlFd0lMbVp1WkRvT0t0NVBQZ0kxWDhDT09GUTBfVldrQTdJbEtJNzF4Z2h2MlJUU2ZCNFViNWJQQnl2b0NMVU5MOWx0ZzRJZDJhaGhNYlR6cklya2dNQnNwLU5HZmQtQjlINmtVNTRNcXdRdjMzME1vOThwUnEwYW1qMVhpb2VNXzU5MUZ1dFJpWVVDZVlzZ2ZQZkRVNEw4T2pFUnphajJodDNjMG1Xc3M0c3dZYXFueDRxYkXSAYcCQVVfeXFMT3Ewa2ZkckxYM3k3eVJuZlQ1NlkxcndCYWZ0NnM0TTBwUmRZTnhSQWZzc2NjQlBlRXVoeVo5SUo5RUZKVXoycVNEZkpsVVZmdFdweUluVHp5TUJlUE8tb3B4WWJVeTJCd0hLUW9zajZPSXd0UHVxU0RjX1piRzgxQjBURklBMGEyX1VfX0ZBWGlXWDBnem5tTV9IbnhFc05SaWdnWnlHcmthWFBNcVk4Z0JBN3NOYWZUMnhzTG1FWmYxU2J5SUY4LWFMZjNDREcyUmpRakpxYXRWT2tVSDlkMmU3THJKaFhzTHppR0d6Q1JoZHhjVnpidFpLeFpXdHdSVnE3MWRKRU0?oc=5",
+          "pubDate": "2026-09-16T22:00:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Here's how the National Day celebration unfolded in the states"
+          "title_en": "Executive Secretary of the Tabasco Electoral Institute Resigns; He Is Accused of Campaigning on Behalf of a Morena Candidate"
         },
         {
-          "title": "Salud reporta 16 casos confirmados de sarampión tras brote en Veracruz",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMnNaZzhfMUJCNkhqTjlzODZjd3NPbExlOW11MjBXZkRRSDJ6X2o3Y3phMy1lMDZONF82bnJoeURXZmlidnh6R2xmNllUcDZDakNsZDFldVlBY3g1UXNueUs0am96V0FYdnQtS1o1MU5qZmE0WGNiRzdPbDRFVWowblFOY2tUQWo5QzJPZHd5Q21nWmVEd1JHTmJoZ2Zxd0ppbE52U2tHR2FRVWNSUXZpZ24xZTI1cS14MHFzaDdXM29sQnlTRWV4NjZ3WXpBZTU5NHVIVUFmTlFSR0hrNkx2cWtGNnNfd9IB-gFBVV95cUxPV2M1SUtPQ1I5SnpfSWxFSEJib3VteTR2UkdCMmllY0hYOW1mYUNfeUpvdU52THp3Vm5iTDFtOGsyWUIwMUZ3X2pndDRkdWNnTTI4aGhTblBNTkpUemZ1X1BNLXZwN0lULVlFRzVDdUhDNmI3VVRNaF9zS0ZXODREOE1NWWJPbjRiNE1CRF9OcklhNElkUHFIeFlibGVvMVJXQlZFVllIc3ZnbF9vZ2ZaNHFUMWt3endVRnJ0S19NVU9mM1U5d2NKTkExUGtjNTUySWRMSGFESms4VUI2bkFRSktRb0RRVlNadWJaeVRJUEpQYTB0UllFbWFn?oc=5",
-          "pubDate": "2026-09-15T18:48:12.000Z",
+          "title": "Más de 300 personas están en vigilancia epidemiológica por \"ameba comecerebros\"",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYUFCdnBmT1lORUxSVUl5djYxYjh4NmJqaUpRZHJCdFFIMklPaHR5STBRbkhpV3E4ZDQ5QTRRSVNLejdxS1N5VHM3RWFqMjZyX2J1V2NNcG1CbHJ2eGNfT3R1Z3lDU3JiQWF2R3NwQU5mM2ZCck9OUDJ4OHo0SnAwSHZoakVVb09CMm9mQ3R4ZEczTjc2YldCZ1dfRkpQTHpTbnpnZFdUa0FreXNVZVdkOXRXU1J0UzY3cl9PVkFUal9qZjl4NU4xVHNrc1pCaWJpOGc0V3p5V0pJZGdDaGRpWklobUV6eWpSWUI3cUgxRm5kUW5HMm9BTFI3TlFCQWJT0gGUAkFVX3lxTFB2SG1QUHdHQUppOExheEozR0ZTTThsSWtUaFNZQThfd1FPWlpkczVDcW43dDBnS09sYXhRZmxZTFVQUHlhVEU4X2ROU2hBelI1TXAtOFBuU3lyYmFiWkdtZ2VDRER0cHBnNTRzczhiM2w5WExLWVotbmNjQ0JsUVQtUmh6aDR4R0o4NFRjTlA4dzZTeUc4MzlEcFZ3MjZoVnlRaUFxaVgxclh1ZVF4YnJnMlZTQmFLbmloVE9ub3pxbmtqLVd4OGlKRC1KU3VyZXFMMFhOelU1b3ZKRXl6R0NnbXN3M2JsR2cwQ05EOUpPb29MLVpVdUZJdUw1dHAtbUxrNTRIcERwNmktNDk2anp0V2taUQ?oc=5",
+          "pubDate": "2026-09-16T23:16:18.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Health Department Reports 16 Confirmed Cases of Measles Following an Outbreak in Veracruz"
+          "title_en": "More than 300 people are under epidemiological surveillance for the \"brain-eating amoeba\""
         },
         {
-          "title": "Educación superior alcanza 5.8 millones de alumnos, reporta SEP",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQek1qbmNIeXZld0VLakk3a3R5SlVQNWF0aER3MXpvZEhJMnNLVHVla0tRY3NmdjFTa3M4V3g5cnRQN3NWT0h0Y19vaTVwbzdZTjJYUVJWRXREOGZXclFRRVlTX3Fob2VNcUZQSmpSYldzU29rekhMZnBLejMyU1NfTFFxazBWUVJBaWNwYXN0bVZCZUpHeVlZeExSM3ZXUFc4QWxjVXB2bHB1VzFmS3JQTWJiWXlxZVlQNmNSaU1vNkVrTlnSAdcBQVVfeXFMUDlNYlQyUlZIY0t3aEpNVkFWT0tyQldfLWRWR1lnbDk0MUVJLWhGWDVGaDlfYmFLQzNNV0g4SkVVUi1LdkFWUlh3Z1pkdlZ2elNoR2Utc2sxa081Sm5uQmNtSkhNX2dQbGwyQmJCTXp5QmxXN0dKSEdnSUgwOHFIa1oxdUlrTVkwbmxtQUdfTWpFREZsb1hpMTBMOEJjNzh5OFAyanN6X0J1S2pNZEdDN2F5Z0wzdTkwcDlHZFM1SmplTm9NNHphU0J6TTJpSF8ybm1zMThHbUk?oc=5",
-          "pubDate": "2026-09-15T18:47:07.000Z",
+          "title": "Derrumbe de edificio en Gaza deja 20 muertos y decenas de desaparecidos; inmueble quedó dañado tras ataques por la guerra",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdDQteGZJVGVBUjZtR1F5QXNzd0dyc0FSellHSWJ4NnRXYXI1QWdzZ016Vkhkcnhuc2FSdXJqVTk3b3ItWENaVVM5dlJlTTBFdEFSb3BMa0MzMWZaaXVKcktHV3BFT1VrWFFpbG40QnEyRmRYNDJlbHBUenAxM25UbU8tUHlLaTdadUJBOVAyTmxWamFDMjNhN2hXdE9oNXhMNG8yajFwdlFXWmVSVlVwcTZ5aTNSOUlMT1ZqT1FzTk9yaGtzQjJNNXFJVU9ja21yRk84VUpNRmNfUF9NaWVXNWpoRWV0c1YtWkl3UFdfMNIBgwJBVV95cUxPZmRCYXo1NXZFSHc3MXlDbG93Znh6QnI2ZEYxMUZXOGxXTThMOE5QRm0wRFVROHJGWFY3Q3VjTnBkVGFiVVk0aDJsMVRma0tJbmlVUS1ob0l2LUZNSlhSOVFMdUlqMC1FNGgtcjh3ZW93OTE1d3JxLWY1UzByOWgxUmg0cTUxV2tVZ3EwU3JTdHd2Y1NTSUVJT0JtT1liVG80Yy1nVTBSRVJkclhIZDhaWTBXQVdudlJXSHRMU3kyTzdILURLeUo4R0RqUEg2Q0RBYlp3RmdIaHZDdUJ6Q24xRXBDOE5PNHljaG1kUTQxbWpNQU1OdzB0NHVUcjRsT0JUejBj?oc=5",
+          "pubDate": "2026-09-16T14:45:46.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Higher education enrollment reaches 5.8 million students, reports SEP"
+          "title_en": "Building Collapse in Gaza Leaves 20 Dead and Dozens Missing; Structure Was Damaged by War-Related Attacks"
         }
       ]
     },
@@ -384,44 +357,52 @@
       "color": "blue",
       "items": [
         {
-          "title": "Crimen organizado se expande en Latinoamérica y amenaza democracia, según informe",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1AzdXYxbzVPc0tNdDE0czhXejVnWkR3amVYcDVnWUUxVXFodXNSQktpcTd2QjBBNDdtRjB6c3hPMW1HbEtfQ0pKWjRMaHZ3RDZJX1hna2VmRnRLTDFxZVFqb3J0eXNBMDdORklpQ0REdUpTMG5XQWJGSlZKVXBTc3NiN2lEZFc5X1psWFRJUWdvcG1XQU1nRFlrZ0ZZbFBUTFY3bkNZWFRqcU9PYVpBdGpuSUQ2ZzUtX0E5Z1JJTHFOeFJYOFVJQjBZM2hud29M0gHWAUFVX3lxTE5VY1VMam56SzVXYzVLQTZKeHZsejNNSFBrN0hWTTUzLWdWRDdxc1pQMGdCaEwwd2Myd2FIakJzWDBRMm5YY2tyT3JpN2dtSHZrN2VBNmNncW5ERUNDczBFYW82eF9YTnRjU1dyWjZxVjQtaDI3dTFackc4MmJrdXdTbUM4Yk9Qb2dEdU5pcG8zOTVJNThscGFhVndOTUVsbV9tMW9sTXB0SW1yXzQ2eFBhdFdsaXhrV0dvM2QyVVQ1eFhwcUN6YXBPR2tUZlRIYmxhcEczdlE?oc=5",
-          "pubDate": "2026-09-15T01:31:32.000Z",
+          "title": "Cámara Baja de EEUU adelanta su receso y no volverá hasta después de las elecciones de medio mandato",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTy1iTXpBM01NZnBwV2xuTFNkNGRHbklJaExpeVhOZnhONmMwQXhvZFNERnp0aklvNG5kUVJnQmhzaHN2WjdYMlBwNkxqZEszMEt2VzUwaHFCcldOajk5QU9tX0J3ZEphWW5DSmpiR1Y5TWh5U1hBcHZva1pyOGNTcUhubEFDbVhsT0sweGNQS0xyNFFHT2NNRzJKZDY0VzN1TlBWRThWSWlrVVJ4b2ozV3A0T2VidVNBcXVOYTk5MjByV1J5T2pYZGhPdXR4Nkxpck9B0gHTAUFVX3lxTE1PLWJNekEzTU1mcHBXbG5MU2Q0ZEduSUloTGl5WE5meE42YzBBeG9kU0RGenRqSW80bmRRUmdCaHNoc3ZaN1gyUHA2TGpkSzMwS3ZXNTBocUJyV05qOTlBT21fQndkSmFZbkNKamJHVjlNaHlTWEFwdm9rWnI4Y1NxSG5sQUNtWGxPSzB4Y1BLTHI0UUdPY01HMkpkNjRXM3VOUFZFOFZJaWtVUnhvajNXcDRPZWJ1U0FxdU5hOTkyMHJXUnlPalhkaE91dHg2TGlyT0E?oc=5",
+          "pubDate": "2026-09-17T01:26:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Organized crime is spreading in Latin America and threatening democracy, according to a report"
+          "title_en": "The U.S. House of Representatives is moving up its recess and will not return until after the midterm elections"
         },
         {
-          "title": "EEUU captura en Venezuela a alias \"El Ingeniero\", uno de los 10 fugitivos más buscados por el FBI",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUmk2VnJncVFIcDBuUFlZaDJsT3RNM0RsRUxrU1JDal84MnpqcGlEN05NZ1ZpT3hETWtjVDYwYkM5eDVMRGRPOF9wZThxWTVhZ2N1UFhhbnVRalY4a0ZtajBRX1JseWRNY2M3VUVrZnVoa3pMSzZRaVJ2NE81Q0U1bDNMMTVSVnQ4bjRZNkVBdFJQLVRwZWZTbk9ueTF3YUhXZndGeWk0NTNybWZ1eWg1elNwSVg5R1BfaEpnYWIxTWxkV0RoVklQNDFtdkxXVXkzbE1TREhGUdIB3AFBVV95cUxNNXJVQzZJVFJlZXNpN2FlcmZ4UDMwRjQwbE5jd1NYTF9NSzNackpzNElOejBDRzlrMklpeEwxaVF3ODYtSmFxYm9tNDFYRzVyeGdXSThmdDhTTU1QUFBvRGY2WXBPdU1DenRtWDVRUFFnUlNDcDl6RE1KZ3NVd3h4aU9yeEw3ckNpYUZ1WXRJdXJtdkhYTkY1SGsxdHU4Rml3dDl1bG1TRnJzV2RhY3hJLWhMQVRTYkcyTWh3WEg1QTZRUi1ENjNBNDc5WEk0c3NHck1BVkhHcDRwZzJJ?oc=5",
-          "pubDate": "2026-09-15T20:49:04.000Z",
+          "title": "Empresas de petróleo y minería de EEUU operarán en Venezuela con apoyo de Trump",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdW01bDZXRkFRQnd6cTRzZlV6VWNFS1dLaWt4dm1DVUNhbEJGRHV1dURzc3lwLWRMSXllVFNSR1F1OGV6TU0wVS1IQTREenVELTlvenR0eGppMkcwSEhMOXhONldmWlVlSC1VTWItY1RDSFN0UnNUdnJ6QlM1d0xGZi0yUmR0X3pZVURubnMzM19uaWtQS1JJUTE2MGlZbU1ZVmtoZE5ibXlxTmM3SVIyOGZwUXZGR3NPTHh5NmhzY2lsRmvSAcMBQVVfeXFMUHVtNWw2V0ZBUUJ3enE0c2ZVelVjRUtXS2lreHZtQ1VDYWxCRkR1dXVEc3N5cC1kTEl5ZVRTUkdRdThlek1NMFUtSEE0RHp1RC05b3p0dHhqaTJHMEhITDl4TjZXZlpVZUgtVU1iLWNUQ0hTdFJzVHZyekJTNXdMRmYtMlJkdF96WVVEbm5zMzNfbmlrUEtSSVExNjBpWW1NWVZraGROYm15cU5jN0lSMjhmcFF2RkdzT0x4eTZoc2NpbEZr?oc=5",
+          "pubDate": "2026-09-16T21:28:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The U.S. captures \"El Ingeniero\" in Venezuela, one of the FBI's 10 most wanted fugitives"
+          "title_en": "U.S. oil and mining companies will operate in Venezuela with Trump's support"
         },
         {
-          "title": "Alex Saab, testaferro de Maduro, asume culpabilidad en EEUU por blanqueo y corrupción",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYy1pTnpuekFkbXRFblNPOTlQRG9WR2FISjFmQThtWG5FNnhGMGpmWnFuWmU3blRfTk9SZ3hTZm5CSFV3Z2xHbmRZeGR0U1dzUzlhdWd5cUZOMENfUmR0ek45UkhnaDlPZGFfREdya2NhVENiV1pGRkZidnlkdldmcVRxSFJMSjFCeFNSUlVkSHppOFdydWw4NGo5bERZYndvUEgtSVladnJ4LVEzcTR5ajVFTXJkLU02Z2RRcU9mc3hjaWVrVUlIejhQdlNlSHdI0gHQAUFVX3lxTFBjLWlOem56QWRtdEVuU085OVBEb1ZHYUhKMWZBOG1YbkU2eEYwamZacW5aZTduVF9OT1JneFNmbkJIVXdnbEduZFl4ZHRTV3NTOWF1Z3lxRk4wQ19SZHR6TjlSSGdoOU9kYV9ER3JrY2FUQ2JXWkZGRmJ2eWR2V2ZxVHFIUkxKMUJ4U1JSVWRIemk4V3J1bDg0ajlsRFlid29QSC1JWVp2cngtUTNxNHlqNUVNcmQtTTZnZFFxT2ZzeGNpZWtVSUh6OFB2U2VId0g?oc=5",
-          "pubDate": "2026-09-15T20:12:00.000Z",
+          "title": "EEUU saca a Venezuela de lista de países que incumplen en lucha antidrogas",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDMtWTNsTWJRaHluc19FYnBuNGtrQmcwUVZKZm5BcnlUSmJwRUQ1dnRLNzhla3dyZ0ZfaGdzZmRfZ2x2RnhHREtyMHl5bTExaVlMb296LXF2VWhVQndMbllSQ0JfY2k0V0RnVEsyWjhTQzZXdHNkY0UyOW9nWUhGcUJBVUJEblpfcWdiUWwzVm9CaWM2OFU0Y3FfbXJRalMyN3BNVVVIZ2hJMGRLRGNvdtIBtgFBVV95cUxPVGlwMkhlUHNpR0hpWHdpTkpxdWc0SVpGOFBDWUxRWFZKLWlGYzVXOWZDWWNpQllsQ0VBcDVWTFlvNUV6bmVkODNuTnNFS0RHLTh3LXdiOGl4UmI3dnlubnFjTFZybGJhS1Fsa29wTjlfZXdvcnYwQ3AwUV9xY2phcDB6czd1LURiaG1fOEE1dUdKcDg5djFiVTEzQjdmUEhNU2htdnBFRWNWLVp0TFJiT1RMVkVYQQ?oc=5",
+          "pubDate": "2026-09-16T18:10:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Alex Saab, Maduro's front man, pleads guilty in the U.S. to money laundering and corruption"
+          "title_en": "U.S. Removes Venezuela from List of Countries That Fail to Comply with Anti-Drug Efforts"
         },
         {
-          "title": "EEUU busca ampliar su capacidad de refinación de petróleo ante alertas de posible crisis de suministro",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObTFicExtYV9tMGhCcHNhX1hoMWItcl9yd3pLdWQwNnhhYWJDNE0temhwY3h1aG02ck9LVVhuZGdKS0I3Z2xFOFE0WDQ4ZVdiVmd0a1hyRnhMa2V4NzkzNVJxMFpvc2FEY3RySU9Gc3BHbFVDOTY4SDA2V3FHeXY1aTdMYWRrYl9CYnl6TkhjZjdJZTB5S1ZHUDNUa1VVUWp3TXd3bWxSczFSTWRUZExJZC13eWRJYmhvSWw1M2pJei1OaEx5NENnT2JnblF4QdIB0wFBVV95cUxPSjExSTM4OWNOdlZZRW1ieGh1Y1U4N25JajJiWi1rTXVTLUdRbUUybUd3cWRYNnBhdVA3XzN3QUwxMWE2SlJrYW5QWU4xREJ0NklmQlg1LXRsRGl1WExjcXJIREJHamxudnAteGppQnhIcXYwUUtLTl9wdWhxNS1YTnZVR2wtXzBKNjlkcDVIc2gtTVd3VUVlOG9LczV5Qk5nbXRnd0lUWHB1Z2VqMl9ESFBCbExQWUFIRmV3NkkwaVk5ZXd3cEV4bHhyQ2ZBbk1KaFhj?oc=5",
-          "pubDate": "2026-09-15T18:48:00.000Z",
+          "title": "Reserva Federal sube 0.25% la tasa referencial de interés ¿Cuál es el impacto?",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdk9kWWxEdGtMSkVXWGxNdk9ZN2FGNUJZTzloamFvblpJalNYN2NLUWV4d180cHVjdF9FSDA0Rnp2OHNfcjRPbkpjX29HN1ByTnBmNW9pMjJJeXlnRE5DZkJ3SkZFRTVxQ1piX21vbTNKOTVpd2xkRTFmVlFEeW12bGRDSHhxdXBwQ3cwUkdsandSeFdIXzM5TVUtUVItN0NTTE5QSFNiY2hONkhLc2Z6dG1tWWRSb0ljNTBsbm83bTPSAcYBQVVfeXFMUDI4anlvcjJLdnd1d1lqNWVTNVdiUGZBWjhobTh0cmlQOHdUUFlGMHJTcmNJV1J4RE5RLWg5dTQ2YTZ2MHRDMTlyZ2N4Nml2MGNVNFVzZnRzaktBdHBDeVFSTzdPRUNMUUc0VWtheUFmd0pPdGxBLXpUR25fekt6ejYyVGh2X1piQzZXZG56WDJFeWZsVEhvTWtXN0VRalJfQm1vV2RTbTg3YmFZYnlIQ2pjS1FoODE0RDlVWDBYM2tXd2g3c3RB?oc=5",
+          "pubDate": "2026-09-16T21:59:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The U.S. is seeking to expand its oil refining capacity amid warnings of a potential supply crisis"
+          "title_en": "Federal Reserve Raises Benchmark Interest Rate by 0.25%. What Is the Impact?"
         },
         {
-          "title": "Fiscalía imputa a exjefa del gabinete de Petro por presuntamente someter al polígrafo a su niñera",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdUVTX2pTWDJFWjEwM1ppbnZ2UzZBYUpGc2tqQU1vWDJLbWxTZ0ZyeU9qWmk4MUxhZHhwZ2RhVndqWmNGOTF5VFZ3ZnhnSkt2YWE3YmotNGZra0ttdFFXX3JJM3ZqODRVZzlKbTFDUDYtaGsxMC01Q2h0Q0FQRFhzSkMzRVVlTGtIY2Z6SmlRUVJiUW50ckJld2ZuTHh0MEtmMVNMdV9GZ0RROFJCcGJVdUstOHEwME5ZdFVSaEplRHZ6eG9wWkNXS0pvbndWc0JDRUtqNlgyRTRQZmpv0gHiAUFVX3lxTFBpSzlpa25JVVZrc3VBemUtWHVfdjE3OGdZUWk1YjhsNmJISkQ1akJBR1kyZ1NpVy1aVG1VdE9DMjBKTEVrbTFrVGV2T05meUs1cUUwOTczdnJKVWdPY0pxMmdOa1FTUExQX0o4REJYbnFWRzJsbzNMLUYxaE5LaDQ4ZWcyM3Jkem8ySVY0QWp4X2lueHlOZTFfRDdzN3BCSlNCSWdJTGpZa0JrV0hoRkZEdmt6SWIwNE00S2hiM0N1UjR1dll3dkg2bHZMWkktc2pVeUZKbkV1LTJtN29NRF93ekE?oc=5",
-          "pubDate": "2026-09-15T11:51:00.000Z",
+          "title": "Reserva Federal sube la tasa referencial de interés ¿Cuál es el impacto?",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjlCUVJ1MnpNN1NCUlA1OWNQTm5UMEhvM05YZXFJcTBack10NTYxLVNhU211TDZqNzFoQTN0c2xBZ0d0R2k2TXhMVlQxOWNIQVVjV3VNeXEtdi15Mkg5UVFqYkE2SW1HVWVzNEtLeXVLMWx6SG82WnZjNGNydmc4c1Y3X3Y0WWFxOGNYWHB0d1lzdHFwdVJOdDlKT0JHSTFRWUkwN2Z4SXctZUw4N1Jlc19kQVgxWUpUd0ww0gHAAUFVX3lxTE5lSkJPUTJHVzFVajNuWlBkV01uQUwyTmJrbjNoM0RsSzdMZkRPLVJOYzFWSU1hOGJsMjZiYXA3aUFXd0VnYlN5X3h1QUdQeHVnYXpyVENPUmFBYXFTY0czcllEcmlWMVFxSGJZTlBJSFEtYWM1N2ZyUHhsbllmUjlfczFKbWlfemhGd1NCelNsU2UxbFdIb2Q3NTZaWWstc0s1UDgtMXpDazFOUEhHY3FzRFBjV3B0aHlCOTFRc1hsYQ?oc=5",
+          "pubDate": "2026-09-16T21:59:00.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "Prosecutors Charge Petro's Former Chief of Staff for Allegedly Subjecting Her Nanny to a Polygraph Test"
+          "_priority": "ALTA",
+          "title_en": "The Federal Reserve Raises the Benchmark Interest Rate—What Is the Impact?"
+        },
+        {
+          "title": "Detienen a dos personas para \"explotar\" a migrantes en el enclave español de Ceuta",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUERQNU1YSkpETlFBV2lHNzcyajBUeGgtRWU4QWhRMExPaDRGM0hCN1VHV3RyM3VzV0VYTVktQkRZSnlWYTVadzZjT3VvdFdoWE9DQVN1aGNPNllvM29pZmFxTUlqRWtRUzJETUgxNmNiek82UUY2aERLMXhsWkgybFloVDhWaWkxbVVCbUNlQllNemwxUUxDbHN6X0lzN2VEcGZwVW0wQTltR0hBb2FFTTI3S3DSAboBQVVfeXFMUHR3NGhOWlhsRlhjMFV2bzlDOTdEeUpQdlhDcGp0TUhQWW9vVmRzTGhsLWRCajRZTklGekk3LWNLa1ZEYU8zMF9sM01ZWTJIV3NULXB6dTJaRzhvT254VlhuS2RJMlBzUDdEU2p5d3YxeDdiaElJSDUtd0xYOWE0NC1zc0c5SXpicWdEODQ0a20wOHpjQTA0ejdwcG5qVHlRRG5XSEZWZzdUT1NYcndkWnlmNFhZODBwVU5R?oc=5",
+          "pubDate": "2026-09-16T15:05:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Two People Arrested for \"Exploiting\" Migrants in the Spanish Enclave of Ceuta"
         }
       ]
     }
