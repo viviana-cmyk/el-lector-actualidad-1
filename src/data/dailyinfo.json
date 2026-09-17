@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-17T10:01:57.822Z",
+  "generatedAt": "2026-09-17T14:44:56.905Z",
   "dia": {
-    "nombre": "Día de la Independencia de Haití",
-    "descripcion": "Se conmemora la independencia de Haití, proclamada el 17 de septiembre de 1804, primer país latinoamericano en lograr la independencia y abolir la esclavitud."
+    "nombre": "Día Nacional de la Independencia de México",
+    "descripcion": "Se conmemora el grito de independencia de México en 1810, marcando el inicio de la lucha por la independencia del dominio español en América Latina."
   },
   "dia_en": {
-    "nombre": "Haiti Independence Day",
-    "descripcion": "Commemorates the independence of Haiti, proclaimed on September 17, 1804, the first Latin American country to achieve independence and abolish slavery."
+    "nombre": "Mexican National Independence Day",
+    "descripcion": "Commemorates Mexico's cry for independence in 1810, marking the beginning of the struggle for independence from Spanish rule in Latin America."
   }
 }
