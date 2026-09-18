@@ -1,23 +1,30 @@
 {
-  "generatedAt": "2026-09-17T14:44:36.804Z",
+  "generatedAt": "2026-09-18T10:01:45.487Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
         {
+          "title": "On The Radar | EE. UU. saca a Venezuela de su lista negra antidrogas. Colombia podría ser la próxima",
+          "link": "https://insightcrime.org/es/noticias/on-the-radar-ee-uu-saca-venezuela-de-lista-negra-antidrogas-colombia-podria-ser-proxima/",
+          "pubDate": "2026-09-17T18:39:46.000Z",
+          "snippet": "On The Radar | EE. UU. saca a Venezuela de su lista negra antidrogas. Colombia podría ser la próxima Esta semana en On The Radar, analizamos por qué Estados Unidos retiró a Venezuela de su lista de países que incumplen sus compromisos antidrogas, cómo la declaración de culpabilid…",
+          "title_en": "On The Radar | The U.S. Removes Venezuela from Its Anti-Drug Blacklist. Colombia Could Be Next"
+        },
+        {
           "title": "Los Menores se fortalecen pese a los operativos en Argentina",
           "link": "https://insightcrime.org/es/noticias/los-menores-mantienen-poder-rosario-pese-operativos-en-contra/",
           "pubDate": "2026-09-16T16:54:28.000Z",
           "snippet": "Los Menores se fortalecen pese a los operativos en Argentina Los Menores se han convertido en uno de los grupos criminales más poderosos de Rosario, la tercera ciudad más grande de Argentina. The post Los Menores se fortalecen pese a los operativos en Argentina appeared first on…",
-          "title_en": "Los Menores Grow Stronger Despite Crackdowns in Argentina"
+          "title_en": "Los Menores Are Growing Stronger Despite the Crackdowns in Argentina"
         },
         {
           "title": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora?",
           "link": "https://insightcrime.org/es/noticias/the-insight-take-paz-total-colombia-salio-mal-viene-ahora/",
           "pubDate": "2026-09-15T22:02:28.000Z",
           "snippet": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora? Los grupos armados de Colombia casi duplicaron su tamaño durante la Paz Total de Petro. Pero ¿puede el plan militarizado de De la Espriella dar mejores resultados? The post The InSight Take | La Paz To…",
-          "title_en": "The InSight Take | Colombia's Total Peace: What Went Wrong and What's Next?"
+          "title_en": "The InSight Take | Colombia's Total Peace: What Went Wrong, and What Comes Next?"
         },
         {
           "title": "Cocaína líquida: un método de tráfico en expansión",
@@ -38,14 +45,7 @@
           "link": "https://insightcrime.org/es/noticias/on-the-radar-ataques-contra-botes-en-ecuador-carceles-en-peru-y-cultivos-de-coca-en-bolivia/",
           "pubDate": "2026-09-10T15:02:22.000Z",
           "snippet": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia Esta semana examinamos en el cambio en la estrategia de Estados Unidos de ataques contra embarcaciones vinculadas a Los Choneros en Ecuador, el estado de emergencia de Keiko Fujimori en…",
-          "title_en": "On the Radar: Attacks on Boats in Ecuador, Prisons in Peru, and Coca Crops in Bolivia"
-        },
-        {
-          "title": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela",
-          "link": "https://insightcrime.org/es/noticias/fin-cajas-clap-una-decada-de-corrupcion-crimen-organizado-venezuela/",
-          "pubDate": "2026-09-09T20:28:32.000Z",
-          "snippet": "¿El fin de las cajas CLAP? Una década de corrupción y crimen organizado en Venezuela El fin del programa CLAP, creado para garantizar el acceso a alimentos subsidiados, revela su instrumentalización como mecanismo de corrupción y fuente de financiamiento para redes de crimen orga…",
-          "title_en": "The End of the CLAP Food Boxes? A Decade of Corruption and Organized Crime in Venezuela"
+          "title_en": "On the Radar: Attacks on boats in Ecuador, prisons in Peru, and coca crops in Bolivia"
         }
       ]
     },
@@ -53,6 +53,20 @@
       "name": "International Crisis Group",
       "color": "teal",
       "items": [
+        {
+          "title": "A Pivotal Moment in Uniting Post-Assad Syria",
+          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/syria/pivotal-moment-uniting-post-assad-syria",
+          "pubDate": "2026-09-17T10:17:20.000Z",
+          "snippet": "A Pivotal Moment in Uniting Post-Assad Syria eschelhaas Thu, 09/17/2026 - 12:17 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Syrian President Ahmed Al-Shara, right, and Sy…",
+          "title_en": "A Pivotal Moment in Uniting Post-Assad Syria"
+        },
+        {
+          "title": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned?",
+          "link": "https://www.crisisgroup.org/how-we-work/events/houthis-advance-bab-al-mandab-has-yemens-war-returned",
+          "pubDate": "2026-09-16T15:32:49.000Z",
+          "snippet": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned? eschelhaas Wed, 09/16/2026 - 17:32 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Online Event Tuesday, 22 S…",
+          "title_en": "The Houthis’ Advance to Bab al-Mandab: Has the War in Yemen Returned?"
+        },
         {
           "title": "Special Episode: Will the Houthis Shut Down the Bab al-Mandab Strait?",
           "link": "https://www.crisisgroup.org/pod/middle-east-north-africa/yemen/special-episode-will-houthis-shut-down-bab-al-mandab-strait",
@@ -79,21 +93,7 @@
           "link": "https://www.crisisgroup.org/pod/europe/nuclear-deterrence-europe-and-another-round-us-ukraine-russia-diplomacy",
           "pubDate": "2026-09-11T14:59:58.000Z",
           "snippet": "Nuclear Deterrence in Europe (and another round of U.S. Ukraine-Russia diplomacy) hschaub Fri, 09/11/2026 - 16:59 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Eu…",
-          "title_en": "Nuclear Deterrence in Europe (and Another Round of U.S. Diplomacy on Ukraine and Russia)"
-        },
-        {
-          "title": "What Future for Venezuela after the U.S. Oil Carve-up?",
-          "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/venezuela-united-states/what-future-venezuela-after-us-oil-carve",
-          "pubDate": "2026-09-11T09:11:08.000Z",
-          "snippet": "What Future for Venezuela after the U.S. Oil Carve-up? pzeiler Fri, 09/11/2026 - 11:11 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List US Energy Secretary Chris Wright (L) an…",
-          "title_en": "What Does the Future Hold for Venezuela After the U.S. Oil Carve-up?"
-        },
-        {
-          "title": "The Critical Minerals Linking Myanmar’s Civil War to the World",
-          "link": "https://www.crisisgroup.org/vis/asia-pacific/myanmar/critical-minerals-linking-myanmars-civil-war-world",
-          "pubDate": "2026-09-09T22:05:00.000Z",
-          "snippet": "The Critical Minerals Linking Myanmar’s Civil War to the World eschelhaas Thu, 09/10/2026 - 00:05 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Visual Explainers / Asia-Pac…",
-          "title_en": "The Critical Minerals Linking Myanmar’s Civil War to the World"
+          "title_en": "Nuclear Deterrence in Europe (and another round of U.S. diplomacy regarding Ukraine and Russia)"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-17T14:44:56.905Z",
+  "generatedAt": "2026-09-18T10:01:53.601Z",
   "dia": {
-    "nombre": "Día Nacional de la Independencia de México",
-    "descripcion": "Se conmemora el grito de independencia de México en 1810, marcando el inicio de la lucha por la independencia del dominio español en América Latina."
+    "nombre": "Día Nacional de Chile",
+    "descripcion": "Conmemoración de la independencia de Chile, declarada el 18 de septiembre de 1810, marcando el inicio del proceso independentista en América Latina."
   },
   "dia_en": {
-    "nombre": "Mexican National Independence Day",
-    "descripcion": "Commemorates Mexico's cry for independence in 1810, marking the beginning of the struggle for independence from Spanish rule in Latin America."
+    "nombre": "Chile National Day",
+    "descripcion": "Commemoration of Chile's independence, declared on September 18, 1810, marking the beginning of the independence process in Latin America."
   }
 }
