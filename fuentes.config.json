@@ -1,7 +1,7 @@
 {
-  "generado": "2026-09-12T01:05:14.632Z",
+  "generado": "2026-09-18T14:00:49.637Z",
   "nota": "IDs SIEDCO verificados en vivo el 2026-07-14. Reverificar mensualmente con ?$limit=3.",
-  "corte_actual": "2026-07-31",
+  "corte_actual": "2026-08-31",
   "datasets": {
     "homicidio": {
       "id": "m8fd-ahd9",
