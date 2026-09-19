@@ -43,27 +43,29 @@ function parsear() {
   const ws   = wb.Sheets['Año corrido'];
   const rows = XLSX.utils.sheet_to_json(ws, { header: 1, defval: null });
 
-  // Encuentra la fila de encabezados (contiene "Ene - Jul")
-  const headerIdx = rows.findIndex(r => r.some(v => typeof v === 'string' && v.startsWith('Ene - Jul')));
+  // Encuentra la fila de encabezados (contiene "Ene - " para cualquier mes)
+  const headerIdx = rows.findIndex(r => r.some(v => typeof v === 'string' && /^Ene - \w+ \d{4}$/.test(v)));
   if (headerIdx < 0) throw new Error('No se encontró fila de encabezados en Año corrido');
 
   const header = rows[headerIdx];
 
-  // Columnas de los últimos dos años
-  // Los encabezados son "Ene - Jul 2026", "Ene - Jul 2025", etc.
+  // Columnas de los últimos dos años — detecta el mes automáticamente
   const yearCols = header
     .map((v, i) => ({ i, v }))
-    .filter(({ v }) => typeof v === 'string' && v.startsWith('Ene - Jul'))
-    .map(({ i, v }) => ({ i, year: parseInt(v.replace('Ene - Jul ', ''), 10) }))
+    .filter(({ v }) => typeof v === 'string' && /^Ene - \w+ \d{4}$/.test(v))
+    .map(({ i, v }) => {
+      const m = v.match(/^(Ene - \w+) (\d{4})$/);
+      return { i, year: parseInt(m[2], 10), periodo: m[1] };
+    })
     .sort((a, b) => b.year - a.year);
 
   if (yearCols.length < 2) throw new Error('No se encontraron suficientes columnas de año');
 
   const [col26, col25] = [yearCols[0], yearCols[1]];
-  const periodo = `Ene - Jul ${col26.year}`;
+  const periodo = `${col26.periodo} ${col26.year}`;
 
   console.log(`Período más reciente: ${periodo} (col ${col26.i})`);
-  console.log(`Período anterior:     Ene - Jul ${col25.year} (col ${col25.i})`);
+  console.log(`Período anterior:     ${col25.periodo} ${col25.year} (col ${col25.i})`);
 
   // Normalizar etiquetas para búsqueda
   const normalize = s => s.trim().toLowerCase().replace(/\s+/g, ' ');

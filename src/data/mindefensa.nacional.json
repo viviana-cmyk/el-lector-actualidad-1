@@ -2,69 +2,69 @@
   "fuente": "Ministerio de Defensa Nacional — Observatorio de Derechos Humanos y Defensa Nacional",
   "documento": "Seguimiento a Indicadores de Seguridad y Resultados Operacionales — 2026",
   "periodo": "Ene-Jul 2026",
-  "generado": "2026-09-12",
+  "generado": "2026-09-19",
   "homicidio": {
-    "casos_2025": 8012,
-    "casos_2026": 8195
+    "casos_2025": 9256,
+    "casos_2026": 9434
   },
   "hurto_personas": {
-    "casos_2025": 169676,
-    "casos_2026": 156116
+    "casos_2025": 194903,
+    "casos_2026": 179684
   },
   "extorsion": {
-    "casos_2025": 7137,
-    "casos_2026": 7661
+    "casos_2025": 8436,
+    "casos_2026": 8717
   },
   "hurto_residencias": {
-    "casos_2025": 14921,
-    "casos_2026": 14159
+    "casos_2025": 17237,
+    "casos_2026": 16290
   },
   "violencia_intra": {
-    "casos_2025": 79748,
-    "casos_2026": 89455
+    "casos_2025": 93509,
+    "casos_2026": 105108
   },
   "hurto_automotores": {
-    "casos_2025": 5403,
-    "casos_2026": 5020
+    "casos_2025": 6247,
+    "casos_2026": 5838
   },
   "masacres_casos": {
-    "casos_2025": 49,
-    "casos_2026": 62
+    "casos_2025": 65,
+    "casos_2026": 72
   },
   "masacres_victimas": {
-    "casos_2025": 168,
-    "casos_2026": 223
+    "casos_2025": 232,
+    "casos_2026": 260
   },
   "secuestro_casos": {
-    "casos_2025": 171,
-    "casos_2026": 143
+    "casos_2025": 208,
+    "casos_2026": 159
   },
   "secuestro_victimas": {
-    "casos_2025": 348,
-    "casos_2026": 217
+    "casos_2025": 434,
+    "casos_2026": 238
   },
   "fp_asesinados": {
-    "casos_2025": 107,
-    "casos_2026": 61
+    "casos_2025": 135,
+    "casos_2026": 73
   },
   "fp_asesinados_ff_mm": {
-    "casos_2025": 64,
-    "casos_2026": 34
+    "casos_2025": 74,
+    "casos_2026": 41
   },
   "fp_asesinados_policia": {
-    "casos_2025": 43,
-    "casos_2026": 27
+    "casos_2025": 61,
+    "casos_2026": 32
   },
   "fp_heridos": {
-    "casos_2025": 486,
-    "casos_2026": 451
+    "casos_2025": 550,
+    "casos_2026": 545
   },
   "fp_heridos_ff_mm": {
-    "casos_2025": 316,
-    "casos_2026": 306
+    "casos_2025": 363,
+    "casos_2026": 371
   },
   "fp_heridos_policia": {
-    "casos_2025": 170,
-    "casos_2026": 145
+    "casos_2025": 187,
+    "casos_2026": 174
   }
 }
