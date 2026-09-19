@@ -1,10 +1,18 @@
 {
-  "generatedAt": "2026-09-19T10:01:45.721Z",
+  "generatedAt": "2026-09-19T13:44:08.602Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
+        {
+          "title": "Trump se reunirá con Delcy Rodríguez durante Asamblea General de la ONU, confirma alto funcionario de EE.UU.",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdElhXzBsczdjYjJfMmtsa21pT05wNWtKSmJOaGdZdkJmNjVhSl91elZzbDJDVW1VYWN5YWZVZ1FRbzk5Sy1URlpjVVJOYjJseTBtNnNZYzBvRzZXN1JzWkxZYnVGamR3LUxfQzU3c1NtYTRtcFl6aExNMFNNanNKd1hLX0NyRjZTVFotSm55Yw?oc=5",
+          "pubDate": "2026-09-18T23:35:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump Will Meet with Delcy Rodríguez During the UN General Assembly, a Senior U.S. Official Confirms"
+        },
         {
           "title": "Crece la frustración ante la reticencia de EE.UU. a intervenir mientras los hutíes amplían el conflicto en Medio Oriente",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXcwd1NHanRLVm9aX0JpU3RhdFJpb2FBQ1NsUjhUWXhBRVVLVVR0cUNQVFhLXy1WVlRINTBIWU5SUzNrS2s2QkU5X05kUHpDZ0tweHhER09aczkyS1EyZmlpSTNWQUQ4b0lvWTJjVTBnOWxDNlc3S1RVcm9janFhdVpfMUJuZHVGbUZadkN0aHc?oc=5",
@@ -12,6 +20,22 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Frustration is growing over the U.S.'s reluctance to intervene as the Houthis expand the conflict in the Middle East"
+        },
+        {
+          "title": "El Kremlin toma el control de los activos de Nestlé en Rusia en medio de una creciente ofensiva contra las empresas privadas",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFQxY0xJc1Q4ZUdfYU8zNlhoMDA4dkhWM1VHdWlCMGhhZDRIbHVoRlJLcVNsOVJqSUVrX1RSMmJ2TGw3cDVpaGlqMktYNk1hT19uZTRjbDVBMW5mSkZKVTNUOVhma1hBcXRVdURKdnNHZ0J2d0k0RFdwZjZGX3Fwa21EZUNaYUFGYUcxd2d3?oc=5",
+          "pubDate": "2026-09-19T00:02:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The Kremlin Takes Control of Nestlé's Assets in Russia Amid a Growing Crackdown on Private Companies"
+        },
+        {
+          "title": "Republicanos vulnerables están desafiando cada vez más al presidente Trump de cara a las elecciones de mitad de mandato",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk4wZTR2dGh0cnpkZEpUN2hlZms5Q2lSNWhQRExrS0lWN2NRMHNUQVEtYnFwc2tLdnR2MmlPNC1tbERpM3R5TGVQUVR1eTgzRmJwYXFaaGtDM0JaYkJzd1paQzRCY3JCTVVyWUpkWXlpbU1fZXM5dl9ZcEdqQ19kakxWWWQzOFZKWk9IcWVJRHFjWVk?oc=5",
+          "pubDate": "2026-09-19T10:06:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Vulnerable Republicans are increasingly challenging President Trump ahead of the midterm elections"
         },
         {
           "title": "Trump dice que “vetará” a CNN, MS NOW y Politico de la Casa Blanca",
@@ -22,36 +46,12 @@
           "title_en": "Trump says he will “ban” CNN, MS NOW, and Politico from the White House"
         },
         {
-          "title": "Trump se reunirá con Delcy Rodríguez durante Asamblea General de la ONU, confirma alto funcionario de EE.UU.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdElhXzBsczdjYjJfMmtsa21pT05wNWtKSmJOaGdZdkJmNjVhSl91elZzbDJDVW1VYWN5YWZVZ1FRbzk5Sy1URlpjVVJOYjJseTBtNnNZYzBvRzZXN1JzWkxZYnVGamR3LUxfQzU3c1NtYTRtcFl6aExNMFNNanNKd1hLX0NyRjZTVFotSm55Yw?oc=5",
-          "pubDate": "2026-09-18T23:35:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump Will Meet with Delcy Rodríguez During the UN General Assembly, a Senior U.S. Official Confirms"
-        },
-        {
           "title": "La guerra con Irán ha costado US$ 45.100 millones, informa el Pentágono al Congreso",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDEyZnQydm1Ja0lwS2w5bWNiMzljcU5PTDJ3VDNxRU0ySmo4eUVDNXhlcnBmMjVhUVBQTTdYMmx6N3lnSmlNZVd1RU5Fa2RJVEttdTFEUDBMeHkxR1ZmbzNfVkVvNldja281WnRKTXRDLVNYM3NvRy1WbFZHMG9GbXlGM0NjeGdlc0ZXcmd5NW5SZFBZQWFGeXhQdEc?oc=5",
           "pubDate": "2026-09-18T21:03:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "The war with Iran has cost US$45.1 billion, the Pentagon reports to Congress"
-        },
-        {
-          "title": "Trump afirma que algunas vacunas de rutina se dividirán en cinco dosis, pero expertos sostienen que no funcionará",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWdSb2dBWnRYa3MtN1MtNXJWYlVwTktKa2lMaVBqTmdKZEdoQzZHTGtYQkVDdTh3N0pfMFpSUHIwSVNQVTlualJ6cW9GdllHSjBUcjc5WnN0RjJlaVdxVXFQaFBUYlhhRlZoN0ZTTUF5Q0hIS1ZWQjg0aVJGcXJJaEF4ZmdVQk82dURsUHdVd3dZRXhqVkE?oc=5",
-          "pubDate": "2026-09-19T02:33:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump claims that some routine vaccines will be split into five doses, but experts say it won't work"
-        },
-        {
-          "title": "El Kremlin toma el control de los activos de Nestlé en Rusia en medio de una creciente ofensiva contra las empresas privadas",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFQxY0xJc1Q4ZUdfYU8zNlhoMDA4dkhWM1VHdWlCMGhhZDRIbHVoRlJLcVNsOVJqSUVrX1RSMmJ2TGw3cDVpaGlqMktYNk1hT19uZTRjbDVBMW5mSkZKVTNUOVhma1hBcXRVdURKdnNHZ0J2d0k0RFdwZjZGX3Fwa21EZUNaYUFGYUcxd2d3?oc=5",
-          "pubDate": "2026-09-19T00:02:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Kremlin Takes Control of Nestlé's Assets in Russia Amid a Growing Crackdown on Private Companies"
         }
       ]
     },
@@ -68,20 +68,36 @@
           "title_en": "Trump Announces an Agreement with Denmark to Assume “Permanent Control of Security” in Greenland"
         },
         {
+          "title": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia",
+          "link": "https://elpais.com/internacional/2026-09-19/la-otan-acoge-con-satisfaccion-el-acuerdo-de-ee-uu-y-dinamarca-sobre-groenlandia.html",
+          "pubDate": "2026-09-19T11:54:57.000Z",
+          "snippet": "La Alianza sostiene que el compromiso alcanzado entre las tres partes “contribuirá a fomentar la seguridad, la estabilidad y la cooperación”",
+          "_priority": "ALTA",
+          "title_en": "NATO \"welcomes\" the agreement between the U.S. and Denmark on Greenland"
+        },
+        {
+          "title": "Los socialistas valencianos se conjuran en Alicante para ganar la Generalitat y tumbar las “leyes franquistas y machistas”",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-19/los-socialistas-valencianos-se-conjuran-en-alicante-para-ganar-la-generalitat-y-tumbar-las-leyes-franquistas-y-machistas.html",
+          "pubDate": "2026-09-19T13:16:59.000Z",
+          "snippet": "Diana Morant y Rebeca Torró protagonizan la primera jornada de la Conferencia Política del PSPV-PSOE",
+          "_priority": "ALTA",
+          "title_en": "Valencian Socialists Rally in Alicante to Win Control of the Generalitat and Overturn the “Francoist and Sexist Laws”"
+        },
+        {
+          "title": "La justicia examinará la legalidad del uso del Puerto de Ceuta para la acogida de migrantes",
+          "link": "https://elpais.com/espana/2026-09-19/la-justica-examinara-la-legalidad-del-uso-del-puerto-de-ceuta-para-la-acogida-de-migrantes.html",
+          "pubDate": "2026-09-19T10:41:14.000Z",
+          "snippet": "La Audiencia Nacional admite a trámite el recurso de un sindicato policial y solicita a Transportes el expediente completo",
+          "_priority": "ALTA",
+          "title_en": "The courts will examine the legality of using the Port of Ceuta to receive migrants"
+        },
+        {
           "title": "Las grandes fortunas ahorran 3.000 millones en el impuesto de patrimonio por el escudo del IRPF",
           "link": "https://elpais.com/economia/2026-09-19/las-grandes-fortunas-ahorran-3000-millones-en-el-impuesto-de-patrimonio-por-el-escudo-del-irpf.html",
           "pubDate": "2026-09-19T03:45:01.000Z",
           "snippet": "La rebaja fiscal por el límite conjunto entre renta y patrimonio supera los ingresos del tributo sobre la riqueza",
           "_priority": "ALTA",
-          "title_en": "The ultra-wealthy save 3,000 millones on the wealth tax thanks to the income tax shield"
-        },
-        {
-          "title": "La construcción en España cae casi un 10% interanual, muy por encima del 2% de media europea",
-          "link": "https://cincodias.elpais.com/economia/2026-09-19/la-construccion-en-espana-cae-casi-un-10-interanual-muy-por-encima-del-2-de-media-europea.html",
-          "pubDate": "2026-09-19T03:45:01.000Z",
-          "snippet": "La facturación del sector desciende por el incremento de costes y la falta de mano de obra, según argumenta la patronal",
-          "_priority": "ALTA",
-          "title_en": "Construction in Spain fell nearly 10% year-over-year, well above the European average of 2%"
+          "title_en": "The ultra-wealthy save 3 billion in wealth tax thanks to the income tax shield"
         },
         {
           "title": "Ahora, todos quieren regular (la IA)",
@@ -90,22 +106,6 @@
           "snippet": "La dimisión del ingeniero de Anthropic ha desencadenado una carrera por restringir esta tecnología",
           "_priority": "ALTA",
           "title_en": "Now, everyone wants to regulate (AI)"
-        },
-        {
-          "title": "La Fiscalía investiga abusos y vejaciones en los centros de menores de Ceuta",
-          "link": "https://elpais.com/espana/2026-09-19/la-fiscalia-investiga-abusos-y-vejaciones-en-los-centros-de-menores-de-ceuta.html",
-          "pubDate": "2026-09-19T03:30:01.000Z",
-          "snippet": "Varias menores migrantes han huido de los centros denunciando abusos físicos por parte del personal, y la Fiscalía ha abierto una investigación",
-          "_priority": "ALTA",
-          "title_en": "The Prosecutor's Office is investigating abuse and mistreatment at juvenile detention centers in Ceuta"
-        },
-        {
-          "title": "Comunidades gobernadas por PP y Vox siguen acogiendo a menores migrantes que llegaron a Ceuta antes de la crisis",
-          "link": "https://elpais.com/espana/2026-09-19/comunidades-gobernadas-por-pp-y-vox-siguen-acogiendo-a-menores-migrantes-que-llegaron-a-ceuta-antes-de-la-crisis.html",
-          "pubDate": "2026-09-19T03:30:01.000Z",
-          "snippet": "Castilla y León, Aragón y Extremadura realojan en septiembre y agosto a niños que llegaron antes del 30 de julio, pero fuentes del Ejecutivo ceutí aseguran que seguirá con todos en las próximas semanas",
-          "_priority": "ALTA",
-          "title_en": "Communities governed by the PP and Vox continue to take in migrant minors who arrived in Ceuta before the crisis"
         }
       ]
     },
@@ -114,36 +114,12 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Parents in England and Wales could be fined or jailed for child’s crimes, minister says",
-          "link": "https://www.theguardian.com/society/2026/sep/19/parents-in-england-and-wales-could-be-fined-or-jailed-for-childs-crimes-minister-says",
-          "pubDate": "2026-09-19T09:14:02.000Z",
-          "snippet": "Jake Richards says changes would be part of ‘carrot-and-stick’ approach to try to turn around young offenders Parents whose children commit crimes could lose their benefits, face fines and even be jailed, a minister has said. Jake Richards said the youth justice system “should ho…",
+          "title": "The US air force admitted to deploying weapons in space. Don’t expect the White House to explain why",
+          "link": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
+          "pubDate": "2026-09-19T11:00:45.000Z",
+          "snippet": "The revelation ‘left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal’ In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek, to Luke Skywalker’s rebel alliance in Star…",
           "_priority": "ALTA",
-          "title_en": "Parents in England and Wales could be fined or jailed for their children's crimes, a minister says"
-        },
-        {
-          "title": "Reform UK activists squabble over Farage’s plan for £72m donations",
-          "link": "https://www.theguardian.com/politics/2026/sep/19/reform-uk-activists-farage-spending-plan-party-donations",
-          "pubDate": "2026-09-19T08:00:41.000Z",
-          "snippet": "Crypto billionaires’ £72m will be used to hire campaign managers and professional staff in target constituencies For Nigel Farage, the £72m lavished last week on his party by the crypto billionaire donors Ben Delo and Christopher Harborne finally places Reform UK on a level playi…",
-          "_priority": "ALTA",
-          "title_en": "Reform UK activists are at odds over Farage’s plan for £72m in donations"
-        },
-        {
-          "title": "Lib Dems have ‘moral responsibility’ to block Reform, says Ed Davey as party gears up for snap election",
-          "link": "https://www.theguardian.com/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election",
-          "pubDate": "2026-09-19T07:00:41.000Z",
-          "snippet": "Exclusive: Lib Dem leader bullish ahead of party conference despite static poll ratings and MPs’ frustrations The Liberal Democrats have begun work on a new manifesto in case of a possible snap election, as Ed Davey said he understood the frustrations of some of his MPs who fear…",
-          "_priority": "ALTA",
-          "title_en": "Lib Dems Have a 'Moral Responsibility' to Block Reform, Says Ed Davey as the Party Prepares for a Snap Election"
-        },
-        {
-          "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
-          "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
-          "pubDate": "2026-09-19T06:46:18.000Z",
-          "snippet": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leaders European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on lead…",
-          "_priority": "ALTA",
-          "title_en": "Record fuel prices across the EU prompt calls for a bloc-wide windfall tax on companies"
+          "title_en": "The U.S. Air Force admitted to deploying weapons in space. Don't expect the White House to explain why."
         },
         {
           "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
@@ -154,12 +130,28 @@
           "title_en": "“My fear was too great”: the Pussy Riot member recruited by Russian spies to inform on fellow activists"
         },
         {
-          "title": "‘It’s difficult to imagine a more blatant violation of the First Amendment’: criticism mounts over Trump’s media ban - as it happened",
-          "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-          "pubDate": "2026-09-19T02:04:27.000Z",
-          "snippet": "This live blog is now closed. Trump bans CNN, MS Now and Politico from White House Sign up for the US Breaking News email Shapiro and Newsom aren’t the only governors making moves on AI lately. Virginia Governor Abigail Spanberger, a Democrat, announced at a news conference today…",
+          "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+          "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
+          "pubDate": "2026-09-19T01:01:37.000Z",
+          "snippet": "The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determination Donald Trump announced on Friday that the US had struck an Arctic security pact with the leaders of Denmark and Greenla…",
           "_priority": "ALTA",
-          "title_en": "“It’s hard to imagine a more blatant violation of the First Amendment”: Criticism mounts over Trump’s media ban — as it happened"
+          "title_en": "The U.S. and Denmark Reach a Security Agreement After Trump's Threats to Take Over Greenland"
+        },
+        {
+          "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+          "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
+          "pubDate": "2026-09-18T22:05:53.000Z",
+          "snippet": "Edgars Rinkēvičs says drone warfare in Ukraine is moving at ‘lightning speed’ and efforts to prepare for an aerial war could be obsolete by next year Latvia’s president has warned that Europe is not keeping up with developments of drone and aerial warfare in Ukraine and that most…",
+          "_priority": "ALTA",
+          "title_en": "Latvia's president warns that Europe is behind the times when it comes to drones and aerial warfare in Ukraine"
+        },
+        {
+          "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+          "link": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms",
+          "pubDate": "2026-09-19T06:46:18.000Z",
+          "snippet": "German minister says companies are ‘exploiting situation’ in Middle East, as sky-high prices become major domestic issue for leaders European governments have discussed imposing a bloc-wide windfall tax on energy companies, as near-record fuel and gas prices pile pressure on lead…",
+          "_priority": "ALTA",
+          "title_en": "Record fuel prices across the EU prompt calls for a bloc-wide windfall tax on companies"
         }
       ]
     },
@@ -167,6 +159,30 @@
       "name": "The New York Times",
       "color": "mint",
       "items": [
+        {
+          "title": "Reported Explosions Put Saudi Capital on Edge Amid Conflict With Houthis",
+          "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+          "pubDate": "2026-09-19T13:36:13.000Z",
+          "snippet": "The Saudi authorities issued emergency alerts as several booms rattled parts of Riyadh, and local flights were disrupted. The cause of the blasts was not immediately clear.",
+          "_priority": "ALTA",
+          "title_en": "Reported Explosions Put Saudi Capital on Edge Amid Conflict With the Houthis"
+        },
+        {
+          "title": "What Does Trump Want With Greenland?",
+          "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
+          "pubDate": "2026-09-19T11:56:48.000Z",
+          "snippet": "President Trump insisted for months that the Danish territory should be part of the United States. Now, a security deal — not a takeover — seems to be on the table.",
+          "_priority": "ALTA",
+          "title_en": "What Does Trump Want With Greenland?"
+        },
+        {
+          "title": "Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements",
+          "link": "https://www.nytimes.com/2026/09/19/world/europe/uk-israel-west-bank-sanctions.html",
+          "pubDate": "2026-09-19T11:44:11.000Z",
+          "snippet": "British officials believed Israel had said it would hold off on moving ahead with construction in E1, a piece of land viewed as vital to a future Palestinian state. Israel said it promised no such thing.",
+          "_priority": "ALTA",
+          "title_en": "Inside the Breakdown of U.K.-Israel Relations Over West Bank Settlements"
+        },
         {
           "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
           "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
@@ -178,7 +194,7 @@
         {
           "title": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?",
           "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html",
-          "pubDate": "2026-09-19T09:02:21.000Z",
+          "pubDate": "2026-09-19T09:02:22.000Z",
           "snippet": "President Vladimir V. Putin of Russia has said veterans are the “new elite,” but selecting them as candidates is a risk.",
           "_priority": "ALTA",
           "title_en": "The Kremlin Has Put Many Veterans on the Ballot. Could It Backfire?"
@@ -190,30 +206,6 @@
           "snippet": "Exxon Mobil found a coveted growth engine in Guyana. Now it must navigate Guyana’s fractious politics and a territorial dispute with Venezuela.",
           "_priority": "ALTA",
           "title_en": "How Guyana Is Boosting Profits for Exxon Mobil, the Largest U.S. Oil Company"
-        },
-        {
-          "title": "A Small Country’s Huge Windfall from the War in Iran",
-          "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
-          "pubDate": "2026-09-19T09:00:55.000Z",
-          "snippet": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
-          "_priority": "ALTA",
-          "title_en": "A Small Country’s Huge Windfall from the War in Iran"
-        },
-        {
-          "title": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
-          "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
-          "pubDate": "2026-09-19T06:48:19.000Z",
-          "snippet": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
-          "_priority": "ALTA",
-          "title_en": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call"
-        },
-        {
-          "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
-          "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-          "pubDate": "2026-09-18T23:38:22.000Z",
-          "snippet": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
-          "_priority": "ALTA",
-          "title_en": "A Central African Hotel Has Become a Nightmarish Prison for U.S. Deportees"
         }
       ]
     },
@@ -221,14 +213,6 @@
       "name": "The Washington Post",
       "color": "green",
       "items": [
-        {
-          "title": "Thousands rally outside shuttered Kennedy Center, chanting ‘Hands off!’",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNndHOGt5SXBCaUJseXM5VE56S2tXYXBzTE5mLVk4d1dTQXIxZ05kYVd6NVV1OC1pVTZaajRlX2kxcDVRTzczSWdLaUlnaXFZNV8wal9idlV4c1hNZ1hRSmpmMXJieVlHOEhqTXg0TEYtVkdObTdUWUlMcURGei1odklJYV9pZmo3X3FCaWY0ajUyZHVBczdLOGV6TWgwZDhZN1NybW9VYw?oc=5",
-          "pubDate": "2026-09-19T08:45:53.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Thousands Rally Outside the Closed Kennedy Center, Chanting “Hands Off!”"
-        },
         {
           "title": "Vought pushes for scrutiny of NIH grants in Oval Office clash",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpsZGFHMnBjREg5Q0pUUFJNNE1VRjdPSXlXaVQ0TEJDUFIyQ1BQTjl5elNTa1pBUUMtdjZ3UDgtaGFZaDc5RHpoaEZXMU9aLTBWMXpCd0REUFhucHl0UnhyZk1IbnBQR0YyWE9FTGt5TG5LRnBoRGMzcFc0ZEVDNTEwN20yR1NnTjVwZEZ5Y2tfXzJPc3lteVZfM2VpYlJ5Z1BQZ0hn?oc=5",
@@ -268,6 +252,14 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Trump says he’s banning CNN, MS NOW, and Politico from the White House"
+        },
+        {
+          "title": "Trump hails Greenland security deal that falls short of takeover",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXFfTGlBbUNVQ0Z1SVZlOEs0NTltVmR0eHFubWJZV2lsbjluVkxDREZWYUVSWlVITnhYN3RIZjRUMTllRy0tWkZrUVFBN09ZZFppS04zdkd4WlJTbTUxRmtmR1poUlJIN3lvOXhyemRvdHlrWmFJUmk5bEMxUWhfQjJITUUxRTVGemhhaENqVGt6UVoxV1lhZ0FpTGZqMmFwc0lqVjVPeVAyNWJGRXZISnJOYWdhdw?oc=5",
+          "pubDate": "2026-09-19T03:59:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump Praises Greenland Security Deal That Falls Short of a Takeover"
         }
       ]
     },
@@ -281,15 +273,7 @@
           "pubDate": "2026-09-18T18:25:11.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Mark Carney hopes to steer Canada's economy away from Donald Trump"
-        },
-        {
-          "title": "World in Brief: Warren Buffett leaves Berkshire Hathaway; Trump approves F-35 sale to Saudi Arabia",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcFRTSXFldmZ1MTQzb3RrWnRlS1lTNVFZRVYwaUlWaFM1UmE4M01wclZFNGhncXRaT0tFblJta0JOZGdiYU5YSXI4aE5FS1hSZWViTGZZSlFDbjVoVFl4R3VpZkhReC1UUTV3bk1sZjRkN3R1NXN5ZllScEU5VzM4YU5taS1MUW1aVWVZMjVHbzlxT0VEbVBJ?oc=5",
-          "pubDate": "2026-09-18T15:07:37.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "World in Brief: Warren Buffett Steps Down from Berkshire Hathaway; Trump Approves F-35 Sale to Saudi Arabia"
+          "title_en": "Mark Carney hopes to steer Canada’s economy away from Donald Trump"
         },
         {
           "title": "World in Brief: Trump approves F-35 sale to Saudi Arabia; UN panel cites possible war crimes in Iran",
@@ -322,6 +306,14 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "He was one of the world's most wanted men. So he bought a West African country"
+        },
+        {
+          "title": "Inside an elite Ukrainian drone unit: a special report",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUdVeUFwVFY4TXhjeWxFY05TNUttOXg1eVhJV1I1ZjRMZnRaQVFmSkg0akdxbTV3b1dNQ2dBYzJFMjBlb2VhbWxUZUYtYUE4SW9sV2VsQ1d2SXlvUk9OczZLLVBaUW9vbExpaGhxbTVuZkI5b2p4S3R0TmxEUkZvX2JHNURVajNqZ3JTdF9KOG83SUlVMHl5YnZiRVFWMlZt?oc=5",
+          "pubDate": "2026-09-17T17:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Inside an Elite Ukrainian Drone Unit: A Special Report"
         }
       ]
     },
@@ -346,6 +338,14 @@
           "title_en": "Federal government debt rises, primarily due to IMSS Bienestar's debt to pharmaceutical companies"
         },
         {
+          "title": "UNAM presenta estrategias de prevención y atención a la salud mental; busca construir \"manto protector\"",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFFWZmZOMnpla0lYd0dKU2JGSnJOazhuZUpmbXBDVXFVdTdtMmZhbk9fakJxSjdQTTE3U0NiVEh1U25xSHlYbWtTdjNWUjQ2X0xYV2pvNlVaTGRSYmwyajR3M1FZQ0RuODVIemJ3bnVUUVVULUlqV2xRZ2pROEhLeG84ZEM1RXRkODZwTFlrS2Z4dk8yZ1dqYjBtY3JxbktfT3BJNUprZ1dZS0ZJWHVCbzRCY2ZTSGMtakQyYV9qeF9IeDZNYVZyREFRUnNFRWFlNER0RXd30gHqAUFVX3lxTE40OWJOb0FyWV9ObGtnRTcyME51VEZGY1pBVHgtSnNxTnc0WTZuUzFId0ZtN3F4Z0NFSDFvNS1sU3Q0cXlIeDRtUEJ6WlROcXhxTVF5MnJpbFJqX0IzSThKUkQ3azRINHdZSUUtMHB4QWZ4M3hOVG10OGNidmdUUWU2Z211MERXX1hIWVh6OVlMV3ExTzFIbHY2TnFqZDNwV0JIblpka013aGdlVEU0eTNVYWE5dkc3eUF5YjdaS2NqMHA1TDB3VDd0TzdSQ3ZUZjlFd1ZoYmQ4bTdXM0VDc2lMZGE4QWo4V01FZw?oc=5",
+          "pubDate": "2026-09-19T03:41:09.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "UNAM Presents Strategies for Mental Health Prevention and Care; Seeks to Build a \"Protective Shield\""
+        },
+        {
           "title": "Aseguran 27 mil kilos de ácido tartárico, originario de China, en aduana de Michoacán",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYl9wTkltb1ZDU2VZc0JiSUZRV3JfZ2dVdGIxWTJOaUlUOFAtYzVtcWxwLUhDei1hWC02QkFLVmotazRPbHNibmUxUk1fSVVKeGpoaFQxc1JPODNyajZ0cUlKQUljTGlOaWNCLWY4TlY5Qy1pcnpoeDJ5R3k5RC13VGlFdU5QSW9SWGx1aGtkbVZ5RHV6OEV0VVp1MzhwZzZiN2tLbllGUXJacEdxMjdyemRtZlZkZ3NpSjFteHFDWmNNMVl3MVhBYU9HU0w2N3FGaXFqMWNEbDFDUUJ1ZzFBSWpEMEJzS29yRzBJTkh30gGCAkFVX3lxTE0xRXZ3VUkzVGExUXcxQUdtajNZOTg3VEVIeDU1bkdlcF9YRWhtbUdUNVY0U1ptcndHbk9MWlRSb0FwN2JNSC1zWkgxQzMyTy13VVNMMUJwVGhEVll3NUJfOTJkeUF1X1lPUUUzckVYVWFxSkNKT0ctOUp6aGo1dHF0WUgxSTFuMTBNZlhOOWNDLWpnOE5WMkFCWmVFUURNbTlZTngwTXk0MUsyakkxOFRSY3YzSm9fNVRfem1BWTJEQi11UFJKV05QTEd5ZTNwUmdrdDBERy02ZFZWZ2pSSmZNWTdVcnh0eTVDeGF1cDdGVG0tT0RuREt1eW40WTBObFZiZw?oc=5",
           "pubDate": "2026-09-19T03:20:00.000Z",
@@ -359,7 +359,7 @@
           "pubDate": "2026-09-19T03:02:04.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "First National Dialogue on a Culture of Peace Held; SEGOB Follows Up on Events from 1968 and 1971"
+          "title_en": "First National Dialogue for a Culture of Peace Held; SEGOB Follows Up on Events from 1968 and 1971"
         },
         {
           "title": "SEP logra acuerdo nacional para regular celulares en aulas",
@@ -368,14 +368,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "SEP Reaches a National Agreement to Regulate Cell Phones in Classrooms"
-        },
-        {
-          "title": "Almirante Ojeda es el “eslabón perdido” del huachicol fiscal: oposición",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcFlrYlZBRnl4bUZjLXh6ZGhzRWl5aUsxWTlPU3Q0RG4yTmlwVDdMVV9wOGxabzlNYmtHSGRSZDY3WF9iZDBxaTV5el9IR0JPUVE0cW44ZGZmdXczNGU1ZDRkbnRRblEyVTNlVVk4Z3hQWVVlSzFJTjdac2hXa293cjNXNmx6Z05WSktKb1ZjdmZPbmxlSDRDcEtnWjRVUVhrMzM3RThUNm1hanVQMkp6NWU3RkpjcUNqRVNOeUozaVFjVGowT1pxZ1cwTlNhZ0FfU0o4SHVicHHSAewBQVVfeXFMUG8wMVNTQU5hOWdXVG1fRWtrcDg2MmdMbGlxN1lqcnRmbW44RUppWncweWd4LXBmcGZzZFM3UVdVZTBxVWlLZlF6bnYxeXBYb3NrbHZTSXJmMzZyMldkSkxSTlpsZkNyMlNkamRFS1A0YWVJQks3UW5ha3BoQ3BaNEpHZDAwMlpPUDBUaHgyUDdlbEpxTV9CRjItZXl0dV9ZNlZuOXU4MVFGazJGck1fT0F1WlhxS2RoSHNjZVJCTWZyczhNRmdZQlRnNGt0OGp6c0pKeUtSM3BVWlBOLUgxay0zUnNYMTRxTGQ3SEU?oc=5",
-          "pubDate": "2026-09-18T22:43:31.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Admiral Ojeda Is the “Missing Link” in the Government’s Fuel Theft Scandal: Opposition"
         }
       ]
     },
@@ -389,7 +381,7 @@
           "pubDate": "2026-09-19T01:25:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Appeals Court Halts U.S. Deportations to Third Countries"
+          "title_en": "Appeals Court Halts Deportations from the U.S. to Third Countries"
         },
         {
           "title": "Fiscalía pide al juez orden para proteger información telefónica y otras evidencias en caso de Maduro",
@@ -416,20 +408,20 @@
           "title_en": "Costa Rica Announces a Stronger Stance on the UN Vote Regarding the Embargo on Cuba"
         },
         {
-          "title": "Costa Rica anuncia endurecimiento de su voto en la ONU sobre embargo a Cuba",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDBnQU1LU2N6VHBaTXlhdUwxUk5BQlRYM2d5Wm44QTMxVTFhNkdWTUdRNkhlT2tveDNCeWxYM3Ayb2NJdHF4NlY3d2RGMHZqY3R2eU1Ed1FRaUZKekl5cl9EWVdZM1dnQm90Qi1rN19Gd2NRZHNzWkFkazh4TFd5MmhydDBzOTdFNnJVeG9fSDNrdzRwVFZmTnRIaTBxdzhuMGpOU0ZEOEJXczZKQmpUdGRB0gG3AUFVX3lxTE5uTnpwdXdYdFROa2JETHNqQ2NjTUdHQWp2WGJ5ZDBYWVlTaVJTYlRsY0hkNlV1a0FKVUpzVFBWSjVTcENSc1Jxbk0yOG5hd0NBOF9kUmI2X19jeEV5TDlUX0pkTF9CbWFhRkRQWFdBTG9OTGVJemVkU0lvY0JGU1FKdExpdEtHeWJ2aVkwcFRoN2N3N3RjR09sSGNmbl9IU1VhTFVHQk1hUVdxZ01NelRRdWtmYldKQQ?oc=5",
-          "pubDate": "2026-09-18T19:58:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Costa Rica Announces a Tougher Stance on Its UN Vote Regarding the Embargo on Cuba"
-        },
-        {
           "title": "Entra en vigor norma de \"carga pública\" para solicitantes de residencia permanente en EEUU ¿A quiénes aplica?",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbEQ2cjdvODVUY2hiQzBSdk1WRHlVUHFZVHRlZDREZWVYNFJSQW9VbmFSZFhRdXpfbFQyZndRaFpmam4wSDRuT2hJQS1ETFhnMVdZdUJNRUUweWZjMWVMU19sQmUyenprZ2ZERjVPb09CTmlDRWJOZmdVVVlQMmVIazA2cVJDVHZDWEJfTDBXaktLZnJJaHhEczM5YTU3LVhqa1hjRzJaMG95NTItZ1BkTVdJOW1VanJzRGUyYW45UzU2dVduNEtXLUdlM2VMemRVMVpGNHp5LTI3a0gwR1hNUmp5ZW7SAeQBQVVfeXFMUGxENnI3bzg1VGNoYkMwUnZNVkR5VVBxWVR0ZWQ0RGVlWDRSUkFvVW5hUmRYUXV6X2xUMmZ3UWhaZmpuMEg0bk9oSUEtRExYZzFXWXVCTUVFMHlmYzFlTFNfbEJlMnp6a2dmREY1T29PQk5pQ0ViTmZnVVVZUDJlSGswNnFSQ1R2Q1hCX0wwV2pLS2ZySWh4RHMzOWE1Ny1YamtYY0cyWjBveTUyLWdQZE1XSTltVWpyc0RlMmFuOVM1NnVXbjRLVy1HZTNlTHpkVTFaRjR6eS0yN2tIMEdYTVJqeWVu?oc=5",
           "pubDate": "2026-09-18T19:05:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "\"Public Charge\" Rule for Applicants for Permanent Residency in the U.S. Takes Effect: Who Does It Apply To?"
+          "title_en": "\"Public Charge\" Rule for Applicants for Permanent Residency in the U.S. Takes Effect—Who Does It Apply To?"
+        },
+        {
+          "title": "EEUU y China: Las dos potencias que rediseñan el Nuevo Orden Mundial",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnJJTy1qbGJDTGkyc2NZRnZTVWNONlpmRHpMUC16UVM3aFVlMVZmcllKYmpQcl9DZXNsemZtTlRHSUoxSjc1aXpOaEZ1SmZkQjBFaFVWVXhuXzh0eWZBbjhCTHk3LXlUeUdEQzAwOHhiemp1emZKVjRyZFZ1bFlyek9kdi1iMWZpaldZSXFRMW1UdUg0cUdsYzZGY3NIbnRvLVFRUHNPWjE1Z3dDRUtPcXpaYl9rZ9IBuwFBVV95cUxNZ0dCVkpicVpOdmhJWXg0S3ZvZXRHb0VQOFlaVVNOa2ROeTFXN0J3NTB4UnZRbGpTVjZaWmJpNmh4ejBCZXZucExxc3I1SWx3ejQ2a1hPVW9ZTkxfbVM2dVRkRU55alJZNWYzazVjSDVnRDhtcFB4Q2VqRlBYanNmTTZsYXlDUnVjaXd5Wk9LLThLWC1sRHY4TFBEOC1GUU1LYnhHLWZJWDFNR3FKTEpON0M1WmZHaklJdGxJ?oc=5",
+          "pubDate": "2026-09-18T15:59:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The U.S. and China: The Two Powers Reshaping the New World Order"
         }
       ]
     }

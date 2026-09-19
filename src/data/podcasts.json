@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:01:45.721Z",
+  "generatedAt": "2026-09-19T13:44:08.602Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -12,19 +12,19 @@
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
-      "title": "365 con Dios",
-      "host": "Wenddy Neciosup | Genuina Media",
-      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
-    },
-    {
       "title": "Estoicismo Filosofia",
       "host": "Estoicismo Filosofia",
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+      "title": "365 con Dios",
+      "host": "Wenddy Neciosup | Genuina Media",
+      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
+    },
+    {
+      "title": "El Pulso del Fútbol",
+      "host": "Caracol Pódcast",
+      "url": "https://podcasts.apple.com/co/podcast/el-pulso-del-f%C3%BAtbol/id868214427"
     }
   ],
   "mundo": [
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
-      "title": "In The Dark",
-      "host": "The New Yorker",
-      "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
-    },
-    {
       "title": "Dateline NBC",
       "host": "NBC News",
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "In The Dark",
+      "host": "The New Yorker",
+      "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
     }
   ]
 }
