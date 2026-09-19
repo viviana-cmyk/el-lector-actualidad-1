@@ -166,14 +166,14 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
       <div class="cifras-kpis">
         <div class="cifras-kpi">
           <span class="cifras-kpi__num">{homNac26ea !== null ? homNac26ea.toLocaleString("es-CO") : "—"}</span>
-          <span class="cifras-kpi__label">homicidios · Nacional</span>
+          <span class="cifras-kpi__label" data-i18n="cifras_kpi_hom">Homicidios · Nacional</span>
           <span class={`cifras-kpi__sub ${homNacVar !== null ? (homNacVar > 0 ? "cifras-kpi__sub--sube" : homNacVar < 0 ? "cifras-kpi__sub--baja" : "") : ""}`}>
             {homNacVar !== null ? (homNacVar > 0 ? "▲ +" : homNacVar < 0 ? "▼ " : "") + homNacVar.toFixed(1).replace(".", ",") + "%" : "—"} vs. {labelPeriodo} 2025 · Policía
           </span>
         </div>
         <div class="cifras-kpi">
           <span class="cifras-kpi__num">{vifNac26ea !== null ? vifNac26ea.toLocaleString("es-CO") : "—"}</span>
-          <span class="cifras-kpi__label">violencia intrafamiliar · Nacional</span>
+          <span class="cifras-kpi__label" data-i18n="cifras_kpi_vif">Violencia intrafamiliar · Nacional</span>
           <span class={`cifras-kpi__sub ${vifNacVar !== null ? (vifNacVar > 0 ? "cifras-kpi__sub--sube" : vifNacVar < 0 ? "cifras-kpi__sub--baja" : "") : ""}`}>
             {vifNacVar !== null ? (vifNacVar > 0 ? "▲ +" : vifNacVar < 0 ? "▼ " : "") + vifNacVar.toFixed(1).replace(".", ",") + "%" : "—"} vs. {labelPeriodo} 2025 · Policía
           </span>
@@ -181,13 +181,13 @@ function varArrow(v: number | null) { return v === null ? "" : v > 0 ? "↑ " : 
         <div class="cifras-kpi">
           <span class="cifras-kpi__num">{topTasa?.homicidio.tasa_2026_proyectada?.toFixed(0)} x100k</span>
           <span class="cifras-kpi__label">{topTasa?.municipio}</span>
-          <span class="cifras-kpi__sub">mayor tasa proyectada homicidio 2026 · Policía</span>
+          <span class="cifras-kpi__sub" data-i18n="cifras_kpi_toptasa">mayor tasa proyectada homicidio 2026 · Policía</span>
         </div>
       </div>
       <div class="cifras-corte">
-        <span>Datos Policía al <strong>{cortePolicia}</strong></span>
+        <span><span data-i18n="cifras_datos_policia">Datos Policía al</span> <strong>{cortePolicia}</strong></span>
         <span class="cifras-corte__sep">·</span>
-        <span>Actualizado <strong>{generadoStr}</strong></span>
+        <span><span data-i18n="cifras_actualizado">Actualizado</span> <strong>{generadoStr}</strong></span>
       </div>
     </div>
   </section>
