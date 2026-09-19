@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-09-18T14:09:25.184Z",
+  "generatedAt": "2026-09-19T10:01:45.721Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Los Tiguerones: EE.UU. designa como terrorista a un grupo criminal que se fragmenta en Ecuador",
+          "link": "https://insightcrime.org/es/noticias/los-tiguerones-ee-uu-designa-terrorista-a-grupo-criminal-que-se-fragmenta-ecuador/",
+          "pubDate": "2026-09-18T17:42:42.000Z",
+          "snippet": "Los Tiguerones: EE.UU. designa como terrorista a un grupo criminal que se fragmenta en Ecuador EE.UU. designó a Los Tiguerones como organización terrorista en medio de su fragmentación y la pérdida de territorio frente a grupos rivales en Ecuador. The post Los Tiguerones: EE.UU.…",
+          "title_en": "Los Tiguerones: U.S. Designates a Criminal Group That Has Fragmented in Ecuador as a Terrorist Organization"
+        },
         {
           "title": "On The Radar | EE. UU. saca a Venezuela de su lista negra antidrogas. Colombia podría ser la próxima",
           "link": "https://insightcrime.org/es/noticias/on-the-radar-ee-uu-saca-venezuela-de-lista-negra-antidrogas-colombia-podria-ser-proxima/",
@@ -17,21 +24,21 @@
           "link": "https://insightcrime.org/es/noticias/los-menores-mantienen-poder-rosario-pese-operativos-en-contra/",
           "pubDate": "2026-09-16T16:54:28.000Z",
           "snippet": "Los Menores se fortalecen pese a los operativos en Argentina Los Menores se han convertido en uno de los grupos criminales más poderosos de Rosario, la tercera ciudad más grande de Argentina. The post Los Menores se fortalecen pese a los operativos en Argentina appeared first on…",
-          "title_en": "Los Menores Are Gaining Strength Despite Crackdowns in Argentina"
+          "title_en": "Los Menores Are Growing Stronger Despite the Crackdowns in Argentina"
         },
         {
           "title": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora?",
           "link": "https://insightcrime.org/es/noticias/the-insight-take-paz-total-colombia-salio-mal-viene-ahora/",
           "pubDate": "2026-09-15T22:02:28.000Z",
           "snippet": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora? Los grupos armados de Colombia casi duplicaron su tamaño durante la Paz Total de Petro. Pero ¿puede el plan militarizado de De la Espriella dar mejores resultados? The post The InSight Take | La Paz To…",
-          "title_en": "The InSight Take | Colombia's Comprehensive Peace Agreement: What Went Wrong, and What's Next?"
+          "title_en": "The InSight Take | Colombia's Total Peace: What Went Wrong, and What's Next?"
         },
         {
           "title": "Cocaína líquida: un método de tráfico en expansión",
           "link": "https://insightcrime.org/es/noticias/cocaina-liquida-metodo-trafico-expansion/",
           "pubDate": "2026-09-14T19:20:45.000Z",
           "snippet": "Cocaína líquida: un método de tráfico en expansión Claves para entender el tráfico de cocaína líquida: qué es, cómo se oculta y recupera, y por qué este método está ganando terreno en Europa. The post Cocaína líquida: un método de tráfico en expansión appeared first on InSight Cr…",
-          "title_en": "Liquid cocaine: a growing trafficking method"
+          "title_en": "Liquid cocaine: a growing method of trafficking"
         },
         {
           "title": "Clan del Golfo – Autodefensas Gaitanistas de Colombia",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-10T17:19:34.000Z",
           "snippet": "Clan del Golfo – Autodefensas Gaitanistas de Colombia El Clan del Golfo, también conocido como Autodefensas Gaitanistas de Colombia (AGC) y Urabeños, surgió de las cenizas del movimiento paramilitar colombiano y se convirtió en una fuerza criminal con alcance nacional. The post C…",
           "title_en": "Clan del Golfo – Gaitanista Self-Defense Forces of Colombia"
-        },
-        {
-          "title": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia",
-          "link": "https://insightcrime.org/es/noticias/on-the-radar-ataques-contra-botes-en-ecuador-carceles-en-peru-y-cultivos-de-coca-en-bolivia/",
-          "pubDate": "2026-09-10T15:02:22.000Z",
-          "snippet": "On the Radar: Ataques contra botes en Ecuador, cárceles en Perú y cultivos de coca en Bolivia Esta semana examinamos en el cambio en la estrategia de Estados Unidos de ataques contra embarcaciones vinculadas a Los Choneros en Ecuador, el estado de emergencia de Keiko Fujimori en…",
-          "title_en": "On the Radar: Attacks on boats in Ecuador, prisons in Peru, and coca crops in Bolivia"
         }
       ]
     },
@@ -65,7 +65,7 @@
           "link": "https://www.crisisgroup.org/how-we-work/events/houthis-advance-bab-al-mandab-has-yemens-war-returned",
           "pubDate": "2026-09-16T15:32:49.000Z",
           "snippet": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned? eschelhaas Wed, 09/16/2026 - 17:32 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Online Event Tuesday, 22 S…",
-          "title_en": "The Houthis’ Advance Toward Bab al-Mandab: Has the War in Yemen Returned?"
+          "title_en": "The Houthis’ Advance to Bab al-Mandab: Has the War in Yemen Returned?"
         },
         {
           "title": "Special Episode: Will the Houthis Shut Down the Bab al-Mandab Strait?",
@@ -102,6 +102,13 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Risk Management, Reimagined: Outlook to 2035",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMnJMRjFyWmJ2VFVDWjRMN3puUlVKUHBUc2JPcTJROUpIby1rekhnZ25rdEhvMGxWYUY3TVNKemhFNHNKT1BfNmZUcUpzNTdCWWVVRW5Fc3h2Vl96U000YUJKSlFoSEtibmUwVTBRanZ5dEFlWFprNzF6X1BzTWphQThYMnpMdw?oc=5",
+          "pubDate": "2026-09-18T11:48:02.000Z",
+          "snippet": null,
+          "title_en": "Risk Management, Reimagined: Outlook Through 2035"
+        },
+        {
           "title": "How cutting emissions is future-proofing industries beyond the ‘green premium’",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHo3T25IazBJbTNad08zdE5jVkR3OC0wLWJKcWgxdzFIRUVubGl5MzdoS2hYd0kxbUlpal90VDlXd0pvNmNVUG1iclpGTm1zTVdMOFhBV1YzSjR1dWJNLV9TWGRGNzBEUzVvZHZfeTl0R2trcmdMRVB2QkgtWnRuVDlVbWtaWTli?oc=5",
           "pubDate": "2026-09-17T11:39:25.000Z",
@@ -130,18 +137,11 @@
           "title_en": "Institutional Lessons from the Malaysian Palm Oil Board for Strengthening Indonesia's Palm Oil Governance"
         },
         {
-          "title": "ASEAN Digital Economy Outlook 2026",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3YlhjZ3ExMEJyOFB4MFJJV2duZUlCSjJkUUdpa3FGRUx2cU54SU1lRHBYYXJOZDdxc240SXNQRjZ1VTlqeEhoYzZMS1FFVFdEQm9IOXMybHZYUkMxVFNTcS1pZjMxanVjX3NkUFVmOUFyaFZ3eWNEaWVxVQ?oc=5",
-          "pubDate": "2026-09-14T22:38:31.000Z",
+          "title": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2tWMGtGZF95RkQxTGdfSlVYQzVXc0tIaXNhTFdUTkx6ZUU5NmJqUERCZTBfdUR3dFRnUFpheGw1VUhncXR2Vncza0RzS0hScnlaUkZlOXdVckExMU11UGd1Y2NZNHJnYXBENEZzVmtialZ2ZnNPLXktWWNJXzR2alRYTTBQQ3lwSUlrbXlRbnlfajFFMjZ4TV90NUliTnN4SFJfVWQ0ZTAyM2k2WXQyc2E5UGZvMThMT1kwS0ttakxSdXpNV0QzUWF3OTdHV283WldXWVZn?oc=5",
+          "pubDate": "2026-09-15T11:35:52.000Z",
           "snippet": null,
-          "title_en": "ASEAN Digital Economy Outlook 2026"
-        },
-        {
-          "title": "Experts Explain | Adam Tooze | What is the Polycrisis?",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanVZUm0teGIwdFpoaHlJQktzb3ZKQXZnd2diWVZsVjlfNmI1VWdNYnVndEc5d2RoWmNMaDlFakFnXzhxdmdiakxQYkVuT2k0VGp3T2R2N2JZS3I1OWtCMVg5V2dyM2NhaGFTbEw2WU1IMzdodm1hbjRTU2g0UzRqeWY3RFU3alU?oc=5",
-          "pubDate": "2026-09-09T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "Experts Explain | Adam Tooze | What Is the Polycrisis?"
+          "title_en": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability"
         }
       ]
     }
