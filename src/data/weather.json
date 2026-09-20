@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-20T10:01:40.983Z",
+  "generatedAt": "2026-09-20T13:59:42.628Z",
   "colombia": [
     {
       "city": "Bogotá",
       "city_en": "Bogotá",
-      "temp": 12,
+      "temp": 17,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -12,7 +12,7 @@
     {
       "city": "Medellín",
       "city_en": "Medellín",
-      "temp": 18,
+      "temp": 23,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -20,23 +20,23 @@
     {
       "city": "Cali",
       "city_en": "Cali",
-      "temp": 20,
-      "description": "Lluvias",
-      "description_en": "Showers",
+      "temp": 22,
+      "description": "Llovizna ligera",
+      "description_en": "Light drizzle",
       "icon": "🌦️"
     },
     {
       "city": "Cartagena",
       "city_en": "Cartagena",
-      "temp": 24,
-      "description": "Llovizna intensa",
-      "description_en": "Heavy drizzle",
-      "icon": "🌦️"
+      "temp": 29,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Barranquilla",
       "city_en": "Barranquilla",
-      "temp": 26,
+      "temp": 31,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -46,7 +46,7 @@
     {
       "city": "Nueva York",
       "city_en": "New York",
-      "temp": 18,
+      "temp": 19,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -54,15 +54,15 @@
     {
       "city": "Londres",
       "city_en": "London",
-      "temp": 18,
-      "description": "Parcialmente nublado",
-      "description_en": "Partly cloudy",
-      "icon": "⛅"
+      "temp": 20,
+      "description": "Despejado",
+      "description_en": "Clear sky",
+      "icon": "☀️"
     },
     {
       "city": "Madrid",
       "city_en": "Madrid",
-      "temp": 23,
+      "temp": 30,
       "description": "Despejado",
       "description_en": "Clear sky",
       "icon": "☀️"
@@ -71,8 +71,8 @@
       "city": "Tokio",
       "city_en": "Tokyo",
       "temp": 22,
-      "description": "Lluvia ligera",
-      "description_en": "Light rain",
+      "description": "Lluvia intensa",
+      "description_en": "Heavy rain",
       "icon": "🌧️"
     },
     {

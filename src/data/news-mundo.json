@@ -1,33 +1,41 @@
 {
-  "generatedAt": "2026-09-20T10:01:40.983Z",
+  "generatedAt": "2026-09-20T13:59:42.628Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "La Casa Blanca niega el acceso a CNN, a MS NOW y a Politico tras el “veto” de Trump",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV00yLVNjb00xbkptUmJBM0hyd0I0RE1UQnBFVkMyQ0JCdHR4NHVjVlRyZ3lob1FKeFFsR3RNMUZwVmJ1Z0IyWVloNklZNXNJVGs0WnNoWnF2a2NOMnZkbHEyMlJCQ21wQWZ4U3NoRFRLeGhnREtUa0ktNmh1SnR4U19LZVN0eExfNENr?oc=5",
-          "pubDate": "2026-09-19T22:33:00.000Z",
+          "title": "Arde en llamas una refinería de petróleo de Moscú tras un ataque ucraniano, según un vídeo publicado por Zelensky",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnJqNEJNOEgxaC1YcXNtNzljeWxKdlJmM0pMMUM0UlpoMklBR1ZSWFI0REVjWlVZMWxlV2FxRWlMLXpvWXBqTVpjTHNVVDVYZXRhWEZ1ZVFlVHJXcTBHaGMtY3ZtOC16N0lubjFxZzByT1hmX0NiTzBwN3Z2SVBURXQ2cE55d21kSmRxRklCaFg2X3hQMXliQUJBZTQ?oc=5",
+          "pubDate": "2026-09-20T13:02:54.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The White House Denies Access to CNN, MS NOW, and Politico Following Trump's \"Ban\""
+          "title_en": "An oil refinery in Moscow is ablaze following a Ukrainian attack, according to a video posted by Zelensky"
         },
         {
-          "title": "Confiscan el pase de prensa de una reportera de CNN en la Casa Blanca",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcERXNnB1U3hhaHRTc0tBQ20wblNHQTMtM3ktSFlLWjZvd0ExLXFuOG53VXN2eHFZeWVQTUdtYzA3YU00amhuQk9RX0RObmlLT21lajlhWndSWG02MktKenNfY1FJQ2lsYTRZeUVGVWl0VnJ3Z19LVndiLWFycFY4MUpiZWZEQVRvc0FLQmM2RVRnTGRBb1E?oc=5",
-          "pubDate": "2026-09-19T20:35:34.000Z",
+          "title": "Moscú es blanco del “mayor ataque” con drones registrado en el último día de las elecciones parlamentarias de Rusia",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHIxakVjNjVyWVI2YTY1bURpLWRxbHNtSTB5QlRUekNGX1FFdWduc3Bjb29WRFZhdnZhdk9SLUJGa3JyZF9TdWVrY3dzcFRxTEp2RG1oc3Q5X09qbmpVa3g3X1FXNE85dHlfd0tDMjRTeHNORXZjYm1ZcER6WnpxclZJTUpGdw?oc=5",
+          "pubDate": "2026-09-20T12:19:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "A CNN reporter's press pass was confiscated at the White House"
+          "title_en": "Moscow is the target of the “largest drone attack” recorded on the final day of Russia’s parliamentary elections"
         },
         {
-          "title": "Trump promete crear una “Fuerza de IA” y nombrar a un zar ante los llamados a regular el desarrollo de esta tecnología",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHRDa2FkRDJabW1CY0xCMDdZQjhtdVZyeU9qanJiYnQ1bHR1WWdjQUNhanBlRXVXSV8yRVhIaW9jYmV0aXlEYU5qZTFqTmJraFFpU0RVLURCeGVlNUM0TEN5Sm5lX2J6NWlaa0xzenFYT3hUUWk3a0xQZTV3S0RrQTl2d1BFVGwzMWV5OVI3Ykx6Zw?oc=5",
-          "pubDate": "2026-09-19T22:10:00.000Z",
+          "title": "Los votantes latinos, los centros de datos y los tropiezos republicanos dan a demócratas en Texas su mayor ilusión en 20 años",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDN2YXZfSnhpc1k5LUEyWWl1cmRzMkQ1RDh1a28teHJ5Snl0eUNfYS1iRlVyMHk5bGlsc1B2WkwtQjR6dUhUbjNKZDZoa25nbTBlMUpnTXNrbUQxc3AteC1pRjlyc0lQNV9YWWFIbzc5OUo1TldITHNZSVp4VFVDU3lPOVFwS1JWSUZMRWZURjF5dw?oc=5",
+          "pubDate": "2026-09-20T10:42:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump promises to create an “AI Force” and appoint a czar in response to calls to regulate the development of this technology"
+          "title_en": "Latino voters, polling data, and Republican missteps give Democrats in Texas their best chance in 20 years"
+        },
+        {
+          "title": "Las sanciones de Trump, la inflación y una economía en colapso dejan desprotegidos a los enfermos de Irán",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblU3bnBmYTRFWTVKQm5Jb3BEWnBnY1hsUE9CeFN0Q1Fld3psRm5OYXJJeHg4M2pISzJCSEJ6OTQ4dk12UVl4Zk9VOW9fczFnbWVjZmNOb1FTb3FLZ2FKdW1LOWpZdDRsTUkzZVBPMlYyYWI3Wk1hcjVOYTJfaFJ4ZDhhQWFoaEFpOHM4dXlBWDRsZ01ZdHBXaQ?oc=5",
+          "pubDate": "2026-09-20T09:25:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump's sanctions, inflation, and a collapsing economy leave Iran's sick unprotected"
         },
         {
           "title": "Trump redobla sus provocaciones de cara a las elecciones intermedias",
@@ -38,20 +46,12 @@
           "title_en": "Trump Steps Up His Provocations Ahead of the Midterm Elections"
         },
         {
-          "title": "Obama sobre la IA: “El Gobierno tiene que regular esto”",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObnpuMmlvemU2TzNmTHNsMWgwWVFlXzVSUTFrRENVdnVXeHpxQzNiQTd1SFUwamN4Mm5vNUhadGM2dzdKSzJaVHdYQnBDWlpuVXM3WV9iY1JLWXVuRldLdzlHMlR2eXlBeWpJR1J4amU5UzhRNkJ0MGJZSDhDaDBCZTNpN2t1QQ?oc=5",
-          "pubDate": "2026-09-20T00:21:47.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Obama on AI: “The government has to regulate this”"
-        },
-        {
           "title": "Demanda afirma que Anthropic, OpenAI, SpaceXAI y Google alcanzaron un acuerdo ilegal para desacelerar la IA",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkVuZWpubEhNdUdqTjdjMTFYZ0xBQ2d3VTdsS0lnMVYxSHdxcFR2UERYemxpaDhvTVlpVjY2cUxUd2VqR0JoQzhzX3hEa21nRnNhRDJ2a1hSLUN5akZheUtnVGN2Y0hZcDJsbWFvZ3FNaU5PUDhyZUR0YTRObDhGS2cwUWtLcXJuclBHVnpQazFXclEwS3R6S0tvcHI2NGY3bk9J?oc=5",
           "pubDate": "2026-09-20T04:19:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Lawsuit Alleges That Anthropic, OpenAI, SpaceXAI, and Google Reached an Illegal Agreement to Slow Down AI"
+          "title_en": "Lawsuit alleges that Anthropic, OpenAI, SpaceXAI, and Google reached an illegal agreement to slow down AI"
         }
       ]
     },
@@ -60,52 +60,52 @@
       "color": "sky",
       "items": [
         {
-          "title": "Ucrania lanza uno de sus mayores ataques sobre Moscú en el último día de elecciones rusas",
+          "title": "Ucrania lanza su mayor ataque sobre Moscú en el último día de elecciones rusas",
           "link": "https://elpais.com/internacional/2026-09-20/ucrania-lanza-uno-de-sus-mayores-ataques-sobre-moscu-en-el-ultimo-dia-de-elecciones-rusas.html",
-          "pubDate": "2026-09-20T08:59:52.000Z",
-          "snippet": "“Rusia debe poner fin a su brutal guerra y optar por la paz en lugar”, afirma Zelenski en un mensaje en el que admite la ofensiva. Al menos dos muertos",
+          "pubDate": "2026-09-20T12:30:01.000Z",
+          "snippet": "“Rusia debe poner fin a su brutal guerra y optar por la paz”, afirma Zelenski en un mensaje en el que admite la ofensiva que deja, al menos, dos muertos.",
           "_priority": "ALTA",
-          "title_en": "Ukraine launches one of its largest attacks on Moscow on the final day of the Russian elections"
+          "title_en": "Ukraine Launches Its Largest Attack on Moscow on the Final Day of the Russian Elections"
         },
         {
-          "title": "Errores y cálculo electoral: por qué se ha enquistado la crisis de Ceuta",
-          "link": "https://elpais.com/espana/2026-09-20/errores-y-calculo-electoral-por-que-se-ha-enquistado-la-crisis-de-ceuta.html",
-          "pubDate": "2026-09-20T03:30:01.000Z",
-          "snippet": "Ni el discurso del Gobierno, ni el del PP, ni el de la UE es el mismo que en 2021, cuando Marruecos desafió a España",
+          "title": "Pedro Sánchez, en la fiesta del PSC: “Cada nueva crisis, una nueva deslealtad de PP y Vox”",
+          "link": "https://elpais.com/espana/catalunya/2026-09-20/pedro-sanchez-en-la-fiesta-del-psc-cada-nueva-crisis-una-nueva-deslealtad-de-pp-y-vox.html",
+          "pubDate": "2026-09-20T12:34:39.000Z",
+          "snippet": "El presidente reprocha a Feijóo y Abascal de realizar “una oposición destructiva que no quiere resolver” la situación en Ceuta y acusa al líder popular de estar “sometido” a Ayuso al callar por la compra del “aticazo”",
           "_priority": "ALTA",
-          "title_en": "Mistakes and Electoral Calculations: Why the Crisis in Ceuta Has Become Entrenched"
+          "title_en": "Pedro Sánchez, at the PSC party: “Every new crisis brings a new act of disloyalty from the PP and Vox”"
         },
         {
-          "title": "La crisis de Ceuta castiga a los marroquíes en toda España: “Si somos invasores, todo vale contra nosotros”",
-          "link": "https://elpais.com/espana/2026-09-20/la-crisis-de-ceuta-castiga-a-los-marroquies-en-toda-espana-si-somos-invasores-todo-vale-contra-nosotros.html",
-          "pubDate": "2026-09-20T03:30:01.000Z",
-          "snippet": "En España hay censados más de un millón de nacidos en Marruecos, por encima de cualquier otro país extranjero. Los testimonios de la comunidad muestran dolor ante el creciente recelo social y miedo al futuro",
+          "title": "Unas 5.000 personas se manifiestan en Barcelona contra la ampliación del aeropuerto",
+          "link": "https://elpais.com/espana/catalunya/2026-09-20/miles-de-personas-se-manifiestan-en-barcelona-contra-la-ampliacion-del-aeropuerto.html",
+          "pubDate": "2026-09-20T11:54:20.000Z",
+          "snippet": "La protesta reúne a más de 200 entidades, entre ellas ERC, BComú y la CUP, que reclaman frenar un proyecto al que vinculan con la crisis climática, la vivienda y la masificación turística",
           "_priority": "ALTA",
-          "title_en": "The Ceuta crisis is taking a toll on Moroccans throughout Spain: “If we’re invaders, anything goes when it comes to us”"
+          "title_en": "About 5,000 people protest in Barcelona against the airport expansion"
         },
         {
-          "title": "Un mundo en llamas se da cita en una ONU en ruinas",
-          "link": "https://elpais.com/internacional/2026-09-20/un-mundo-en-llamas-se-da-cita-en-una-onu-en-ruinas.html",
-          "pubDate": "2026-09-20T03:30:01.000Z",
-          "snippet": "El aumento de los conflictos, los peligros climáticos y tecnológicos y la erosión democrática marcan la cita anual en Naciones Unidas, mermada por la escasez de fondos y los ataques al multilateralismo",
+          "title": "Cientos de ciudadanos marchan hacia la playa del Tarajal en protesta por la crisis migratoria en Ceuta",
+          "link": "https://elpais.com/espana/2026-09-20/cientos-de-ciudadanos-marchan-hacia-la-playa-del-tarajal-en-protesta-por-la-crisis-migratoria-en-ceuta.html",
+          "pubDate": "2026-09-20T11:36:59.000Z",
+          "snippet": "Representantes de los vecinos han acudido a la concentración con una bandera de España en la que se lee “SOS Ceuta invadida”",
           "_priority": "ALTA",
-          "title_en": "A world in flames gathers at a UN in ruins"
+          "title_en": "Hundreds of citizens march toward Tarajal Beach to protest the migration crisis in Ceuta"
         },
         {
-          "title": "Tú la temes, yo la amo: la cumbre Trump-XI afronta la IA con mentalidades opuestas en China y EE UU",
-          "link": "https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-xi-afronta-la-ia-con-mentalidades-opuestas-en-china-y-ee-uu.html",
-          "pubDate": "2026-09-20T03:30:01.000Z",
-          "snippet": "La mayoría de los chinos considera excitantes los productos de esta tecnología, mientras más de la mitad de los estadounidenses teme que destruya la humanidad",
+          "title": "Feijóo pide una política migratoria “ordenada” y promete cerrar España “a cal y canto” a quienes vengan “a saltarse la ley”",
+          "link": "https://elpais.com/espana/catalunya/2026-09-20/feijoo-pide-una-politica-migratoria-ordenada-y-promete-cerrar-espana-a-cal-y-canto-a-quienes-vengan-a-saltarse-la-ley.html",
+          "pubDate": "2026-09-20T11:26:35.000Z",
+          "snippet": "El líder del PP reitera su propuesta de revisar la concesión y retirada de la nacionalidad y carga de nuevo contra Sánchez por la crisis de Ceuta",
           "_priority": "ALTA",
-          "title_en": "You fear it, I love it: The Trump-Xi summit tackles AI amid opposing viewpoints in China and the U.S."
+          "title_en": "Feijóo calls for an “orderly” immigration policy and promises to seal Spain “tight as a drum” to those who come “to flout the law”"
         },
         {
-          "title": "Arthur Mensch, el joven racionalista que quiere dar a Europa una IA propia",
-          "link": "https://cincodias.elpais.com/opinion/2026-09-20/arthur-mensch-el-joven-racionalista-que-quiere-dar-a-europa-una-ia-propia.html",
-          "pubDate": "2026-09-20T03:40:00.000Z",
-          "snippet": "El cofundador y consejero delegado de Mistral lidera la gran apuesta tecnológica del continente para competir con los gigantes de Silicon Valley",
+          "title": "Muere una persona y 18 resultan heridas en el incendio en una residencia en Pamplona",
+          "link": "https://elpais.com/espana/2026-09-20/muere-una-persona-y-18-resultan-heridas-en-el-incendio-en-una-residencia-en-pamplona.html",
+          "pubDate": "2026-09-20T09:56:48.000Z",
+          "snippet": "La policía ha detenido a una mujer como presunta responsable del fuego",
           "_priority": "ALTA",
-          "title_en": "Arthur Mensch, the young rationalist who wants to give Europe its own AI"
+          "title_en": "One person dies and 18 are injured in a fire at a residence in Pamplona"
         }
       ]
     },
@@ -114,52 +114,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Future of German chancellor hangs in the balance as two states go to polls",
-          "link": "https://www.theguardian.com/world/2026/sep/20/german-chancellor-friedrich-merz-state-elections-berlin-far-right",
-          "pubDate": "2026-09-20T02:00:02.000Z",
-          "snippet": "Embattled Friedrich Merz faces nervous wait while far-right Alternative für Deutschland party targets further gains Voters in two German states are going to the polls with the political future of the embattled chancellor, Friedrich Merz, hanging in the balance and an emboldened f…",
+          "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
+          "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+          "pubDate": "2026-09-20T12:09:33.000Z",
+          "snippet": "Authorities accuse Zelenskyy of trying to disrupt Russian elections, with at least two killed and oil refinery damaged Ukraine has targeted Moscow and elsewhere in Russia in a large-scale attack that involved hundreds of drones and the first acknowledged use of ballistic missiles…",
           "_priority": "ALTA",
-          "title_en": "The future of the German chancellor hangs in the balance as two states head to the polls"
+          "title_en": "Moscow was targeted by hundreds of drones as Kyiv fired its first ballistic missile of the war"
         },
         {
-          "title": "Farage says he wants to ‘hijack’ Trump’s ICE czar to help secure UK border",
-          "link": "https://www.theguardian.com/politics/2026/sep/20/farage-says-he-wants-to-hijack-trumps-ice-czar-to-help-secure-uk-border",
-          "pubDate": "2026-09-20T06:00:08.000Z",
-          "snippet": "Reform leader also tells US event Europe should have ‘more sensible view’ of president’s administration Nigel Farage has said he wants to “hijack” Donald Trump’s hardline ICE adviser and bring him to the UK “to secure our borders”. Speaking at an event in the US, the Reform UK le…",
+          "title": "Trump claims triumphal arch will serve as a ‘top grade military complex’ to store weapons",
+          "link": "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex",
+          "pubDate": "2026-09-20T13:26:23.000Z",
+          "snippet": "US president on Truth Social claims his new plan for the 250ft arch comes at the ‘strong request’ of the US military Donald Trump is proferring a new argument for building his triumphal arch in Washington DC: it will be converted into a “top grade military complex” replete with d…",
           "_priority": "ALTA",
-          "title_en": "Farage says he wants to “hijack” Trump’s ICE czar to help secure the UK border"
+          "title_en": "Trump claims the triumphal arch will serve as a “top-tier military complex” for storing weapons"
         },
         {
-          "title": "Chiltern Railways enters public ownership in Labour nationalisation push",
-          "link": "https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation",
-          "pubDate": "2026-09-20T06:00:08.000Z",
-          "snippet": "Operator that runs services between London Marylebone and Birmingham is sixth to be nationalised since 2025 Chiltern Railways has become the latest train operator to enter public ownership as the government closes in on its ambition to renationalise all major passenger rail servi…",
+          "title": "RNLI warns supporters their personal information may have been hacked",
+          "link": "https://www.theguardian.com/uk-news/2026/sep/20/rnli-warns-supporters-personal-information-hacked",
+          "pubDate": "2026-09-20T12:28:57.000Z",
+          "snippet": "Data raid comes amid targeting of lifeboat charity by far-right agitators who object to migrant boat rescues Supporters of the Royal National Lifeboat Institution (RNLI) have been warned that their personal information could have been stolen by hackers amid targeting of the chari…",
           "_priority": "ALTA",
-          "title_en": "Chiltern Railways Becomes Publicly Owned as Part of Labor's Nationalization Drive"
+          "title_en": "RNLI Warns Supporters That Their Personal Information May Have Been Hacked"
         },
         {
-          "title": "Why China is pushing back on US warnings over rapid AI development",
-          "link": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
-          "pubDate": "2026-09-20T06:00:09.000Z",
-          "snippet": "Beijing believes slowdown calls aim to lock in US advantage, and is pursuing a different balance between safety and pace About two years ago, education entrepreneur Boris But had what he calls a “penny-drop moment” – that, like countless others in China, his company needed to emb…",
+          "title": "Michelle Bachelet withdraws from race to become UN secretary general",
+          "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+          "pubDate": "2026-09-20T12:04:08.000Z",
+          "snippet": "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contest Michelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary general of the ⁠UN, ending an attempt ​that had…",
           "_priority": "ALTA",
-          "title_en": "Why China Is Pushing Back Against U.S. Warnings About Rapid AI Development"
+          "title_en": "Michelle Bachelet Withdraws from the Race to Become UN Secretary-General"
         },
         {
-          "title": "Thick smoke seen near Riyadh airport as Houthis claim attack on Saudi capital",
-          "link": "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
-          "pubDate": "2026-09-20T00:21:04.000Z",
-          "snippet": "Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in July Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke w…",
+          "title": "US environment agency let Bayer pick regulations for destructive weedkiller, documents show",
+          "link": "https://www.theguardian.com/us-news/2026/sep/20/epa-bayer-regulation-pesticide-dicamba",
+          "pubDate": "2026-09-20T12:00:14.000Z",
+          "snippet": "Environmental Protection Agency asked firm to choose rules it wanted for dicamba, then put the choices in a proposed federal rule The EPA allowed pesticide giant Bayer to pick from a menu of regulation options for the controversial and destructive weedkiller dicamba, newly releas…",
           "_priority": "ALTA",
-          "title_en": "Thick smoke was seen near the Riyadh airport as the Houthis claimed responsibility for an attack on the Saudi capital"
+          "title_en": "Documents Show U.S. Environmental Agency Let Bayer Choose Regulations for Destructive Weed Killer"
         },
         {
-          "title": "Israeli president pardons combat medic who shot dead wounded Palestinian attacker",
-          "link": "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
-          "pubDate": "2026-09-19T20:32:17.000Z",
-          "snippet": "Elor Azaria’s conviction in 2017 for manslaughter of man who stabbed soldier continues to divide country Israel’s president has pardoned a combat medic who shot dead a badly wounded Palestinian attacker who had stabbed a soldier in the occupied West Bank, in a case that divided t…",
+          "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU",
+          "link": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis",
+          "pubDate": "2026-09-20T11:00:14.000Z",
+          "snippet": "Rafael Moreno, whose company has opened demo plant in Brazil, says market is ‘nervous’ as Trump-Xi summit looms The head of a mining company hoping to supply the EU with rare earths in two years’ time has said it is “paramount” to end China’s stranglehold on the supply of the raw…",
           "_priority": "ALTA",
-          "title_en": "Israeli president pardons combat medic who shot and killed a wounded Palestinian attacker"
+          "title_en": "China’s stranglehold on rare earths must be ended, says a supplier hoping to supply the EU"
         }
       ]
     },
@@ -170,18 +170,18 @@
         {
           "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
           "link": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-          "pubDate": "2026-09-20T09:44:55.000Z",
+          "pubDate": "2026-09-20T12:25:09.000Z",
           "snippet": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia.",
           "_priority": "ALTA",
           "title_en": "Hundreds of Drones Target Moscow on the Final Day of the Russian Elections"
         },
         {
-          "title": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
-          "link": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
-          "pubDate": "2026-09-20T04:01:06.000Z",
-          "snippet": "Elections in eastern Germany on Sunday could galvanize the Alternative for Germany, an ascendant far-right party, or spur a backlash.",
+          "title": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+          "link": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+          "pubDate": "2026-09-20T11:14:55.000Z",
+          "snippet": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views.",
           "_priority": "ALTA",
-          "title_en": "Germans Are Voting Again, Amid a Rise in Far-Right Support. Here’s What to Watch."
+          "title_en": "Russia Banned Their Party, but These Anti-War Voices Are Still Standing"
         },
         {
           "title": "In Significant Escalation, Houthis Attack Saudi Capital",
@@ -189,31 +189,31 @@
           "pubDate": "2026-09-20T06:38:20.000Z",
           "snippet": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.",
           "_priority": "ALTA",
-          "title_en": "In a Significant Escalation, Houthis Attack Saudi Capital"
+          "title_en": "In a Significant Escalation, Houthis Attack the Saudi Capital"
+        },
+        {
+          "title": "Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch.",
+          "link": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+          "pubDate": "2026-09-20T04:01:06.000Z",
+          "snippet": "Elections in eastern Germany on Sunday could galvanize the Alternative for Germany, an ascendant far-right party, or spur a backlash.",
+          "_priority": "ALTA",
+          "title_en": "Germans Are Voting Again Amid a Far-Right Surge. Here’s What to Watch."
         },
         {
           "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
           "link": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
-          "pubDate": "2026-09-20T02:45:45.000Z",
+          "pubDate": "2026-09-20T02:45:46.000Z",
           "snippet": "In 2016, Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions.",
           "_priority": "ALTA",
           "title_en": "Israeli President Pardons Former Soldier for Killing an Unarmed Palestinian"
         },
         {
-          "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
-          "link": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html",
-          "pubDate": "2026-09-20T09:00:33.000Z",
-          "snippet": "The government is exploring nuclear power options to guard against global energy shocks. One proposal is to switch on a plant in Bataan that has been mothballed for 40 years.",
+          "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
+          "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+          "pubDate": "2026-09-19T20:35:27.000Z",
+          "snippet": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease.",
           "_priority": "ALTA",
-          "title_en": "An Unused and Controversial Philippine Nuclear Plant Awaits Its Fate"
-        },
-        {
-          "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
-          "link": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
-          "pubDate": "2026-09-20T04:01:07.000Z",
-          "snippet": "For more than five years, U Kyaw Moe Tun has refused to give up his United Nations post and a sandstone townhouse on the Upper East Side.",
-          "_priority": "ALTA",
-          "title_en": "A Diplomat From Myanmar Refuses to Give Up His Position in New York City"
+          "title_en": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump"
         }
       ]
     },
@@ -222,12 +222,36 @@
       "color": "green",
       "items": [
         {
+          "title": "Trump and sons invest heavily in AI economy as he resists calls for slowdown",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
+          "pubDate": "2026-09-20T13:32:09.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump and his sons are investing heavily in the AI economy as he resists calls to slow down"
+        },
+        {
+          "title": "Trump says planned arch will be ‘military complex’ for drones, snipers",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5",
+          "pubDate": "2026-09-20T12:57:14.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump says the planned arch will be a “military complex” for drones and snipers"
+        },
+        {
+          "title": "Houthis claim attacks on ‘sensitive sites’ in Saudi Arabian capital",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHpSeFVnRmFTZjBzbFhQc1VHSldpSUZvTkwyQnU0b0dmRVo3eEh5aGpMcnQzaHN5T3dKWkRpOXZQbEtSQlZUYk1TVDNhZkM1b21MWDhaNkQxWUdDZWhjY2puaW1adWRhMTVuU01zdXVZUUxqaF9veXNsVkRhaWI5aC11NUo5V0t6YVVMRmZKNUJKU0dyeWxzSXZFcjk3M1lCRVMxQ2tJRE5Wb3hO?oc=5",
+          "pubDate": "2026-09-20T03:32:13.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Houthis Claim Attacks on 'Sensitive Sites' in the Saudi Arabian Capital"
+        },
+        {
           "title": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWdwLUY4cGVyaDVQcXdGb1Rfa2J4X1VkQ2UyakVBQk5sbzMtTG1PZk1rMk9ZbHRXclA1ZlpveTlrLUQ5R0V5VUphbENyM29Bc0w4YlUxVVRyQk9DT1g0ZlY1S0d4a1hPVXVXWGVXRzFoWEt0Qi1iNGVCQ3JKWTRJV1UxU3dMTjZUZ2tabkVaRU9iR0xodjZaLU5iU2xlb1JsenpnQ2lqcl9CbzNXZURV?oc=5",
           "pubDate": "2026-09-20T02:13:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump to Form 'AI Force' and Appoint an AI Czar, but Rejects Calls for Restrictions"
+          "title_en": "Trump to form an “AI Force” and appoint an AI czar, but rejects calls for restrictions"
         },
         {
           "title": "As attacks choke off Saudi oil, kingdom confronts limits of Trump’s friendship",
@@ -238,36 +262,12 @@
           "title_en": "As attacks choke off Saudi oil, the kingdom faces the limits of Trump’s friendship"
         },
         {
-          "title": "Behind Trump’s public confidence, his private view of midterms is sobering",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONldrRFFUdklpQW5OdHV4RFZmemdxN3lER2x4ZFcxU01JSXA0QXRJMFlEbERMZXpta1JkYklDc1BHQ2FBS3VVVV9ETmgtMHYzQkg3UTdGMkJvay02dUp2S1FDQUlBR2ZuZzl3d3JwSlFpZlF2SnFmaU5Eb1NOSC1nWnZzUEFHU21OSWhidUFiNmlXV2c3SnBGYlZ6ay0tOVVXZHZiZnF5OEVvYkh2c3EwOFZVUkFpMlNn?oc=5",
-          "pubDate": "2026-09-19T16:00:00.000Z",
+          "title": "Secret contracts reveal undisclosed terms in Trump’s drug-pricing deals",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVFhT2dTR0Rzbi1aS2xxbFJESUtLSzN5QkVqckZrX0hEV19MTkgtUDY2LWdfZ1pSdW41clEtZm5oWUxIOGdkMU4tejM4UmhZeU11aWhfMWNoVHJsNGxsTGZ5cFJhQVp1eDV4aFg2Z3pHMDF4STlOQVJkcE42ejl4dDFHVXR2Snl5aGlHVFpGT2FHWDhkRDF3czhVTW1raTJzWkdFSmFBRlFpZDVhSnlSYTVsRjA3VWY3bG0w?oc=5",
+          "pubDate": "2026-09-19T17:00:01.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Behind Trump’s public confidence, his private view of the midterms is sobering"
-        },
-        {
-          "title": "White House budget chief pushes for scrutiny of NIH grants in Oval Office clash",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpsZGFHMnBjREg5Q0pUUFJNNE1VRjdPSXlXaVQ0TEJDUFIyQ1BQTjl5elNTa1pBUUMtdjZ3UDgtaGFZaDc5RHpoaEZXMU9aLTBWMXpCd0REUFhucHl0UnhyZk1IbnBQR0YyWE9FTGt5TG5LRnBoRGMzcFc0ZEVDNTEwN20yR1NnTjVwZEZ5Y2tfXzJPc3lteVZfM2VpYlJ5Z1BQZ0hn?oc=5",
-          "pubDate": "2026-09-19T06:19:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "White House Budget Director Calls for Scrutiny of NIH Grants in Oval Office Clash"
-        },
-        {
-          "title": "Anthropic picks consulting firm to monitor AI safety, pledges to spend $1 billion",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnN4LUdjc1JEOHpBaU9kc2hlb3BmX2Nmb1NodlYwbnZ0R1BlRWtxWld2cW1ZdWlMZnQwYWk3bGl0d0JlR3RuZU5PaTE3YkhmRm1JamZfcndhcWZCM3RlN1ZXb09qQ1RJUjRKSmFKS2lxNk9PMTZoR3lfMkVTOXVpaVdpY2JVX3k3N1hiSGREQ3ZtZFdudUkzYm9JLUdiZG1Bc05FSXZR?oc=5",
-          "pubDate": "2026-09-19T05:41:44.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Anthropic Selects Consulting Firm to Monitor AI Safety and Pledges to Spend $1 Billion"
-        },
-        {
-          "title": "Iran war cost is now at least $43.6 billion, U.S. Central Command says",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUG16UHBsYk50eWRFT2N1UFlyU3dqT1p4eGVEYUFuMUVBUlB3cm15UlY2d3pJVC1Pd0F4aDlOTWFHZ1oyQ1A5Q0pGRk9zWWo2XzRDTXZKb1ZxcVNQQkVOZnhGdzlVUG5PNy15TGJGNHplVXpaWTgxVHA3Ny1qZzIycXpqWHhPcFI4NWVGSS05bm9obzU3VjlJb21LXzVmRDNsTWFkZ19SRFdiQmladlZUNWdNdzBrSnYxVWdIb2VrSWc?oc=5",
-          "pubDate": "2026-09-19T04:33:34.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The cost of the war in Iran now stands at at least $43.6 billion, according to U.S. Central Command"
+          "title_en": "Secret contracts reveal undisclosed terms in Trump’s drug-pricing deals"
         }
       ]
     },
@@ -276,12 +276,20 @@
       "color": "lilac",
       "items": [
         {
-          "title": "Can the AI arms race be stopped? | September 19th 2026",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hY01iQ2kzUU1yRmF2NU1vQnlUSmNpWnBmYXJhdlRNRnNVN3ZHSlhJRWlNeHZmb0Y3aXBGNTNxVVZHVk5LcUdJa3VPcmFiMHFPME53NWkwUGlxLUVNS1pN?oc=5",
-          "pubDate": "2026-09-20T09:49:14.000Z",
+          "title": "House prices survived the last interest-rate rise. Will they this time?",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG4taEZVcXc0Ujc1d2RRbHd3NjZtMUxzMmRhRXpYUFg4bVdKci1Lc01lbzZGSkl6MmhlTFZIWXlfdkFOeFBSWC1mQ0FjTFhuM0F0UkVMNFBvVXlCNmNnT2tnUlUwMDBUWkRia2RJdEIxNkxFOHBvSEZFaXpkRjNBTWphNkhScFIzdEhrb1VUQlBVNmhWQ0FYV1JlanFCTG1uQ3gyTEJKNmx0bVI0cFNQakZkRU1EZEM4bE41em1zV0NkZ0I5ZEpn?oc=5",
+          "pubDate": "2026-09-20T09:05:41.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Can the AI Arms Race Be Stopped? | September 19, 2026"
+          "title_en": "House prices held up during the last interest rate hike. Will they do so this time?"
+        },
+        {
+          "title": "World in Brief: America and Denmark reach Greenland agreement; Trump bans press from White House",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUhhNXZqazBScDZLemhBdGNFdlRxRlQwNWJFS2NkZ0tNVWRGUDg5RDZrQXZGUE5HNUtIN1ROMEwzb0xROFZLejFtWHo5ZkF5UXdMekJ2aDlLaW51WTUxYk5jV05BZldPMmFqUVhDa1lRVl96c1dIcVJvM0FzV253OHhzU1ZSdGpRSlNjd1dWMnNqR0pDVnhr?oc=5",
+          "pubDate": "2026-09-20T03:59:13.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "World in Brief: The U.S. and Denmark Reach an Agreement on Greenland; Trump Bans the Press from the White House"
         },
         {
           "title": "Donald Trump drops demands to own Greenland, but the harm has been done",
@@ -290,6 +298,14 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Donald Trump drops his demands to own Greenland, but the damage has already been done"
+        },
+        {
+          "title": "Emmanuel Macron’s stern message to America",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEZVRWpMa1hBVjVuSEotc3dSYlZnT3U5ZHRnamp5emhTcW9UcERpTjBfUUp0Tk5JZlFMQ2NYZmNjVi1Bc01vUDR3dTJWWWlNeEpfTmh2aEZFSi0temtpbTZmUWhWQ0k0Wkl0MThLMmZOQl95cjhpUnhtMl9XcWVUVzJNdDVIbDRmYlNQN3hOYlN2WnBGdUhv?oc=5",
+          "pubDate": "2026-09-19T04:24:32.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Emmanuel Macron's stern message to America"
         },
         {
           "title": "Mark Carney hopes to redirect Canada’s economy around Donald Trump",
@@ -306,22 +322,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Will America's politicians do something about AI?"
-        },
-        {
-          "title": "Most countries need the UN more than ever—just not this UN",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzlXdW1lNl9iOGlDNGF5WG1DU3hOd3dvY05SN0RRYVUydXJLaXhfMllaM2V6bXpLUzhQd2swX1I2U09ad2JnZ2ZtblY5azRMRzZ6eE5Vdl82M2I1YlNHaWEwT0lmMnJXTFRVQ3p0YjI4X0pUcWVoUHp2aHlyM3ltQ0RPRktkYWgwamNaWU8zQUVlcFB0SHdRT09hUlVuWkJ5Z2dUa3lwZzdDS1NRYlE?oc=5",
-          "pubDate": "2026-09-18T10:11:36.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Most countries need the UN more than ever—just not this UN"
-        },
-        {
-          "title": "Drone truth: Russia has the upper hand",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2dIZC1vZzd0VlRXMVY2ZXdsZDJjUFhub1lFcWs0MEJJUjg3T29OWk5YVHJmeVJGZ0pFN1pwZ2hpSmtrWTRqRTBBbmVsamdEcWQxVENGR05GTlFTUDZYTERUeGpwMXo5MnpWdEdZYldNTVBiSEtGMVR0NW9RLVkyOFZieXBWcnlTR09F?oc=5",
-          "pubDate": "2026-09-18T10:04:10.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Drone Truth: Russia Has the Upper Hand"
         }
       ]
     },
@@ -351,7 +351,7 @@
           "pubDate": "2026-09-19T23:45:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "33 million Mexicans Participate in the Second National Drill 2026, According to the CNPC"
+          "title_en": "33 million Mexicans Participate in the Second National Drill 2026, Reports the CNPC"
         },
         {
           "title": "Embajador Johnson resalta incautación de 1.3 toneladas de metanfetamina en aduana de Tijuana",
@@ -359,7 +359,7 @@
           "pubDate": "2026-09-19T23:08:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Ambassador Johnson Highlights Seizure of 1.3 metric tons of Methamphetamine at Tijuana Customs"
+          "title_en": "Ambassador Johnson Highlights Seizure of 1.3 Metric Tons of Methamphetamine at Tijuana Customs"
         },
         {
           "title": "Caen 9 presuntos integrantes del Cártel de Sinaloa",
@@ -405,7 +405,7 @@
           "pubDate": "2026-09-19T01:25:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Appeals Court Halts Deportations from the U.S. to Third Countries"
+          "title_en": "Appeals Court Halts U.S. Deportations to Third Countries"
         },
         {
           "title": "Fiscalía pide al juez orden para proteger información telefónica y otras evidencias en caso de Maduro",
@@ -413,7 +413,7 @@
           "pubDate": "2026-09-18T23:40:22.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Prosecutor's Office Asks Judge for an Order to Protect Telephone Records and Other Evidence in the Maduro Case"
+          "title_en": "Prosecutors Ask Judge for an Order to Protect Telephone Records and Other Evidence in the Maduro Case"
         },
         {
           "title": "Costa Rica anuncia endurecimiento de voto en la ONU sobre embargo a Cuba",
@@ -421,7 +421,7 @@
           "pubDate": "2026-09-18T19:58:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Costa Rica Announces a Stronger Stance on the UN Vote Regarding the Embargo on Cuba"
+          "title_en": "Costa Rica Announces a Stronger Stance on the UN Vote on the Embargo Against Cuba"
         },
         {
           "title": "Costa Rica anuncia endurecimiento de su voto en la ONU sobre embargo a Cuba",
@@ -429,7 +429,7 @@
           "pubDate": "2026-09-18T19:58:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Costa Rica Announces a Harder Stance on Its UN Vote on the Embargo Against Cuba"
+          "title_en": "Costa Rica Announces a Tougher Stance on Its UN Vote Regarding the Embargo on Cuba"
         }
       ]
     }
