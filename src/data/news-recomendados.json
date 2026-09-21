@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T13:59:42.628Z",
+  "generatedAt": "2026-09-21T10:01:47.486Z",
   "outlets": [
     {
       "name": "InSight Crime",
@@ -24,7 +24,7 @@
           "link": "https://insightcrime.org/es/noticias/los-menores-mantienen-poder-rosario-pese-operativos-en-contra/",
           "pubDate": "2026-09-16T16:54:28.000Z",
           "snippet": "Los Menores se fortalecen pese a los operativos en Argentina Los Menores se han convertido en uno de los grupos criminales más poderosos de Rosario, la tercera ciudad más grande de Argentina. The post Los Menores se fortalecen pese a los operativos en Argentina appeared first on…",
-          "title_en": "Los Menores Grow Stronger Despite Raids in Argentina"
+          "title_en": "Los Menores Are Gaining Strength Despite Crackdowns in Argentina"
         },
         {
           "title": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora?",
@@ -65,7 +65,7 @@
           "link": "https://www.crisisgroup.org/how-we-work/events/houthis-advance-bab-al-mandab-has-yemens-war-returned",
           "pubDate": "2026-09-16T15:32:49.000Z",
           "snippet": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned? eschelhaas Wed, 09/16/2026 - 17:32 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Online Event Tuesday, 22 S…",
-          "title_en": "The Houthis’ Advance on Bab al-Mandab: Has the War in Yemen Returned?"
+          "title_en": "The Houthis’ Advance to Bab al-Mandab: Has the War in Yemen Returned?"
         },
         {
           "title": "Special Episode: Will the Houthis Shut Down the Bab al-Mandab Strait?",
@@ -93,7 +93,7 @@
           "link": "https://www.crisisgroup.org/pod/europe/nuclear-deterrence-europe-and-another-round-us-ukraine-russia-diplomacy",
           "pubDate": "2026-09-11T14:59:58.000Z",
           "snippet": "Nuclear Deterrence in Europe (and another round of U.S. Ukraine-Russia diplomacy) hschaub Fri, 09/11/2026 - 16:59 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Eu…",
-          "title_en": "Nuclear Deterrence in Europe (and another round of U.S. diplomacy regarding Ukraine and Russia)"
+          "title_en": "Nuclear Deterrence in Europe (and Another Round of U.S. Diplomacy on Ukraine and Russia)"
         }
       ]
     },
@@ -101,6 +101,20 @@
       "name": "World Economic Forum",
       "color": "yellow",
       "items": [
+        {
+          "title": "Event Details - Arusha Hub",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2JaYjh3VzFfcy1vazZKUkdfbGVsWTFWZUl3WnlMcnk4Qkp5YzUtendpc3g3VGZBTkw3am1mOEt3OXljMm1ISXRRRTRXOVJjSjRrLUJYbU1lVmZZQlZhWjNaazJRS3V5d01jS2tMNVlJQ296UWFvWEEyMGlYZXA2U20xXzdpUTZqdVBXR0UtVVlHYjBSd091aTBQcWtxaHZDaVRQSUZxQ195bWJNWjhJZ3VB?oc=5",
+          "pubDate": "2026-09-19T13:10:07.000Z",
+          "snippet": null,
+          "title_en": "Event Details - Arusha Hub"
+        },
+        {
+          "title": "Trump-Xi summit: What to expect from the Washington meeting",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekdiTDRQdmtNd2NWY291bkNDZ2c0TnM0U3NfTlNUcXpGbXFMNHVyVXk1RWFsLU1TUVBlWF9BS2Ztd0tCY2hFZXQwWTYzS0l2S3FvMmZwLXVKN3lXWlRETnU3b0tsWTlLdFBMMkc2OVRCR1lZUDkzYlZzYmhuRThwVkl6ZzBjak1NSE1kempJWDlWNG16RnlxcV85cEFld2ZBODJqT1JfazcwWHRlTzVZUGJVRQ?oc=5",
+          "pubDate": "2026-09-18T12:35:28.000Z",
+          "snippet": null,
+          "title_en": "Trump-Xi Summit: What to Expect from the Washington Meeting"
+        },
         {
           "title": "Risk Management, Reimagined: Outlook to 2035",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMnJMRjFyWmJ2VFVDWjRMN3puUlVKUHBUc2JPcTJROUpIby1rekhnZ25rdEhvMGxWYUY3TVNKemhFNHNKT1BfNmZUcUpzNTdCWWVVRW5Fc3h2Vl96U000YUJKSlFoSEtibmUwVTBRanZ5dEFlWFprNzF6X1BzTWphQThYMnpMdw?oc=5",
@@ -116,32 +130,18 @@
           "title_en": "Global Gender Gap Report Media Briefing 2026"
         },
         {
-          "title": "Institutional Lessons from the Malaysian Palm Oil Board for Strengthening Indonesia's Palm Oil Governance",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSElrRjIzaTA2MTFDVHU5WU9zaTE4VlRpalNfQ2Z2RFljNUJpWjlMaGtHWnhuU1RiQUVWX3NlRVMxSl91bUttWmpkNk42WW15b19BdkpoQ2hvZXBkaTlBOU5UaE9hSkMxQnJlQnlPVHpFUEN0TmlPRUtSUWNNUTBxV0tzSHAwa2dwdVBSTnZTSnZRZXpHSHBiRklHZTdXS18zbmQzV2p6SHhGRWQxTEdwc2p4SWlPcWEwR2d0T0pKS1gxZDUyc2hxRWNoQlFBQ1JtWnRkY2cxTE4?oc=5",
-          "pubDate": "2026-09-15T11:37:19.000Z",
+          "title": "Why The Pink Tax Makes It More Expensive To Be A Women",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pdVNiZlIydlJJaGE0c2hVRy1MSFRpczFUTEkydk9LMVZTd2RlaUtGVzVfbF9ZX2dBcmpsenVOOWVleUFpcm54bF91WENDZURUTjNZeFRoajkyYWMxb1oybXFuM3dUS1pyY0d1OVJFWHY?oc=5",
+          "pubDate": "2026-09-16T08:00:00.000Z",
           "snippet": null,
-          "title_en": "Institutional Lessons from the Malaysian Palm Oil Board for Strengthening Indonesia's Palm Oil Governance"
+          "title_en": "Why the Pink Tax Makes It More Expensive to Be a Woman"
         },
         {
-          "title": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN2tWMGtGZF95RkQxTGdfSlVYQzVXc0tIaXNhTFdUTkx6ZUU5NmJqUERCZTBfdUR3dFRnUFpheGw1VUhncXR2Vncza0RzS0hScnlaUkZlOXdVckExMU11UGd1Y2NZNHJnYXBENEZzVmtialZ2ZnNPLXktWWNJXzR2alRYTTBQQ3lwSUlrbXlRbnlfajFFMjZ4TV90NUliTnN4SFJfVWQ0ZTAyM2k2WXQyc2E5UGZvMThMT1kwS0ttakxSdXpNV0QzUWF3OTdHV283WldXWVZn?oc=5",
-          "pubDate": "2026-09-15T11:35:52.000Z",
+          "title": "Agenda Dialogues: Mind the Gender Gap - Delivering an Equal Economic Recovery",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHlWVHMybFAtVFd1RmdvWV9PMW9wNFJneUhGWmxldkNVUk9kVGtuTXR5Ylhyckl4M2s4cEdmN3JJM2ZFWV9TRUpCTllLUVFoc1RJYUFKT2FNQkRBdWZXS2VSV1IwRUYtZXJIYnVvYnU5ZXJ5OXRpRi1RUWFRYm9yTUl0SGNQdFVOSThfaGZTQ0ZsWHI5RnE0cWIxR0YwZ21icFVUb0d2cno?oc=5",
+          "pubDate": "2026-09-16T08:00:00.000Z",
           "snippet": null,
-          "title_en": "The New Global Security Stakeholders: How Public-Private Cooperation Can Advance Security and Stability"
-        },
-        {
-          "title": "Global Risks Report Launch 2024",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jcGtZcnJmLVg4bDREaFRHM25PTzBPTFJvS3dGRTlLLTktclB3Z2ZnSnRzcUREMkJBZVNjZnNpUWMwakJGQ0ZZOFNXdnhkZUJVSkNQTG1Ra3hKOHRLUjQ0Qy1MN2VFbVRPaEhUdzFCMjVkTU1nZGozVQ?oc=5",
-          "pubDate": "2026-09-15T11:00:00.000Z",
-          "snippet": null,
-          "title_en": "2024 Global Risks Report Launch"
-        },
-        {
-          "title": "ASEAN Digital Economy Outlook 2026",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3YlhjZ3ExMEJyOFB4MFJJV2duZUlCSjJkUUdpa3FGRUx2cU54SU1lRHBYYXJOZDdxc240SXNQRjZ1VTlqeEhoYzZMS1FFVFdEQm9IOXMybHZYUkMxVFNTcS1pZjMxanVjX3NkUFVmOUFyaFZ3eWNEaWVxVQ?oc=5",
-          "pubDate": "2026-09-14T22:38:31.000Z",
-          "snippet": null,
-          "title_en": "ASEAN Digital Economy Outlook 2026"
+          "title_en": "Agenda Dialogues: Mind the Gender Gap - Delivering an Equal Economic Recovery"
         }
       ]
     }
