@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:01:47.486Z",
+  "generatedAt": "2026-09-21T16:16:27.518Z",
   "outlets": [
     {
       "name": "InSight Crime",
@@ -24,7 +24,7 @@
           "link": "https://insightcrime.org/es/noticias/los-menores-mantienen-poder-rosario-pese-operativos-en-contra/",
           "pubDate": "2026-09-16T16:54:28.000Z",
           "snippet": "Los Menores se fortalecen pese a los operativos en Argentina Los Menores se han convertido en uno de los grupos criminales más poderosos de Rosario, la tercera ciudad más grande de Argentina. The post Los Menores se fortalecen pese a los operativos en Argentina appeared first on…",
-          "title_en": "Los Menores Are Gaining Strength Despite Crackdowns in Argentina"
+          "title_en": "Los Menores Are Growing Stronger Despite the Crackdowns in Argentina"
         },
         {
           "title": "The InSight Take | La Paz Total de Colombia: ¿qué salió mal y qué viene ahora?",
@@ -102,18 +102,32 @@
       "color": "yellow",
       "items": [
         {
+          "title": "The Role of Start-Ups in AI-Enabled Supply Chain Resilience",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWtLM25tSnUtbTZjNGFuOE1zeHcwQ2pUS1BzQTJLU3ZYTzBXcGRQU1dmS1FQdU1NYy1pWlRXSGpxX2xuQTMySUtHZEFpaXh3ZUdpZnY2OHVzbVptVlpvZjQ3ZlFaaDFFeWExalItQnBENjVmcGFQdC1RRms3M2FkUEZJRDhxWGdqNEJfWUpDbWNwcHZ1RTFtWk91ZXk?oc=5",
+          "pubDate": "2026-09-21T11:38:03.000Z",
+          "snippet": null,
+          "title_en": "The Role of Start-Ups in AI-Enabled Supply Chain Resilience"
+        },
+        {
+          "title": "Mediterranean Foresight: Shaping Europe’s Future Value Chains",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMW9NRUVHZHhSbXQxaURwU0hhVUJnTmx5OTlKS2hQQVpIaHRFbnFOdWZjbUhnUW10VE91eWVQb25xQjdvSFJhdWpxai0zOWRvd2xlLTZTckNRZ0pVbjVkbXNsQXF5VjRXa3hIM1RHR2NqUENtM1FXdFFiTkZKYmY5Z2R1TXkxSDEzTWNkcnRsaGhlYmFjRHRkTDJnUi1NUQ?oc=5",
+          "pubDate": "2026-09-21T09:18:26.000Z",
+          "snippet": null,
+          "title_en": "Mediterranean Foresight: Shaping Europe’s Future Value Chains"
+        },
+        {
+          "title": "Data Centre Sustainability and Resilience: A Decision Playbook for AI Infrastructure",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVndDbUlXS1VRT3JLaHBpV0paaEJjSWMxclhhYThEYmJCNGJHNGZwdWZ1TUYxVDNOUHY3NWJKLVNjSDlzaEZXbFIyZ3VGa3VXdzVJVUw5eUdJMW9iZXVsTlNJaGdUY0pwcVh1d0I3ZXpWcGNVYmkxWWxaOUsyQi0zTXZIQllheElGQTBpRzFFWkVtdjR5R3hXd3UtbU4tRkxyT0IyZWljcDdyb0VIRnlCbmdUUzJfM2psQ1NhOA?oc=5",
+          "pubDate": "2026-09-21T07:39:19.000Z",
+          "snippet": null,
+          "title_en": "Data Center Sustainability and Resilience: A Decision Playbook for AI Infrastructure"
+        },
+        {
           "title": "Event Details - Arusha Hub",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2JaYjh3VzFfcy1vazZKUkdfbGVsWTFWZUl3WnlMcnk4Qkp5YzUtendpc3g3VGZBTkw3am1mOEt3OXljMm1ISXRRRTRXOVJjSjRrLUJYbU1lVmZZQlZhWjNaazJRS3V5d01jS2tMNVlJQ296UWFvWEEyMGlYZXA2U20xXzdpUTZqdVBXR0UtVVlHYjBSd091aTBQcWtxaHZDaVRQSUZxQ195bWJNWjhJZ3VB?oc=5",
           "pubDate": "2026-09-19T13:10:07.000Z",
           "snippet": null,
           "title_en": "Event Details - Arusha Hub"
-        },
-        {
-          "title": "Trump-Xi summit: What to expect from the Washington meeting",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekdiTDRQdmtNd2NWY291bkNDZ2c0TnM0U3NfTlNUcXpGbXFMNHVyVXk1RWFsLU1TUVBlWF9BS2Ztd0tCY2hFZXQwWTYzS0l2S3FvMmZwLXVKN3lXWlRETnU3b0tsWTlLdFBMMkc2OVRCR1lZUDkzYlZzYmhuRThwVkl6ZzBjak1NSE1kempJWDlWNG16RnlxcV85cEFld2ZBODJqT1JfazcwWHRlTzVZUGJVRQ?oc=5",
-          "pubDate": "2026-09-18T12:35:28.000Z",
-          "snippet": null,
-          "title_en": "Trump-Xi Summit: What to Expect from the Washington Meeting"
         },
         {
           "title": "Risk Management, Reimagined: Outlook to 2035",
@@ -123,25 +137,11 @@
           "title_en": "Risk Management, Reimagined: Outlook Through 2035"
         },
         {
-          "title": "Global Gender Gap Report Media Briefing 2026",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2VVVTVjckYwaE04cl83aGc3UjJhMFBwRWhtaGRJMlBYZDFLR2dzT2Fqa3RIME1oNWJCZGl3QWxkNVR1dld4TE1UX1RtdGxVaTNYUDQ1ZTNmNUF6QjFVRk9hQzJncHJ0SDBTZ2RPNE01VmdtcmJlV2l0RVcwRHN0UUVFUDZ4dkRweHFWLVJWdnloZHo4VE8yd19rckQ2T1BRTkpnRVlpLXdkNlNyaXBaTG9Uc3hya3hqQWVPTFRZWEJsclFFLV9IZXRaOA?oc=5",
-          "pubDate": "2026-09-16T08:00:00.000Z",
-          "snippet": null,
-          "title_en": "Global Gender Gap Report Media Briefing 2026"
-        },
-        {
           "title": "Why The Pink Tax Makes It More Expensive To Be A Women",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pdVNiZlIydlJJaGE0c2hVRy1MSFRpczFUTEkydk9LMVZTd2RlaUtGVzVfbF9ZX2dBcmpsenVOOWVleUFpcm54bF91WENDZURUTjNZeFRoajkyYWMxb1oybXFuM3dUS1pyY0d1OVJFWHY?oc=5",
           "pubDate": "2026-09-16T08:00:00.000Z",
           "snippet": null,
           "title_en": "Why the Pink Tax Makes It More Expensive to Be a Woman"
-        },
-        {
-          "title": "Agenda Dialogues: Mind the Gender Gap - Delivering an Equal Economic Recovery",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHlWVHMybFAtVFd1RmdvWV9PMW9wNFJneUhGWmxldkNVUk9kVGtuTXR5Ylhyckl4M2s4cEdmN3JJM2ZFWV9TRUpCTllLUVFoc1RJYUFKT2FNQkRBdWZXS2VSV1IwRUYtZXJIYnVvYnU5ZXJ5OXRpRi1RUWFRYm9yTUl0SGNQdFVOSThfaGZTQ0ZsWHI5RnE0cWIxR0YwZ21icFVUb0d2cno?oc=5",
-          "pubDate": "2026-09-16T08:00:00.000Z",
-          "snippet": null,
-          "title_en": "Agenda Dialogues: Mind the Gender Gap - Delivering an Equal Economic Recovery"
         }
       ]
     }
