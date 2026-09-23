@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:01:48.567Z",
+  "generatedAt": "2026-09-23T14:45:11.033Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -12,14 +12,14 @@
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
-      "title": "Estoicismo Filosofia",
-      "host": "Estoicismo Filosofia",
-      "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
-    },
-    {
       "title": "Durmiendo",
       "host": "Dudas Media",
       "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+    },
+    {
+      "title": "Estoicismo Filosofia",
+      "host": "Estoicismo Filosofia",
+      "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
       "title": "365 con Dios",
@@ -49,9 +49,9 @@
       "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
     },
     {
-      "title": "Pod Save America",
-      "host": "Pod Save America",
-      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
+      "title": "The Joe Rogan Experience",
+      "host": "Joe Rogan",
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     }
   ]
 }
