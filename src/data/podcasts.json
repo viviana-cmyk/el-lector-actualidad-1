@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T14:45:11.033Z",
+  "generatedAt": "2026-09-24T10:04:18.276Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -12,6 +12,11 @@
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
+      "title": "365 con Dios",
+      "host": "Wenddy Neciosup | Genuina Media",
+      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
+    },
+    {
       "title": "Durmiendo",
       "host": "Dudas Media",
       "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
@@ -20,11 +25,6 @@
       "title": "Estoicismo Filosofia",
       "host": "Estoicismo Filosofia",
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
-    },
-    {
-      "title": "365 con Dios",
-      "host": "Wenddy Neciosup | Genuina Media",
-      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
     }
   ],
   "mundo": [
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     },
     {
-      "title": "REAL AF with Andy Frisella",
-      "host": "Andy Frisella",
-      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
-    },
-    {
       "title": "The Joe Rogan Experience",
       "host": "Joe Rogan",
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+    },
+    {
+      "title": "Pardon My Take",
+      "host": "Barstool Sports",
+      "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
     }
   ]
 }
