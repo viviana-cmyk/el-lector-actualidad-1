@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:04:18.276Z",
+  "generatedAt": "2026-09-24T14:41:09.019Z",
   "outlets": [
     {
       "name": "InSight Crime",
@@ -31,14 +31,14 @@
           "link": "https://insightcrime.org/es/noticias/los-tiguerones-ee-uu-designa-terrorista-a-grupo-criminal-que-se-fragmenta-ecuador/",
           "pubDate": "2026-09-18T17:42:42.000Z",
           "snippet": "Los Tiguerones: EE.UU. designa como terrorista a un grupo criminal que se fragmenta en Ecuador EE.UU. designó a Los Tiguerones como organización terrorista en medio de su fragmentación y la pérdida de territorio frente a grupos rivales en Ecuador. The post Los Tiguerones: EE.UU.…",
-          "title_en": "Los Tiguerones: U.S. Designates a Criminal Group That Has Fragmented in Ecuador as a Terrorist Organization"
+          "title_en": "Los Tiguerones: U.S. Designates a Criminal Group That Is Fragmenting in Ecuador as a Terrorist Organization"
         },
         {
           "title": "On The Radar | EE. UU. saca a Venezuela de su lista negra antidrogas. Colombia podría ser la próxima",
           "link": "https://insightcrime.org/es/noticias/on-the-radar-ee-uu-saca-venezuela-de-lista-negra-antidrogas-colombia-podria-ser-proxima/",
           "pubDate": "2026-09-17T18:39:46.000Z",
           "snippet": "On The Radar | EE. UU. saca a Venezuela de su lista negra antidrogas. Colombia podría ser la próxima Esta semana en On The Radar, analizamos por qué Estados Unidos retiró a Venezuela de su lista de países que incumplen sus compromisos antidrogas, cómo la declaración de culpabilid…",
-          "title_en": "On The Radar | U.S. Removes Venezuela from Its Anti-Drug Blacklist. Colombia Could Be Next"
+          "title_en": "On The Radar | The U.S. Removes Venezuela from Its Anti-Drug Blacklist. Colombia Could Be Next"
         },
         {
           "title": "Los Menores se fortalecen pese a los operativos en Argentina",
@@ -100,7 +100,50 @@
     {
       "name": "World Economic Forum",
       "color": "yellow",
-      "items": []
+      "items": [
+        {
+          "title": "Autonomous Vehicles: From Regulatory Diversity to Shared Learning",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2k5cjJhNWRWa1VPUURSQTlYRlJ4RFIzYlBEaHdGTEoyTVZuUDlZSVlWcDJuWUg3MnRZRXRPc1ZOWGhLaVBiUFRUTnZacFR4b28xYlFqNmpLYzJ6OGoyVlVEeFZBejB4UVpxeDRlN1BTUUZ0eGhLMTRWS3V4bjVpTnNscFNnbE04UDNtSWsyWUtHZkxKcEozMzNvcnB3Z0cwVXo0?oc=5",
+          "pubDate": "2026-09-24T04:38:54.000Z",
+          "snippet": null,
+          "title_en": "Autonomous Vehicles: From Regulatory Diversity to Shared Learning"
+        },
+        {
+          "title": "Estos son los 10 países con mayor igualdad de género del mundo",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEp6Z3djVUx5TC03cEk2STVoU2RpMGN3eVRUclB1Nzh4UGNUNFRSVmJpX21QOUpVMlo4V2U4NzJhcF9JUmlyckwySU8wcDZTMHNheG1wMzg3Y1VaZHFLT3Fybkk5amFUQkhRT2JFYmZfd28wdWYzaENBYlVOcVFwWF93MzRSYTVNQ29EcDdiWmgyT1BqSDFwSw?oc=5",
+          "pubDate": "2026-09-23T17:31:45.000Z",
+          "snippet": null,
+          "title_en": "These are the 10 countries with the highest levels of gender equality in the world"
+        },
+        {
+          "title": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTh5RGJNeVFTeEtjWDBnSzV0cXFnUm5vMTA0eGhsc3NtTXpTWU1abGxJU0ljekIwOE9rVndvU0tKRUVudjRzUjZGakFYTExNZDhjQU0ySklIVHNsVDJBNHFQMDZXeVNMcUhIOHRzbWV3SzhzOTFvcGQwM1A0N0xPVE9nQlBCcXdyMkZ3c1I4NXFXSWtjY3lrN0oxV2pxRTJNTm5xTHJtV0tQQ2NNc2w5R2E5OFNzdGhVQUFKY21wYjNEZDQ?oc=5",
+          "pubDate": "2026-09-23T10:42:48.000Z",
+          "snippet": null,
+          "title_en": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing"
+        },
+        {
+          "title": "Jeddah Hub - YOUTH2030",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWEJjTURjSmZpa1JhM2YyWlNfeF8zVFpMN2FHTktVcHE3VXhWUV9CREVrUDZCcUFHYlZrNlZGcEF3SzJwX2ZSeVBHNm5wYjhuZVRISGo4eEhaN0o4Y2NXRjhuSWFIVWRaeEJWOXpaczF1STJnQmJSTGY5T2RNQkxjTjBiT3VnZHdBSEJzQ1F3?oc=5",
+          "pubDate": "2026-09-23T04:45:28.000Z",
+          "snippet": null,
+          "title_en": "Jeddah Hub - YOUTH2030"
+        },
+        {
+          "title": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzREU3RtU1ZRV01sNEhOUm1XUzY1VndiSXVtLVJXNEVEa1Z1ekdWSHhoSXd1WmxYWEpyXzE4RWJYTFZrTWhDTXpJcm12REp2OHJxRHhFcG4xUVdnNU5fRW42VjhmLTVSV00zd3pQak1YLU5fTTZQaWoyT09TN0JYNUtqQXNlVUE1ZnF5Z1ZxRlFsOHozRkVtZGdmeGV6TGpNRUwyMEdTa1h6Z3ZQa3JNMw?oc=5",
+          "pubDate": "2026-09-23T04:24:43.000Z",
+          "snippet": null,
+          "title_en": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience"
+        },
+        {
+          "title": "Chief Economists' Outlook: September 2026",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUw2bnJGZHcxUGZUcU9tNmI3Vks5VHh0LVk3VVFDU0xGWmhDbVVCekRGQ2FWTm5aSDhpYjkxZzRTOGFTa20zTi1yQWZRZFJoQndoM2Nkc3FXYmtZR19LMHMzbGlEdS1xc3Y1TWZVbHE2UVczcnZNcFRrNy1fa3BaTENR?oc=5",
+          "pubDate": "2026-09-22T11:30:03.000Z",
+          "snippet": null,
+          "title_en": "Chief Economists' Outlook: September 2026"
+        }
+      ]
     }
   ]
 }

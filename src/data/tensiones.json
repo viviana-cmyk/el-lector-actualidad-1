@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-17T10:01:57.822Z",
+  "generatedAt": "2026-09-24T14:41:16.513Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Crisis migratoria y soberanía en Ceuta",
-      "titulo_en": "Migration Crisis and Sovereignty in Ceuta",
-      "region": "Norte de África / España",
+      "titulo": "Conflicto Israel-Palestina y Crisis Humanitaria en Gaza",
+      "titulo_en": "Israel-Palestine Conflict and Gaza Humanitarian Crisis",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Crisis en Ceuta y actualidad política, en directo | Feijóo pide a Europa \"reconocer el fracaso del Gobierno de España\" en Ceuta",
-        "link": "https://elpais.com/espana/2026-09-17/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
+        "titulo": "Abbas acusa a Israel de limpieza étnica: 'Es un plan colonial maligno cuyo objetivo es hacer imposible la vida de los palestinos'",
+        "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
         "fuente": "El País"
       },
-      "analisis": "La acumulación de migrantes en Ceuta refleja un colapso de coordinación europea y control fronterizo, con acusaciones cruzadas entre gobiernos sobre responsabilidades. La situación escaló con denuncias de sabotaje a operaciones de traslado, evidenciando tensiones internas españolas mientras la UE cuestiona la gestión del fenómeno migratorio en sus fronteras exteriores.",
-      "analisis_en": "The accumulation of migrants in Ceuta reflects a collapse of European coordination and border control, with cross-accusations between governments over responsibilities. The situation escalated with allegations of sabotage to relocation operations, evidencing internal Spanish tensions while the EU questions the management of the migration phenomenon at its external borders."
+      "analisis": "El presidente palestino Abbas escaló retóricamente el conflicto en la Asamblea General de la ONU acusando a Israel de limpieza étnica, mientras la economía israelí prospera según reportes económicos paralelos, evidenciando una desconexión total entre ambas narrativas. Esta polarización extrema en foros internacionales bloquea cualquier vía de negociación y consolida posiciones irreconciliables que amenazan la estabilidad regional a largo plazo.",
+      "analisis_en": "Palestinian President Abbas escalated rhetoric at the UN General Assembly by accusing Israel of ethnic cleansing, while Israeli war economy reports show economic prosperity, evidencing a complete disconnect between both narratives. This extreme polarization in international forums blocks any negotiation pathway and consolidates irreconcilable positions that threaten long-term regional stability."
     },
     {
       "rank": 2,
-      "titulo": "Escalada de tensiones entre Irán y Estados Unidos",
-      "titulo_en": "Iran-United States Escalation",
-      "region": "Oriente Medio",
+      "titulo": "Crisis Constitucional en Estados Unidos: Enfrentamiento Ejecutivo-Judicial sobre Libertad de Prensa",
+      "titulo_en": "Constitutional Crisis in the United States: Executive-Judicial Confrontation over Press Freedom",
+      "region": "América del Norte",
       "noticia": {
-        "titulo": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-        "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-        "fuente": "The Guardian"
+        "titulo": "Trump impide a periodistas de CNN, Politico y MS NOW acceder a la Casa Blanca pese a que un juez levantó el veto",
+        "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html",
+        "fuente": "El País"
       },
-      "analisis": "Un informe de la ONU atribuye un bombardeo en una escuela iranî a operaciones estadounidenses, mientras reportes paralelos documentan daños extensos en bases militares estadounidenses en la región por ataques iranís. Esta secuencia de acusaciones y represalias representa un punto de inflexión crítico en la confrontación regional que podría desestabilizar el equilibrio de poder en Oriente Medio.",
-      "analisis_en": "A UN report attributes a bombing at an Iranian school to US operations, while parallel reports document extensive damage at US military bases in the region from Iranian attacks. This sequence of accusations and reprisals represents a critical turning point in regional confrontation that could destabilize the balance of power in the Middle East."
+      "analisis": "La administración Trump desacata una orden judicial que ordena restablecer el acceso de medios de comunicación críticos a la Casa Blanca, generando un conflicto directo entre poderes ejecutivo y judicial que erosiona los fundamentos constitucionales estadounidenses. Esta confrontación presagia posibles crisis institucionales mayores y debilita la credibilidad democrática de Estados Unidos en el escenario internacional.",
+      "analisis_en": "The Trump administration defies a judicial order to restore access for critical media outlets to the White House, generating direct conflict between executive and judicial powers that erodes US constitutional foundations. This confrontation foreshadows potential major institutional crises and weakens US democratic credibility on the international stage."
     },
     {
       "rank": 3,
-      "titulo": "Amenazas comerciales de Trump contra la UE y alianzas OTAN",
-      "titulo_en": "Trump's Trade Threats Against EU and NATO Alliances",
-      "region": "Atlántico Norte / Europa",
+      "titulo": "Escalada Militar Regional en el Cuerno de África: Conflicto Tigray-Etiopía",
+      "titulo_en": "Regional Military Escalation in the Horn of Africa: Tigray-Ethiopia Conflict",
+      "region": "África Oriental",
       "noticia": {
-        "titulo": "Trump threatens to stop trading with EU over 'laughable' membership offer to Canada",
-        "link": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+        "titulo": "Fears of return to war as Tigray rebels launch offensive against Ethiopian army",
+        "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
         "fuente": "The Guardian"
       },
-      "analisis": "Trump amenaza con represalias comerciales contra la UE por su oferta de membresía asociada a Canadá, reflejando una ruptura en la retórica occidental tradicional y el unilateralismo estadounidense en cuestiones comerciales. Estas amenazas colocan bajo presión la cohesión atlántica y las estructuras de alianza que han sostenido el orden internacional de posguerra.",
-      "analisis_en": "Trump threatens trade reprisals against the EU over its associate membership offer to Canada, reflecting a rupture in traditional Western rhetoric and US unilateralism on commercial matters. These threats place strain on Atlantic cohesion and alliance structures that have sustained the postwar international order."
+      "analisis": "Los rebeldes de Tigray han lanzado una ofensiva militar contra el ejército etíope después de un período de relativa calma, indicando el colapso de cualquier acuerdo de cese al fuego y el resurgimiento de un conflicto que ya causó decenas de miles de muertos. Esta reanudación de hostilidades amenaza con desestabilizar toda la región del Cuerno de África y potencialmente generar nuevas crisis humanitarias de gran escala.",
+      "analisis_en": "Tigray rebels have launched a military offensive against the Ethiopian army after a period of relative calm, indicating the collapse of any ceasefire agreement and the resurgence of a conflict that already caused tens of thousands of deaths. This resumption of hostilities threatens to destabilize the entire Horn of Africa region and potentially generate large-scale humanitarian crises."
     }
   ]
 }
