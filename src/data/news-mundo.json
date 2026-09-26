@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-26T10:01:45.467Z",
+  "generatedAt": "2026-09-26T14:12:05.330Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "De la promesa de Delcy Rodríguez a las tensiones con Trump: los hitos para América Latina en la Asamblea General de la ONU",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXduR212WDBncXB1R3BneEhHUWNZWFVGNU03ZzFtcTdPNmt0SGRtRlJuMmJkSWpsSk12QUU0SWNzWUwwN3pXQzVVUXlCOUNac1lYTTZCQWVIbkljODFneFkxV2tqZkd4OHBQS0oyUWZYbDNfUnl1S20tR3BsXzcxaG5KcTI5NnlTVG9hSFkwV2RHR040ZGJmQ0RKc3c5b3lwQXNfekVTbjlwUE5KblQ0Sw?oc=5",
-          "pubDate": "2026-09-26T00:05:00.000Z",
+          "title": "Un dron ruso impacta contra una oficina en Kyiv",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2F5QzNoZ20tdEdQMUVIc08zdzJtZUpVY092NE5NdC1zRnpSM0FhQVB2dDgzLWdjRnNYdVYzdXJZN1dnVnQxMk9BZXpZMGM2M1dmc25OTUw0Y1dRTXpiRnNRUC1tcWJYY3MzSnZhOXkzMUNURURoU0tnOE5XbmdOZXY2MXRnM185Qmw2OXZB?oc=5",
+          "pubDate": "2026-09-26T12:12:39.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "From Delcy Rodríguez’s Pledge to Tensions with Trump: Milestones for Latin America at the UN General Assembly"
+          "title_en": "A Russian drone crashes into an office in Kyiv"
         },
         {
           "title": "Canciller de Irán afirma que la decisión sobre el \"plan de siete días\" para reabrir el estrecho de Ormuz \"recae en EE.UU.\"",
@@ -22,12 +22,20 @@
           "title_en": "Iran's Foreign Minister says the decision on the \"seven-day plan\" to reopen the Strait of Hormuz \"is up to the U.S.\""
         },
         {
-          "title": "Victoria para Trump: Corte Suprema reactiva herramienta sobre datos de ciudadanía para auditorías de votantes",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzRoTXhSekNEYk9ocTBZdFVITVJqNHhBUGtlYmdLczVGWjZnOFZ0V2JaYlNmbVdMSDVVQlFzM0Z4V0JmQjlDUW1HRmY2MUItcUd5VjRpd0FXTTJneUZrQXNwcEpyME1yTkJmUGpBVTlwQV9FTlcyV2h1dG1IX00tbHdJVlBmYlBOUko2VU5EM0pNbFA5SWVyTA?oc=5",
-          "pubDate": "2026-09-25T19:53:00.000Z",
+          "title": "De la promesa de Delcy Rodríguez a las tensiones con Trump: los hitos para América Latina en la Asamblea General de la ONU",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXduR212WDBncXB1R3BneEhHUWNZWFVGNU03ZzFtcTdPNmt0SGRtRlJuMmJkSWpsSk12QUU0SWNzWUwwN3pXQzVVUXlCOUNac1lYTTZCQWVIbkljODFneFkxV2tqZkd4OHBQS0oyUWZYbDNfUnl1S20tR3BsXzcxaG5KcTI5NnlTVG9hSFkwV2RHR040ZGJmQ0RKc3c5b3lwQXNfekVTbjlwUE5KblQ0Sw?oc=5",
+          "pubDate": "2026-09-26T00:05:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Victory for Trump: Supreme Court Reinstates Citizenship Data Tool for Voter Audits"
+          "title_en": "From Delcy Rodríguez’s Promise to Tensions with Trump: Milestones for Latin America at the UN General Assembly"
+        },
+        {
+          "title": "Los republicanos temen perder dos contiendas clave por el Senado",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOS12bW1tVFNEM04xbEs1SHhjYVByZHVWSko2QmQwQmMyOFEyTGZ4NW5RT2Y3ZW9LektfQkpIb19vdnVhQ1ZjTzhxUGhlaHVwNXp1SkkwX0JXa2l0WGZSamc4OGJBRWxRSU45ckwyelUwbnp0b1c0bTQza28yb3c3U2NmeXhMdm1PcHBaWFJEVWJFMk9YTEwybHZB?oc=5",
+          "pubDate": "2026-09-26T13:02:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Republicans fear losing two key Senate races"
         },
         {
           "title": "Por qué las elecciones intermedias de 2026 podrían ser las peores del siglo para el Partido Republicano",
@@ -44,14 +52,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Costa Rican President Fires Her Secretary of State for Failing to Inform Her of a Meeting with Trump"
-        },
-        {
-          "title": "Un nor’easter que se intensifica se acerca al noreste, generando fuertes vientos, lluvias e inundaciones costeras",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkJyRnZVM2k5MktiV1pMcXg2NFlOVmRYamxZRDB0bC12QllSeWs5cEJ0R3JKbkVTSENnQ1g4VXRDTG1xR1AzN3FabTlQaVU2NndUeEszMHZ4bWE1Z19aYWRDTHJnTHJNT1V6VlRkb1h4dTRXeF9QZWFycGF0XzJoSUZqTW5GOUg4S1pGbkdPZTlYbVJMcmt5M0RaTG5kdG9BYlE?oc=5",
-          "pubDate": "2026-09-26T00:12:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "An intensifying nor'easter is approaching the Northeast, bringing strong winds, rain, and coastal flooding"
         }
       ]
     },
@@ -60,52 +60,36 @@
       "color": "sky",
       "items": [
         {
-          "title": "Manifestación contra Sánchez, en directo | Miles de personas marchan en Madrid para pedir elecciones y “en defensa de Ceuta”",
-          "link": "https://elpais.com/espana/2026-09-26/manifestacion-en-apoyo-de-ceuta-y-melilla-en-directo.html",
-          "pubDate": "2026-09-26T09:54:18.000Z",
-          "snippet": "La manifestación convocada por Sociedad Civil Española ha arrancado en la Plaza de Cibeles y avanza con cantos de “Marlaska, traidor” | Abascal llega a la protesta recibido con gritos de “presidente”",
+          "title": "Adif informa que sus webs vuelven a estar operativas tras un ciberataque a sus sistemas",
+          "link": "https://elpais.com/economia/2026-09-26/adif-informa-que-sus-webs-vuelven-a-estar-operativas-tras-un-ciberataque-a-sus-sistemas.html",
+          "pubDate": "2026-09-26T10:53:41.000Z",
+          "snippet": "Renfe abrió el viernes una investigación sobre un ciberataque vinculado a sistemas del administrador ferroviario",
           "_priority": "ALTA",
-          "title_en": "Protest Against Sánchez, Live | Thousands March in Madrid to Call for Elections and “in Defense of Ceuta”"
+          "title_en": "Adif reports that its websites are back online following a cyberattack on its systems"
         },
         {
-          "title": "La Europa de Le Pen, Weidel y Meloni: cómo los ultras planean tomar la UE",
-          "link": "https://cincodias.elpais.com/opinion/2026-09-26/la-europa-de-le-pen-weidel-y-meloni-como-los-ultras-planean-tomar-la-ue.html",
-          "pubDate": "2026-09-26T03:40:00.000Z",
-          "snippet": "Los extremistas ya no quieren sacar a sus países de la Unión: quieren mandar en esta. Para transformarla en un mercado único sin peso político. Y sin las reformas en defensa, finanzas o energía que son apremiantes",
+          "title": "Vox se impone al PP en la manifestación de “ultimátum” al Gobierno, con la mitad de participación que la del pasado mayo",
+          "link": "https://elpais.com/espana/2026-09-26/vox-se-impone-al-pp-en-la-manifestacion-de-ultimatum-al-gobierno-en-madrid-con-la-mitad-de-participacion-que-la-del-pasado-mayo.html",
+          "pubDate": "2026-09-26T13:01:53.000Z",
+          "snippet": "El partido de Abascal capitaliza la protesta convocada por Sociedad Civil Española, a la que acudió el ‘número dos’ de los populares, pero no Feijóo",
           "_priority": "ALTA",
-          "title_en": "The Europe of Le Pen, Weidel, and Meloni: How the Far Right Plans to Take Over the EU"
+          "title_en": "Vox outshines the PP at the “ultimatum” rally against the government, with half as many participants as last May"
         },
         {
-          "title": "El Gobierno prepara un decreto ley para acelerar las devoluciones de migrantes a Marruecos",
-          "link": "https://elpais.com/espana/2026-09-26/el-gobierno-prepara-un-decreto-ley-para-acelerar-las-devoluciones-de-migrantes-a-marruecos.html",
-          "pubDate": "2026-09-26T03:30:01.000Z",
-          "snippet": "La norma, aún en fase de elaboración, afectará a los migrantes que ya han iniciado los trámites de asilo y a los que España podrá devolver antes de resolver su solicitud",
+          "title": "El Sindicato de Inquilinas se manifiesta esta tarde en Madrid “para que no haya más Maricármenes”",
+          "link": "https://elpais.com/espana/madrid/2026-09-26/el-sindicato-de-inquilinas-se-manifiesta-esta-tarde-en-madrid-para-que-no-haya-mas-maricarmenes.html",
+          "pubDate": "2026-09-26T11:05:44.000Z",
+          "snippet": "La marcha arrancará a las 18.30 desde la Puerta del Sol",
           "_priority": "ALTA",
-          "title_en": "The government is drafting a decree-law to speed up the return of migrants to Morocco"
+          "title_en": "The Tenants' Union is holding a protest this afternoon in Madrid “to ensure there are no more Maricármenes”"
         },
         {
-          "title": "Todos contra la inmigración, pero divididos frente a Putin: qué une y qué separa a la extrema derecha europea",
-          "link": "https://elpais.com/internacional/2026-09-26/todos-contra-la-inmigracion-pero-divididos-frente-a-putin-que-une-y-que-separa-a-la-extrema-derecha-europea.html",
-          "pubDate": "2026-09-26T03:30:01.000Z",
-          "snippet": "Un análisis académico de 23 partidos ultra muestra sus diferencias frente a Rusia, los derechos de la mujer o el cambio climático y unos programas a la carta destinados a “contentar” a la opinión pública",
+          "title": "La Policía Nacional y los Mossos rescatan en Pakistán a una mujer de Barcelona que fue obligada a casarse con un primo",
+          "link": "https://elpais.com/espana/catalunya/2026-09-26/la-policia-nacional-y-los-mossos-rescatan-en-pakistan-a-una-mujer-de-barcelona-que-fue-obligada-a-casarse-con-un-primo.html",
+          "pubDate": "2026-09-26T09:30:57.000Z",
+          "snippet": "Los cuerpos policiales detuvieron en el aeropuerto a dos hombres como presuntos autores de un delito de tráfico de seres humanos",
           "_priority": "ALTA",
-          "title_en": "All Against Immigration, but Divided on Putin: What Unites and Divides the European Far Right"
-        },
-        {
-          "title": "El Gobierno insta al Senado a aprobar el Tratado de Amistad con Francia",
-          "link": "https://elpais.com/espana/2026-09-26/el-gobierno-insta-al-senado-a-aprobar-el-tratado-de-amistad-con-francia.html",
-          "pubDate": "2026-09-26T03:30:01.000Z",
-          "snippet": "El Ejecutivo apremia, tras el aval del Constitucional, para que se incluya “con carácter prioritario” en el pleno de la próxima semana, que coincide con la visita de Macron a España",
-          "_priority": "ALTA",
-          "title_en": "The Government Urges the Senate to Approve the Treaty of Friendship with France"
-        },
-        {
-          "title": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
-          "link": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
-          "pubDate": "2026-09-26T03:30:01.000Z",
-          "snippet": "La negociación del decreto que se aprobará la próxima semana explora un mecanismo para topar las revisiones de los contratos previos a 2023 si los precios se desbocan",
-          "_priority": "ALTA",
-          "title_en": "The Ministry of Housing is considering eliminating the CPI as a benchmark for all rent increases"
+          "title_en": "The National Police and the Mossos rescue a woman from Barcelona in Pakistan who was forced to marry a cousin"
         }
       ]
     },
@@ -114,52 +98,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-          "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-          "pubDate": "2026-09-26T07:58:05.000Z",
-          "snippet": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential elec…",
+          "title": "Power outages and flooded roads as major storm bears down on US north-east",
+          "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+          "pubDate": "2026-09-26T13:35:26.000Z",
+          "snippet": "Thousands already without without power as New Jersey, Massachusetts, Delaware and New York brace for nor’easter More than 70,000 customers were without electricity in the north-eastern US on Saturday, a major sign of a powerful storm known as a nor’easter that was expected to cr…",
           "_priority": "ALTA",
-          "title_en": "Lula Bans Fixed-Odds Sports Betting a Week Before the Brazilian Elections"
-        },
-        {
-          "title": "Trump cancels nearly $1bn in funding approved by Congress",
-          "link": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
-          "pubDate": "2026-09-26T01:00:34.000Z",
-          "snippet": "President using rare power to revoke expenditure with bipartisan approval to aid immigrant services Donald Trump is canceling nearly $1bn in spending approved by Congress, the White House announced on Friday, using a rare and contested power to axe funding for immigrant services…",
-          "_priority": "ALTA",
-          "title_en": "Trump Cancels Nearly $1 Billion in Funding Approved by Congress"
-        },
-        {
-          "title": "TikTok to pay Alabama $100m and limit teenage use in first state settlement",
-          "link": "https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions",
-          "pubDate": "2026-09-26T04:19:20.000Z",
-          "snippet": "Trial had been set for Monday over claims by Alabama that TikTok misled parents about tools meant to shield children from harmful content TikTok has agreed to pay Alabama at least $100m and enact time limits and other restrictions for teenage users, avoiding a trial with a settle…",
-          "_priority": "ALTA",
-          "title_en": "TikTok to Pay Alabama $100 Million and Limit Teenage Use in First State Settlement"
-        },
-        {
-          "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-          "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-          "pubDate": "2026-09-26T09:31:47.000Z",
-          "snippet": "Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz and end fighting in the Middle East war as Donald Trump was reported to have rejecte…",
-          "_priority": "ALTA",
-          "title_en": "Trump reportedly rejects Iran’s seven-day peace deal to reopen the Strait of Hormuz"
-        },
-        {
-          "title": "‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes",
-          "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court",
-          "pubDate": "2026-09-26T06:00:27.000Z",
-          "snippet": "Trump tries to dominate at the UN as his approval ratings plummet and even some Republicans stray from the script Donald Trump stood before the United Nations on Tuesday and threatened to “annihilate” Iran. Yet even as the most powerful man on the planet flexed his military muscl…",
-          "_priority": "ALTA",
-          "title_en": "“The weaker he gets, the more dangerous he gets”: Trump lashes out as his power wanes"
+          "title_en": "Power outages and flooded roads as a major storm approaches the U.S. Northeast"
         },
         {
           "title": "White House blocks CNN from Air Force One in latest escalation with news media",
           "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
-          "pubDate": "2026-09-26T01:31:05.000Z",
+          "pubDate": "2026-09-26T12:45:33.000Z",
           "snippet": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said Friday The White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration’s bat…",
           "_priority": "ALTA",
           "title_en": "White House Bars CNN from Air Force One in Latest Escalation with the News Media"
+        },
+        {
+          "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+          "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+          "pubDate": "2026-09-26T12:38:46.000Z",
+          "snippet": "Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blo…",
+          "_priority": "ALTA",
+          "title_en": "Trump reportedly rejects Iran’s seven-day peace deal to reopen the Strait of Hormuz"
+        },
+        {
+          "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
+          "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+          "pubDate": "2026-09-26T13:00:36.000Z",
+          "snippet": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising questions about the safety of food and othe…",
+          "_priority": "ALTA",
+          "title_en": "New research finds 485 chemicals in U.S. pesticide products linked to breast cancer"
+        },
+        {
+          "title": "Angela Rayner stands by attack on care worker visa reforms ahead of Labour conference",
+          "link": "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
+          "pubDate": "2026-09-26T12:01:11.000Z",
+          "snippet": "Housing secretary says Home Office moved goalposts with ‘disruptive’ change to permanent residence rules Angela Rayner has stood by her criticism of Home Office reforms that would make it harder for foreign care workers to claim permanent residence in the UK, describing them as “…",
+          "_priority": "ALTA",
+          "title_en": "Angela Rayner Stands by Her Criticism of Visa Reforms for Care Workers Ahead of the Labour Conference"
+        },
+        {
+          "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
+          "link": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
+          "pubDate": "2026-09-26T11:10:09.000Z",
+          "snippet": "Israel ‘categorically rejects’ publication and says businesses on database have committed no wrongdoing The UN human rights office has added 61 more companies to a blacklist of firms that it says are involved in violating Palestinian human rights through business ties to Israeli…",
+          "_priority": "ALTA",
+          "title_en": "UN Adds 61 Companies to Settlements Blacklist Over Alleged Human Rights Violations Against Palestinians"
         }
       ]
     },
@@ -168,28 +152,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "At Least 2 Dead After Explosion in Athens Tourist District",
-          "link": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
-          "pubDate": "2026-09-26T09:13:05.000Z",
-          "snippet": "Four people, some of them believed to be tourists, were still missing. Local officials said the cause might have been a gas leak.",
-          "_priority": "ALTA",
-          "title_en": "At Least 2 Dead After Explosion in Athens Tourist District"
-        },
-        {
           "title": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
-          "link": "https://www.nytimes.com/2026/09/26/world/asia/a-tetris-like-maze-blocks-protests-in-pakistans-capital.html",
-          "pubDate": "2026-09-26T04:01:11.000Z",
+          "link": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
+          "pubDate": "2026-09-26T12:12:35.000Z",
           "snippet": "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital.",
           "_priority": "ALTA",
           "title_en": "Tetris-Like Maze Blocks Protests in Pakistan’s Capital"
         },
         {
-          "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-          "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-          "pubDate": "2026-09-26T04:00:08.000Z",
-          "snippet": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+          "title": "Six Dead After Explosion in Athens Tourist District",
+          "link": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+          "pubDate": "2026-09-26T12:04:42.000Z",
+          "snippet": "Local officials said a gas leak might have caused the blast, which rattled a part of the Greek capital that draws many visitors.",
           "_priority": "ALTA",
-          "title_en": "At the Summit, Xi Sought to Shift Trump’s Stance on America’s Role in Asia"
+          "title_en": "Six Dead After Explosion in Athens Tourist District"
+        },
+        {
+          "title": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda.",
+          "link": "https://www.nytimes.com/2026/09/26/world/middleeast/israel-netanyahu-gali-baharav-miara-attorney-general.html",
+          "pubDate": "2026-09-26T09:00:10.000Z",
+          "snippet": "Gali Baharav-Miara, Israel’s first female attorney general, has stopped many of the government’s efforts to remove constraints on its power.",
+          "_priority": "ALTA",
+          "title_en": "Heroine or Public Enemy? The Israeli Blocking Much of Netanyahu’s Agenda."
         },
         {
           "title": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
@@ -222,6 +206,14 @@
       "color": "green",
       "items": [
         {
+          "title": "A past FBI inquiry complicates Susan Collins’s campaign message in Maine",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNUUwU3JGSDlOWEw0anN1YkZLSUVyTHlzZFRSS0Rwdjh1bjJYWGVwSnVuZGVBRWYtWmJCSk54cDh5TWZZREFTRkxLTEtmc2lpSWdDV1oyZlZoeGVsdFo4OW8wMzBxZV95ay1Sc3hDTXptQUVieVBpZk94aUdoa0tXUS1oZ09XNGRFbWJSV0tvWWF5MnJaRzBOR0g0QkR6dkFIaVRzXzZCcC1fSkpnVUROdlN4RmVLeEk?oc=5",
+          "pubDate": "2026-09-26T13:36:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "A past FBI investigation complicates Susan Collins’s campaign message in Maine"
+        },
+        {
           "title": "White House has not acted on RFK Jr.’s push for proof ultra-processed foods are safe",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzlGWXRhWWloS1Zoc2FvNmFod3hwN0ROLTRWUmQ4NFdWQV9HVjdYTUlzWjJhdmtyNld4cHl5M1lRbEl6ajBjT1J6X1hmdFg3d0hUXzJveDg0ZmlQOUpsSTBBLU8xeWh6VUM4M1RRS0kxclpuMVBuRVhoNG41RktOUVJkRjNvZXVmNUc0elFTWWlPUWhzUWRXVktadndpX2ppSTZab1lhbjR2anZhX2E4djB1a2NaNE9zSzdGdzJoZWt1WHc?oc=5",
           "pubDate": "2026-09-26T05:53:59.000Z",
@@ -238,6 +230,14 @@
           "title_en": "ChatGPT developer's AI inappropriately accessed federal government websites"
         },
         {
+          "title": "Trump embraces Xi as a peer, testing a new approach to China",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXNic3Axakd4YkRIVFNPRVhEY1Q0T2pEekduMjNEZHhqLXpHeVFYUjlDRmZwampON0VoLUtDVkRub2JYeVFVODVVNktSTWpHdnJObW5oSHRya3Z5NENhdGREVWZOYzJWT2t1MS1lUzVCNGpMNllxSUNEVzA5Z0E2SW1Bdnpic2trbktUamJ5ME5vY3VKWnFWYkpRZlUwT1ZvdTBmZERYNDJUaEVzV1pvZkRWaGg?oc=5",
+          "pubDate": "2026-09-26T04:02:08.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump Treats Xi as an Equal, Testing a New Approach to China"
+        },
+        {
           "title": "Strong nor’easter cancels events from Massachusetts to Maryland",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWi1BbmFuUjZVaDhfQ0xDSTA3dUlURE9qZjVnUVcxdGFUQ3d5UzNlV0haQzgzZ19iM1FCNEJtX01ySjh4Qm8xclc0RmYwaUZjd1pIc1lWcFFxM3BVZEdQTGRHQ2RlUmt6OXphRzMyb2xRVHpXMUtyRnUxenZKS0R0cG91bjlEYWNaNmJLM3ItdF91SDdmbHNjbFdIbkswMnZ2RUtwX1ZDYw?oc=5",
           "pubDate": "2026-09-26T03:33:36.000Z",
@@ -252,22 +252,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Pentagon Quietly Adds Dozens to the Tally of Troops Wounded Amid the War with Iran"
-        },
-        {
-          "title": "Florida counties declare emergency over ‘wildly unusual’ dengue outbreak",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZMa1FVM3B1dzhnTHN6bW8zZW5XNGNmRXIydnZRX2FSX0s0ZWZzVUlEMDFzTFJEeWNhanVIeXF6Qi1Tdl9JcEJaMmJMb2NrVWk2Tjhhb0kzZ0F6ZUw2c2NQZlk5eEoxd2tqTzRoOGV2dEJncWs4S3N1d1ZBbnFkdW5YbDF4cl9GQVpqZXdVTWVHQ19sTzhyZU5lYjJBVGVzSkNmSzJBaTRlbGRxQkhsQTh5YVcxdHB3c0F0NQ?oc=5",
-          "pubDate": "2026-09-26T01:39:56.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Florida counties declare a state of emergency over a “wildly unusual” dengue outbreak"
-        },
-        {
-          "title": "Saudis have not ruled out developing nuclear weapons, U.S. intelligence assesses",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTEJUT2lldWJOU0RiS1k3ejRod2tWVFkydzJiY0pZZ2Q4YkxpRzFic2VRdW94UU9BMnhRc2daV05vbEFaeFlzTk9pRy1IdnV3UE5XV0xaV3gzaEE3dUxXeWZoczlEQ2ZwVnAzekRiZ2YxZV9aSGFyRXpCM2NvUXFwWmpwWEU3UU1rY1hhWVE3TkxDQm5hUzV0aC1OVDBrcXNHdFFDQmIyd2tpcW9vS2VaMzhGYTVBNUtzbU11UmFJeVpCWTdlcU1MYjJyM1lhb05XVHNVXw?oc=5",
-          "pubDate": "2026-09-26T00:12:04.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Saudis have not ruled out developing nuclear weapons, according to U.S. intelligence assessments"
         }
       ]
     },
@@ -276,20 +260,12 @@
       "color": "lilac",
       "items": [
         {
-          "title": "US Senate 2026 forecast",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5iZF9CcElOTXkydDhVWVJsUDVaalhNYlpZT1VacEEtVG93VnNVdTkzVUVIRWxpZ2tHN0xUdEFKY1Q0SDkyX3lzRk50cS1wLVVYOG1QRnBGWmlzdnowZjE1WE9vNURDTWM1RVVJdVVuOVJ6STNGaERacDBNSUFFU0YteGw?oc=5",
-          "pubDate": "2026-09-26T08:10:46.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "2026 U.S. Senate Forecast"
-        },
-        {
           "title": "America and China’s leaders indulge in pageantry as crises mount",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVd5THg4d05JNDRwcy1uQWdGRENSYnZWc1RSMnNLVW1rMFhqaXA1OUVqWTFlWWQwYW5VbU0xeHhiWEJJbGFVZ0ItbElmaHBtaWlDSzljZEpsck9OYnNITU1HZElqMi05STlXeTloYlhlSWRzdTZ6anpqMTdxRW56dkQ4cmxXcTdlcy1fZXp4OUV2QlVVZmhJcGxNYmt5RUFMSlJRMWJQSEhfRC0zbU5Wc2J0SkQ?oc=5",
           "pubDate": "2026-09-25T20:47:05.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "America and China’s leaders engage in pomp and ceremony as crises escalate"
+          "title_en": "America and China’s leaders engage in pomp and ceremony as crises mount"
         },
         {
           "title": "How voters feel about Donald Trump’s policies",
@@ -300,12 +276,20 @@
           "title_en": "How Voters Feel About Donald Trump's Policies"
         },
         {
-          "title": "Can Bitcoin’s rally last?",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGhEZUhoYzhVbWpheEQ4QzFhcV92RnRmQTUtRkhVQzBGTkh1VHRsVk1vMkFrR3gxMTJiTmVIaG41VWpyVGUyTFJpb3kzRk03dG5uOHdMaVBKNmFPLTE1cGZGdVZPcEdQRkFOQ05mQmRKb25YN0xjUW5XMDJ4Wm1KbjBOc1VYTFB5SmZMdjNBSE9TNlpJdkVV?oc=5",
-          "pubDate": "2026-09-25T00:00:00.000Z",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWRSdllKMTBOU2pOUmFYVVRxczNQdU1LMkJUUF9lbDZrUjJDdUV6bXoyN3dzZVp5Q3l6NThrakUwMWVnXzJVMXQ3bl8yVHJoS0JZLVhzV3ZlQW9qRGxfTEY0REVUT2VIYnF3YWlsRnotUTczTjF5MFA2blZXTW5hYkF2LThHQW1Lb19acGF4RQ?oc=5",
+          "pubDate": "2026-09-25T10:18:28.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Can Bitcoin's rally last?"
+          "title_en": "Big meet, little meat: the Trump-Xi summit"
+        },
+        {
+          "title": "What Donald Trump’s meeting with Xi Jinping has—and hasn’t—achieved",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQlNCN3pXR092Z0s5MTdYWVZNaUZxWHhjbEl5Y0xXTFk0d29HRklyalh0ZGU5NTE2bGhnWmxaX2E0MzR0cHZESjlxS3d3THJPelZGZlgzVnBJeG1hcGNEYklVd1ZUQkt4dXlONGphc3lQVUI3M0kzSU9ZeHlmTjlIVzlRUGVEWmI3RVZEREY4QW9QeXFaWUhIUnZDZnJxeFpyeU04NHI3RGtHVG4tcXJ6em45eVJpaXM?oc=5",
+          "pubDate": "2026-09-24T18:32:34.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "What Donald Trump’s Meeting with Xi Jinping Has—and Hasn’t—Achieved"
         },
         {
           "title": "Is America’s hegemony over the Middle East coming to an end?",
@@ -330,12 +314,28 @@
       "color": "peach",
       "items": [
         {
-          "title": "Sheinbaum llama a jóvenes alejarse del crimen en Michoacán; \"tienen que estar abrazados por el gobierno y sus familias\"",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaFM0Njd2WFZHUXhIc25hLV9MQjVKM01rNmJUSWZZck5FSEh1VEhBRlhCR3JFRXUzY2FjMjhHNW9EMUoxQk1DTm9Zb3RxOVdDQkUxR25YbmN1bnhra09ZOUFxckh3djZOVnJSdlZGNVNvNnAyMVNGUXZHNUZ0NmJzdkxKd2xhLXBETnFBcS01dElPcC1iUzgzUHN6QTlGVmlkUFFROUhTYmNlWXBqRTBUV0RMa3p4WXRUR08zNzE1MlhQeXNEY0o5T25YTGxKekF2M21UTktLcXdENlZYRzMzOHphTFN3R2p1OFE?oc=5",
-          "pubDate": "2026-09-26T04:34:00.000Z",
+          "title": "El Chapo y El Mayo quería retirarse, revela Lucero Sánchez conocida como “La Chapodiputada”",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGN1WG81U0ZTbWJQSS1yOU1NSE9vQmxITGRndkZmdm9zOFhXSmFHRk9fTF9xVl9WUk1aOUtJR2NaWDZsZ21iaE1rSF9VaVZfb0VVWEhUX29jaGxhODFORTk5blBDekZGdEFQSGJZXy1jdFRMRnBXS2dfQnQtVGJkYzVBalktZVF2NmdrcmREZzhDMFBlajVjeUh1dldoZnhoY1ZuV2dUQm92VEpYcmcxODdDUWpMNmpJQjZwck5aeEl1OHlRaVE?oc=5",
+          "pubDate": "2026-09-26T11:47:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Sheinbaum Calls on Young People in Michoacán to Stay Away from Crime; \"They Need to Be Supported by the Government and Their Families\""
+          "title_en": "El Chapo and El Mayo Wanted to Retire, Reveals Lucero Sánchez, Known as “La Chapodiputada”"
+        },
+        {
+          "title": "Cierran puertos en BCS por avance de Polo",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkFNOW5XWG93QkN0cF9QWjZIaVBjYXZtX3NuYkhoSzQxd1V2UDVScVBBamRUQXJPSFFRbF9GNXliNGpHVnE2aGlBUDlsZnVEdFh0a0I2MXFlSXBFSVhBVTF0ZGYzUXFQeUZoSDI5NHNzcHg2V2pkZTZ2eEJsNWozZ3owX3RyQnVD?oc=5",
+          "pubDate": "2026-09-26T09:36:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Ports in BCS Close Due to the Approach of Polo"
+        },
+        {
+          "title": "Reportan medios más cuerpos en fosas que las autoridades",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFlvdHJSaHJCRThOTV9TX3pfajhEWUZMc0xJSTZnQkloaWlVMDBVeTl6Ym1nT0NUYUJYSEF1eHBuQXJyWW9lQnhyYVIyNll2dmY4dmMtaFpqek9vRGJBaUF2WFh3SGw2WVl6cGU5NGhMb3BwZzlkbEphRU1XYkJvaVVxZkpGbnBIQlhRYjJqRWVnUWpCMjczWWd0cw?oc=5",
+          "pubDate": "2026-09-26T09:34:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Media outlets report more bodies in mass graves than the authorities do"
         },
         {
           "title": "Entregan tarjeta de movilidad gratuita a mujeres; recibirán dos mil pesos y viajes en transporte público",
@@ -343,7 +343,7 @@
           "pubDate": "2026-09-26T04:00:46.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Women Receive Free Transit Cards; They Will Receive 2,000 pesos and Public Transportation Rides"
+          "title_en": "Women Receive Free Transit Cards; They Will Get 2,000 pesos and Free Rides on Public Transportation"
         },
         {
           "title": "Canciller destaca ante la ONU baja de homicidios; es tiempo de Mujeres, dice sobre renovación de la Asamblea",
@@ -351,7 +351,7 @@
           "pubDate": "2026-09-26T03:34:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Foreign Minister Highlights Decline in Homicides Before the UN; \"It's Time for Women,\" He Says Regarding the Assembly's Renewal"
+          "title_en": "Foreign Minister Highlights Decline in Homicides at the UN; \"It's Time for Women,\" He Says Regarding the Assembly's Renewal"
         },
         {
           "title": "Cierra carretera en el norte de Chiapas por inundaciones causadas por las lluvias; alcanzan hasta un metro de altura",
@@ -360,22 +360,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Road Closed in Northern Chiapas Due to Flooding Caused by Rain; Water Reaches Up to One Meter in Depth"
-        },
-        {
-          "title": "Con patrullas, policías auxilian a ciudadanos afectados por inundaciones en Ciudad Madero",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLU14NUprSTQ3UGllbldVUHlxdHE3UXVIdnVFbWFTTVFPbldlSElrd2hxNG11RTVpcjVqWVUtZWNwVldtWHJobUNCOXh6cWJjX0tMRDJiaXJNdjYwUjk5NmhpMGQ0dWpDbEc0Sl91LXI5WHd0LWcyR0ZhNFpjbG54cVlYYkVzZ09JYzM0UkVUNkRJdlZRN1Z4UlFENWtlekQxT1VkbmJ0aUNVT3Q1bnd4c3BJMncwZjlRY1BOdHNYU2NfV3J6eW5xajhxeHZtdVR6S0RQVkhsYnFoTGFMMVRmMFY2WEhpWWhIZnpEcVp3?oc=5",
-          "pubDate": "2026-09-26T02:38:44.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Police Officers Use Patrols to Assist Residents Affected by Flooding in Ciudad Madero"
-        },
-        {
-          "title": "Congreso de Veracruz elimina fuero para alcaldes y síndicos; fue propuesta de Rocío Nahle",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLURrNFNKUl93TWh6V2dKU0Y4Z1VmZkNNeHlfM242OFRYQXEzdUU2T3U4dXZycDAtOVJ4NWRfTzltdE1taTU1eXFxTXlpYkRacVJpWHpyVVRtNGthOEJ1SzRxSTFDV0NsSzNkUFJEMXY2YmZJXzVyMS1mRzUwZU9JUE5aazZfanJBc3JTbmJzLU10QjlBeS1qWnYxYTdoamtaU25Nbmh3Z2VMWHJBRVNXSmNnQ3VDSFRHZDQ1WDh6c2VmdjNITm1v?oc=5",
-          "pubDate": "2026-09-26T01:42:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Veracruz State Legislature Eliminates Immunity for Mayors and Municipal Trustees; the Measure Was Proposed by Rocío Nahle"
         }
       ]
     },
@@ -384,36 +368,20 @@
       "color": "blue",
       "items": [
         {
+          "title": "Por qué el embarazo en adolescentes es un marcador de desigualdad",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3VjcVlRRWUzWV8zSnhFd0YtVEtSUEwxa0lDU2xoM3l2WEVZRG1Fa2RvVzBvVGJYYTllTkU0M3doR1M5UzhQdUhLQVEzMlZsSm9hZ0xVWjNzQzRZQUJLMVMwMXlNR1kzaHllQ0ItNGVaTzdhUWVVZVdpM2dwNXNISFRFdm44Y3RWV2RwejdyZ1A4ZUxPT2pxT211VXlrdkJmekpiay1qalRiM3V6Nllr0gG0AUFVX3lxTE03anJqeDByYXpaQ3VHdEJEYkY5dDhLMHBkSnE1cHZibG5IRTJsT1lGeFNnSnFCYklRSzJCTldKQWhqNWp0T3NnQl9OSlVjTGMtNXZXY1N2RmxKb1BZaENFbVhKdVdFS0NoUVdpVDQ3bmlPQy1IWXl3Z0piNzV1T1pOUm0wcXpNNXE4RXpJWWlRY0dDSV8tS3VoY0hUTlpQdDlkVG1sLUc1eS1zUTljUDhJVWxhbg?oc=5",
+          "pubDate": "2026-09-26T13:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Why Teen Pregnancy Is an Indicator of Inequality"
+        },
+        {
           "title": "Caravana de migrantes avanza hacia México pese a las advertencias de EEUU",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVlRGcEE1RzBVSzNNX25uQUtiTS1SSHFVQjhPQ3JSSVMzTTlTY25pVlJnQUJFN0xQVkxmOHh5RzllNEJ5Q0tsYWRqN3Jwb003QVIxd21veEVkRUFWRWtKSmNLQ3RGWHFjVjA2OXFMZmEwQVhLeGVzLWJ2bUEwUHVrTTd2d2JrcVlTeUlrbXUzc3F4Y3BfSHBkU1YyTnAxUl9uSXg1NFdOelJvU1NNUEc5NS15SVZVbXd2a0s1N3hn0gG-AUFVX3lxTE1WVEZwQTVHMFVLM01fbm5BS2JNLVJIcVVCOE9DclJJUzNNOVNjbmlWUmdBQkU3TFBWTGY4eHlHOWU0QnlDS2xhZGo3cnBvTTdBUjF3bW94RWRFQVZFa0pKY0tDdEZYcWNWMDY5cUxmYTBBWEt4ZXMtYnZtQTBQdWtNN3Z3YmtxWVN5SWttdTNzcXhjcF9IcGRTVjJOcDFSX25JeDU0V056Um9TU01QRzk1LXlJVlVtd3ZrSzU3eGc?oc=5",
           "pubDate": "2026-09-25T23:29:07.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Migrant caravan moves toward Mexico despite warnings from the U.S."
-        },
-        {
-          "title": "Radicales de extrema captan nuevos miembros vía Internet",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYmNyOEE3YVpnNDUyQTZfTHBvRzg5N2lPemx2Q1JxZ3dqRjYwSi1WWWxYU3lVbkdkNndqcDB3MU16SU1IY2t3VVBtNS1ZSjNHbXFHTmxZR1VqUV9HNjlIa1gyR011TlFRdFpVeDhvbWlJUFl3WDRWdXhSX2pwa2RLRVd5dlVXbHJvdThfckgwRzdFaGwtUS11bUxvVG5qM0hoUjh4SVEzeFk1QdIBqgFBVV95cUxQYmNyOEE3YVpnNDUyQTZfTHBvRzg5N2lPemx2Q1JxZ3dqRjYwSi1WWWxYU3lVbkdkNndqcDB3MU16SU1IY2t3VVBtNS1ZSjNHbXFHTmxZR1VqUV9HNjlIa1gyR011TlFRdFpVeDhvbWlJUFl3WDRWdXhSX2pwa2RLRVd5dlVXbHJvdThfckgwRzdFaGwtUS11bUxvVG5qM0hoUjh4SVEzeFk1QQ?oc=5",
-          "pubDate": "2026-09-25T20:12:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Extremist radicals recruit new members online"
-        },
-        {
-          "title": "El diario, edición semanal: Florida eleva el salario mínimo a $15 y estrena nuevas reglas",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZmtfM3NmNWFTa3F6WnpnZWVscnJmSEU2cU1oY2gySlVXMU4weWU3YkhUcGVWa1BFdHU0dGpxRjFzSDNLZ1Z3RGNHWlN0c1pHNEt6cEZySVI5ZW5tVHVydjRHS3lLNVh4OUdOT0lTMFZXRF83ZWJpTGlLSjZ4TmRqS2REdTJwcHQ0WDEzYU9Jd1Q2VVFmakNNLUlXNDFZT18xOVJzTENFWTVlbXBhZzhwMXRSYVIzRWMwTTU2YnpzNGVwVmRHS1RZLWNKOTdDalU?oc=5",
-          "pubDate": "2026-09-25T18:19:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Weekly Edition: Florida Raises the Minimum Wage to $15 and Introduces New Rules"
-        },
-        {
-          "title": "Brightline acuerda reestructurar su deuda y continúa el servicio ferroviario en Florida",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWC1mNWZoLUZkRThOX1VxX3pQelVLWTlxNGg4S0szNTdabGNNMnNXNWZkNXFpekJxSUpDMGpyZnNMZlBjTTVqUmVWYXJoQ3F5Q3Z4aE9sNE5MZWZrTTF5Qy1ydEZHSHVoNzFMei1vSGpCRXp6QlpKSWV5TlpTdHh3OXRVVml4cW1OWFRTMkZmTkdBYk1xazhXZXNwUG9rT0ZuYVhBeV85UVFmVUo3MUdkcmxYeWhvVW0xT08zVlpCRjV1Um9mVE93clltbk9VTzZS0gHWAUFVX3lxTFBrV25PeEF4TFBCR1VjdVNGS0JNSDdzcWwxMWFJNllTNFZEZmdlVjBDUFVYbnNUVXlwNmdJR0lwYUJ0Z2Q5LUUwRlRSNEcxY2lFaGgxT01LYk81UGVTeEdqSHVVV0N3RDZmcWIwS0d1ZFhEVjUxdTlIOWRPdGZ5N2NqSVB2RGtENnF5X1luMEszdURMVDhqQ3piN2ptYk9BTXNGZWlxQXFrdEF5YnZJMXVkODJKQ2JuREUxbUs0LTN2Ml9FbXRnTnVndWpYU0l1OVhHeUFLNVE?oc=5",
-          "pubDate": "2026-09-25T17:02:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Brightline Agrees to Restructure Its Debt and Continues Rail Service in Florida"
         },
         {
           "title": "Declaran emergencia por dengue en tres condados de Florida",
@@ -430,6 +398,22 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Spectator Injured in 2024 Attack on Trump Dies"
+        },
+        {
+          "title": "Suman 80 países los que exigen a Irán abrir el estrecho de Ormuz y condenan sus ataques y de los hutíes",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcFNraEhRd3dreU9ENWEzRk5EN3V0LXE5T1RfRENJdTlGRmhMelU0c3RDUmcwN1hOZFB2a1dnOGtjb1NybWdqdFBrMDlfMlVNajEycUwzVGZ5R1haWXljQ3M5UDhQRmtYRG90dURONS1NQ1BJemFMWmhpOGY5MGs1ck90emFUOTJ1ak9lNkdsNmhHVjZkVTF5VmMxZVB4U0Q5cnFSRXpBc2hBQm82cHNiSy1QUUlNMGJmeHhwV25OTHlJVGRtQ3lSd3FEX2Y1azg0UWdZaUlSc3Z6cUtr0gHiAUFVX3lxTFB5OTZlOHRsWndLVURvZzNvbUx5aHlqZk9LMF9WMk5YV2hXYWJ6cEV5Y2JObFZUMHdyT19Zb01wMEhLc3JjMmhsMTJzekpvYUc2aHFra3ZodnkyWEhUTkRIckFGTDlVYUZUaHYxbTdZTjhYM3lfTlg3T1ZlMUFUZWNNZktyaXVSSERrc0w1LUxTRXdTRC13allnRDQ1dTNzejZFYWw1b3UzNzZwZXBHU0VOVnJqV3kwY1RPSWNpSG04T0hoaVJZM013bGxUZWwtaGZDWENSZzJDYzhIMmN1SVdsV2c?oc=5",
+          "pubDate": "2026-09-25T01:27:57.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "A total of 80 countries are demanding that Iran open the Strait of Hormuz and condemning its attacks and those of the Houthis"
+        },
+        {
+          "title": "Trump y Melania reciben a Xi Jinping y a su esposa en la Casa Blanca para cena de Estado",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd18yWG9RRm9EOTkyRGNYbDVQXzg4UkJwQ1FyTEdZOW1Ld01LMkVPeDBReVlvOU5PT3g1ZS10ekNja2p3cjJHeEI5WDZoc0RpU204VjFkTFFTa3djNG1Ub19iYXVEYXBYSXJYekhIZVY5OFJLRjVWSFVjWEN1aGkyenJvTTNmazlicGFfaVVDbEotTnBQVDJkLXctRy1ZNi1MOVdRVy1VXy1sRmxzTFVIUDBNdWFTQzZab0ZPV0dB0gHDAUFVX3lxTE5tVjE1Y3QyS3FYOXkwdVRWQWd0UFVhall0NDlSRFl1ckVXTzk5TnZGWXNwOVpXQlU2clN5eFVtazlnOVk2UUdqV2NLYm5DWWU1SVd0ZWM2UDg5bmRwX01TSWIyeklYRnJTazBDVFl4ZUdpYy04UXZWQUFHNUNIUjJRVENnV1p6ZWRTTDUzNlZFRGV3VmRjQTVkMVdLT2RCcWxRZWFCcGJUaEN4UXd0QzhydjhUdHJ5eTBEeVJrZ3ZNQXAzRQ?oc=5",
+          "pubDate": "2026-09-25T00:40:52.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump and Melania host Xi Jinping and his wife at the White House for a state dinner"
         }
       ]
     }
