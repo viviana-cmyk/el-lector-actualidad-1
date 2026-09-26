@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-24T14:41:16.513Z",
+  "generatedAt": "2026-09-26T10:02:07.085Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Conflicto Israel-Palestina y Crisis Humanitaria en Gaza",
-      "titulo_en": "Israel-Palestine Conflict and Gaza Humanitarian Crisis",
+      "titulo": "Rechazo estadounidense al acuerdo nuclear iraní y control del Estrecho de Ormuz",
+      "titulo_en": "US Rejection of Iranian Nuclear Deal and Strait of Hormuz Control",
       "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Abbas acusa a Israel de limpieza étnica: 'Es un plan colonial maligno cuyo objetivo es hacer imposible la vida de los palestinos'",
-        "link": "https://elpais.com/internacional/2026-09-24/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html",
-        "fuente": "El País"
+        "titulo": "Trump reportedly rejects Iran's seven-day peace deal to reopen strait of Hormuz",
+        "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+        "fuente": "The Guardian"
       },
-      "analisis": "El presidente palestino Abbas escaló retóricamente el conflicto en la Asamblea General de la ONU acusando a Israel de limpieza étnica, mientras la economía israelí prospera según reportes económicos paralelos, evidenciando una desconexión total entre ambas narrativas. Esta polarización extrema en foros internacionales bloquea cualquier vía de negociación y consolida posiciones irreconciliables que amenazan la estabilidad regional a largo plazo.",
-      "analisis_en": "Palestinian President Abbas escalated rhetoric at the UN General Assembly by accusing Israel of ethnic cleansing, while Israeli war economy reports show economic prosperity, evidencing a complete disconnect between both narratives. This extreme polarization in international forums blocks any negotiation pathway and consolidates irreconcilable positions that threaten long-term regional stability."
+      "analisis": "Trump rechaza un plan de siete días de Irán para reapertura de negociaciones sobre el Estrecho de Ormuz, intensificando la confrontación en una zona estratégica de flujo de petróleo global. Este rechazo mantiene elevado el riesgo de escalada militar en el Golfo Pérsico y afecta directamente la estabilidad energética mundial y las alianzas regionales.",
+      "analisis_en": "Trump rejects Iran's seven-day plan to reopen negotiations on the Strait of Hormuz, intensifying confrontation in a strategically critical global oil chokepoint. This rejection maintains high risk of military escalation in the Persian Gulf and directly impacts global energy stability and regional alliances."
     },
     {
       "rank": 2,
-      "titulo": "Crisis Constitucional en Estados Unidos: Enfrentamiento Ejecutivo-Judicial sobre Libertad de Prensa",
-      "titulo_en": "Constitutional Crisis in the United States: Executive-Judicial Confrontation over Press Freedom",
-      "region": "América del Norte",
+      "titulo": "Consolidación de la extrema derecha en Europa y su estrategia de control de la UE",
+      "titulo_en": "Far-Right Consolidation in Europe and Strategy to Control the EU",
+      "region": "Europa",
       "noticia": {
-        "titulo": "Trump impide a periodistas de CNN, Politico y MS NOW acceder a la Casa Blanca pese a que un juez levantó el veto",
-        "link": "https://elpais.com/internacional/2026-09-24/un-juez-levanta-la-prohibicion-de-acceso-a-la-casa-blanca-impuesta-por-trump-a-cnn-ms-now-y-politico.html",
+        "titulo": "La Europa de Le Pen, Weidel y Meloni: cómo los ultras planean tomar la UE",
+        "link": "https://cincodias.elpais.com/opinion/2026-09-26/la-europa-de-le-pen-weidel-y-meloni-como-los-ultras-planean-tomar-la-ue.html",
         "fuente": "El País"
       },
-      "analisis": "La administración Trump desacata una orden judicial que ordena restablecer el acceso de medios de comunicación críticos a la Casa Blanca, generando un conflicto directo entre poderes ejecutivo y judicial que erosiona los fundamentos constitucionales estadounidenses. Esta confrontación presagia posibles crisis institucionales mayores y debilita la credibilidad democrática de Estados Unidos en el escenario internacional.",
-      "analisis_en": "The Trump administration defies a judicial order to restore access for critical media outlets to the White House, generating direct conflict between executive and judicial powers that erodes US constitutional foundations. This confrontation foreshadows potential major institutional crises and weakens US democratic credibility on the international stage."
+      "analisis": "Los líderes ultraderechistas europeos (Le Pen, Weidel, Meloni) coordinan estrategias para penetrar instituciones de la UE mediante convergencia en inmigración pese a divergencias sobre Rusia. Este avance representa un riesgo sistémico para la gobernanza comunitaria y la cohesión de políticas exteriores europeas, fragmentando respuestas coordinadas a amenazas globales.",
+      "analisis_en": "Far-right European leaders (Le Pen, Weidel, Meloni) coordinate strategies to penetrate EU institutions through convergence on immigration despite divergences on Russia. This advance represents systemic risk to community governance and EU foreign policy cohesion, fragmenting coordinated responses to global threats."
     },
     {
       "rank": 3,
-      "titulo": "Escalada Militar Regional en el Cuerno de África: Conflicto Tigray-Etiopía",
-      "titulo_en": "Regional Military Escalation in the Horn of Africa: Tigray-Ethiopia Conflict",
-      "region": "África Oriental",
+      "titulo": "Competencia geopolítica sino-estadounidense en Asia y posicionamiento sobre Taiwán",
+      "titulo_en": "Sino-US Geopolitical Competition in Asia and Taiwan Positioning",
+      "region": "Asia-Pacífico",
       "noticia": {
-        "titulo": "Fears of return to war as Tigray rebels launch offensive against Ethiopian army",
-        "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-        "fuente": "The Guardian"
+        "titulo": "At Summit, Xi Sought to Tilt Trump's Stance on America's Place in Asia",
+        "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Los rebeldes de Tigray han lanzado una ofensiva militar contra el ejército etíope después de un período de relativa calma, indicando el colapso de cualquier acuerdo de cese al fuego y el resurgimiento de un conflicto que ya causó decenas de miles de muertos. Esta reanudación de hostilidades amenaza con desestabilizar toda la región del Cuerno de África y potencialmente generar nuevas crisis humanitarias de gran escala.",
-      "analisis_en": "Tigray rebels have launched a military offensive against the Ethiopian army after a period of relative calm, indicating the collapse of any ceasefire agreement and the resurgence of a conflict that already caused tens of thousands of deaths. This resumption of hostilities threatens to destabilize the entire Horn of Africa region and potentially generate large-scale humanitarian crises."
+      "analisis": "Xi intenta en cumbre persuadir a Trump sobre el papel estadounidense en Asia, señalando tensiones sobre Taiwán y reconfiguración de alianzas regionales. La incertidumbre sobre compromisos estadounidenses con Japón y aliados regionales genera inestabilidad en el equilibrio de poder del Pacífico y riesgo de miscalcul estratégico entre potencias nucleares.",
+      "analisis_en": "Xi attempts at summit to persuade Trump on America's role in Asia, signaling tensions over Taiwan and reconfiguration of regional alliances. Uncertainty about US commitments to Japan and regional allies generates instability in Pacific power balance and risk of strategic miscalculation between nuclear powers."
     }
   ]
 }

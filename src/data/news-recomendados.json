@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-09-25T15:02:36.952Z",
+  "generatedAt": "2026-09-26T10:01:45.467Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Los cultivos récord de coca en Bolivia alimentan una creciente demanda mundial de cocaína",
+          "link": "https://insightcrime.org/es/noticias/cultivos-record-de-coca-en-bolivia-alimentan-creciente-demanda-mundial-cocaina/",
+          "pubDate": "2026-09-25T18:10:52.000Z",
+          "snippet": "Los cultivos récord de coca en Bolivia alimentan una creciente demanda mundial de cocaína Bolivia registró un nuevo récord de cultivos de coca, mientras crece la brecha entre la producción de hoja y la demanda del mercado legal. The post Los cultivos récord de coca en Bolivia ali…",
+          "title_en": "Record coca crops in Bolivia are fueling a growing global demand for cocaine"
+        },
         {
           "title": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN)",
           "link": "https://insightcrime.org/es/colombia-organized-crime-news/los-pachenca/",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-22T20:04:17.000Z",
           "snippet": "Lo que los grafitis en la selva revelan sobre la destrucción del Parque Nacional Sierra del Lacandón en Guatemala En la Sierra del Lacandón, los grafitis revelan cómo el narcotráfico y la ganadería ilegal impulsan el control criminal y la deforestación en Guatemala. The post Lo q…",
           "title_en": "What Graffiti in the Jungle Reveals About the Destruction of the Sierra del Lacandón National Park in Guatemala"
-        },
-        {
-          "title": "Los Tiguerones: EE.UU. designa como terrorista a un grupo criminal que se fragmenta en Ecuador",
-          "link": "https://insightcrime.org/es/noticias/los-tiguerones-ee-uu-designa-terrorista-a-grupo-criminal-que-se-fragmenta-ecuador/",
-          "pubDate": "2026-09-18T17:42:42.000Z",
-          "snippet": "Los Tiguerones: EE.UU. designa como terrorista a un grupo criminal que se fragmenta en Ecuador EE.UU. designó a Los Tiguerones como organización terrorista en medio de su fragmentación y la pérdida de territorio frente a grupos rivales en Ecuador. The post Los Tiguerones: EE.UU.…",
-          "title_en": "Los Tiguerones: U.S. Designates a Criminal Group That Has Splintered in Ecuador as a Terrorist Organization"
         }
       ]
     },
@@ -102,6 +102,20 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Cómo manejar la ansiedad por la IA en el trabajo",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92WHhjV1phbUx5cVNTUDlQZ3RpUHRlWmRHM2JfUjhWT3hUYWNreDZaeUZrVDZmVGFQOXhPOHhHdU4zRWtOZG9pRldOb1M5M3VyMVNLZllYUVBWSUVlUWNn?oc=5",
+          "pubDate": "2026-09-25T21:06:43.000Z",
+          "snippet": null,
+          "title_en": "How to Manage Anxiety About AI at Work"
+        },
+        {
+          "title": "La economía mundial se está estabilizando. Pero no todo son buenas noticias, según los economistas jefe",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVZCaE5rdjAwRXI4ZVVHVENnUmlmbDV0QTdvc3lIaXZzUDJTQlV5LW9RVkxOX2JoQjJqUVlNU09NOW5US1Q5ZjhzSTdxQWw5dERmSHo1bXNMUzFySllLR0NNYUdZMjlQbWdXUHYyaTJwYzg5eFpTOW1ySEtnVzJ4X2x2UkZjLXl1OTBaY2ZnVVRTdFA2UkRfQVdaRzdWQm9odVBSRWJTc2psRWlHa2dONlBYazlnMXp0SGJqX0FxQ1lSeGhORllhN1E0MUY?oc=5",
+          "pubDate": "2026-09-25T21:06:41.000Z",
+          "snippet": null,
+          "title_en": "The global economy is stabilizing. But it's not all good news, according to chief economists"
+        },
+        {
           "title": "Travel & Tourism Development Index 2026",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NRkNvUHMxOG1YcGVSRmE2RmlPNTZPQ0x4WjNRNjNrUVJGSmN2YXBxQUp4S19PcC1oTDBlQnNES2s1a1BmV09GVGFIUDhSRGk3SlFUZEs1MC1tYnFaSXdyZWpvZGR3YjRBLWJnckZIUHZpbEZtajhYNXFJOWF6Ylk?oc=5",
           "pubDate": "2026-09-25T08:44:08.000Z",
@@ -120,21 +134,7 @@
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEp6Z3djVUx5TC03cEk2STVoU2RpMGN3eVRUclB1Nzh4UGNUNFRSVmJpX21QOUpVMlo4V2U4NzJhcF9JUmlyckwySU8wcDZTMHNheG1wMzg3Y1VaZHFLT3Fybkk5amFUQkhRT2JFYmZfd28wdWYzaENBYlVOcVFwWF93MzRSYTVNQ29EcDdiWmgyT1BqSDFwSw?oc=5",
           "pubDate": "2026-09-23T17:31:45.000Z",
           "snippet": null,
-          "title_en": "These are the 10 countries with the greatest gender equality in the world"
-        },
-        {
-          "title": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTh5RGJNeVFTeEtjWDBnSzV0cXFnUm5vMTA0eGhsc3NtTXpTWU1abGxJU0ljekIwOE9rVndvU0tKRUVudjRzUjZGakFYTExNZDhjQU0ySklIVHNsVDJBNHFQMDZXeVNMcUhIOHRzbWV3SzhzOTFvcGQwM1A0N0xPVE9nQlBCcXdyMkZ3c1I4NXFXSWtjY3lrN0oxV2pxRTJNTm5xTHJtV0tQQ2NNc2w5R2E5OFNzdGhVQUFKY21wYjNEZDQ?oc=5",
-          "pubDate": "2026-09-23T10:42:48.000Z",
-          "snippet": null,
-          "title_en": "The Resilience-to-Growth Circularity Playbook for Industrial Solutions and Manufacturing"
-        },
-        {
-          "title": "Jeddah Hub - YOUTH2030",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWEJjTURjSmZpa1JhM2YyWlNfeF8zVFpMN2FHTktVcHE3VXhWUV9CREVrUDZCcUFHYlZrNlZGcEF3SzJwX2ZSeVBHNm5wYjhuZVRISGo4eEhaN0o4Y2NXRjhuSWFIVWRaeEJWOXpaczF1STJnQmJSTGY5T2RNQkxjTjBiT3VnZHdBSEJzQ1F3?oc=5",
-          "pubDate": "2026-09-23T04:45:28.000Z",
-          "snippet": null,
-          "title_en": "Jeddah Hub - YOUTH2030"
+          "title_en": "These are the 10 countries with the highest levels of gender equality in the world"
         },
         {
           "title": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience",
