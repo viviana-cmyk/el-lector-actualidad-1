@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-09-26T14:12:05.330Z",
+  "generatedAt": "2026-09-27T10:02:58.043Z",
   "outlets": [
     {
       "name": "Semana",
       "color": "blue",
       "items": [
         {
-          "title": "Presidente Abelardo De La Espriella entrega nuevo balance de seguridad: 47 capturas en las últimas 24 horas",
-          "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-seguridad-47-capturas-en-las-ultimas-24-horas/202616/",
-          "pubDate": "2026-09-26T13:47:16.000Z",
+          "title": "Gobierno de Abelardo De La Espriella entrega nuevo balance operativo de la Fuerza Pública en las últimas 24 horas: 72 capturas y seis neutralizaciones",
+          "link": "https://www.semana.com/nacion/articulo/gobierno-de-abelardo-de-la-espriella-entrega-nuevo-balance-operativo-de-la-fuerza-publica-en-las-ultimas-24-horas-72-capturas-y-seis-neutralizaciones/202611/",
+          "pubDate": "2026-09-27T03:08:11.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "President Abelardo De La Espriella Releases New Security Report: 47 Arrests in the Last 24 Hours"
+          "title_en": "Abelardo De La Espriella's administration releases a new operational report on law enforcement activities over the past 24 hours: 72 arrests and six neutralizations"
         },
         {
-          "title": "DEA destacó extradición de alias Araña: “Demuestra lo que EE. UU. y Colombia pueden lograr cuando trabajamos juntos”",
-          "link": "https://www.semana.com/mundo/articulo/dea-destaco-extradicion-de-alias-arana-demuestra-lo-que-ee-uu-y-colombia-pueden-lograr-cuando-trabajamos-juntos/202631/",
-          "pubDate": "2026-09-26T13:11:31.000Z",
+          "title": "Reportan atentado en la vía férrea de Fundación, Magdalena: gobernadora hizo llamado al presidente Abelardo De La Espriella",
+          "link": "https://www.semana.com/nacion/articulo/reportan-atentado-en-la-via-ferrea-de-fundacion-magdalena-gobernadora-hizo-llamado-al-presidente-abelardo-de-la-espriella/202641/",
+          "pubDate": "2026-09-27T02:48:41.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "DEA Highlighted the Extradition of “Araña”: “It Shows What the U.S. and Colombia Can Achieve When We Work Together”"
+          "title_en": "Attack Reported on the Railroad in Fundación, Magdalena: Governor Appeals to President Abelardo De La Espriella"
         },
         {
-          "title": "Capturan en Buenaventura a alias Pineda, presunto cabecilla de zona de Los Shottas",
-          "link": "https://www.semana.com/nacion/cali/articulo/capturan-en-buenaventura-a-alias-pineda-presunto-cabecilla-de-zona-de-los-shottas/202611/",
-          "pubDate": "2026-09-26T11:52:11.000Z",
+          "title": "Operación Iron avanza en el centro de Cali: Gobierno reporta capturas e incautaciones durante despliegue de seguridad",
+          "link": "https://www.semana.com/nacion/cali/articulo/operacion-iron-avanza-en-el-centro-de-cali-gobierno-reporta-capturas-e-incautaciones-durante-despliegue-de-seguridad/202605/",
+          "pubDate": "2026-09-27T02:45:05.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Alias Pineda, the alleged local leader of Los Shottas, was arrested in Buenaventura"
+          "title_en": "Operation Iron Moves Forward in Downtown Cali: Government Reports Arrests and Seizures During Security Deployment"
         },
         {
-          "title": "Primer túnel submarino de América Latina: Operaría en el 2031 y tendría 870 metros de longitud bajo el agua",
-          "link": "https://www.semana.com/mundo/articulo/primer-tunel-submarino-de-america-latina-operaria-en-el-2031-y-tendria-870-metros-de-longitud-bajo-el-agua/202600/",
-          "pubDate": "2026-09-26T11:40:00.000Z",
+          "title": "Gobierno De La Espriella revisará millonarios recursos para las regiones: advierte baja ejecución y posibles irregularidades",
+          "link": "https://www.semana.com/nacion/articulo/gobierno-de-la-espriella-revisara-millonarios-recursos-para-las-regiones-advierte-baja-ejecucion-y-posibles-irregularidades/202645/",
+          "pubDate": "2026-09-27T00:57:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Latin America's First Undersea Tunnel: It Is Expected to Begin Operations in 2031 and Will Be 870 Meters Long Underwater"
+          "title_en": "De La Espriella's Administration to Review Millions in Funding for the Regions: Warns of Low Disbursement Rates and Possible Irregularities"
         },
         {
-          "title": "Colombia se suma a importante alianza internacional para proteger un recurso vital para la humanidad",
-          "link": "https://www.semana.com/sostenible/articulo/colombia-se-suma-a-importante-alianza-internacional-para-proteger-un-recurso-vital-para-la-humanidad/202600/",
-          "pubDate": "2026-09-26T11:10:00.000Z",
+          "title": "Rodrigo Lara denuncia que la mayoría de los alcaldes en zonas rojas están sin esquemas de seguridad completos",
+          "link": "https://www.semana.com/politica/articulo/rodrigo-lara-denuncia-que-la-mayoria-de-los-alcaldes-en-zonas-rojas-estan-sin-esquemas-de-seguridad-completos/202613/",
+          "pubDate": "2026-09-27T02:24:13.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Colombia Joins a Major International Alliance to Protect a Vital Resource for Humanity"
+          "title_en": "Rodrigo Lara claims that most mayors in high-crime areas lack comprehensive security plans"
+        },
+        {
+          "title": "¿Cuándo vuelve a jugar la Selección Colombia?: rival, día y hora del próximo encuentro de la Tricolor",
+          "link": "https://www.semana.com/deportes/articulo/cuando-vuelve-a-jugar-la-seleccion-colombia-rival-dia-y-hora-del-proximo-encuentro-de-la-tricolor/202611/",
+          "pubDate": "2026-09-27T03:10:11.000Z",
+          "snippet": null,
+          "_priority": "DEPORTES",
+          "title_en": "When will the Colombian National Team play again?: opponent, date, and time of the Tricolor's next match"
         }
       ]
     },
@@ -52,52 +60,28 @@
       "color": "peach",
       "items": [
         {
-          "title": "Consejo de Estado decreta ‘muerte política’ de Iván Name por caso de corrupción de la Ungrd",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdkQzTDBFLUZjTWxFY1B3RGxOaWxiVFNJSXpFREV3Y0RzSXlxdjRubjhmaTZGQllGa2YyRHZmMXRjRHlqaTlhb1pURzl6cDZSRjRWcWVPMmYxSjZha1BKdGNKc29leHo1M00waU1aZUduSkpyal9UM18wMUE2SEpNalk4VXJkV3BGNWpuWmV0Q1B4SEhTZmYxZ01zNTFYNDNLODFicUk3bHlWZW8zSnU5Qmt2RVNNX2NvT05aNV9NQWlOeGJrcnJj0gHbAUFVX3lxTE03Y3hoTnBXUzJkcjBLRTh2X2EzcFhROGtpYkloWUZHc3JGLTZZcVdtQ09udTRuajZxWW1CZUszVTZsU1c2MHlGMUllTExKcGpMekhlMl9tSXk5b1RROWp6b05pc1l2eFRzcVAzVkgxQkEzV0dZaHZ0S0gwUXZxYUxxV1QxMU5iZjBlWG4zd3czOFJmOFBkT1c1WWo3X2JjMk1iSVk3eDRhWThBdFFlLXgtTkZIYXI5VXgySVl6LTRZQlZaU3BqYkdtalFCZW5pcEtmNlh1a0l0YUE4MA?oc=5",
-          "pubDate": "2026-09-25T20:21:00.000Z",
+          "title": "Gobierno alerta por falta de pagos y retrasos en ejecución de proyectos en la ART",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMkNITHZuRVd3SGdNd2NpS1g5ajR2b1FtWlVpY3lMWE9aZ2pWdHZweGhKNzZaQnJJaExZNG5uQkhmZmtyNy15ZWFVSGgwamkySUJfdy1jU0VDRUVYZjJHTFBrOXpuVDdndEtYemVWRVMyM2cxSVhqeVFER2dLeW02dUczUzViQi1YY0hjRkwxWnRHMk1VOEZvOXkwdmNmTzBPVEo1TkstVW5oaW11WE5xNXdyR2tNT0x0Wm5CNV9PbmVxQWp1Q1JzZFBDX3U3Q01WTGppc09MZmdjQWRpdWc4bmdRMDRYd9IB5gFBVV95cUxOMkNITHZuRVd3SGdNd2NpS1g5ajR2b1FtWlVpY3lMWE9aZ2pWdHZweGhKNzZaQnJJaExZNG5uQkhmZmtyNy15ZWFVSGgwamkySUJfdy1jU0VDRUVYZjJHTFBrOXpuVDdndEtYemVWRVMyM2cxSVhqeVFER2dLeW02dUczUzViQi1YY0hjRkwxWnRHMk1VOEZvOXkwdmNmTzBPVEo1TkstVW5oaW11WE5xNXdyR2tNT0x0Wm5CNV9PbmVxQWp1Q1JzZFBDX3U3Q01WTGppc09MZmdjQWRpdWc4bmdRMDRYdw?oc=5",
+          "pubDate": "2026-09-27T00:51:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Council of State Declares Iván Name's \"Political Death\" Over UNGRD Corruption Case"
+          "title_en": "Government Issues Warning Over Non-Payments and Delays in Project Implementation at the ART"
         },
         {
-          "title": "Alejandro Ordóñez presentó credenciales como embajador de Colombia ante la OEA",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRUpXWFRzZ2trQ2dIVWZzNTVjcUczdXczMzU0eWtsd0l2N0E1Y1dWTTFFMzlJMW5veU5rODVXemtYUy1NdHZqblRwSUYzeGIyekxkM1dkTjBXdkw2d0pRVlBYS0p0NTRKbFVPLTlGTC1GQ1gyVWxTSEFoUmlaS3NkcEd5azNlUzlPNm1FNVpQZ1NUX2w4bjZWUVBPYXp0VlpDaG12Tmo4aG1zeWJZNkxJcWFtSlI2RWl3UjhNYUpGV2FLNUtrdURJcDhibWHSAcwBQVVfeXFMTUVKV1hUc2dra0NnSFVmczU1Y3FHM3V3MzM1NHlrbHdJdjdBNWNXVk0xRTM5STFub3lOazg1V3prWFMtTXR2am5UcElGM3hiMnpMZDNXZE4wV3ZMNndKUVZQWEtKdDU0SmxVTy05RkwtRkNYMlVsU0hBaFJpWktzZHBHeWszZVM5TzZtRTVaUGdTVF9sOG42VlFQT2F6dFZaQ2htdk5qOGhtc3liWTZMSXFhbUpSNkVpd1I4TWFKRldhSzVLa3VESXA4Ym1h?oc=5",
-          "pubDate": "2026-09-26T00:38:18.000Z",
+          "title": "Lara anuncia medidas de coordinación y de protección para alcaldes en zonas rojas de Bolívar",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYmhLNnJ4dVpEOTFRODRwZUJ3MDZYai0wSjdXNzJQdlVRc0s3cV9mX1lVU2lBMzk1XzlCLVJrcm1UOFpHVW5rV3k2bWFfM1I2SnF5WTNFb1ZXcXFUdEZWODJram1GaXJqY2NPS0VtS19yNjMtYkdsMkVYLVAtRTlVQUdTOXl4dlBOMDJsUG1KZmZjYnc0Rzd1YkZzM3NaRjRtQjdZSmVzUktkLWdRbGVGRkI1NEZsOVE5NlFEU05JVkIwU2FYTFZMVHh0VEx4cFl0bnRPbmxsdWhvWVpCbHNB0gHfAUFVX3lxTFBiaEs2cnh1WkQ5MVE4NHBlQncwNlhqLTBKN1c3MlB2VVFzSzdxX2ZfWVVTaUEzOTVfOUItUmtybVQ4WkdVbmtXeTZtYV8zUjZKcXlZM0VvVldxcVR0RlY4MmtqbUZpcmpjY09LRW1LX3I2My1iR2wyRVgtUC1FOVVBR1M5eXh2UE4wMmxQbUpmZmNidzRHN3ViRnMzc1pGNG1CN1lKZXNSS2QtZ1FsZUZGQjU0Rmw5UTk2UURTTklWQjBTYVhMVkxUeHRUTHhwWXRudE9ubGx1aG9ZWkJsc0E?oc=5",
+          "pubDate": "2026-09-26T23:16:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Alejandro Ordóñez presented his credentials as Colombia's ambassador to the OAS"
+          "title_en": "Lara Announces Coordination and Protection Measures for Mayors in Bolívar's \"Red Zones\""
         },
         {
-          "title": "Colombia entregó su balance sobre la ONU: “Cambia el tono de la relación con Estados Unidos”",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVDlTNV9RZFl3WHV6VHZXcjg1Vlpnb3lYVV9NWFcxdnhOSXUwM3dTSTlpUE1XVEt4ckVJNDJINGRBbmYyNVdIVlpYVDdCX3pwaDJ5WTFleFpHaG1xSVhvOXgtdFB2a1dBNXplMEg0WGhDX1dfT284UGI4bzdLcXBFV1ZkZVFLLTVVdmstUzBlUXV1YmRWdXVXMFJMMzZSSVdUd1Q4ODZTX3FlYjNTZzVJbE5FMzdyaUYxLU1XU1NTZ1FBWnVlQ0hUdmtMZTk1dkNkakRYVm0zdE5iUmhWX3RLUVBCd9IB4wFBVV95cUxQVDlTNV9RZFl3WHV6VHZXcjg1Vlpnb3lYVV9NWFcxdnhOSXUwM3dTSTlpUE1XVEt4ckVJNDJINGRBbmYyNVdIVlpYVDdCX3pwaDJ5WTFleFpHaG1xSVhvOXgtdFB2a1dBNXplMEg0WGhDX1dfT284UGI4bzdLcXBFV1ZkZVFLLTVVdmstUzBlUXV1YmRWdXVXMFJMMzZSSVdUd1Q4ODZTX3FlYjNTZzVJbE5FMzdyaUYxLU1XU1NTZ1FBWnVlQ0hUdmtMZTk1dkNkakRYVm0zdE5iUmhWX3RLUVBCdw?oc=5",
-          "pubDate": "2026-09-25T20:55:00.000Z",
+          "title": "\"Hay un nuevo abordaje de las relaciones internacionales\": balance del canciller en EE. UU.",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTG03Q3ZLMDJKTTQ0Um9QRndzZjRTMjAxRGpwem5VWGN0V09LNVpBWEM3N2g1VENmZ2lsSlVMQ3FNN0dUMEhjRXc2LVhndExHSVE2ME5RVWZEWTIydWRreGZIQ2Nib0ZHenJxZm1rOG11cTRZblFZdWJHRzhhSTg3RjNXR3cwcGVyWG5FaS1kMkFHTTRwRzBRNGY1ckN4T1JEQm15NzZSemtpcllReFE2U1F6aEQtbmpoVkNPZnFLb2l6UWprVVdRZVJCYjhiVDh4N2dCemVXZy1jNzFkY1JDSEh6THlTdjJNOTFDamVfMVpGd2dGOUlNaEUtY3HSAfwBQVVfeXFMTkxtN0N2SzAySk00NFJvUEZ3c2Y0UzIwMURqcHpuVVhjdFdPSzVaQVhDNzdoNVRDZmdpbEpVTENxTTdHVDBIY0V3Ni1YZ3RMR0lRNjBOUVVmRFkyMnVka3hmSENjYm9GR3pycWZtazhtdXE0WW5RWXViR0c4YUk4N0YzV0d3MHBlclhuRWktZDJBR000cEcwUTRmNXJDeE9SREJteTc2UnpraXJZUXhRNlNRemhELW5qaFZDT2ZxS29pelFqa1VXUWVSQmI4YlQ4eDdnQnplV2ctYzcxZGNSQ0hIekx5U3YyTTkxQ2plXzFaRndnRjlJTWhFLWNx?oc=5",
+          "pubDate": "2026-09-26T20:50:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Colombia Presented Its Assessment of the UN: “The Tone of the Relationship with the United States Is Changing”"
-        },
-        {
-          "title": "De la Espriella rechazó asesinato de dos policías en Norte de Santander y culpó al ELN",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNby1QVHRXaUU2SXdIRlNzSzZTcG9mdS1JNlpoZnZ2MWk1YWVNMGpSc2wzZVc4WkFJck96a2x4UUpfU2hQUW5xVzlLWkpadERlcUFVb3NLaXRwRWJiVmpvd29zbE54THBNckVjZV9NNkgxYzE4RW83XzByX1ZOOC0ydFJQSDBOMGlmdEdBdlVxXzY5ZEwwTXdQRUtkYkZvZE1JV3hGUFY5eWpSZmh5dHhlcEZvNHNUTGJ0OW9yZWN6SWRSR0IxX3JIM1Mwb3hCRTDSAc8BQVVfeXFMTW8tUFR0V2lFNkl3SEZTc0s2U3BvZnUtSTZaaGZ2djFpNWFlTTBqUnNsM2VXOFpBSXJPemtseFFKX1NoUFFucVc5S1pKWnREZXFBVW9zS2l0cEViYlZqb3dvc2xOeExwTXJFY2VfTTZIMWMxOEVvN18wcl9WTjgtMnRSUEgwTjBpZnRHQXZVcV82OWRMME13UEVLZGJGb2RNSVd4RlBWOXlqUmZoeXR4ZXBGbzRzVExidDlvcmVjeklkUkdCMV9ySDNTMG94QkUw?oc=5",
-          "pubDate": "2026-09-25T18:27:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "De la Espriella condemned the murder of two police officers in Norte de Santander and blamed the ELN"
-        },
-        {
-          "title": "Regulación global del precio de los medicamentos",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVRHSVBtTnk0bVh4YzA1SklDRzdiZ2dTZndFdnA5WlRrb3p5OEI2NDBpWXMyMWZCVEREUUhPcjYwQTF3Q29Wd1FpY1dZWFIyeHlnYWI5cVRpSkVOUjhmRTRhSmpNSTBzN1o0N0lBTWkzNmJRV0cwTi1lSnNkLUZOSVNqLVhyQ2Z5NHZhVmRsOExpWXZZbzloaXJIREFmOFZENkZpbnF2Mlc4YlpiX1JTNGZjLUZwdU930gHMAUFVX3lxTE9kWWZJQU15dm5ybm1Yei13VDNjVG1oVG9iU3VrdnpHbnJfWVBvT3ZjVzFyYXlRY2N1czZncURVLXZPd01CSFMtS05jLXhhaklqV1c0QTdnUkRPWlplZnY5MVczWnFIRzdKRk9uaUIzaHlMZjRPbW5kbXNFZERUOVFSNzVSQmozU3NBVzJBTW8zVXM0ejVFWmZsYWIxLWFPUmJrNG00eDgyMDB4a3dJa25uQ1pNb1hVbkh1OF9YUjNNbXJBLTRscDlrOU10bg?oc=5",
-          "pubDate": "2026-09-26T05:01:32.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Global Regulation of Drug Prices"
-        },
-        {
-          "title": "La cultura debe ser política de Estado, no de gobierno",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkVnb2hYNm9xTjRDd2lhQUExY0ZEMGVjUl9XUExUVXRWUFp2YTh2Ty11QUl4ZHRLdG15dEQxYVRvRXUzSUxrdWE1bEZrX0Q0aE5hbkNlaGdBOU41aWhXSFl6QzBOc2NrZ3RaOElKaEE3M2NfUnJNbmE2a0QyRVp0OGxuR1ZGX1pZYm14enpvcVJCYkpvem5vazFpMTdOdm5mNnYw0gG3AUFVX3lxTE1hdnZJVHRINjlQLXBDS1pEdHB3TmdENlJ2eHA3SWpxdnFEUFBPdGNhaERUUFEwZ1V0T2pvS3ZmcXpzdlRDajlJaEh0dHdQZ3g1NEdjSGJkQl8taW9Yd2lBcGNCV0xnVkhVVG5Ga201S0JQY2N1akU2NHFKclZoX0xYVEhFMi1XdTB6cmZTcld5MFI4ZDc5SlR0bjI4S01UY2RtSnRqZ3cwTTR6QnFfU2JieEo1OVlZYw?oc=5",
-          "pubDate": "2026-09-26T05:06:35.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Culture should be a matter of state policy, not government policy"
+          "title_en": "\"There is a new approach to international relations\": the foreign minister's assessment during his visit to the U.S."
         }
       ]
     },
@@ -106,44 +90,36 @@
       "color": "rose",
       "items": [
         {
-          "title": "La batalla por recuperar Santa Marta del poder criminal que se ha disputado durante 60 años",
-          "link": "https://www.eltiempo.com/colombia/otras-ciudades/la-batalla-por-recuperar-santa-marta-del-poder-criminal-que-se-ha-disputado-durante-60-anos-3589098",
-          "pubDate": "2026-09-26T04:01:00.000Z",
-          "snippet": "‘Los Pachenca’ construyeron durante años un sistema de control que penetró sectores de la economía y la vida cotidiana del territorio.",
+          "title": "Ministerio de Salud prioriza 1.462 pacientes críticos en San Andrés y Providencia con plan de choque para agilizar tratamientos y procedimientos",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/ministerio-de-salud-prioriza-1-462-pacientes-criticos-en-san-andres-y-providencia-con-plan-de-choque-para-agilizar-tratamientos-y-procedimientos-3589289",
+          "pubDate": "2026-09-27T08:43:05.000Z",
+          "snippet": "La agenda territorial incluyó recorridos por hospitales, una audiencia pública y reuniones con autoridades, trabajadores, veedores y comunidad.",
           "_priority": "ALTA",
-          "title_en": "The 60-year battle to reclaim Santa Marta from criminal forces"
+          "title_en": "The Ministry of Health is prioritizing 1,462 critically ill patients in San Andrés and Providencia with an emergency plan to expedite treatments and procedures"
         },
         {
-          "title": "Frustran atentado en Jamundí, Valle: lo que se sabe del ataque de disidentes de Farc con explosivos en el sector de Las Piñas contra la Fuerza Pública",
-          "link": "https://www.eltiempo.com/colombia/cali/frustran-atentado-en-jamundi-valle-lo-que-se-sabe-del-ataque-de-disidentes-de-farc-con-explosivos-en-el-sector-de-las-pinas-contra-la-fuerza-publica-3589141",
-          "pubDate": "2026-09-26T12:40:48.000Z",
-          "snippet": "Hombres en moto lanzaron artefactos contra los uniformados. Una de las cargas detonó y la otra no.",
+          "title": "Explosión de artefacto en vía férrea del Magdalena causó daños materiales en Aracataca; autoridades convocaron PMU permanente y no reportaron heridos",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-artefacto-en-via-ferrea-del-magdalena-causo-danos-materiales-en-aracataca-autoridades-convocaron-pmu-permanente-y-no-reportaron-heridos-3589285",
+          "pubDate": "2026-09-27T04:38:36.000Z",
+          "snippet": "La Gobernación del Magdalena informó que continúa la verificación para establecer las circunstancias y la procedencia del elemento utilizado.",
           "_priority": "ALTA",
-          "title_en": "Attack Foiled in Jamundí, Valle: What Is Known About the Attack by FARC Dissidents Using Explosives in the Las Piñas Area Against Security Forces"
+          "title_en": "An explosion caused by an explosive device on the Magdalena railroad line caused property damage in Aracataca; authorities established a permanent emergency response unit and reported no injuries"
         },
         {
-          "title": "Así fue el golpe contra banda en Medellín con nueve capturados, entre ellos cinco policías: 'No toleramos a los bandidos y tampoco a los corruptos'",
-          "link": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-golpe-contra-banda-en-medellin-con-nueve-capturados-entre-ellos-cinco-policias-no-toleramos-a-los-bandidos-y-tampoco-a-los-corruptos-3589145",
-          "pubDate": "2026-09-26T13:21:39.000Z",
-          "snippet": "El alcalde de Medellín, Federico Gutiérrez, confirmó la captura de alias Gordo, coordinador de la estructura 'Cotranal', y de cinco uniformados.",
+          "title": "¿Habrá racionamiento de energía en Colombia? Los compromisos tras reunión de Abelardo De la Espriella y Federico Gutiérrez por crisis de Afinia",
+          "link": "https://www.eltiempo.com/colombia/medellin/crisis-de-afinia-proteger-la-estabilidad-energetica-y-el-orden-publico-compromisos-tras-encuentro-de-de-la-espriella-con-federico-gutierrez-3589220",
+          "pubDate": "2026-09-26T22:15:00.000Z",
+          "snippet": "Gobierno Nacional y alcalde de Medellín buscan estructurar soluciones inmediatas y de largo plazo para evitar un racionamiento de energía.",
           "_priority": "ALTA",
-          "title_en": "Here's how the raid on a gang in Medellín went, resulting in nine arrests, including five police officers: \"We won't tolerate criminals or corrupt officials.\""
+          "title_en": "Will There Be Power Rationing in Colombia? Commitments Following the Meeting Between Abelardo De la Espriella and Federico Gutiérrez Regarding the Afinia Crisis"
         },
         {
-          "title": "Fuerte balacera deja tres heridos tras ataque a la Policía en Andes, Antioquia: entre las víctimas se encuentran un adolescente y un adulto mayor",
-          "link": "https://www.eltiempo.com/colombia/medellin/fuerte-balacera-deja-tres-heridos-tras-ataque-a-la-policia-en-andes-antioquia-dos-de-ellos-son-un-adolescente-y-un-adulto-mayor-3589151",
-          "pubDate": "2026-09-26T13:53:19.000Z",
-          "snippet": "El hecho violento comenzó en la zona urbana del municipio y se trasladó al área rural, donde los delincuentes hirieron a dos civiles durante su huida.",
+          "title": "A los 'héroes de Iguaque': Villa de Leyva rindió honores a bomberos, socorristas, pilotos y voluntarios que apagaron incendio que arrasó casi 1.500 ha",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/a-los-heroes-de-iguaque-villa-de-leyva-rindio-honores-a-bomberos-socorristas-pilotos-y-voluntarios-que-apagaron-incendio-que-arraso-casi-1-500-ha-3589230",
+          "pubDate": "2026-09-26T22:44:43.000Z",
+          "snippet": "En la plaza principal agradecieron a los cientos de hombres y mujeres que día y noche apoyaron la extinción del fuego.",
           "_priority": "ALTA",
-          "title_en": "Heavy gunfire leaves three injured after an attack on police in Andes, Antioquia: the victims include a teenager and an elderly person"
-        },
-        {
-          "title": "Cartagena de Indias conmemora los 10 años de la firma de la paz: la tarde en que unos aviones Kfir surcaron el cielo cartagenero con fines pacifistas",
-          "link": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-de-indias-conmemora-los-10-anos-de-la-firma-de-la-paz-la-tarde-en-que-unos-aviones-kfir-surcaron-el-cielo-cartagenero-con-fines-pacifistas-3589143",
-          "pubDate": "2026-09-26T13:14:44.000Z",
-          "snippet": "Cartagena de Indias conmemora los 10 años de la firma de la paz: así fue la tarde en que unos aviones Kfir surcaron el cielo cartagenero",
-          "_priority": "ALTA",
-          "title_en": "Cartagena de Indias commemorates the 10th anniversary of the signing of the peace agreement: the afternoon when Kfir jets flew over Cartagena for peaceful purposes"
+          "title_en": "To the “Heroes of Iguaque”: Villa de Leyva honored the firefighters, first responders, pilots, and volunteers who extinguished the fire that ravaged nearly 1,500 hectares"
         }
       ]
     },
@@ -151,6 +127,30 @@
       "name": "El Colombiano",
       "color": "slate",
       "items": [
+        {
+          "title": "De la Espriella designa a Beatriz Vélez como nueva presidenta de Colpensiones | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzNkUFV4R0g3VWtUcG1Ua3hoeFFHLXRGbHJmbTdHR3o0RmZKdU9IRDgxN3cxVjNDaGpiZEx0V3ZkVVZyMFZtX09qY3ZnNUtCSGw5REpwa0l5ZTBTM1kzOW9LU2pkd1BqYnVuZ3BMSW54TmRuTWpfbDlxMm1QTU9sNl82UGdMbEpaOThidzB2SlltUExvQ2ZnSzBvZURBRThPSjZGRU5B0gGrAUFVX3lxTE9YWTMwZEFtQS04eGdmSjBSME44RTdtRkJoWW82aGw3Mi1hdFNWVnZEWEVZNzQyajA5SmtZNnZ1dW5ZZ1V0UmtZcjNPX0k0N2E4MTBOVDZlVjFGaFlzUWFTM1JIV0ZzOGs3aURkYl9TaGhQd1drV1paeW93N05lV0l5REVoTUJJRThEbmNsX1VESVJxVlFtQng1d2RSWlhqaV9sdlJwc2hLMFc2dw?oc=5",
+          "pubDate": "2026-09-26T21:14:04.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "De la Espriella Appoints Beatriz Vélez as New President of Colpensiones | El Colombiano"
+        },
+        {
+          "title": "Asesinaron a subcomandante de la Policía de Bolívar, Cauca: habría sido obligado a bajar de un bus | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlF3UHVhdEtsWXpORWQ4eEc3QTNGQ0pocmt0NTJ6Y09iamctMUd2Tk9NaHNlX2RjdWtLWENFd1paTE1uR0hTTGN6RldLSC1GSE1TbWVSVGtwRUtPRHBmTmJxajB6a3huMzVtSVhvaTJBcnI2aXdKY0NLTDVaeGdYeTRWSmJ5NEZtVTRVVVBzbm1ZRnplWXh6WlZyaktjQS1nRnAtekpmUGY5WTkyWDBjNzBKdFh3bmxIVnfSAb8BQVVfeXFMTVhXQWkwb0hLd0lySjM5WnY0UE9LSXN0ck1XNVVNMWdhNXJtWmJVb0xHb0NGNEZuRkxxWWtVMTZSR3dYTXg3VTNmM1pFUFo0dnFYUFA1WFR2MXE1NkNyTWh0Y3dlYmJTaG4zS2hRNU8tdEtxTXZqM004V1k1SzRtRHRXYmN1NE9WU01GZUo5c3FKaTVpaHVWUHhFWEtNMUFWWWZBaTdFcXBEU3R6MVhGcXZlQ1pNUjZWNHBJUEFPVWs?oc=5",
+          "pubDate": "2026-09-26T16:44:50.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Deputy Police Commander in Bolívar, Cauca, Murdered: He Was Reportedly Forced Off a Bus | El Colombiano"
+        },
+        {
+          "title": "“160 cargos nuevos en año electoral que costarían $16.697 millones”: polémica por proyecto de acuerdo en Medellín | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1pkZnlrQlhQbHdwVmRQMzZybVRrRUtzOW1lNUFhcTdOWXEweURLbnprdWdRSDlaTW9rRmlmd1JvS0FIXzFqaWZ1WS1RV2E0NFNjVEw5alJ4WWZWQWtyN1ZCeHVkUjlEQVNydzhYVlZ2S3lPOUtoQnJiVDZXcVFVcGVTQ3hUbF9ieFZMam5wRy0xTkhEY1RZbW5ZMTFsQTBJbHF5UUVfc0NFVkxmaDVxeWdlcmVkdHhEdE0xTTBiV2MzVmRUV0R0ZjJ1U2ZLNU9NYjRPd3AwN2bSAd4BQVVfeXFMUGpiaGRBQl9WV3hIaFdtM2NDeExGZkFKUXNheGVWZXMyY0FvY0NidHBYaUFWaWgzT0FDV1o2czhueWJJYjdKTXFvdlRhNDNMVTdCd2xPQlJoLWZSTjdrbUJXSEVFTHJfNDh0aGYyX2c2aGdYclZWbjVkZ2Fzc1pBZHV6QXBabE9aT3ZoTThjWlFUcVhMeF9SNW5NZFhkWEkxNFVuNTR1ZFJ1Smw2SC1tdExmemV2VFhUc2ljaTZicC1tbjhaNXNzdmxKLXptNWREaURKU3VKNVdrOElBd0xR?oc=5",
+          "pubDate": "2026-09-26T09:26:40.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "“160 New Positions in an Election Year That Would Cost $16,697 Million”: Controversy Over Proposed Agreement in Medellín | El Colombiano"
+        },
         {
           "title": "Consejo de Estado declara la muerte política de Iván Name por caso de corrupción en la UNGRD | El Colombiano",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWxYbXVDOF9ybW9sRTE4bWVfX3A5SGdYbHJiaHl4eTlzTjhBMWNnRk5lcGEzdl9Kc0E3b2VVNE5DZUxndkdQOFFaeTYxUVVreWNZTnJ4bUJnd3lZZC1wV1VjMkFvNnFoVHRQbkJVTkdMZlFQdDZFaTZMU1d5ZEh0TE1SMi1BUXFYdFl2RG1zbm1QamxuUmwtVzJ6dUN1VTMzb0E0d0lR0gGrAUFVX3lxTE5pRUtMRkxiMF9oOFhjc0M0VVVGWFlEdUQ1M1NFNTdGRW5CbkdPeU80dm5zNWpvZEdmNF9NRlVUbFR2TFZ3UjZfSzMyVnhpVFRjNVpPSkNObHBxby1KRnFtemZYOUE3QnZLZTYtanFjczlHczdaUWVMOUJGQ29iemlZRGVpdVNJVEI3cFcwUjJZTzN0dVAxRjBTSGRFajhUem5pN25zMkJMV3ZPMA?oc=5",
@@ -160,44 +160,20 @@
           "title_en": "Council of State Declares Iván Name's Political Death Over UNGRD Corruption Case | El Colombiano"
         },
         {
-          "title": "Caen cinco policías que cobraban hasta $4 millones a “La Oficina” para proteger “plazas” de vicio | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObDRvMXRFQUdTeEFmUkJqekJHWXFUMUk0eFhaOVlXZ2N1cjcwNzd2SUpfUW5TS0ZLZUlGTmI1Nlh6R3RPdEJ0dTFlMjZNb0pUWTd5M0dOUEJrYVA2SHY2MXgzNEFVcU1xV0ZnOTRZcklTaGxxRXZJcDJmeGlKNU5QYXlWWEdJQUN2Nk1GcmFzOGpaVUI1bHotc0Q3dTFBVG9GVHFlTmpJenBhT2x5T0pHRllLSUFfeG1zU1HSAb8BQVVfeXFMUHhGdkozaDVUMUt0eURxZ1lIUVh5aVVkeTZ3c3dCUDJEZVFPQnFLaVU5aVlaRmhfNUs4dk50eDl2M1lkOEg3Ry1vQ2VJN0NMbEhFTzRjc0h0ZHR1MkFHR0h2OXFPUEdJMGFURDZVTWhUMVdUbEd3cHZBNXgzenR0clVlcGYxOVZUcmZvZGIzUjdVQkxZQTRoUnVWMUtoYU16QWtRQW9kTHdqWmJvWGI5eGtfdnc4WHZIUUhubWx5N3c?oc=5",
-          "pubDate": "2026-09-25T22:58:25.000Z",
+          "title": "RTVC dice que está “sin un peso”: gobierno Petro habría comprometido plata en conciertos y otros eventos | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZE1pVjRoaHJ1M0RqUHNvSHA4TlM0eTYtUzhpNTl5dEd0QkVmTC0yQjllUzEwelJGazBNc0NKcHF1ZFZEdjI5NXRWbjQzaHlNZHU3U0dOZWZKZVMzN3hWbXZtVklrUE5XODR6aWI3NGVMenMxdk14WTVzYVJNSWNvMGFLNTNZbEd4bFYyMnN2Ykg3dEZzOXhrcHZnUWhqMXJ6WTZycTlMeVRkeDBNNmRDWld2WmRJdVQ4bjV1TWRLRk9TTHdvQmRjZVluekVCVm9NTTdSZUJ4R2t1LVVKZ0gwLdIB5gFBVV95cUxOT0ZnOFctZXhuRXcwbHMyZlJYRjM3MXpuSGdaS3NfT2hUa3Z2Y0RvVm1IdXhWS2RWREpsUGhud3BwaDdWbXNiZmNlaEs2dmdQb0Zob1RadG43ZHhRUHRmZlJSbjhzOEszUFZoOFVHTThxa3dwVVdpcDQ0REtaZ3JDY3RvSVFpWXpUb1dnWkdsUmxhcV9qZlJIcWlEU1hRWUJ3dFJHQ0ZiMmN0TWFkU3hWUi1WdnNMVEtDZEdidXV3eXdmZFJlUjR5VnFONzluTl9qb0xFaVN5ODIxaUZSbkh5ZF9mX2l2QQ?oc=5",
+          "pubDate": "2026-09-26T02:43:53.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Five Police Officers Arrested for Extorting Up to $4 Million from “La Oficina” to Protect Vice “Hotspots” | El Colombiano"
+          "title_en": "RTVC says it is “broke”: Petro’s administration allegedly committed funds to concerts and other events | El Colombiano"
         },
         {
-          "title": "¿Se prepara EE. UU. para una posible intervención militar en Cuba? | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHFwVndyZW9FMzdSdTJaTzdmOHpnY0J4UEZuS2R5OEFWQ1Y3MGtfLXpacjJLa05zZy05T3A4UThDbHotQjVzUFJPVllkQTVuVXdTdW5XdFlwNFJLblVmNktjZEszaE5SRC1rcVRBWHluTlY1Tk51Mk0xcDVsZlRKWVQ3NFZXdzNtblRPSUNFalVJVHQ4RTdwR2hJQlBtc1Z1X0tn0gGoAUFVX3lxTE13M3NXd18zalpwSE0zMmF4WVFBb2dISTMtSEdyUlM3VzZ4WExxNkVNOE5OTFNLU04xVENYcHZBZXpDeEdWX200dVZvM2FWbTBQS2w5THFhYTNDWGlNRkpXbEJfeHRSWTNObERQb3NPTGxuYUlMOWcyUTkwcExWTlpTVTJ0OHZscXFvZ19HbS1TNjJCaEMtWlRWdUxjbzBhSWxlcEdSYkcyYg?oc=5",
-          "pubDate": "2026-09-25T21:10:59.000Z",
+          "title": "“No vengo a maquillar realidades”: Gutiérrez asume la Presidencia de Ecopetrol con la alerta por caída de reservas | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFp0OXY4cW12OFkwWjJzYnN0dHlWR3VBUnJPR3NGMXFUOGJBZFRTUVFfdVE0VEs0TndjMUxnbEZqNVA1bHU1WllxT25MVldSb1ktQU9xaXZhM01aVENPTzNreXhPeUV1LVFnWjZpUUtOdTNWQlU2V09vdFNfMDBiM3FNV3c3Snl3aVJKdU1EXzNKNjlCTUpsTU9pWUtkM3had0ROZTFWeVl3dUMtSXfSAbMBQVVfeXFMUE5vQktiMlFKQXdfbTJhcWhGUmc2dzVLdEVQc1pQWGVzQmRXVzNtRVN3dDY2MjRpRFBFMjJUc2RKeVdFY2Q2d3F3akpKX1JGanZDMGhITTJnQTZtV25vaFVKalZMWnU3Nm9oc1ZZQ0p0cFcxQkxGNEFlX2l1MlJRR203TEgzZ0JnTWdxNFlzYXFydmlldjVhSFMxVTNKSEpUV3NYNjBnTTdMMW1kODBKaFY3eTQ?oc=5",
+          "pubDate": "2026-09-26T02:17:46.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Is the U.S. Preparing for a Possible Military Intervention in Cuba? | El Colombiano"
-        },
-        {
-          "title": "Exclusivo | Enviaron a la cárcel a oficial (r) de Policía por provocar el desplazamiento forzado de la familia de Luis Alfonso | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObjlRTE1weGRWS1BneE40dGhraXR5ZE00RXNkZS1tdG9SUjVYS3Y0aDdwUWFMbWJRelNVdzk3cGxvRVNDT1ZUdG5fWUlGWFNDMlR1Mms3bDhXU0drakd6eFFZNjk2NE1hdWZhZ0ZQZlRNZDBETG9Gc2QwUnRxdDZQbXZpX3pVMmx1WG5lMjBXTG94UlVxMU1xczh6N2F0elZHd0k3cXJDVFJuaXhBVjBPUU9HbW1BYkt0T0RvRtIBwgFBVV95cUxPeE9oNW5fYnVIYjBOdGd2QUpBMV94QWNwLUJ1TUZib0RjOHVONjdEQ0hweHRhZkdEZEpEMy1MOXFoMzBfZlRvNlJEUVpUSDA2R004NEd6V2pBMGdiQVNrUVJWdjFyaXY2WnhxejVoVml6a3NQcUJEbzhTNmJFeTg4XzY5RXN3MmhSczhRNjV5UnRMWXo2UnFVUXJVdmVNNEZYcmNhMmhqMmxvY0EwUDdQMEZxZmFTbWR0ZWpkcGY4ei1OZw?oc=5",
-          "pubDate": "2026-09-25T21:10:59.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Exclusive | Retired Police Officer Sent to Prison for Causing the Forced Displacement of Luis Alfonso's Family | El Colombiano"
-        },
-        {
-          "title": "Cuatro mineros murieron tras explosión en mina de carbón en Santander; ya fueron identificados | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0VuSjBieTI3N0cxc1I4UmlDQ3dwdlplSXZCT2tkLVZXWUNRN1RDVXh4QzVLMURJWGJtMGk4NU5DNlBzWmM1c0RMVk1jQU9LZUhDZlI4MmstZGlvZFhvOU00blR4aEhjRHV6U3laRkFhNkx5WW5rT0Nja2hYaEVqRWcyNzB1MTNpWWZuM3dPdVVPX0FaWDhmRGNkZk1zSS1ET0oyLVBXUFowNk1jeFU2SEUtMjHSAboBQVVfeXFMTkRXRF9XTkJjMVdNWFBJc3hqSnQtWVZ5TDZkaHVIcDUxWDFfWEtUSk1wZXhod2hmX21QMHNXRnBPWnhtekNMeTBXbUxBQWNtclhOd0o4SU1XVjJXWVgxb2c0UmVkaTh1X01ORC1mX1B1Y2lkdHJKa0tuUU4tMWp5LUV5QWlocGxRTnpHZnpNOVd5Y0tmLVFyMjVhSlQyZHJGQnpyRC12c2tra29ZWHAyamxjT3Y4bXBWSkp3?oc=5",
-          "pubDate": "2026-09-25T13:10:36.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Four miners died after an explosion at a coal mine in Santander; they have been identified | El Colombiano"
-        },
-        {
-          "title": "Los jefes de OpenAI y Anthropic en el Consejo de Seguridad de la ONU: piden frenar la IA y evitar que acaparen su poder | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWIwRjVHSGwwTm9qeThZNlBDMURVTDBSNkVOcjhyRjZVZ3hUaTZVWE5pRUpvbVJ0MWlQWkh5SXFSQ0ZNanVDelRpLURWSGhTVnBSemFqb3A0TktIbkhjZ1cxek9Icng3aGh1cVllWktQMVpaRGtka0Fwa29EdHJGdzJCZlhZdVZsMFNLcmNzdUhySUMyQUgzaUtBSkFMMkMxWWdwNnU2d1dZMkJIYW9fZnMtNTYtYllLZEM2RlE3OTQ1QdIBxwFBVV95cUxPd2ZhU01yeEJlZVVKYjZhQ2xISC1XdlJrSnBuQ2phTlEyd3FwdElJSlJFV0xzeXlvcHFGQ29WZHpIeGlENHhDRXVQa0dVTGQxSzlfd1RTOE0yUVJRLUlXS3BCY1FOUkZmNWpXQkNmUTY0TGRYd3hqQ2hSSkl3ai1jUmpNLV8xYWEzMWxBcVo1MUJ6UFc4ZU1Mc0xZOXRJazMwZ05lTDlUVlNLQTJhcjQxRjBNdy1mdUhXaTMwZTVibkd2cFZmTkN3?oc=5",
-          "pubDate": "2026-09-25T14:34:10.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Heads of OpenAI and Anthropic at the UN Security Council: They Call for Curbing AI and Preventing It from Monopolizing Power | El Colombiano"
+          "title_en": "“I’m not here to sugarcoat reality”: Gutiérrez takes over as president of Ecopetrol amid concerns over falling reserves | El Colombiano"
         }
       ]
     },
@@ -206,52 +182,52 @@
       "color": "cream",
       "items": [
         {
+          "title": "A plena luz del día y con un arma: así fue el robo a una mujer en restaurante de Usaquén",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWlhajAteWxOMDE2ZEl6VWIzWFhSTmoxdDY3cjFLMjZJVU00Z3J1TW0xWTlwYlNDUGxXZ0tUWTJWUnktblk0N2JjOTROOVJxU21lSl9fX3ZiV2RMUVpHMWZnbE9YaFBLanNja252WGRzOVB0TWQxUjh1TDBHQTNTMjhGUzYtaW1KVGxhUkg0VzFVeGdpUkNZek1pa2lXaVNtSV9HUmZyajB3WHBUQmNoUXE2XzY1SUhTcEhDeVZQajlIVnpTMmVWYU13TnQzUdIB2wFBVV95cUxNZ2FwZm1uakh3TlZ2UWltRzgxM21MY0Z5dENvRXVKLU1zQWJ3RW05WUxtVzZMNjJNS3dCajFZVUpnclVJek0wa2hJV3M4dWJmMnduTWNPZEJDSUpIbWNkX2dhaVF0UUVjcnZ6NFdwOWtDbW9SR1puTm9KSjA1bDhRV0p3QjlRSXp2RmhubTlOeUFlQlljYmliQngtM2gzdlhUU1ltVV9BYUtLRnpiT2Znbjg1RmliWHJoNjlxV09BS1JLXzY4eENsc1VnNE5GUzdmTTR3bzYwalhWdXM?oc=5",
+          "pubDate": "2026-09-26T21:42:58.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "In broad daylight and at gunpoint: that's how a woman was robbed at a restaurant in Usaquén"
+        },
+        {
+          "title": "Autoridades investigan homicidio de teniente de la Policía en zona rural de Bolívar, Cauca",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZExDcWlCNTMtSEpnanJHdWIzS09TY0xBeEhycVZyMlNCdno2eVJud0FVMHVVOS1SRFd4WEJRRFJVM0hrWEw4UE1CRDVWbXNqb25tN1ZDNm9tNmFXZThFcFd4aF9WT0cyNFpkdFJPeFVLQUZCRHJCUDF0MUZTenJYMGwzZThtY2NDSHY4T2FzckhnZkVLWkFmTk1GSmtOOU9oSXhZM3RZMURnUU82RnlNY3N1eUY2OEF6OF92dHZmVFVKa3djeGtmSUR3SXdzeVVSRGtR0gHgAUFVX3lxTE1sT0hJLU0zUTl5T0RaclVGb0YzbGZUN0phak9kLXFZdW5aNTVBRmZQbVQ2SFJNbEFvYUUtVkRNN05fRDNfZS10WnBWY0xfSEtSM1hXallpTWZIZXJNNWJ2c2lHU2hVelN5Ym1TaVQ2RDBvQmZmOWlySGdsaDQtTTNJR2VqWHc4YkdpY054WTFzMFZkRExBQ0padmF6alpCV2FSMWdxY0FTQ1h5Umw3VDR3TkUtbDdncm55a3NidzZndzJQNUJZajJuMWl1eHdqV1dTRDFLZzBlMnlfcEtyTEJq?oc=5",
+          "pubDate": "2026-09-26T15:00:17.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Authorities Investigate the Murder of a Police Lieutenant in a Rural Area of Bolívar, Cauca"
+        },
+        {
+          "title": "Formalizarán a 4.000 mineros a través de alianza que impulsa MinTrabajo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSE9TaGJ6Wi1HNmlKUE9IZDZMZmJBYjE2RDZvWGo1WG14c1VCOG0xbXFoV1ZsMDRlYzRrNVozT3FOQllzemMzQS1Od2dSVlNXSUZtNXY0QVVsQWxLbW9QUVYxQ0NFNVhXT3VXVzF0NExPaUtpYm9QWHV0aXcxQ21OQUhEcnAwRFo1NVl5S0JsNnd0b1lYWlA3VmllQ2FNdkhVbTVGbmVMSnAydU1W0gG6AUFVX3lxTE5zbF83cHM5RTZlX3JWS002UGZGTmtoaGN0S2tVVnc1ZFRiTGFna1N5UGFEb0JyaEJ0SENNWTctZVpiTXdFYVhnRUZFYWxfLUxseHVKVGdJTkg4bDl4R3VOTWJseXpuWG9CYmQ2VkJjZEhyZmZFa0RwM1RyNEhsbFZXRlBTT21xcDhtdWZVb0JYT2l2eENOODdrcHF2VW9tTnlmLW96ZjQ1Sm1nQm9aZ1lhZmNSTGFRRFFMdw?oc=5",
+          "pubDate": "2026-09-26T14:04:06.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "4,000 miners will be formalized through a partnership promoted by the Ministry of Labor"
+        },
+        {
+          "title": "Más de 1.500 hectáreas afectadas: avanzan labores para controlar incendio forestal en Buga, Valle",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZVU4alllLXNGMUFmcFQxaWlzWDMxdUU5TDhDUEl0Z2tnXzRhemhWaEJ4UzB5U0cwaldEQ0hnRHRNY1g4Q09lTU80RGNCdTF1T2RDOWYwQVJsbUpaaUM1N1lqc19PamhrVEFBcndULUlKdmJZMm9JbkNEZmRldW9PZDNhMEFBRGtNVDBUM2UzTHVvTjVmRHk2SVhHV2ptUkN2SkZtQzhrVW5LVVdwVzRKNHlVUzVIU0hXbXhXREVNdWFybDFvdUdQX3RGTm5xazdkaVBSNnFsaDZpYWfSAegBQVVfeXFMTmpqdFg0UFdrajlObm50U1RhMi1KYlg3b1RNRGVzZFlNOGJNMnE1emREbGdNVjFKeVV1MkxrWEprMkYySEpWZXhJT0k2VV94eVN6YTQ4UDVCOEhMTlNDRFhjeW9HSVpCOVcyM0R6UEpoZUJzRmVEVFdwdEI0TS1GUkl1WUktRGEzQ3lWZnFwMkRVT2ZSYTNWMUhhYUVDM1dNRzJjLVNiQ3BZTVVoV0I1T1ZvVHd1eklLQVhRT0tFc2RESkl0bXg5R1B6VFZoQ1dsMC0zY3VHOFdEV0lYMXJtMDMtR2tiaG5FWg?oc=5",
+          "pubDate": "2026-09-26T12:48:48.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "More than 1,500 hectares affected: Efforts are underway to contain a wildfire in Buga, Valle"
+        },
+        {
+          "title": "Atacan con explosivos a patrulla en Jamundí: autoridades acordonaron la zona tras atentado",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSXBWRm9hNThqYWlUMWFPek9BejV4ZndtSDkzZnBNaVBPZFNwdW5XN0JkQTZFcmtUQjR4SV9Vel94VjNOcm9LZEQ4eXgtT1dpckkwblhBSjkwQUVZb0NCbjk3X0JuOGpyTXJzamtHdHhkblYzaEd5emZCand5OXFZVTA2cEU2alJySUw0S1VlZ0RUMWhCc196M0lUWDIxaXlJQk1NU1AwMEJDbjlsdUhKdk1qWUJ4eVl5eFF4NFlIVThwcXpKQ29tbEFqX3RuZGFQYU1Z0gHgAUFVX3lxTE9PSXNlcWRnUDdqSmlLSVBPS2VNWk1DVC1Ia0VwUkFBa1MxWERJLVF5WmI2WnQyY1ZYYnJaZW9wd0xycWxPTXZqZTJYNUpGN0hNbWFaNmdMTGdOZW5kMC1BNVVFaVJuaVV3NmRpbzVnSUk2MlM4TjdTa21VMmpwM1dEenhXTU9xOVZWT3FrNzJDUGh6QTdYanI5NC1XSmlFXzJTWDZMRDh2b3JEYXhlZTdNdi1TZlVkMU55Umlvd2xsdHgxUDdLTnNNRGQ4bE1rZU41b0RVV2tFQlhMZE1NaXpU?oc=5",
+          "pubDate": "2026-09-26T01:45:57.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Patrol Car Targeted in Explosion in Jamundí: Authorities Cordoned Off the Area After the Attack"
+        },
+        {
           "title": "Decretan muerte política de Iván Name por caso UNGRD: fallo dice que favoreció la reforma pensional",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY19mUE80a1dnNHBYbWdaZ1lRNG1QRS1pbElxNGVkandHdTRBa2RRYWxwcU1KUHNqUzNFS0I1U2dqaFdPWEZGclE5Y2syMVMyeVZnX0NxbFlzUDRVOEVvN2xmWjBmTHhTSXU5REFBVkJ2Q2dpNXVpcy0zUlFkZjY0RFJNcUp5RWNxeHp3ckN3cVJJbE5uMzVvNWJzX3ZiT3dvZ0RlRzF2TFVyMzF3VkU2MXBuenBMSEZoSm9nUFVJY2wyZk96TWRoR3dFUkhvMlRLSFp30gHgAUFVX3lxTFBGZ1UtMTZlVTA2UkpnY252eTJFY2ZFQ2lvYVRpMjZOX1ZMNGlnOUVkTElRbHl4Uy1aQzlTdkhCU3ZZaWJRYWI0cFJWOFI1WWxOX0tZRHduWFJ1MlVJeWxqQ0pvRDRoVW1BRU91QndETkktQ1JoZGdfd29oVTNiOHRGa1JlX1dMY3lsajd1V2lDbXpxdU1zZ1NBcHh5bTJNYWV0WVdTRGp6dEZKZHg2Q3V3OUN5T215VXFOcnhXLXRucTFxekRsbG5vS2ZpdVBTeFdfTjBtOHdDeU5sbEkwZjNH?oc=5",
           "pubDate": "2026-09-25T22:39:08.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Iván Name's \"political death\" declared over UNGRD case: ruling states he supported pension reform"
-        },
-        {
-          "title": "Ofrecen hasta $50 millones por información sobre asesinato de policías en Ábrego, Norte de Santander",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNE1mY252ZDFPX0NkSXExRHpsOXRyZDA5azhLYUM5UlpxZ1cxUzkzMW9oa0J5dnYwQkIyZ1Fxc3drQlBjY3F0blVCN2RFYnF1bzc3aGx1bENQX240Wng5WUpORnQtUEFBRU82SWVQYUZiXzRRQUVNNndQaXhGQlY0bXZmNzRpZFB4MXhPT1U5RTQwaDFwdWZtVkluaG1PVE1GMzE1MDZvRjFFNDBFWnROdUZkVmp0WEtrOEIzeW5ibUhubkUtMVZCZ1dNekNOWDg3OGg2UUFLMFBvM2hrWXh3eHg3UdIB8AFBVV95cUxOamhaSGo1RjJ1VXVlbmVNMXNaTkFoemk2MVN3N0pQMlprUGwxdGt1WW5JOFZXbWFIYVFTZ0NWMVZmOVhUX09heEFwendac3ByWFgwTlh1Z196Z01XLWxZck84Y3F4MFUyanIwdkNQdS0wMExSdDU1YmJ4dk1NREd4OXJYc3ZlM0daWjNOVVhZWGliQzUwcXQ0RGtwR1l0bHZad2FyaTNkeDJOaFg2RXFBM0l6ZFFmUzV6dG5GSktEeGViMzJvemZSWURkMUhNeFl2YXMyUFhNVUdTTndJeUhEcXZyZTJ2Z3lQcmhLNEl0WlM?oc=5",
-          "pubDate": "2026-09-25T18:41:11.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Up to $50 million is being offered for information on the murder of police officers in Ábrego, Norte de Santander"
-        },
-        {
-          "title": "Asesinan a dos policías mientras patrullaban en Ábrego, Norte de Santander",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFkzWEN3cEF0RFFwNjdfS2tVWGtITnFoRVlucm1xUUhwVVRmQ0xDdGNWVjZ3VHVHVjNOSnJtci1vUkVDeVZnbTZ4WmlkTG1LQXg1TTQ3Zk5KRlhIMjVSdEhEdlNuTjBjZElFcUlkejhaVm16dXBvb0hjS0Q2UlcyTzhEQU5GZ3ZSYnA2WW1XZ0JhbDBOTlNqeHpqNGJ5VmwxS0hDNlNYUUNPSS1uTkZkVVRKa0FQcXBkR0130gHIAUFVX3lxTE5mbnJQQjNsZWpuOVJjM3kzVWhBMnBTWGhjeWpmUG9HQlZBQXNVWERPZmRVR2xVa2had0Ztc1EzbjlpYnpjNENUREJKRnRYZXJlT05fdkpseG5HOE42WjJaeHlveHFDeEpLdXgtWlVzOEx2eThjOGdCMHVub2Z0ZlFQN2M4TjVOLXhVdk93dUp4QmZVa3VKS2R2bzBlWkVrUTVkU3JKcU9ONVVNaDlSckh6cXAtRGVUcnlJeEhfWWk5cVNyWks5enlq?oc=5",
-          "pubDate": "2026-09-25T15:13:46.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Two police officers were killed while on patrol in Ábrego, Norte de Santander"
-        },
-        {
-          "title": "Las denuncias que llevaron a la cárcel a Daniel Duque por acoso contra 21 personas en Antioquia",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWTJaYXFWeTczZU1MZC1aT0ZWX3NPQUNJSWwtZXdqVHBzYjJDUnBzR0FaVUpENzVlc1JiQzE1VkFrRF9KTlV0MS1OTENHS0wzMTdjdl92QXhobm5oVjFCbWpJZWRTd1JUNHJzNXdzdGtRakVqcE1wLXlnamdvcTJBdWU5a0RyRmlkWTNwY2FtNHNuaDFrT0pTUFNpbXJlWHRVZnBFamFqeXJ5aG1oMzdqMHlCVkkwOWY2akMwekJtR3dmOXI5REpneUtyU1NNTEXSAdwBQVVfeXFMT2pQVU54RXREZlM3ekUwaUR6TV9fc0hyeWdwdERnT00tSFZfWXo2OFBSTnYzc1RuMGdLc1ZLdS1VcGxTVEJtVHhmb1VLRHc2VUJoSy03enNBR01FX1dHZVpTUFNlYTJadFZzNlJOdEp3Q0NMSUI5eDNZOUwxMXZ3U09uMTRoTmhhRUV4WWVudlJ5MHV3TWRVcW02UHZuUFZVTHNBZ1VEY0syaFJlR1BVTy1fZDdKTnZscXVOakYwd0x2c2R4Ty1PZERkMzEwR0JFOFNDaUU0Z0h3VjlrYg?oc=5",
-          "pubDate": "2026-09-25T21:51:41.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The allegations that led to Daniel Duque's imprisonment for harassing 21 people in Antioquia"
-        },
-        {
-          "title": "A la cárcel exjuez de Sasaima,Cundinamarca, señalado de integrar red de corrupción judicial",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjU1Z0JDOUM0RjZYeVJYNGpMb19Ba3hra1ZoeGpsakRIeFFBb0VwVm15LVM3QzI5SjByMlBnUU1CLUxQbnM5NEVCRXphRm51clk5R2pld3g5eWtqZW10a2tkczViYVlXNHlPbnV1dzhSRzJ0NU1xSDB3QXdUX005Wm0zakF3cFY0bnBuOHNmcTRJNWRoR0p0UTNjcGlCWDMwcWlMNUJOOXlPSjh0R3laU2MwTDVwZG9TZG9hdnYtZWs4WWNOUVF0SdIB1gFBVV95cUxPeWFJZVlOc2VxYTR2c1BzWjFuZFRmMmtsUU9pdVJYMDB1S1lZU0ZybTVyRFFSZGowTTc5eEhtYTIxbzJqaE9jNnJFUnI5Ni1BOThRdTVsRk43VEpHU0NWQS04TkQtZ09lbmY3QThPdTl4WXBvanQ3NDcxZEJzSGNjVVg5aS1tRVRoNVRJSWVqaUtVMU1paTlicEFlUkJDTm0taHIwbXJ4T0Z0YkFtRWh4eFcyNEhIZURkZmJqaFJVTlVEODdjZU9ETmRPUEV3aFVRMURQVzd3?oc=5",
-          "pubDate": "2026-09-25T15:54:53.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Former judge from Sasaima, Cundinamarca, accused of being part of a judicial corruption ring, sent to prison"
-        },
-        {
-          "title": "MinEducación anuncia medidas para proteger a estudiantes y garantizar las clases en Santa Marta",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbF9fd3RsQ3ctdnYxcW1OdnUyZy10SkpOM1pjV3hOaUZUdlFrSUxoUG5YR2tnd2RvQTBrUG1vSlpiTlFobUt2QmNoSzhid0dwUE9HejhzR25ndGk3LXJtT1AtQXlZV2tMRGJtMTNkdWlUQTNsaFJsT0VrbzJZQTZOVjc1SmR6TWEtN3ZqeFlOcnN3bXUzbFZISmJSZTZoWU5wWWZ0X3B5TkJ6VDZfTUlib2VnRGs0aUEwd1hTS1FDX0NEc0NWMHpfdVE2LU93Wi1pSDNxUjRwbFHSAeYBQVVfeXFMTWRZNmdVSXk4T2xTdFZaY2VEeDdoVkk1cG5uV3RkMGZnTl9XdTFhLUdYeG5Td1BHLVA2aU1yd1ZIei1oeEg5ZE5iVzJ5czA1TVYyR1ViakdLWThWTmVOM1RqR3o4Qnh3NDRhcHdlR2dmcEo5NGlWYU9fbGpPQ2dRNHZDUUlQMWFDY0hMZm1YYjJaU2ZpR1IydlhzSVRDY3FKdmQxOUFndUhITjJIUlRubElQd25VU2ZZTWxKNVU0bnBVR0o0ZWxmaC13Ukl0UnpJZWhXb1F2M2JuRmo0Qlh3d1N0R1BicUE?oc=5",
-          "pubDate": "2026-09-25T20:13:45.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Ministry of Education Announces Measures to Protect Students and Ensure Classes Continue in Santa Marta"
+          "title_en": "Iván Name Declared a \"Political Dead Man\" Over the UNGRD Case: Ruling States He Supported Pension Reform"
         }
       ]
     },
@@ -260,44 +236,52 @@
       "color": "mint",
       "items": [
         {
-          "title": "Andrés Vizcaíno Villa: últimas noticias",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWF9Ja0wyaVJ5X0t5cTUteFZLNTZsV19RZ1FsVDZ6S3p5RGFqU2hVWmE1US1BVUo4dmMtakNNNU9NUDdUV1M4NlQyMWtCcVpTWkRKWHhXYmU4RC1tLU1vMTZlQmtkTmszV3MtZlJUZUNERm96QlRIRmZrMFJhb2I1bmRMdFZnV29keUtnVg?oc=5",
-          "pubDate": "2026-09-26T14:05:56.000Z",
+          "title": "Gobierno anunció refuerzo de seguridad para alcaldes y nuevas acciones en el sur de Bolívar",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEdDUDVyRlNvSFNGNXI1R1k0OFF6aGhJZHk1ZlNZTnltZU1ubkpaRGl1aTQ4MjVwNnZoQ29oUi1zT1lBMXl4VHgzV3p2eVB6UjVXQVhHY2Y3QVgtZzIyaXo1SU94b3NkdHR0NUduY281YUJacTFpVjVGOXp6SnF1VlJIOEVHMjdmeVRBczVKbDhxRzNXSmFPNWM1X21WM3o5Z0VBeWR4Vkl5YUZDMHJNQk9QN3gxLWRxVkI3SzBLRXI2RVc20gHYAUFVX3lxTFBINXpwLURNU1NZODIyeWdyZGJYYUR5b2x0MndHYWIyRXhYX0VnaWlvdHBuSV9SM0hPa3RKVC02WjhXcERYelNNczlTMko3Y0NmZE5KdjJadGdkY19UUE50eG9XV0I4dlY5TlJxaDhjVEFCV3o0NHREX2FuZkJWdWF4NldIZEk2Und2aWdzamFsWTNwV1ZlYk0wdFBJT09kSW1adjJqYk9MS2Iyajl5WVFlYmUydVc4a1Jfc3RoMGRuT2NiM0pJX3lSTzh1R1Q1V2VFUFlkR21Odg?oc=5",
+          "pubDate": "2026-09-27T06:00:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Andrés Vizcaíno Villa: Latest News"
+          "title_en": "Government Announces Increased Security for Mayors and New Measures in Southern Bolívar"
         },
         {
-          "title": "Secuestran a ganadero y prestamista en Manaure, Cesar",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1EwbDNfalE4VmdoVmdsU21qZFJLSWZkYkczVkEyandJS1Uta041MEY3QnZLVWFJUDdQcG4ybFpHRkhpZ1ZvNWhhMTB1bzh2NktoT3FfTmQ5aW0tbFZobm9qd2w1ZHhHakVRVW9wbWdKa2p3ZmQ3WFpNYzVtSjB0ZnlpUUtmaTZPOFF5eHRHbmHSAaQBQVVfeXFMT2RJN1ExS0RqWDZtTElPRVZaNTZ0SndsNnNpRFZnRWFBaHhIR1lObEpvSnM3S3VCQ1haSFVTUEtCY29mem40c3c1VlplZ2tFMDBqbnJudXI5cGoxTEQzZjBOb1BsNW1odGxuWjZVUmJCaTQ0ZkVkcTJIRnJNd0dOc2NlZ21sQ2U1RFdGaVQtT2o2TnRtZTZQdC1aanlJc3A3cS1kOGc?oc=5",
-          "pubDate": "2026-09-26T13:53:38.000Z",
+          "title": "Declaración de renta 2026 | Lista de personas que declaran en octubre: últimos dígitos de cédulas",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVRVRmZ6dTc5eFd0cmEtUWVDRUtMSmhjX3kwNUFlUXJENEJiaXZpREd1U2xpYVNsempOVGZrTEdwa01Ydm5WSHBBX3YyU0NwMzVEMnhsLVVGVzdjNjFCa0RTZExkUEJlVXRMLXJqd0tWZzdjdHhPcGQ2ZjdpTkh0ZHZmX1dKMkMzcUZYZ2N1TEI5ajZxVHEyVlNRa180OExGbkFrYl9BUS1lbnF1Tlk0NDVGTlVndkNUR2haaHdQUE5aVEJOaTZzYdIB3AFBVV95cUxOZTlCeDlkejk0dXRLWEw2VjFtbVhTNVpNZ0FtSnRPUjFvb2o1RHhRaUV2amxsR3lMM3VmNUhzcXlFbHZEZ1l0Rl9zT2liSWY5UlNIWU5TTHk0ZEVka0R2RklYb1BKU0g5R1Fta1o0Zi1oemtXcGJaR002dGd2dEhxNEFIWmVTRXFWcW5Nd0MwZHc3MkdoRVB3YUFSS2hkY2lzMEh5T0l6a3NyeG1takgwQkpnNXM1WmxCMnNSMmJyMTZPSVlJbVp1U1ZYYnhDR0lMQ05kQWhhNVFmck5V?oc=5",
+          "pubDate": "2026-09-27T02:13:59.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Cattle Rancher and Money Lender Kidnapped in Manaure, Cesar"
+          "title_en": "2026 Income Tax Return | List of People Filing in October: Last Digits of ID Numbers"
         },
         {
-          "title": "Programa Mompox Inteligente, destacado durante asamblea de la ONU en Nueva York",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkM3dUdvUElpUTIwdmhBUUc1TzV5QkZpX1BIX0NFZ204a01LbElZekFUeTlTUnFfeXFnY1Z4eUlhejV6ZmlVX042RTNZaFRpb1lsZE1QQms0U1FHY3hGUmd0YUR2U0ZmYlVrTzc3LUEyanNQaS1UeVVBVlg3VWYzSHBma1pGWGg0V2t3UzJsSVZKc3ZkNEZWT3lVMGhDVU9hVlRsc0I0NGo5N09wcWQxSkhLd9IBxwFBVV95cUxNLUJSZU1JdTQ2Zjc0R3hmc3NVMXdiNTM3endrd1R3Ykt6ckUwaDRQYmV6MkpzTk5LWWsxYXZQcHJVV3JFNV85SC0yVWZFd2ZHaGJvclctYTE2TVNYTmZPVDM5SGlfcE9yckp5QTVSRmRzMndvcFl0RVp1VXI2bnBJQWF3cmsxNEluZ0JRTjNjcHJfVlVRVGlYOWZIcnV5Vl93enkyNEZKZ2Y3SmhTc1VDdng0aGVjNXFvcG1YR1Z3WVFmSTZ3UDVV?oc=5",
-          "pubDate": "2026-09-26T12:11:07.000Z",
+          "title": "Inicia formación de nuevos Guardianes Ambientales en El Salado, Bolívar",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1pmbHFOMVJwMEowTXljbDhtcmIwREpPVWRuLUFRb0VjeGRYSXczQlV2U3BVMzJLN0FPbjM1RDJ0aW1QT0xrdHNScC1Hd3RGb1ZLLUpDQlpBd1g1RGlYY2tIcDRIX1RmOGpjVDB6bTRjUzNxNEtORDdna2Ezdy1VSGF4VDVJMy1rV2dHUHduWVlEbDJOWVg4OHdZSkhTQnZ6UF9FN0IxcE_SAbwBQVVfeXFMUGF0d3NIT05NenY4SzQtWlRhTmVHRm1oYXpQUEg3RmlhZG9rNUlZajNjM0tMLVI2Z1p4SE51bUl6dHp3UU5Nc2NITzF6TnJSdmpfTHo2N1hNUXM4MmVQWktta3Njd0FMd0NkTHJMQXZiWWFOYmtfOVNzY2d2N241NjQ1Vm94TGR5c0RwNUt3Z3E0U0huYnJhdXVhSjRFVW1TalFEZUQ3TjVLMUkwel9vWDVjOFdfcmtsaWxMRTQ?oc=5",
+          "pubDate": "2026-09-27T01:36:21.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "\"Smart Mompox\" Program Highlighted at UN Assembly in New York"
+          "title_en": "Training Begins for New Environmental Guardians in El Salado, Bolívar"
         },
         {
-          "title": "Char celebra llegada de sede alterna de Ecopetrol a Barranquilla",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWZIQ1JKbnNTbVlkSTVfYlpUNDB0eUpkb25SQmxJNFdQb2ljVnd1MWZnMzNGUWtZRklzMnJLYW9XcVo1T1phMGFlNURFRVBscm04YVhKX2R3T2N1SGpPblVjMFBmVzlPSlIyNEFpQzd0STE3empjQVU2YndDZE1NVVZ0TVBXMlFDc2piWHNENnhwSFJsWXlLRUlxV01fNXpo0gG0AUFVX3lxTE9FVTFveW16MmYxQzl3NnNPR2ZWVU8tUWFzLWhDVGFwQ3lWeU16XzZidGx5dWVOZGM2ck1Ed2R0enprREVYeU96QTFabG1XZ3hrYVQ4eXNFUFhxbWwxY1F5eDhBaHdqUlZzX1JuNkYtN1UxajFEQ194dFQ0UVZMdFI4REZzaVA3MEpjaGJOUHBVeVFoSmNmNVkzbHV5YjZkLWZEcG1BOEJydmszTHRTaWowNGNCSQ?oc=5",
-          "pubDate": "2026-09-26T11:54:12.000Z",
+          "title": "Incautan 4,2 toneladas de marihuana camufladas en un cargamento de cal en el Huila",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXh3czRxTEJveUk1SWU4TUctZ3pfZzhqWlplbjNGVFhtc1MydnB2Zk5kcTZmOGlwVldhLWdxT0RpQWU0TDhQQjFQLW9KWFluV0FqckNOWWZ1c05aYmpHbXdEQ3NRVnlOSXZYN2RiYlB5MVd4dUc5eFZvMTB0YkhtUFpwYXQ3dGxNM1lhVWM1djNRQkdjRzkxUC1lWUNOenZCbldNdXpmNG9TYlpFblhsOElMVUJuZVnSAcsBQVVfeXFMUG1qbENxaVpDUldSSjNwNkwyMExidGFwVXRNYnFjRVhCU0RodWMwTE9WVnV6bVhreG5NVWd5ZHIzckNkTHg4VkE3aTFjRmpmbGdhR3N0cTZKZUtuMmU4MjVvSl9rcURJdHFUVUE1N2VPb3hfOFo3c3VnQ1FveVFtYXhoYjZ1c2NvVVVxa29WT1lja3VadFRERzdrMkt0MW1mS0RNcDJpelhYakhHdGxLSzRlRlBMSEstWmRvOWY0U0IwUDI3VF8ybnlwME0?oc=5",
+          "pubDate": "2026-09-27T00:45:44.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Char Celebrates the Arrival of Ecopetrol's Alternate Headquarters in Barranquilla"
+          "title_en": "4.2 metric tons of marijuana concealed in a shipment of lime seized in Huila"
         },
         {
-          "title": "Manizales apuesta por el turismo para acelerar su recuperación económica",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1R6WHlqaTMxN0hBODFwaU1JblpqdDFKa3psMHJaTEJwaFNXWVk2YUZMUHZINHhYUjZCeldBcmFWVXc4WUFYV2lKc0liUG1CR0FibVZmNUEzZ2E2U2ViNXFxZzNtSXh2cjJyemlhR3FMeTFqay10TWh3bHdwQUpjMTM2ZHJUSkJTNmJ0bjNHU0U2dG9JWkxMUXcwS0d3VTdZcGFzdHNlQkc3eEXSAb8BQVVfeXFMTlhlZUJ2aktnT2dfYWdKMWlIZWFac1l2MmlVUXF6N3l4b251cjNLZlZZRGx4WkdrbXhQQlRyYVN0d0pWT001Z2dxNGxoNWFRTGpUT2hsSHh6Mk1jTXdhenVsV1pud3FtNjBTYnNQeGxFdGZBZlNDRDFsc2R0ejk2Y2FDYTQ4TFBhQkEzWGdwVGw1ajlfZjN3Y0VPWEt6QmJGSVpzYW9wZFpKNVZEZU9YanVSUWNpTWNHT0kxWW53YjQ?oc=5",
-          "pubDate": "2026-09-26T03:14:32.000Z",
+          "title": "Advierten irregularidades en la Agencia de Renovación del Territorio y en Dirección de Sustitución",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSXl1TS02eFBRUHNXRnVPY3BPT1BFbGVIOE04RFVNSlJCV05uUHVEVV9IUzNjWDlHdkxhQXJ1TWlPV3ppOUdVYTFnWkNjMHplenl3RzJOUmJ6cEU1RDN1Y2d6czJQa0Q4SkwtS2l3UWszOHJrTVRpbHRxLTRoSEoxeHloQldxcE1Uai1aRzl3S0lrN09vZWRuSGxTQ1phbTZwMHl4THhqMVFITXpkWXphUkJralZLYUhaWVlXOF9yajBKT2lhN0VnaE96SkhkQdIB4gFBVV95cUxNUHctbXppUmNFSnN4Q0lna3NVWjJQcm1Ma3JEcFZaZFlNWS1Wb3hHTzJsbVZ0NUlSbVhyWUgydkxncW5zOEs4NWVPcFZYSk9oRG5fOXBXcmdNSUtjWDNyVUxnWklzZGVWY2RUUl9SVTJFcDZWWlpyTXBpaUJDbGpCREFfbVNwN3VvVEFrRGFSMVNHeHVyUElLWTRZZHdoREZ4Nl82M3hQSUh4cm9JUmo2OExrdDRfeFVFUUdCSWpLQ2RLTVkwQ2NRNTMtdmkyUE4wVkcwWjdKMlFzMWI1ajVFUFln?oc=5",
+          "pubDate": "2026-09-26T23:58:55.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Manizales is banking on tourism to accelerate its economic recovery"
+          "title_en": "Irregularities Reported at the Agency for Territorial Renewal and the Substitution Directorate"
+        },
+        {
+          "title": "Oposición venezolana confirma 33 excarcelaciones de presos políticos durante el último mes",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFJoOF9jQ05GZ0Z0N3ZkZEplZ3VZMFpwWnB4OHJnUVZ1NEYwREJldWJqejYwbzNDMkUwVGFmYmoxbGlSX3BISTEydlVpXzF4ZW1YOVdLcnBwajBQRllHVlFOVnd0Tlp3WDRHMHBGeUJVbEg2bGxKdUhsWnR5QS1YOVlVN3ltRDd3b19TOFp5ZVVuS3kySndFbUJoTkt6ai1IcGNOeksyN1NrODB6aG1xQnpLLWlEdFlSRG8yOXltMENRMzTSAdcBQVVfeXFMTUNDNUczVXNPdEFPajJrODFRdkNiVnA3aUdpQmd0UGpTRXNrWHRYVWUxZnc5WEtzZHJsYkVWREVBZkpZZTBJdnBnN1pTcFdrOVdsRDFsU2RhV0gwZE9HeU1ONUpWQ0swTnhZeFpFOEQ2OHJLU182d1FvZGNtQy1WamJ6eENFSlFCMldzVzU5aWhzQ1lLTHpEV2NVWmFJcVhqNzhWX093M1huaHZYWmU3TEVtNG03OFRYN3J3d3RjX3pnT0dJajNPNlhRaG1fbjZ4NHVpOFE4bXc?oc=5",
+          "pubDate": "2026-09-26T23:05:50.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Venezuelan opposition confirms that 33 political prisoners were released from prison over the past month"
         }
       ]
     },
@@ -306,12 +290,28 @@
       "color": "grey",
       "items": [
         {
-          "title": "Concejo de Bogotá aprobó cobro extra para los capitalinos: ¿De qué trata?",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnR1U0RpUGN4S1hZUUxkMUVsTmlDdk5RQ1lQV19qVTFvV09qZWRUMGE2VXFtd0lHM3F1N2puUk0xeTc1RUpTNXFfMC1fbHNCcW0zUVB0TFR4Smd4eWVORk52YXdYVXVnaG5Makp4Q1c5R18tdFRLZWZmWW1rRXNxNWpzeWtVMG5HWEthTjZPUTBfb3RBZlY5V2N2RDd2UElQYWo0Nlozd1NUVjVHMGc?oc=5",
-          "pubDate": "2026-09-25T16:55:19.000Z",
+          "title": "¿Cuáles son los casos en los que los pensionados pueden ser embargados?: Este es el valor máximo según la ley",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXh1OWlvbDg1WDh1TFllU2FMOHlRVG45UHVWb1hkNGhJNUpGYnc0ZDZlandzMlcyVS03dUg0Z1hFb3FpcUZ6ZktsZlRMSEN0RF9jUWJPU2U4WnpPRmpSS0pzb3ItM1N3bEdwOHFJVTdDQkF3aU4yMFVzaTBVTGRjQldTQkJiank3VExxWWhFUDIzOEJYV1F6czhvOVYwVF9XczFBeTFYdHJNOU5EUE0zdXcxZXE0dDFlVWxnOEhVNVhpUEdLNXV3Q2dSOEVpb3JYX1lMUGU0LVVReDJhb3c?oc=5",
+          "pubDate": "2026-09-27T05:44:34.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Bogotá City Council Approved an Additional Fee for Residents: What Is It About?"
+          "title_en": "In what circumstances can a pensioner's benefits be garnished? This is the maximum amount allowed by law"
+        },
+        {
+          "title": "Cambian reglas para recibir los subsidios de Prosperidad Social en Colombia: De esto se trata la medida",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXJWZThZbC1qdjY1Yk1UZjlWSFRERUNMYThVNk5OMER2UTFzODJ6Yy1sTHp2b3JSeTIxbGw0RkRMTFV1TlpqRkpIcFVBanJZX042UVRGa1FkZDB0R05YMW9LOVZ6cGczaUNWcG5XaXNRYmUzMG9xYU54VC1NYmRNeE8tM3l4Q0dDNUluSzBJV0liNTk4LUdrdmJVWkI1NndaMEV6eU5lX0xBMkJoWGFkeGhyT3hTY1NoRTVEMDhyS0tuN3lQalpJUDZoV0RDS2NCZnhRRGNkWnk?oc=5",
+          "pubDate": "2026-09-27T05:11:17.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Changes to the Rules for Receiving Social Prosperity Subsidies in Colombia: Here's What the Measure Is About"
+        },
+        {
+          "title": "Planilla para taxis entre municipios: Así cambia la operación para conductores tras nueva resolución del Ministerio de Transporte",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVnF2R2tSaHBjclhPa05vZ2xVeUQwX2dTRWh2Ny1vN0FIcGluY0tVUDJBMGdIT1pKNXRVZV9UakVZMGU1SjRwaGxKRm9BY2V0VHhNMFNzdFNoalBic0hsZU4tZUQ4Q1dPTUxvVzBDbDRZdWFGX1BfNzI0X0dZNGFSeTN4VGliVnBrNHg4MjdOTEJPNXZfYmdyeW9UTU1FQzktVFdTU2hkRF82U1JmWk5QV3F1Skk3dm03bkJRd25pVnFSV2pyQy1Cal9wSl96Qmx6SGlleFM4TFp2U0lvQ01SUkNFQm0zRVdpWFotUTBWS1dfd1N1TGRRZVNSaw?oc=5",
+          "pubDate": "2026-09-27T04:40:46.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Form for Inter-Municipal Taxis: How Operations Will Change for Drivers Following the Ministry of Transportation’s New Resolution"
         },
         {
           "title": "Carrera Séptima tendrá contraflujo los sábados para descongestionar la Autopista Norte: Así funcionará",
@@ -319,7 +319,7 @@
           "pubDate": "2026-09-26T12:08:44.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Carrera Séptima Will Have a Contraflow Lane on Saturdays to Relieve Traffic on the Autopista Norte: Here's How It Will Work"
+          "title_en": "Carrera Séptima Will Have a Counterflow Lane on Saturdays to Relieve Traffic on the Autopista Norte: Here's How It Will Work"
         },
         {
           "title": "Cortes de agua en Medellín y Bello este sábado 26 de septiembre del 2026: Horarios y barrios afectados",
@@ -328,6 +328,14 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Water Outages in Medellín and Bello This Saturday, September 26, 2026: Schedule and Affected Neighborhoods"
+        },
+        {
+          "title": "Concejo de Bogotá aprobó cobro extra para los capitalinos: ¿De qué trata?",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRnR1U0RpUGN4S1hZUUxkMUVsTmlDdk5RQ1lQV19qVTFvV09qZWRUMGE2VXFtd0lHM3F1N2puUk0xeTc1RUpTNXFfMC1fbHNCcW0zUVB0TFR4Smd4eWVORk52YXdYVXVnaG5Makp4Q1c5R18tdFRLZWZmWW1rRXNxNWpzeWtVMG5HWEthTjZPUTBfb3RBZlY5V2N2RDd2UElQYWo0Nlozd1NUVjVHMGc?oc=5",
+          "pubDate": "2026-09-25T16:55:19.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Bogotá City Council Approved an Additional Fee for Residents: What Is It About?"
         }
       ]
     },
@@ -336,28 +344,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "'Renacer de Ecopetrol': la 'nueva era' de Gutiérrez como presidente y el 'fracking a lo que dé' de De La Espriella",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUhvTFJETnEwMkp5eC01Sk1XSG9ZQlNlX0xpMUpaWjZaZXZoamJkM2U2UzZSYzRtei1wY19ENFl0TlA3U0hldk1qRjliSWMxQ2RTdWp4YXNzdlRJVy1wa3duX2l0X25OYXA1cXBsT2xycC03UFFndjdLYjVHRER1TnZDZzZiVGNTQUZfN1ZQUDFBVjM1YkVuYjBjektqajlJanBfeWRfdVlfMXdEWjNZOGNBa1MyY2FCV3JwWTl6eHo5bDlpbFVqN1JfZzQ2ZGdtUTJwSGxxNDZzT3o0YXd0dDJB0gHnAUFVX3lxTE9sNDV0ZlVfUkY2RjBwVlMwQ2NBc3hWOWxlZ0hGVnl6b1ZMNkdNWlpIQ2tHMmthVFQtcnQzNHFGZGJodkE0R0RrVVRMM2VUVFExcVJxVUpRX1pDbG9WX2ZFTUswVWl2RFVCOXJCVHhSd2lvM002RVpHVWZTcWVVdGMtbGhNMk9lZnhEa3QxUkpELWUyUWNUNGtXZWU4WG5PbUNuV1dVT3UyVjJpaWM0Rk5SUXFjX3ZtOFJUQjl2a1VoTVhDUzMtRl9EalZiaE9QaWJOaVA5b294NzdBQ3RJYi12RURBcjFKQQ?oc=5",
-          "pubDate": "2026-09-26T01:48:38.000Z",
+          "title": "Afinia no será intervenida por el Gobierno, según afirma Federico Gutiérrez tras reunión con De La Espriella",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbkdFRk1JZGhYc1VNU1VWdjNCc0RCbUJ4SEozT2VvaFdnbHdFNndmYjdpTnA4N2xCbjF3c3dWbFcwOVN0Zmc0Sl9NcnFuSEcxTWdadVR0eGNpR2hBUjFYRVBkeFJfS1FjNlBYVjJsTDVqNXk4eWtlemRyWFlteXRYemlsYVM5a0VWNWdaV3N1ZXBZUnA3UHFGaFdwWDJZZmpRMktzUVFWSGVyMEpnZ1l3aS0zQnVIaDV0N3pQcWNnSU1JRGJwODhvdzhMaEZ5S3ZxMUUtY0hxRUJwcHprOFpqeEF30gHnAUFVX3lxTFBmc1RndVpPLWZUb3MzbjAteUVKNmNUU1JmUkd3YWZNTHExQTdTYXh4U1pPYVdHX0pzbEJqVTlEemV2d09DNFNpNnZkY2FRYTNOWTZ6bWFoR3hJbmJMYkNhMm9tajRfaEp6UjFWdEoyaWktN0ZHV0J1di1wNXh1aG9RS3RqWEFPbWpQa1M3RXg2SW16c3UxMWU1YXpjdzJYQlZRMGZjeHZON1FMaS1lLUdUMl9FelRkSTc5Y2RPMF8tM21oUnhvMjVMdEtUVzNRN2M4NEduLWFRRUlkdzZPa2FWZTQxRUxJMA?oc=5",
+          "pubDate": "2026-09-26T23:34:07.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "\"Ecopetrol's Rebirth\": Gutiérrez's \"New Era\" as President and De La Espriella's \"Fracking at All Costs\""
+          "title_en": "Afinia will not be placed under government control, according to Federico Gutiérrez following a meeting with De La Espriella"
         },
         {
-          "title": "'Las empresas de tecnología están listas para desarrollar nuevas inversiones en Colombia': CCIT",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEgwVVBQQUdaTmdGd2Q5N0xaOGt4UHhrLXIycFdzTjJDZngybXhPT1ZETEtnVGp4dkxHWHNQVUJfV08zZlIwazJteTE1NFhDR21rN3ZJYllQQ1Z0VmFaWEVVd0poM3p0TzBWZ3M1QjVnUjNmTzRxTC1oQ25NTkVieWRkOG1TWmhiQVpQYkJCR1ZodUlXSDNpMEp6a2VkLW5wWW1mMEEwODJVcDVKYzV1S2hMSktfTWM3OW1qeTl5UEVGY3lGRTdKNHVDTVNwV2pVN1HSAdcBQVVfeXFMT2t6c2VwVWhlc0hTWmFEYzZOYVg3WUI2LWFoMFFLNUxHWGYyS3BIYlZJeXdqaGtPUUEzd1doOGwtNHVuX0hVU0pudGxrSDVJZ2lpTm9RTjJWamdIdFRkcXdGNV9IbGxMLTBPVk1meE04RzBvaVlQYXpUdjNBQ3ZINUlyVWY0aEpwbkR1WnFnSVhTU1FXbVNGRUwzSEd4Z1BHYzJmSjBDckZWOFNtS1dBaEJKVjJpTUV4N1F5UzAzTjgtWUFMM2JRLU5aZjc5Q09xcGhtdU85QTA?oc=5",
-          "pubDate": "2026-09-26T00:18:50.000Z",
+          "title": "¿Quién es Beatriz Eugenia Vélez, nueva presidenta de Colpensiones, y qué retos le impuso De La Espriella?",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUmlYVUdfcTdlbzdIb2VHSmxidG9sNzlrLVFCUHBVcGc0eXpJS1BQcUF4Vi05am1Mb2N2WGQ5TVNqRVFxU3ZSSDhFLUIyUVhoWURISEZxT1kzMlpCLVYwbEhyUHNQZjFoSkkxX3V5TkdpQ1U3cldNUjBiajRFU1Z4OWRxT2dHSEtaYVRyWEx3ZjZsYVlQcHJ2bDNHVTN5RFpQNnhNQm9UYkotNFJ1UUpkSFg0V3RMOGxvT00xZnhXMEJvbzhFVmY3WERGOW5Za3NqbG0tZ1F4aC1tcVI4NVhtclMyQzc4X1JPX2FwMkRsb2M1UUVVUVHSAfsBQVVfeXFMUHVXbXJkSmVFbXNhdURFQURWSFVlbm1SWkVlRERBckxJUzVXMVR1cC00Rjk2RTlTUklxXzVDeGtHM0NpTW5LV3dpbVBkM01ndlo0MWthX0JaWmloNDRzT3hZQUkyTzVDa2hUdTg1VTM1V3lvbmo2ZUFQNGVlQ3JocjlUNHdja2dVOExkbmZJNGIwNVgtZmRZUGxEdXB2aVVOeHBGNHdCbkVZd2dDYWdvZVBTLVhseWk3OG9uM2VubE5MQ2hyZzZIVmE3a2REMU5md1RqeE9rQ2M4VWVraDQyUzByYXdPeVJBMHBVeGt3U1Z5aF9uZ0ZreG94YjA?oc=5",
+          "pubDate": "2026-09-26T20:10:52.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "'Tech companies are ready to make new investments in Colombia': CCIT"
+          "title_en": "Who is Beatriz Eugenia Vélez, the new president of Colpensiones, and what challenges did De La Espriella set for her?"
         },
         {
-          "title": "ALO Sur arranca obras con $2 billones: $1,25 billones irán a construcción y $0,76 billones a operar el corredor",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTkdLN0ZZbkhYejVEQ0wxVVdnZXVfWFRrZkhOVUU1eXI5eVQ0YkhxWEVqOFktVDhaeGYtZVB2aUtnOXdBU0hyckJVLW1udXpVQ1RoWG1FcDFBTVZES281aERLTWhfZmxtVmZpUWE3ang5SE5uV2xrd2Z5aWVuTmlES3Z3VWpNQ2FqdEdPdC1USVdTTS1CVlg2a2p4SEpYOXZBQ0sxQ2s1dlZWV2R6SmtCYkgtZ3ZJZmxWajFfb29XVGlVQXYya0x2NDFaak5pbEFxQUZiaW10MTlQMUNBSk8zWmlObkhFaENURzk0X3VnekpQZEsxdlM2MtIB_gFBVV95cUxPVVpCdDFYNXhMc3F5bjBoN0lCdndfRWFOT29iam1hOXgzTUZkaTh0Yy1WTFh5YzNyZ2lkdUZqLWZIUlB6WTJyMjQ4Q1R1RUdSM1JxZEp1MG5mWjNpbG5GYzVqUzdDWTZxZDBtSVAxbjZQdUdCSDdSNHNZdHlZYXFWQ19RQkpLS1BtQ0lnOF9SaHdsREJ5Sk02a3NDTXlFaTFoYlNqZDJacEE5RUxsQU0yT1E1Umh4Y3BmWHhBWWpvX0hQdm1Ya1h3ZVc3M0l2QUxDNTZIeDAxV09PQlFIOUJrVzJEdjFkdHFhWEY3Skw4SVN0YVdKVnJDNXUzYm5EQQ?oc=5",
-          "pubDate": "2026-09-25T20:05:00.000Z",
+          "title": "De La Espriella nombra nueva presidenta de Colpensiones tras polémica salida de Carlos René Montoya",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHRCdzFfdzZTSFFnUjZDMHVBVFBTWFlnYXk5Q2QtLUVxM2VXaHVaWGNUbUE4NXIzYTMyUnZUSjl2empDTFFOMkJpLWV2eU94ZVFfRHVzNjR1a1B3LU80WXJUc2swZ0RzekpTTHFlUF8yOUZkUmFfNzRhNUtvb0llOHJYZkxpeklGS1huSkhSRG53RkUzRktXQ3hEOHJUa2w3bVoyM1V5Q3VvV3RfeFBIVUVKZnU0ajZ6a21tVnR4eGdURmJIZzhHREpfblNvLUtTVGhCTnc5RkFqV0xRTHlLbmZfMNIB6AFBVV95cUxNQ1NENUpDVmZ4ajQ5d3dDdks4X0k0cGVVT3RoQUlaV2lmM2I5dXdHZ2t3TUFrVFBDek10M3hNY1J2VXNMZUdpNlpiMEF6RUxsOGpJVWg1VXMyZzFINjljeXI4UGFqZXJneGp2UXZkZEEzNXRPMV80aG1Qbm1ReHU4OXExX3ltT3I1Z1hob2haRjJrU2IyTXBhVmxHT0pmRW81YzNtcFhiQk9RaUpTbjRORkEyVFN6WVF5bUJJcGxYWW0zcDdrcmoyeW84cEREVEpIM1pIT0haV2YwbTVMamQ5SlVVeTN3aUd5?oc=5",
+          "pubDate": "2026-09-26T19:23:43.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "ALO Sur Begins Construction with $2 Trillion: $1.25 Trillion Will Go Toward Construction and $0.76 Trillion Toward Operating the Corridor"
+          "title_en": "De La Espriella Appoints New President of Colpensiones Following Carlos René Montoya’s Controversial Departure"
+        },
+        {
+          "title": "Bruce Mac Master habló con el FMI sobre las finanzas de Colombia y pidió mayor papel del sector productivo",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmRybEF6U3l6Ykl6VTBEV21ZNUdZaG1hbGVqQk5fRlg3UEI0QmhIeDgwa21OWVVMWlJyazVmaWR0XzVMNHBXbENWRG5NLVNWX19iejYxdzg5S3ZaUGFBeDhpSjVxdVlHUzJZQnhiUHFlSk9MNlJQUC1SUWJHSlU1N3RHQThmQkZQUmt1MVBEUGtIZXk3S3hNX2EzOXZ4Z3liS2FPZFJXSW1qZEFvMURrQWtua0tiRFpNbDZnT1ZNMGUyM3BkajUtMWN0V1lobWhCQ2hGNlZZUTIwMnUxVVJ5OHZTX3QtR1QtcHVTX0dB0gHzAUFVX3lxTE82TV9tN3JDZ2ZqdUNfSXFoRlotYUZVV0NJeUlmaVIzRnNodk1Gb0ZQQnpNZlBsbVRHakdQN19RdEtha3ltRjVsNEpEMlEyU1U5Vm5XRlVmWTdpQW5zMHQ1ZDd6QVdub2F1bGFndGFSR3FwVVBqUkpONlFPWEtDazZFeVRDV3dxc2JwQUlYb2F3R1l6ejhra2tLRFpIQmZ1U0ZFRUVNSENUVXVOcGtEelVYazFiQ3BRYUlsLS01NGJsdzROc1BwSnB6R3U5UkRIUkJoQklxOWRMQnlBZkxKeF91QUJkSTI3YjRWQnF4dndUZWFobw?oc=5",
+          "pubDate": "2026-09-26T17:27:22.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Bruce MacMaster spoke with the IMF about Colombia's finances and called for a greater role for the private sector"
+        },
+        {
+          "title": "Gobierno activa ruta para garantizar pago de pensiones de noviembre y diciembre tras faltante presupuestal",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOenFfU3dFcjBMYzY4N21jWUJBcE9ZdWpYYi01ek5aMVIxMDZrdFJUNDdQcXprdy1XV2pHYVN4UmxjZFNaRDNJcGdac3FDOVluenowMm0tVks3dk04NENMYXFEQ09icjQwRjJtX2xRdjJJWVM1dGhpd2JWeFM5OVpaRWNiRmVJaTVMRW1LZGN1QzUtTDNfOWppWWJqUUZSOWZEV01yc3hhMjBub0UwWHcwa0xRcnh6Ykdoc08wSkx6R3Vkc0hVNEg2TGVIZG91c2JVM19KbjM2SC1BMTMwUnVNUkZvNlpJNHJtbTBxR3Bn0gHzAUFVX3lxTFBHa3VpVEc1UU5UbmNaSTNVX2VIOTk0OHJxaTZuMnRBMXpFU1FsNGZEdDVPcTBURTU4QW9mSGZNam1ja1pDLXpYdkpEUDZWSzhvX0dtSUhaUDFONzRqUFZXLXFjS19hc1dRMTgwbnQ2WmF1NEx6TER0b2tnYUdScDVHMHVxSnlzTFNLX003LWF5eW1qU3VteG1YaGRaZlBLTS1obnJnbjlTSzFtdDlxcXJyM3Z5RGtNd3k3b0xQMnhfNnEtdl91RktDWDhHMXFFVENuWkNtMDhIa01taGtDMTRLbGFVYWQwbGd0QVRobFVjMXQ3MA?oc=5",
+          "pubDate": "2026-09-26T14:24:05.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Government Takes Steps to Ensure Payment of November and December Pensions Following a Budget Shortfall"
+        },
+        {
+          "title": "División gremial: Fenalco Santander cuestiona a Comité Intergremial por incluir logo en carta de apoyo a Mac Master",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWNxRVhpUzlnUnB6RmJRRV8xdi1BdVozcm1Eb2RseUhOYm1xY09CNExma3Ewck4yQnR6dDdzby1rOUN4cTJGcnpaNzNKckljUTlqUHp1MEp0MUJ0N3EtNl9ucUx6YVRQSzBmdWpjaWhzRDhMNlBiajRNakNqQjNuVkw0eUg3ZGFGRjF3ODR1VUo0blA4SHVGYUszUTFkbmhFWlF2aFpGOEd0YVQxb2Fkc3BWeFV4aGtybk5hNXhNbEtOUC1hQW53MUx0Qm5Hc2F5djNRUWNjalNRR3pfT0ZId0wzY2xWV0hjNWt5b3NTZXJrMW50MmJNS9IB_gFBVV95cUxNTVdOWjM4bEZic0ozLTQtV1pWSzVkRTBvNDVBYTl2em13cG5mQkZMeFZ6QTJzWDVEenhtUzA1d2J6bTI5RkN1UWl5NjdpVklhQkQ1S1JhR3hHLV9pM2QyTWZkMks4dkN3cGF3VDVFVFRPYnVlbkQ2Zk1EWWhZWGRfX0FXNGxFSE56Sm9TMGViWmpCVnBpVEN6SG1iZVdzc0k5ZVE2eWhZaHlMc2dzUDJ0N2FHbE5IVjBzVnMtTHRONkRxNURlLTJxOXFpVUxON0h3cm5rbUx0MFFob0E2RkFET2dVOUxaWUotOGZWckxpZnJkczVKbGdVOG9DUkdPZw?oc=5",
+          "pubDate": "2026-09-26T14:07:32.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trade Association Dispute: Fenalco Santander Criticizes the Inter-Trade Association Committee for Including a Logo in a Letter of Support for Mac Master"
         }
       ]
     }
