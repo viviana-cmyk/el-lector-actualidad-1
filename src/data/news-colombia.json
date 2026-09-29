@@ -1,41 +1,57 @@
 {
-  "generatedAt": "2026-09-29T10:01:42.046Z",
+  "generatedAt": "2026-09-29T16:22:38.056Z",
   "outlets": [
     {
       "name": "Semana",
       "color": "blue",
       "items": [
         {
-          "title": "“El sector es testigo de que la Paz Total fracasó”: Nidia Hernández, presidenta de Colfecar, gremio de transportadoras",
-          "link": "https://www.semana.com/economia/empresas/articulo/el-sector-es-testigo-de-que-la-paz-total-fracaso-nidia-hernandez-presidenta-de-colfecar-gremio-de-transportadoras/202641/",
-          "pubDate": "2026-09-29T09:42:41.000Z",
+          "title": "Alcalde Char refuerza la seguridad en Barranquilla: las cifras muestran el cambio después del Consejo de Seguridad",
+          "link": "https://www.semana.com/nacion/barranquilla/articulo/alcalde-char-refuerza-la-seguridad-en-barranquilla-las-cifras-muestran-el-cambio-despues-del-consejo-de-seguridad/202657/",
+          "pubDate": "2026-09-29T16:09:57.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "“The industry can attest that Total Peace has failed”: Nidia Hernández, president of Colfecar, the transporters’ trade association"
+          "title_en": "Mayor Char Strengthens Security in Barranquilla: The Figures Show the Change Following the Security Council Meeting"
         },
         {
-          "title": "Robo de celular en Cali reveló un turbio caso: ladrón encontró videos de la dueña abusando de su hija de 9 años",
-          "link": "https://www.semana.com/nacion/cali/articulo/robo-de-celular-en-cali-revelo-un-turbio-caso-ladron-encontro-videos-de-la-duena-abusando-de-su-hija-de-9-anos/202644/",
-          "pubDate": "2026-09-29T09:31:44.000Z",
+          "title": "Exministros de Petro no han regresado vehículos de la UNP",
+          "link": "https://www.semana.com/confidenciales/articulo/exministros-de-petro-no-han-regresado-vehiculos-de-la-unp/202620/",
+          "pubDate": "2026-09-29T16:07:20.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "A cell phone theft in Cali uncovered a disturbing case: the thief found videos of the owner abusing her 9-year-old daughter"
+          "title_en": "Former Petro ministers have not returned UNP vehicles"
         },
         {
-          "title": "¿Por qué Pizarro siguió en la mesa directiva del Senado durante el debate de la pensional, pese a que su elección fue anulada?",
-          "link": "https://www.semana.com/nacion/articulo/por-que-pizarro-siguio-en-la-mesa-directiva-del-senado-durante-el-debate-de-la-pensional-pese-a-que-su-eleccion-fue-anulada/202658/",
-          "pubDate": "2026-09-29T09:22:58.000Z",
+          "title": "Denuncian supuesta ‘jugada’ del exministro de Salud de Petro en el Hospital San Juan de Dios",
+          "link": "https://www.semana.com/confidenciales/articulo/denuncian-supuesta-jugada-del-exministro-de-salud-de-petro-en-el-hospital-san-juan-de-dios/202642/",
+          "pubDate": "2026-09-29T16:06:42.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Why did Pizarro remain on the Senate leadership committee during the pension reform debate, even though his election had been annulled?"
+          "title_en": "Alleged \"scheme\" by Petro's former health minister at San Juan de Dios Hospital is denounced"
         },
         {
-          "title": "La crisis de legitimidad de la justicia colombiana",
-          "link": "https://www.semana.com/opinion/articulo/la-crisis-de-legitimidad-de-la-justicia-colombiana/202600/",
-          "pubDate": "2026-09-29T09:00:00.000Z",
+          "title": "Megatoma en Cundinamarca: gobernador Jorge Emilio Rey entrega cifras del hecho",
+          "link": "https://www.semana.com/nacion/bogota/articulo/megatoma-en-cundinamarca-gobernador-jorge-emilio-rey-entrega-cifras-del-hecho/202643/",
+          "pubDate": "2026-09-29T15:56:43.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Crisis of Legitimacy in the Colombian Justice System"
+          "title_en": "Megatoma in Cundinamarca: Governor Jorge Emilio Rey Releases Figures on the Incident"
+        },
+        {
+          "title": "Cúpula tecnológica en la Casa Blanca: Trump analiza con ejecutivos los riesgos de la IA",
+          "link": "https://www.semana.com/mundo/articulo/cupula-tecnologica-en-la-casa-blanca-trump-analiza-con-ejecutivos-los-riesgos-de-la-ia/202650/",
+          "pubDate": "2026-09-29T16:14:50.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Tech Summit at the White House: Trump Discusses AI Risks with Executives"
+        },
+        {
+          "title": "Los reyes de España reciben a Emmanuel Macron y su esposa en Madrid para una visita de Estado histórica",
+          "link": "https://www.semana.com/jet-set/articulo/los-reyes-de-espana-reciben-a-emmanuel-macron-y-su-esposa-en-madrid-para-una-visita-de-estado-historica/202611/",
+          "pubDate": "2026-09-29T16:08:11.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The King and Queen of Spain welcome Emmanuel Macron and his wife to Madrid for a historic state visit"
         }
       ]
     },
@@ -43,6 +59,14 @@
       "name": "El Espectador",
       "color": "peach",
       "items": [
+        {
+          "title": "De la Espriella advierte más retiro de visas tras Torres y Peralta: \"se ampliará el número\"",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVndvWGJGYXl5VlJUSWN1MmZ1YjRPVThqc3NqbHNCSXFxVldVazJBanRPMzEzdVhsV2pGd0R3dEJ3Qk50SlhVck1xWmxJM054RFJlRWpFMEhTT2hOY1prczY4djhFVGNXWVlLNXVfZGtLa2VMRTZ5eWhHNDZXcm5Ld2ZvZVFMamMyWlJTdzhMWXdUY3Q1cWMyel8zaFpVanZBY1FSMC1EdEdhcXB3cW1EbkRCLU55cTVMNEx2dDFaZS1QWVhjb2hnME16RHpTbWlQeGhXX1VRaVNhOTMtZWVNYkczY1hicTJXR0xhakt5Z3JBckM4aHZLdGh3aUcyQlhuUW1abjBHM01xLUtV0gGMAkFVX3lxTE5Wd29YYkZheXlWUlRJY3UyZnViNE9VOGpzc2psc0JJcXFWV1VrMkFqdE8zMTN1WGxXakZ3RHd0QndCTnRKWFVyTXFabEkzTnhEUmVFakUwSFNPaE5jWmtzNjh2OEVUY1dZWUs1dV9ka0trZUxFNnl5aEc0Nldybkt3Zm9lUUxqYzJaUlN3OExZd1RjdDVxYzJ6XzNoWlVqdkFjUVIwLUR0R2FxcHdxbURuREItTnlxNUw0THZ0MVplLVBZWGNvaGcwTXpEelNtaVB4aFdfVVFpU2E5My1lZU1iRzNjWGJxMldHTGFqS3lnckFyQzhodkt0aHdpRzJCWG5RbVpuMEczTXEtS1U?oc=5",
+          "pubDate": "2026-09-29T12:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "De la Espriella Warns of More Visa Revocations Following Torres and Peralta: \"The Number Will Increase\""
+        },
         {
           "title": "Gobierno se acerca a congresistas: ministros Lara y Gómez se reunirán con el Partido Liberal",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNFI1NExTS3M3ZHduWEtNcHZqQ3hGT1VYWjdIYkNRdWtRNENPM1RRTlI5TGVFUHUzY2pNNlNNeVFFcnYxUF9jc3ZzVVliT1NEOWRBY1k3dnJFUXoyV0szRFVEWlJiZXI1RlpRN0l3QWlkWkQwb2hPNTc3Uy1CX0FXZmxYRXNJMXFybXllWnp0X0ZObWJqWmJZR1NMelkydlF0N2ZMTzI0Ymxsb1k5WHRpVUxqdEJzZlBsMDF3cmpNVzlWSWdCckg2ZUV6N2IxUWJHcmNacFRRRU1VUEt4WEhkLU1mTzRmLXprUUJfU2RBa9IB7wFBVV95cUxPNFI1NExTS3M3ZHduWEtNcHZqQ3hGT1VYWjdIYkNRdWtRNENPM1RRTlI5TGVFUHUzY2pNNlNNeVFFcnYxUF9jc3ZzVVliT1NEOWRBY1k3dnJFUXoyV0szRFVEWlJiZXI1RlpRN0l3QWlkWkQwb2hPNTc3Uy1CX0FXZmxYRXNJMXFybXllWnp0X0ZObWJqWmJZR1NMelkydlF0N2ZMTzI0Ymxsb1k5WHRpVUxqdEJzZlBsMDF3cmpNVzlWSWdCckg2ZUV6N2IxUWJHcmNacFRRRU1VUEt4WEhkLU1mTzRmLXprUUJfU2RBaw?oc=5",
@@ -82,14 +106,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Colpensiones on the agenda and the bill on JEP sanctions: this is Congress's agenda"
-        },
-        {
-          "title": "“No quiero jefes”: María Fernanda Cabal destapa sus apuestas fuera del Centro Democrático",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMS1Gc0pzVHBDMDVwbnNJQ3NLR3cyUGg2dUpXTWhHcFYyT1dxbWIwLWxpVlFreW43OWFyeldiVFVyOWxtNTQ5MVJ1dUtCZGhMV2wyMGF4WVkwTjF4VnFoWWNrLTVUNlRaTlZMV2JabkRmR3lDbXlXTzhsdFJCQWRFWHY2QzFPMGlnWUV0b21TTzRaM3AwM3czcHJmVHRQMXBVd2d4cUlQMWJjbXF0WWU1SXFyUmRNTWkwYTNSUDgwVGZNZWlhZHRhcjhaRnNpbGRuVUtiRjlxTFZzZ01SVkQ5NC130gH2AUFVX3lxTFBNaW44YmY1V2Z1R3VNYkI1MWZLb0Jqa0FHYWJkXzFoV2pLdnBwbVBpVGFhX2VkU0ZMVExnenhPUm5iNTY3NUNMLVRnbGltel96Xy1EWm9KSGk0NHB6RlNXRzJleFZmdUZjUWd1NHEtczVmNlRHaHFNdm9mUVMwZEJyMDdObVVENGJBZVVYQ0lzUFFhOVc0LWFvT09heDRYM2F2LVJDU2g2dlRMMFplSjhXOXdfbUpwcFZRNWxYZWtCbEVfV21IdTA4MG1Yd1NOdmpoYnVNY0VtYmlVbVdNWjByRy0yQTVUTEtveU9jNDNLVEdkQWh6UQ?oc=5",
-          "pubDate": "2026-09-28T20:46:36.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "“I Don’t Want Bosses”: María Fernanda Cabal Reveals Her Plans Outside the Democratic Center Party"
         }
       ]
     },
@@ -98,36 +114,52 @@
       "color": "rose",
       "items": [
         {
-          "title": "Tutela obliga a Corantioquia a buscar una solución por hipopótamo que pone en riesgo a 23 estudiantes que cruzan el río Nare para llegar a clases",
-          "link": "https://www.eltiempo.com/colombia/medellin/tutela-obliga-a-corantioquia-a-buscar-una-solucion-por-hipopotamo-que-pone-en-riesgo-a-23-estudiantes-que-cruzan-el-rio-nare-para-llegar-a-clases-3589520",
-          "pubDate": "2026-09-29T04:57:46.000Z",
-          "snippet": "La presencia del animal cerca de una ruta escolar llevó el caso ante la justicia y activó nuevas medidas de las autoridades ambientales en Antioquia.",
+          "title": "A esta hora inicia el primer debate en el Congreso para evaluar el proyecto de ley que constituye la 'Región Entidad Territorial Caribe'",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/a-esta-hora-inicia-el-primer-debate-en-el-congreso-para-evaluar-el-proyecto-de-ley-que-constituye-la-region-entidad-territorial-caribe-3589795",
+          "pubDate": "2026-09-29T15:07:53.000Z",
+          "snippet": "El proyecto marca un hito en la descentralización al definir competencias, estructura organizativa y fuentes de financiación, entre otras.",
           "_priority": "ALTA",
-          "title_en": "Court Order Forces Corantioquia to Find a Solution for a Hippopotamus That Is Endangering 23 Students Who Cross the Nare River to Get to Class"
+          "title_en": "The first debate in Congress to evaluate the bill establishing the \"Caribbean Territorial Entity Region\" is set to begin at this time."
         },
         {
-          "title": "Capturan a alias 'Pollo' en Tibú por el presunto reclutamiento y asesinato de la menor Mónica Liseth Beltrán, de 14 años, en el Catatumbo",
-          "link": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-a-alias-pollo-en-tibu-por-el-presunto-reclutamiento-y-asesinato-de-la-menor-monica-liseth-beltran-de-14-anos-en-el-catatumbo-3589698",
-          "pubDate": "2026-09-29T04:26:20.000Z",
-          "snippet": "El hombre es cabecilla de la Estructura 33 de las disidencias de las Farc y también se le vincula a acciones armadas y desplazamiento forzado.",
+          "title": "Amor, extorsión y sangre: así operaban 'Cortico' y 'Sonia', la pareja que sostenía el engranaje logístico de la estructura Adán Izquierdo en el Valle",
+          "link": "https://www.eltiempo.com/colombia/cali/amor-extorsion-y-sangre-asi-operaban-cortico-y-sonia-la-pareja-que-sostenia-el-engranaje-logistico-de-la-estructura-adan-izquierdo-en-el-valle-3589798",
+          "pubDate": "2026-09-29T14:54:06.000Z",
+          "snippet": "Ambos fueron capturados tras un operativo adelantado por el Gaula Militar y la Policía Nacional.",
           "_priority": "ALTA",
-          "title_en": "A man known as \"Pollo\" was arrested in Tibú for the alleged recruitment and murder of 14-year-old Mónica Liseth Beltrán in the Catatumbo region"
+          "title_en": "Love, extortion, and blood: this is how “Cortico” and “Sonia”—the couple who ran the logistical operations of the Adán Izquierdo organization in the Valley—operated"
         },
         {
-          "title": "Concejo aprueba cupo de endeudamiento por $1 billón para Barranquilla: obligaciones se extenderían hasta 2038",
-          "link": "https://www.eltiempo.com/colombia/barranquilla/concejo-aprueba-cupo-de-endeudamiento-por-1-billon-para-barranquilla-obligaciones-se-extenderian-hasta-3589656",
-          "pubDate": "2026-09-29T00:18:33.000Z",
-          "snippet": "Los recursos financiarían programas de vivienda, apoyo a emprendedores, recuperación de caños, vías y escenarios deportivos.",
+          "title": "En Cartagena nace el Comité Pro Islas para frenar la fuga del tributo ambiental y ordenar los zarpes hacia las islas del Rosario, Barú y Tierrabomba",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/en-cartagena-nace-el-comite-pro-islas-para-frenar-la-fuga-del-tributo-ambiental-y-ordenar-los-zarpes-hacia-las-islas-del-rosario-baru-y-tierrabomba-3589773",
+          "pubDate": "2026-09-29T14:36:54.000Z",
+          "snippet": "Pondrán en cintura la ilegalidad en el zarpe desde diversos puntos de la Bahía de Cartagena.",
           "_priority": "ALTA",
-          "title_en": "City Council Approves $1 Trillion Debt Limit for Barranquilla: Obligations Would Extend Through 2038"
+          "title_en": "The Pro-Islands Committee is formed in Cartagena to curb the evasion of environmental taxes and regulate departures to the islands of Rosario, Barú, and Tierrabomba"
         },
         {
-          "title": "'Fito', capo ecuatoriano, buscó protección para su familia en Colombia: revelaron que grupos ilegales estarían a cargo de su seguridad en Santander",
-          "link": "https://www.eltiempo.com/colombia/santander/fito-capo-ecuatoriano-busco-proteccion-para-su-familia-en-colombia-revelaron-que-grupos-ilegales-estarian-a-cargo-de-su-seguridad-en-santander-3589655",
-          "pubDate": "2026-09-28T23:40:50.000Z",
-          "snippet": "La hija y la esposa vivían desde hace cuatro meses en Sabana de Torres. Pasearon por Medellín y Bucaramanga.",
+          "title": "Terror en Puerto Tejada: hallan cabeza humana en bolsa plástica mientras crecen denuncias por abusos policiales",
+          "link": "https://www.eltiempo.com/colombia/cali/terror-en-puerto-tejada-hallan-cabeza-humana-en-bolsa-plastica-mientras-crecen-denuncias-por-abusos-policiales-3589781",
+          "pubDate": "2026-09-29T14:15:18.000Z",
+          "snippet": "Las autoridades buscan establecer la identidad de la víctima y determinar quién estaría detrás del hecho.",
           "_priority": "ALTA",
-          "title_en": "\"Fito,\" an Ecuadorian drug lord, sought protection for his family in Colombia: It was revealed that illegal groups were reportedly in charge of his security in Santander"
+          "title_en": "Terror in Puerto Tejada: Human Head Found in Plastic Bag as Reports of Police Abuses Mount"
+        },
+        {
+          "title": "Cartagena: pruebas de la Fiscalía que permitieron enviar a la cárcel a mujer que sometía a sus hijas de 11 y 15 años a grabar contenido para adultos",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-pruebas-de-la-fiscalia-que-permitieron-enviar-a-la-carcel-a-mujer-que-sometia-a-sus-hijas-de-11-y-15-anos-a-grabar-contenido-para-adultos-3589755",
+          "pubDate": "2026-09-29T13:19:16.000Z",
+          "snippet": "Obligó a menor de 11 años a participar en la grabación de videos de contenido explícito y ofreció plata a su hija de 15 años para encuentros sexuales.",
+          "_priority": "ALTA",
+          "title_en": "Cartagena: Evidence from the Prosecutor's Office that led to the jailing of a woman who forced her 11- and 15-year-old daughters to film adult content"
+        },
+        {
+          "title": "¿Bucaramanga entraría en racionamiento de agua tras sequía en Santander? Acueducto Metropolitano responde y entrega las razones",
+          "link": "https://www.eltiempo.com/colombia/santander/bucaramanga-entraria-en-racionamiento-de-agua-tras-sequia-en-santander-acueducto-metropolitano-explica-las-razones-3589816",
+          "pubDate": "2026-09-29T15:51:59.000Z",
+          "snippet": "Actualmente hay 13 municipios con racionamiento de agua, siendo Puente Nacional uno de los más afectados.",
+          "_priority": "ALTA",
+          "title_en": "Will Bucaramanga Implement Water Rationing Following the Drought in Santander? Acueducto Metropolitano Responds and Explains the Reasons"
         }
       ]
     },
@@ -136,12 +168,20 @@
       "color": "slate",
       "items": [
         {
+          "title": "Minjusticia firmó decreto para que tutelas contra el presidente vayan en primera instancia al Consejo de Estado | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzBOSnB0X21NRGRaUDliMVF1TWJqdExFSWRrTTB6eXdyallHdzVNdmJsQmtYSjZfRHZuQmwxY25SUkRoVlBQRFd5QXlWRkc1U3c2aW5zVnkxNm5lSjlnOHZ4TDIxYkNQeWM0dkRsSWVFT0xvdGRVNzhPZXdnMFBaYWFjNE9tRGwxOHJ5MnVhQXhiUkxqRnI4SGVYaXVvN19IdGfSAacBQVVfeXFMTzBkaWNDMVhoZjRPeU1xTE5rVy1Db2hacXRteU9ESzFKSFQwYkxDNWw5YlJXZFEzclBuVXdQYVFwVEZjdWhwWmpoczNDTzVyNXdMUzhkdDRvMXN3Qmt6czlYeW1CZmtKV0hzaU1ueVdCRjVjaGJXVnQ4cXhGLWRvXzlwR3NyTGVtZy0wZHgwM2F2QmhKX1pOUnZ6ekN4MElLTFdUQllRMGc?oc=5",
+          "pubDate": "2026-09-29T01:07:14.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The Ministry of Justice signed a decree stipulating that legal actions against the president must first be filed with the Council of State | El Colombiano"
+        },
+        {
           "title": "PepsiCo invertirá US$1.000 millones en Colombia: ampliará producción y distribución durante cinco años | El Colombiano",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGV2T3VHZVJWQjg4T1NXOUlCRi1JcEtvcjlrNEhTRXZId3VsV090TndtWjlWSjJFZk1KVFNSTUdHd2oxc0NtYjFfVDNlYlJHUmQwQW9iNnNETjVzYnhxanEyOWtuVUlzZ1hFZVdGM3VaUlNzWXZWRGxpSFdoalNtYmNnc3NpRTFRVEJuZV9aMG00U1NZWjNtQzdYOTRXYjE2Q2lFWE5zWUxWaGE5NDhTTtIBtgFBVV95cUxPTkR6ZTRyeF9TRDZGU0RTMDZRUlEwTWpvMUJXelJjRWdYNHpqS3ZVMlJzZTlzdlRJUloxbGREOFh5MDFFTmlSMFRVMGZKRWJwVkJ1Tl9KVl9JTk9Ndi1ReTNCclVpOVBadUJZdHE4M3lZMENLUTJMSXU3T1dqSjZXV21WekdsN2QyU1JnR05HYnRWY09HdFM1TzNrUEQ3QVdXVnR4UWlONFlkcDdFUlR5cGhrMmo1Zw?oc=5",
           "pubDate": "2026-09-28T23:33:40.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "PepsiCo to Invest US$1 Billion in Colombia: Expanding Production and Distribution Over Five Years | El Colombiano"
+          "title_en": "PepsiCo to Invest US$1 Billion in Colombia: Plans to Expand Production and Distribution Over Five Years | El Colombiano"
         },
         {
           "title": "Gobierno De la Espriella pide al FMI evaluar la economía colombiana en medio de la crisis fiscal | El Colombiano",
@@ -160,12 +200,12 @@
           "title_en": "Argentina Demands the United Kingdom Halt Oil Exploration in the Falkland Islands and Threatens to Take the Matter to an International Court | El Colombiano"
         },
         {
-          "title": "No solo Martha Peralta y Euclides Torres: otros “pesos pesados” a los que EE. UU. revocó la visa | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMllsbTVYZ2pCZkFGdTNpa2xPM01DQ3ZDX3o3bklVejVpR3JhRG45bEVQRmRhUEJfRUhMWHBlcUlsV0psRWtrbF9UeTZFWUFOWjR4cXQ4ak9haG9abVJqUlByTmw0YVdEQ0l5djAybGt1TkpobDduTHFZQ0NTLUdkcE9fOGlScTJIVmxZLWE0V0RnVU5LT3diaGxPSXlGTDNEZlFfb3FIaHZSZzB0blJDRkRYd9IBuAFBVV95cUxNR28taFRFUFd5d2RVeHk0UGJ4MFpyNGt0OHdvUHRqM01kTlg1Rjd2cjUtVF9IX1A0Uk5XVmtxa3hNaGYxcndEeDdoTjZ2QzExejhHLUhtTjAzZ01FYmIwb3dvODNna0Z1eUlRM3ZhWkRUUndzM3R2X1FETWxLX2haRmo2MWZGMDlHcXJ0OEJXalVIcW84TmNDbU1rMW13SnhDMUYxZ0d6NURFZU9KeHFtVXBoZnBMU0Qx?oc=5",
-          "pubDate": "2026-09-28T22:38:58.000Z",
+          "title": "El capo ecuatoriano “Fito” trasladó su red de testaferros a Colombia: van 4 familiares ubicados | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVR3WmpXSTdCYUZka2Z4Zk5xTHNORDhETlE2REtBV0lkSDJDamo1TS1VNGpsSDhUYTNrUzEwNnlnX2tpWFA3cDdjLWVsamxwVlYtZ25nbV9wUm8wYTdXZnczcXNVSEJHRFVrQVB6RmlSTnBEUGp3ZDA5WGxUVEloajYxdUhSaml0SWtnLVAyYzZMWXJWVE9GeEFWbDJ1dnlUb2dSZ1pGUDhpNHV0RUx2Y2lMQTZSbjE1Y2RnNXJMN1VaUdIBxwFBVV95cUxNTWtIdTc1bldoc3V6aXE0Z08wcWFOc2VITUg3RE9relR6SEg3Rk45YjNrQ3k4T0xuMDdQWHpya0I5ajltX1ZBbXBoZ2UwbXNhc2d6NVE0b3lnZjRmMUQ0M3BpbVJiZDQwSkZUZEZnNy1GZ2pXajZNeUszTEZ4elJZNE5kLWhqTDVoLXNBZjVGTEs4QnNNdWhIWXRwNWRXUnZVYWZ0LVNsbEhGNTlzS05kdzU0Vi1PY1pKb0Y3UUtLWC1QU3dDTnQ4?oc=5",
+          "pubDate": "2026-09-28T21:19:04.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "It’s Not Just Martha Peralta and Euclides Torres: Other “Heavyweights” Whose Visas Were Revoked by the U.S. | El Colombiano"
+          "title_en": "Ecuadorian drug lord “Fito” moved his network of front men to Colombia: 4 family members have been located | El Colombiano"
         },
         {
           "title": "Tribunal deja en firme condena contra exsubdirector del DAS por el secuestro de Piedad Córdoba | El Colombiano",
@@ -174,14 +214,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Court Upholds Sentence Against Former DAS Deputy Director for the Kidnapping of Piedad Córdoba | El Colombiano"
-        },
-        {
-          "title": "Afinia necesita salvavidas de $1,2 billones para evitar un apagón en la Costa Caribe | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2JIQ25sd1YwcWk3V3NTYXZjb0thQlhOZjd3WGxhLUVpajVpVkNUMUpYMjdzaVJBTkE3eTdfbzFUanlXR0VyRGY1YklnZnBvZGVWbVU1WEpIY3Q0MzhTUzdCNFg3Q04tOVNnUTRZd3JLYTNVSDRURE45dHU5NVA1ZXctYnZVaThTaFZyUGJCZUhIZkZBRXphRVdydzRBa1U30gGmAUFVX3lxTFBqUkdtWUtyaVZTMmYwMHVDclZ2VEVwRFR1VjI1aU9Ub0dBTXhNQkh6b3o4YzVMQnQySXZDUGY2TEhZYlhyY0xiVFVyTVJQeVQ1SlNiV1REcmlHbGY3ZGhObjZrNHptcll1TjUxeTFMc0dOekdQTU5TUDdTeE03SlFnTVVXSWpnM3loYlBYQ0k2VTZfOWVlcXV6NWFxcTg3Y01UaUdfQkE?oc=5",
-          "pubDate": "2026-09-28T17:33:50.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Afinia Needs a $1.2 Trillion Bailout to Prevent a Blackout on the Caribbean Coast | El Colombiano"
         }
       ]
     },
@@ -190,52 +222,52 @@
       "color": "cream",
       "items": [
         {
-          "title": "Trump elimina normas que protegían a alumnos LGTBI de discriminación sexual",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObldpZlVIWmF5VEhjMm9uanF1ZEVIMFp1T0hjWmtZZEhfc1lkWWRTS20weFdtLU1tb2czblpHNDNWZTRNYWlWXzd0aVlKdHdZZnpXT3VsQ1p2SkhlTGlHWThJOFJmYS1EQUwwcnZBQm5WWDJ5WUlnb2RDellXdjcyQlNHZlhwU3kyMHVCaHY0SDdBNHRTeEZnVnlhSUYzYnlEWVgxazhjZ29YamEwZlQ0dtIBvgFBVV95cUxOXzBnMnNxcFBEdjJ1bmw0Z0J6R0dPRkNRVEI3Z1E1cS1MRWozanpfV0NSZENCUVgyTkltZm5LcGdDV2x2RDRVeF9wM2lhQkRFZl82UjNweWJ4RXNDakhyNUhMUjJ6RE1YTTFRT0pkUEFwMUlRR2c0dmlmX0pXOWNuQUsxU3Z3VnFPT2NJOXBDYS03cGxpdGZKc0VCVGpLTkoydFdQZ20xeGw5WUhyak52RTlFSXozS21uMEptMXdB?oc=5",
-          "pubDate": "2026-09-29T03:26:50.000Z",
+          "title": "MinAmbiente revoca otra resolución del gobierno Petro sobre protección de Santurbán",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY256X1RnTHR0a094aGM1ay0yWDF4dS1fMDZyTHc5bnFuczdsNXZVMHc2S0ptZUdPMFQyYVRCcTVJcFd3U05TSVljNVFRMkMtdllEbVBtVTg1eFFqeTVQa2pDZ0xBYnJWMmJYeEc3NEthSDlacDIyWGJydFJMaXZpU25YM2xwbVpPXzBTN3FtR25pckc3QjZ4OF82V3ZzbXJScVZLTlBJYU1neWZ5R1BWUmJzdFVwX2ZjUE5OeElzMGFBWlJxUC1kbFdlc0lIVEXSAdwBQVVfeXFMTmdrNjRQbVRXREN1bjJ6UkJLaFhHQnVjT1A1NEFoU3o5VGpVYzRRSlJsMlhNTkJfYVJkRFFlWHc3VUNMWS1OcEFoMkduT1FnVG9SVy1PYi1lTVJMRUZUeXFaLTlwbnp6OU5NZG1sMU80bDZPQXRCUFAzVXRUSEdIdXZiYlRLa3BlN1M0QTQwT25scXZpOUkwMkxFY0dqRzItTG5sclR0YkJPQ2hrTjRZT09hOEk3SGtRU2JYalB0Q3JYRDRueDRWbUtpbjUxTFVRNUR0SWs1bzEwb1NQbg?oc=5",
+          "pubDate": "2026-09-29T15:59:27.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump Repeals Rules That Protected LGBTI Students from Sexual Discrimination"
+          "title_en": "MinAmbiente Revokes Another Resolution by the Petro Administration Regarding the Protection of Santurbán"
         },
         {
-          "title": "Álvaro Uribe ofrece respaldo al Gobierno para enfrentar la crisis económica",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE1uU0I1NWo3SnVfR1RZNnF1a1NiOVVEMEg1YnV6Y09zTG5hWGtOUkdYdXpmQVk4SThmc2g4REFUaS1lcVBEcEpoNEZFQ2stMkRzbFJjZkxiY0ltQi04TjVEZ3BONENRaUI3SjFzdjhPRC1Ea21NMkdYaE5hXzRyWFFQejlBMVJUZ24ydHZtOUlkMXNxTTMzUHJoMkVTaTkwNGpkX3Z5bU5vNlYzQ0tNMTdpbEXSAcIBQVVfeXFMT21VSTRiZXRDWUxLaFNtZE9FNkw4cnpfR3BYUFNxVEhlTjhacWEwUVhHY2pWSFhYVDlRYzc1MjJrdXhONWs2LUxhbzAxN0RxcWlNSHFITXNQTGpkT3dNUFdfRksyV1lGb3BpLVZMVHhmVkN5d1FUaXFYMXJDdklQczQteTNheVZQb3hDUlM3eVJqMHc4ZnJKOHBOT1k0d1RoeW12Z0lNSFJvWXNOREZtMFNOel9FQ0J1RjZiMGVCYlJYeGc?oc=5",
-          "pubDate": "2026-09-29T02:14:32.000Z",
+          "title": "Atentan contra Jhon Calzones, exalcalde de Yopal: recibió cuatro disparos",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczFvVmp4Tkx0cDRydExWNmxoOTBoQUh3a0FmQWdHdjNEMUZ2Zm5tM21Sd3M0MFZvdlpKeUJPdElmUFFyV1RkR3ZicFZCc1FQS0tKM3E3c0QzVEtZWnVKcms2VWJGeS1Ia2NYQ1NtRktGNzVvczBJa0luVTg1UmRKdkE2QUtSVDRieHZGNFJ0ZGoxV0ZVZWVIRzNUM3NHOGxNNWI4alg4bFdFQm5QS05xdHEzalJHQkVLblFGTlM0X1o0Q3dBcUx1bUhGOHZkZk9nMm1KREpvU0lMN1pT0gHcAUFVX3lxTE9zMW9WanhOTHRwNHJ0TFY2bGg5MGhBSHdrQWZBZ0d2M0QxRnZmbm0zbVJ3czQwVm92Wkp5Qk90SWZQUXJXVGRHdmJwVkJzUVBLS0ozcTdzRDNUS1ladUpyazZVYkZ5LUhrY1hDU21GS0Y3NW9zMElrSW5VODVSZEp2QTZBS1JUNGJ4dkY0UnRkajFXRlVlZUhHM1Qzc0c4bE01YjhqWDhsV0VCblBLTnF0cTNqUkdCRUtuUUZOUzRfWjRDd0FxTHVtSEY4dmRmT2cybUpESm9TSUw3WlM?oc=5",
+          "pubDate": "2026-09-29T14:34:52.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Álvaro Uribe Offers His Support to the Government in Tackling the Economic Crisis"
+          "title_en": "Attack on Jhon Calzones, former mayor of Yopal: He was shot four times"
         },
         {
-          "title": "Tribunal reduce pena a Ricci por feminicidio de Luz Mery Tristán; también retiró el porte de armas",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORFJFRWktT0tMYjlmb0psQ2FGOGpPQVRHSXNIWnhIUzk3S3lsU2ZjaUlzbXFjTmIxaWxhMXFsVERNZHhpQUM2M2pXNHNRVDlaaDJpWFZMNUFiRnhBdjdMdFNqdjRDdHpmYnhMRWpHOUJabGhpX01TWXhIV1RzLWpaeTZWaGQ3c19qNEZ0aFpwUi1LcFB1and3dy1YcURFcDY0S09fb3IwZDUzeDdzcTJhUDFzekxkRGRkVk5kMkstNkQ3NVR5MjFqOEdsYk9QREJaLWp1N01iNHplWUF4VXfSAesBQVVfeXFMT3l1eG9KOWo1M2d5dGFtTHZWRk0zczNseWRVbGpTRk9ZUjR0RTc0TV9wTG9iTzV1Y2taN244bVNGOWFudU5fcWNPQzhjX0F3Q090T2ZkQW5ZSXkwanpHeEptMWtjWXZkQ19jNnNndEF2UnB5RkN0LTVEMlBzWnJsU3Y1UEQ1MmdwWTlsb2xFLTJ6NzYyZGxIaXdOSFlud1hvZDdCMDVTRTVPcWpQeGtkZUVTS0FMNFdTaTBjbU01WFlLTXM0TUU2Sk1WTUtXX09OWkdKcUxfaXhtSndxQTNwd3NfLTJaMFdtX0c4RQ?oc=5",
-          "pubDate": "2026-09-29T00:45:55.000Z",
+          "title": "Refuerzan seguridad en Medellín: Policía recibió 50 motocicletas de alto cilindraje",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTFsdmNTWjJNRzM0X3ozTEJYN0ZaTTRucXNXVW1YSTNBelQ5dm9TVkZWdGtHZlJtSm81YmhZTkNibWZuaEt4dFYxb0NsQTlXMS1uQnktLXZndGU0ai1PbnpnYkNPcUFJRGsydWRINVNvbVp3VDN4TUxYUW5SS2dfQ2JiUWVGSTFmY3lFYTFrV0VaRGRUMmJmN0NHRGw3NU0xWHVfNFVJMlRlWUR2QlFNNlIwSXlIM1FNei1iTmRhQ05qNFJzMlBQN192d9IB2AFBVV95cUxOc0lDSHNIUnFYMzFWS3BtWjBkaTBsSHhySFZSbHI2YUVOdk9hLTYyYWxMOXhWcm13XzNBZUprekZaOGM5aHRUU2gxYV9meUJLZUdSZkQ3SzBNZTBhM3FtQzNxQ29MVTRkeFJXY1hPS0R4SUhDVzlOV250ZENyal9lcDBZMFpYNU1zNEJzbGVodHlBZFJhWkVrdklaV0hqYS1vczh4ZXI5N1pJTjFvTWNyVDFCQ2sxdkRibVVobXZKUk5US1VDcXI5VlNKNFJZWjAySW5XUWpVQXQ?oc=5",
+          "pubDate": "2026-09-29T14:02:50.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Court Reduces Ricci's Sentence for the Femicide of Luz Mery Tristán; It Also Revoked His Gun Permit"
+          "title_en": "Security Measures Stepped Up in Medellín: Police Receive 50 High-Displacement Motorcycles"
         },
         {
-          "title": "Gobierno firma decreto prohibiendo importación de bienes producidos bajo trabajo forzoso",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2VnWWh4MXBpdDVpdllKWWZJVDBOUFV1cHJEU1BqOHM2SzhPUjJLTEJ3aUY5TE81bUZZS0lzM3RNRDZnXzJWRlhta0Z2YWF6TlJMUEU4M1JzQWNxX1poSXlSN2d2cm43b0ZETlFBM1NtTGNUTHVJcXBpcThReVJDeW1aZmxQWEFqUHJvMU0xcWpwckNZUlVPREVxeVJoajFvbVZjS19lMjNUVXM2a0c2SnRHRVBXSDhWZmxSaGYyWS16cWvSAdABQVVfeXFMTUtNY3hoSzBuQXU2YXF5dXZaZl9OT3JLay1ZOGpla3JULTU2UVFSbWlidFFfLVRXZVEwYllHLXJJRTFIak1EUXZSX2k1VVhVd0xaY09XeG9HZFhLRUt0OFNoZTIySGhNMGhRZ2J2WVRuRjduTHh0WTl2OUh0d2NjUVBtM2k4Mm03VFhydmhNbF9nTnYzQnN4clc1LXpQMGxoUXR5d2NkUmpzRjBmNktSQVBWSWJTTFV1djlmOEU5V3FjRWxVVHRlWXk5RTVmYWFnVw?oc=5",
-          "pubDate": "2026-09-28T21:59:01.000Z",
+          "title": "Investigan a exsecretaria General de Supersolidaria por presuntas irregularidades en contratación",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2l1MmN5TGNVbVBIeFpzMlhqbTRmSGdTS3NKTTVZRTg0Z3NSRVRhTmk3TmNLZFAzZjBJTm9GTHdkWjZQeDdlYnRaczJKeldLX3hCSkRPVDBwelJzcVplMk9HUHMwQV9MbE5YZFNHc1FvMDdta3huR2poTkk0SkN3UjVrZ1NBTnlpVDJpU3NoOWZLSUM1SUhwekdOTDIxdGl4YVYtcTQ0VVBGemlMdEp0UURyNHAzYU1yNndkZmdPRU42R3BRSWVMa0pFOVA1X03SAdwBQVVfeXFMTXY1TGhDclZpbDRTZWxfYXR2UE1USGZWY0JyUXBFbVQ4TjVkeWZHVmFhMU01SG9xX1IxdGRhZHpZNkFEWEtvQUw5RXhFSHB6T0FhdVZLakJRcTdjTHdSYXZSZXdqa0RERGxPVGhZTURWSUFid3NoTFJLNWp6WVIwVVdKN0NlYmRIYnZVMDhGYU0wdlRmRnZNWjc0U25tbUhBUERobkxYUmZRcmlGSmptRkNnd1dyVUJ1RWxMcjRYVmltbG13emVhM1loeHA5b0xrZUR4OEJCaEhobTNjRg?oc=5",
+          "pubDate": "2026-09-29T13:55:12.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Government Signs Decree Banning the Importation of Goods Produced Through Forced Labor"
+          "title_en": "Former Secretary General of Supersolidaria Under Investigation for Alleged Irregularities in Contracting"
         },
         {
-          "title": "Senadora Martha Peralta anuncia acciones ante la revocatoria de su visa de Estados Unidos",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS2UzTDNSSS1fX3hTOTF2OVdDUWFLaWlIUlkyLUxjS1laUnk4RjQ5US14d0hMZzBVel9BWGlmYnUtRnItTG1xOXA4eEJPTC1ZRXRTNDZDU2E5M2tsVjRlSzh0Z1prRFgtdG9mNlhpRmE5UFozUmZBdWc3SEV4RFhfc3JnU2tfaGRTblQ4WFpNYVdPVVdXN2hLVFFwRklvbTNGTzFxaWs3RUlrSWZVX2puSWlDbXZKR2pNM0xCRHRJZnR0am9SLXfSAdMBQVVfeXFMTldBV2s2c25qMm1MWUNTMURFY1NSQ2pJSTV0WUptV004VzFPbHJhT1pHaWtOLVI3enJfbnRfVUZvSkpoRFZweGlkcmlia3Z1MXhscktKUlVRcEd6UFpNOVVSOV9VY3A5M2pwRmpLR0NaT09lTXV5ejhDek8xR0x2T2RNM0ozcV8tLTQyMVJvUWE0WG1BNnpmX0FLZnY5MFdvRzJBeE5qYS1wcnR0REdGSlhEUzFSclBoWFFpZi1iYU5xWnJsWWkxdlcyeDBsMGwzSjh0aw?oc=5",
-          "pubDate": "2026-09-28T21:07:03.000Z",
+          "title": "Señalado en desaparición de ingeniero Andrés Camilo Peláez aceptó cargos",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUpKTHl6MHYxSDY2bEpXSVNFMzF0MlRuNHFGVTJQZTNMcWZMbVFHTzUxWUhYbzRvRURwd1lCQzVVNFlNTGtfU2ItV253eVl4TmxsazhUMURndlJyODBPOUd2LTZDWndKRTRJVkN6ZmtaclI1VlpuUnhKalU3SzFVUzN4dk1GdGVFZWotcWZCeDJIa0NPeUdJQXZYZVpsNzhia2g3OUtLeFRYcUlBdmZ2VtIBvgFBVV95cUxPN2w1LUVBYlNCTGlwNVRUUEdIeUxhcDRPeDV1REdWYnM2ZWNjcEZCUFVMeXdrLTUtWHlLNno3bDBUdFRaWWpKdXpZNXRzVkd1eXZvXzFjZUFUM1F3Y3Jka01EejhMYl81MmpIX0FXcHY4VzBYYXBCSVNQbkwxYzVmaWRVUDBWMmVzU2JPZUFTUUZraDJMam1WVmhnQ2I2WjhhOHdjajZ1MHFWWTR0a0xZRGZVcHBGU0FxUS1KOVFR?oc=5",
+          "pubDate": "2026-09-29T13:35:35.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Senator Martha Peralta Announces Steps in Response to the Revocation of Her U.S. Visa"
+          "title_en": "Andrés Camilo Peláez, a suspect in the disappearance of an engineer, pleaded guilty"
         },
         {
-          "title": "Estados Unidos revocó visas a senadora Martha Peralta y Euclides Torres",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVJOVzVfMW85TldWMzNaZUpta3RCdGpOclA3bUgwRXhNeGVmQ3ZZSVlRUjdHdjFqWmtZT3NzZDI3LWhidTlxRWNVcFFJT2hWa2k4MnVTQmNnWDBWcVl0NkUyemloa0VvYzFZVUl5Y05sNzhnbzBQVGdrYk9MV1hOdERqV1RsUUlIMEZfWjVHZnhHaU5HNkJpU2ZRcHhIWVRBRXgtdW80OFlGb3pyTkxRRWN3djJRUGZoYlHSAboBQVVfeXFMTVVSTlc1XzFvOU5XVjMzWmVKbWt0QnRqTnJQN21IMEV4TXhlZkN2WUlZUVI3R3YxalprWU9zc2QyNy1oYnU5cUVjVXBRSU9oVmtpODJ1U0JjZ1gwVnFZdDZFMnppaGtFb2MxWVVJeWNObDc4Z28wUFRna2JPTFdYTnREaldUbFFJSDBGX1o1R2Z4R2lORzZCaVNmUXB4SFlUQUV4LXVvNDhZRm96ck5MUUVjd3YyUVBmaGJR?oc=5",
-          "pubDate": "2026-09-28T19:24:12.000Z",
+          "title": "Fuerza Pública capturó 30 personas vinculadas a organizaciones narcoterroristas, según Presidente",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVzRjSDFzWWNNREItaGRFRDJ2QlljVlFWVlpNekVDcWxQdDJQeXNqRXEzNnJPdlVGRVN2UVFhem84VlNhVW1uY2FUUV9wbFgxbTFBT25JZkg4VzMxS2Z5cFdqQWZGRGRhNERkZzYwUU9WREkyZW5Ib3RUZDRBV2hqcXcwR19ZYlYyWXBJaU05V1l3c3N5MnRqbDNhcnkxM1hjVzZVNFFXd2N1SjZyblZhZDl6RDV4Q0g5dkZDYmV6ajlqZTk2N1V4V2Y0NkgxQdIB2wFBVV95cUxQcUhrMWR0UEduODMtNGhjME80LV8xeHhQc0tBV0pPb2FyS1lfdzB0eWlGcW9jSDJ6ZVdFQThtVC1JYjVrWE9oYkltSjh4UGItUlNDbkVjUDdQUlk2VW5oYWUzcTh3ck45ODNjalRIY3E1dUFkRXJUZjJQcGtiQ0JFeG1IRVd1TFlTMkNhY1RWMThNd29HVGpuLU0wUmJZTnp3NUlJZlEySHU5MGhPTy1qTDFZREF0ZldNWnN2MEl2QjNDaGltM19XdTk1Sk9LX2pZQmxBamtObGp4SlE?oc=5",
+          "pubDate": "2026-09-29T13:15:05.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The United States revoked the visas of Senator Martha Peralta and Euclides Torres"
+          "title_en": "Law enforcement authorities arrested 30 people linked to narco-terrorist organizations, according to the president"
         }
       ]
     },
@@ -244,52 +276,52 @@
       "color": "mint",
       "items": [
         {
-          "title": "La Unión Europea y Colombia impulsan una transformación digital centrada en las personas",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNGYxUTEwS0pqMlc1TDQxTUROQUhEU3czSmVGeGJmcDBJUE53cXRRLTRzR2MweVNwOHprUjlRcnQ3U01Db3EzNE93N1NKcFVPdnJQR3hHNXZyVkxsLU9aSkp4bDhrNjY3ZVk0bUZKLXFLaDB4d0JOTG5RaXNNYWx3c19SNkMtc3dLNWxVem82cmxmVkFrX3VqcmNQTlhGZzNfOThWX21Rdk1taVJQV2g3TmV1R2RESkdsU3F5ZTBmWVl2Y2oxeE1DNDBCMmo4OWV5MUl0WkM3cm95dTFTZFpsY3M4dGxCRlJOTF84NUpwdjd4b1lFS0lJMQ?oc=5",
-          "pubDate": "2026-09-29T07:59:44.000Z",
+          "title": "Viceministra de Defensa, Claudia Carrasquilla, irá a juicio por hechos cuando era fiscal en Medellín",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2dMc1BGeU5ZYUs2S0lKOGg2QXVzdjVUQjNhbm1fdERYOTFaTHlUcVpaWlBsM2hrWlNyQzYxZHJpOWt3REYwWktvZGNrQXFLRV9rQ2NHRlUtM1owb2xQQVpPbjJ6UVFwVlgxczR2eXpYZjBTSjk5V2ZpZkwwaWlscG1qNUVKTTJlQnlOeHBRU0lJWEpFc3EwcnlaTTVpRUpUaXJHOTVsVndKa29kQ1ZIS25KV3oycUF3WjNxbFRWTTlOd0trVWp1TWlpQmZEZ9IB4gFBVV95cUxQdjJzdVNjeXNndUpFdGFhbDdjdnREdFdFV0Z2a09FV2pxQndUUXB6X2ZZS0U0X2RvM21SRkZFblVIUENMZU44MmNJVkRTa0dLa2QxSmtGcGxLbG5qc0x1dWt5Qkg2eTRDdms4NGZVemVweUJtUGxDM3l0R052SmMwZjFJdUhKN1JUZnZ2T2syc042S1gtckpDb0ZfT1RSbzFZOFJkM01PdnJEYzhQQWhxeG40SHNCQ0NRbWlJV2NZRjdDd05LVDdCUWNCNjBBU2pNVExVVmN0LVRDVFQzNktKUlhB?oc=5",
+          "pubDate": "2026-09-29T15:43:38.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The European Union and Colombia are driving a people-centered digital transformation"
+          "title_en": "Deputy Defense Minister Claudia Carrasquilla Will Stand Trial for Events That Occurred While She Was a Prosecutor in Medellín"
         },
         {
-          "title": "¿Es conveniente para Colombia buscar al FMI para solucionar crisis fiscal? Congresistas debaten",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3YySHNBMkdfUGhKZ3hjSm50R3BabWUtWEV4djhuNjZFcEJLNXFLRTdOcTNIMkd5SmtVc3dLM0Jna2FrQ1Jud25wT3BGejE0N2hmOWxjUWo1WnRPTElHZm1TS0tKQkVWVzZmd3dodHdDbEdVWVAxdkQ1YUFjYl9EZWtRTUZWWDI2T1FURGQ0WmtBbmVDemhwY1d1Y1ZFS1ZJMWgzeWoyUlFncHcwRzdhcU81SHZBTm1TU0pzY25vd3NWTG1JSUtv0gHbAUFVX3lxTE9XNS1IbmdZN0RQWkNsaE1ySnBSelFhdXBGb3NEdTFXRkNMOHdaNmpURlhoeXBtdUo3TGNnNnF0SW1McEg1WUpsTjFXa1YzZ1gtZ1NmR2M2d2pGdG50d3Jfc01WUlNjNDZrNDllU0tqWG5yVjZUdGV4TC1DSWRFSk55RnREN3RJWjVfS0JSajZ6N011UmU3cklFc002Snd4bVJ1Vm54SWlLbVJSOHptMlNsSTJSZ0tUdnoweEpBdlNHQ1NHQ0xxel9sdEVHSW1aTEJhbzc3aGFzQlFWZw?oc=5",
-          "pubDate": "2026-09-29T06:29:45.000Z",
+          "title": "Gobierno español anunció la paralización de desalojos hasta 2030 tras protestas por la vivienda",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekNtajdwelhmSXQ3cWVQSHhVRW5RTEpUNVVyZV9VVUItUlIzVEduazN3NjFTc3BWcTlINGxQcE9LUVpjenBqVWRnZ29TSnR5WFNmU0FXcC0zeUdaZ002NEVkWm9GSlFuNmcyaEdTRFpJZDU3R2xRRmxpQV9DMUdpbjZjaFAxUEpTVlhDOGFhd0dWMXdvVk5HRjdQa2YzLU5tMmRpcExUVFFPSDQzb0VOdERkYzhBbUhEUmo3Y0NPUFRWZlp0Z3VFOWlR0gHeAUFVX3lxTFBGQVRYVmthN0xmUDFMRmIzNkVhcHNWdkhuRFZ2ak10OW9DR2k2WnFhNC1HUFVXX3lUZzBMV0lBSHBRSXlrbVhDUlJqcVVCY1pNclM5dUtFZFdLQ0NmX0w0UTJTb1I0OUJHT2lwazhfcjhfQmE2dkphMVptRElLWlFkZUJveUZTaW1lNmFYZzFBSTZ1Uk9RM2czaXZON1R6d3BXWHJsbFRPZ2s1bTBCYUlJaERUX0FRT2lYRUd2bWl0ZEdFX1ZZMWhpSlIwRjR5dExvc0xaVlEtd3hzbjlsdw?oc=5",
+          "pubDate": "2026-09-29T14:12:16.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Should Colombia Turn to the IMF to Resolve Its Fiscal Crisis? Congressmen Debate the Issue"
+          "title_en": "The Spanish government announced a moratorium on evictions through 2030 following protests over housing"
         },
         {
-          "title": "De La Espriella advierte sobre sanciones como lista OFAC tras revocatoria de visa a Torres y Peralta",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzVQckFQUWpsZDJ2Y01vdVI1MnN6dzFvQzRqTFM4NjctNUhjbVNtV0tCbUcwV1dWeE9LOHJNYjBiTTZ5TnZiaElEUTlUblo1OGtEeWk4cW1xSnE5STQ2SDExeVhTNzBVanhOdGJKZlBNclJCZ3M0NGNYSUVUYTk5Z1FWTEM4YmQ4M1paMHVjSlFyZm5Fc253Mm9icmNqVmpockxfX1Y4aG9KbmQtTmJNWEt0UWc3TWhSb3FSMy1qc0lhOTlVM3JaSXFwaFHSAeABQVVfeXFMTkNsNl9kWmROUV9CMUE1eW5ZMUFKd2xZbENWaTRYN2ltTXJiSTJicEtJdjZCT3FwQnhSeVRsdmN0LThZblJxUktqOVpqeTYtenlmTWU0SnFxbWt6dWNtNkxJUl9sVnV1TEE4NGd3ZXNzNm1BQ0pfX1liVlNnOE15YXBZZklSY2JlczdVSklCTEFHbW92Sm5aNWV5S2tZS0ViLVZiODFqeHlDYWxfLXBLdEhXdklqWlJkS0FpdnBRa1hlR1V3Wm53MERzSWoydkt3RGwwUnhBMmJrdVFhM3RpVGU?oc=5",
-          "pubDate": "2026-09-29T02:39:47.000Z",
+          "title": "Más de $74.000 millones de inversión privada irán a proyectos ambientales en cinco departamentos",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOank0bFBQZ3RIeEU5Z0tFbGQ5U3FzcS1YVkt0THVqeGdrcUpMemtRdEJNT19Ra0Vhbnk0Q2Jqb25wbHhQd2NiWHFSZE95N3hQeFBXc0xYYlBEb1R0OXgyMlg2LVBlOFVyVXRnRmZ3ZE1BNVpSRjlzZUFNNzNvRG1mNnVVaG9fdWdrOUFpUzVULWZ5RkNmRVMzWmlDUGZLZGIzVUVWUU5SYzJhcXBDZ0dURW01LWpORlZZc19vRUlZN21PQzlLQTh4LdIB3AFBVV95cUxPRDVVRWp5cXRiSU9reVZmN3NiY29ZRTJTeVFKeDdKMzc3eExuQXpFLW9IdXBGMjJ5allnQnlJeFJXdEFyeW5Fc29yeE9Zd2t3blF6RXJfWWFBdXl6QjBVMG1zYmZyaVQ2MFZSMUNid1dXbVlOVlFKdGFwcFljekVjZHJJa01GMzk0T1hFNWVFcVd0eXQ3RHJ2WVZEb185Q0ctRUVQS0FaQmpsN0pEczhKMG1XWm5Cb2YtNHcwTld1cmxIWDFiNmt3V3M3ZmNTYmVlenpFUVU2UGlDX3BE?oc=5",
+          "pubDate": "2026-09-29T13:57:31.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "De La Espriella Warns of Sanctions Such as Inclusion on the OFAC List Following the Revocation of Torres and Peralta's Visas"
+          "title_en": "More than $74,000 million in private investment will go toward environmental projects in five departments"
         },
         {
-          "title": "Proceso de Miguel Quintero es una “batalla política”, dice el abogado Santiago Trespalacios",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWdtRXFHWVh3RmxDbUNqNjdVWUJHT01jSEtTTFg1VERQdzZESFF4aFZCMmQ0U2MxRTZLT3hQdlRQcDlWX2NUekI4NXZhYmtqVDRFbVRJSE5uaWxaUmEtOGtfNmVyc01KNm40R2pfTFgwXzA1Vk1seG9kQWZwTDZoVDJCZkEyTy1DWUw2RUFDM1o1Z0xwRy15WXd1MlBNcUFHeXZlQ2U2b3JFNkpPVTdsTWVuX2V3WUZrbEhnY2R6cWNEMTF6UUw1VtIB3AFBVV95cUxPT0xXd215OFBMNlhhSnViSjl2TmxlMUVCQkZYcDNCdEhBXzAydk1PVjZhR1hTcEpXb21ocU5xUWthSTFnb0dYNHFFTV93Q2J0RFNLTHdMVHoyR3RMVmdBeHp4TUNiZ2VUeHE4TVMyVk5JNF9POVhHbEk5aGxrY004ajY5ZEhfOWVka2VMNjdKT0VLc2s3VEF6MDd2bHpzVWd4MjF1ejhKZHhaQU52MW9WU2pVWWlOc2JSZ1JrYzE3M3YwWk1GdHBJMlhYMG5yN0dPZXlvTWZoOVBjM1A4?oc=5",
-          "pubDate": "2026-09-29T01:45:24.000Z",
+          "title": "Nariño cuarto departamento más afectado por el desplazamiento en Colombia",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamlhTWdtVnZZQUhhUW1DNFZkaDhyNlY3dnNiYU5naXhEZ29kLWprb25MclF2Zm95YldQMEk5V1pNd19ibXFrUU44WXNSNExkVnk4ZEh3UGRfcGZxX0xFaXBIODhSOHFoVmR3M29DQUpuMlcyWE56dFhQbXR1c09fVUtXbnJyVWlacGJ5X3l4dEZabk1xQWI1VlY0UTJBVVMyd3JYX01sMkJrdl9z0gHAAUFVX3lxTE9VZ2lBMWVtWXJIQU9lbWNMTFBhOUxfclRjN3ZjTEZMcjJGalhmbDBmQm9PNmxpQ1lWWFpBRnhYcGhnNmxXdVQ2dWVBdjJxUllvT2ZWOERvMnpxVklFdk5ZbG8td3A3eG1EYzJ3UjNIWmFSSm5nRWg5R2pxX19NNzRFdzZlN0Rzek1GREhPUmdrQ2NWVE9pUHZRMkg4V040OHBZcHFsVTBRbjRsem0tWFdEYUNid21pWjNKZ1YybEdXTw?oc=5",
+          "pubDate": "2026-09-29T13:01:16.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Miguel Quintero's trial is a \"political battle,\" says attorney Santiago Trespalacios"
+          "title_en": "Nariño is the fourth-most-affected department in Colombia in terms of displacement"
         },
         {
-          "title": "Gobierno califica de crítica la situación fiscal y activa plan de ajuste con apoyo del FMI",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlBfNGJBbHhwSXBXM1JWQ0RUUW5zc1lCWFRoc3FOWDYxNWpWUTludVZnUEo2VmU5Umt1N09fOHZwODJyVmloQ1lORk1BZUVOejFsQ1hRQk8yR2VGVEtlY1QxYnRINkpaSWJMM1k1ZEh3bUwxWlh2U2lxTHcxS1Nfd012MkI4WUxrRXFMUERhTmhLandTZUs2NVRnRm82NnFTeV9BbnM0a0dHTWJ5Yk5CODRQUWdSNmRxRTdwT1o4dFlZQmfSAdcBQVVfeXFMT0xhaHdxVXJtWHRHeF81UDlvY0hfVGxGUW1oXy02N1ZNcFEtTzFydlpiOERPNkoxemdNTndRN01GUkMyU2ZEUVpVNGx0b3JiYkx6NG91M3NCTjFzc1pZNHVjdnVKMlp5VE5NT2swWjJOSFJ4ZEl0Y3N4dF9rWTh4WS0tckZFQ2NUU3BZeXZFOTRPNm8yUlg3VWUwLUtudW9YX1RIaTdEejhuc1ZUT2JPdThnUU5vcnNMQkhneDdfcDdscE8xNjV0WmVCU0JqeTZsNnFtdXgxRWM?oc=5",
-          "pubDate": "2026-09-29T01:00:32.000Z",
+          "title": "El noroeste de México en alerta ante el inminente ingreso a tierra del huracán Polo",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0J1Vmktd2ViTUc4VmRfSzVSRHVvMGZLaEJYSGQ5eFk5QVRzT3FHWkdFNUYtWGhmcXN1VGpONWtzbjFudTlwTGpEcTk4TEpQUnNzMVlCbDYzeVFTTFhCOHFJYTJDR0g5REJCUUlnN1F5SGs1cHAtZ3o5SkJSRm44aGpNUW5aSVFIdTVxM0w4a1M0X1E2Tk14VHo0MkRVcWE4M1k4QTBGX2xTVmlBU3pYbEppZDJIWmk3NHfSAc4BQVVfeXFMTldDTzZfcEFYQ2FLUTJ0SDFUTzhfRzNqNDJDNmE2VlVpOF90QV9qbGNWdjZuNm5oaFhjVTc2NElhYUJfcERfUjYwbjhCSi1ZWGdkcC1leS1ad3hyNlhWS3FIVmxpaTZUSUdpUlhFYlNhdWoyWi1tWWxEenBWcWRrRUEybXFNTGZ2dDlHbkhlS3h1WVR2dEEtVU5yNDg1UnRzSFlZNnJNMUQ3SVZrV0xOelJkV2s0djctdnRpNzRJek1qWGZiVVhESHBGdzlaaVE?oc=5",
+          "pubDate": "2026-09-29T12:57:08.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Government Describes Fiscal Situation as Critical and Launches Austerity Plan with IMF Support"
+          "title_en": "Northwestern Mexico on alert as Hurricane Polo is set to make landfall"
         },
         {
-          "title": "Argentina llevará a Reino Unido a la justicia internacional por proyecto petrolero en las Malvinas",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjhlYlpuV1RCd0I4c3MySmpIXy1CbVFFalZOa3NJMHJ2YWpTa2hGN2lxTDZqdEU0VzBuUElXZTV4YzhCVTJpdG5SYndSd1pkeV9VZXJXbGdYMDNLeEhYVnBGU3lMcndnN2ZTOVNjUW9tY0VNZlZmd201blpxWVRKZ2xKSWtjVHpxLUpIWC1MUVpMNjl3dld2dmROZmt6Mm1hODRYdkpTVW41V2tCZVpjWVNTN0NCTVpfUzcycnppV1RaZ082RzFPSUp3dV9NQdIB4gFBVV95cUxPZVFEM19KeFllX0pyVDlBUVQtZFQ4emltaHZOOFZPWV9wX01CNmVxWkdLWTNVZFZXa25kZm80T3A0d29ISXZGQ0FIVzRScFRHTm9lbFkxTExpSTF6QnJESzRiZkZGRDR6R0tMTDRubW5qT1pJR3ZuVDN4eHdFVE9Dc1dsUmpwTGlKeEtNSXpld21Ya2RNalJiUENwcVpDbUVBbHZLQWxybm85akV4QUgxcE8zTjJCZzhGaG1nc3Q3MGtuRUU1WFlQZjA0RmZVbFRmQWRMbXN3RzRjc2VIZHM4dFdB?oc=5",
-          "pubDate": "2026-09-29T00:21:34.000Z",
+          "title": "Emiratos Árabes confirma que Netanyahu se reunió con presidente emiratí para abordar relaciones",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUV9hd0lqeDFJbmN2Q0c1ckhLTW5Gd0Z0RmlCY2FsdjZjM214X0xsQmk0NDhLVmEyRE9sYThJcVh4WnJYN3dvMEJvVTRrUmVqMVVoMS1CbkpKQ1Y3ODNfT1plLU1hc0hhdVgwUWJPTmhQNm5jdlpreFlfOVVfWWVZRExRUVFqQ0hmclJ2V0k2T0R0cFJDZkNBUFZPSGpXd1hxY2pqc1lSMEs5QXJDZ3Z1aEgtSlpKVDBqT3ZZOVpIWjI0djhCUE81RXVn0gHeAUFVX3lxTE5uOG85TDF6MDM3REVEck9LZFA4Rkd0cm1IREctRXlHckhhS2dYblVLWXQzbXJBRFluak1nZGJqdTlEdUNFTkhIQ2RMMEN6dzVWM1NpYUVXajZtRzlNbkdSeWRqelVZZzR2aEY0TnhjNmpvR2FJcHI1bGZkQ0lMWjlCTUR1N0MwcE4wY0pqa3NZZ2hWa2hySzJXQ2FrYUp1NFpRWHRIbC1hcXcyWnVZNXZxSkNxX3lMaGpZdC1HUUgtNFkwbXNNakZyUE52VmhxWFN4RXJzNjlCWTk3bTZvZw?oc=5",
+          "pubDate": "2026-09-29T12:32:17.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Argentina Will Take the United Kingdom to International Court Over an Oil Project in the Falkland Islands"
+          "title_en": "United Arab Emirates Confirms That Netanyahu Met With Emirati President to Discuss Bilateral Relations"
         }
       ]
     },
@@ -297,6 +329,14 @@
       "name": "RCN Radio",
       "color": "grey",
       "items": [
+        {
+          "title": "Autopista Sur de Bogotá tendrá 8 cámaras de fotodetección: ¿Dónde estarán ubicadas?",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUtuSkNzVkhEVE5EbW94X0hiYkhHZGl2M1hVRi1HRGRLSjE0dDlldTBaeUl4bzFEMW5tdkJIeUZKalBETDVVUTlYUElnLTZpV2ZwZHpsMThQTURPYi12V3J5V0gyRjZmRG1pcGhUV0FGMEJQRGd1YmdqNVUzV20zMGExU0NaaUhFdklPUlJvVVpxeGlScjRNckF1SDd5eGpsOUVTOWRycDdaT1JjbkFPTDRQZk5fbWFuZ0Q4?oc=5",
+          "pubDate": "2026-09-29T16:07:27.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Bogotá's Southern Highway Will Have 8 Speed Cameras: Where Will They Be Located?"
+        },
         {
           "title": "Gobierno elimina cuota moderadora y copago en EPS para ciertos afiliados del país: ¿Quiénes son?",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeTN6Rng3QWxKX0ViSzM2c21taV81dzhyUzFVOXp3WnVuQXQxSmw1eTVEaG1zQkd0Qnp3UXFjZGZtWDdlb0RPNXlRZzdNQjBlVmdjLW1Kb2JPRm5TV1g0UjZuYWhwekx6M2JtVDNPXzY2SnVWNHFLN3RrV2stYUhfTW16RWE5MEYzbjh0RHBod0VyZFZjQlJsbFNrdHJ3NGVZZHl0eTMwN2poZDF0MDEwSmd6NDZFbG5pRm85Zzhqdktla1dMMG50SU5yM2Y?oc=5",
@@ -306,28 +346,12 @@
           "title_en": "Government Eliminates Co-Payments and Copayments for Certain Health Insurance Plan Members: Who Are They?"
         },
         {
-          "title": "Servicio Geológico Colombiano reporta actividad en el volcán Cerro Machín tras temblores en el departamento del Tolima",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM1pyM2RkWFhFRE15cU5LSXl5N3NFNFJKVVRRU2F2djI1U00zSWNTRV9lcFA3Wm9kNkVLT2hXVndoWDhwenBUdjJNMG5xWTVBbmlXR0hOLV9VTHVydlVaTmg0Q0JLNC0tSWlFT2xPa0c3bDVTd2NETk1rUE43UzFaZWhBTEo4QUhaODRDRlRsTFJEQ1AwbjkwQ3FJb1ZuamhNRjhRWVNiMnpVZlFyOXkwZGNDcWoyQlpiMXJOQVlWRHBZRFhvZS1xZzIyek9QT2ZYclRKRGxRemMyX2hiWkdpQVB3QmktNjRUQ3lEMkNB?oc=5",
-          "pubDate": "2026-09-28T01:22:58.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Colombian Geological Service reports activity at the Cerro Machín volcano following earthquakes in the department of Tolima"
-        },
-        {
           "title": "Alcalde de Bogotá propone 60% de descuento en deudas de impuestos y multas",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjg3amZPY2hmSnY2SWd4ZnU5aTd5c3A1bUNfcjIzSWpCVWNSTDZkcVlBVnF4T3ZlNnlqWENfMmJjZWJGeGdEOFdTX1ZDQXZncnF2R1N2SUdHQ2h3WUpnRTZfNlRYY2RvbnFCV0xXVnpRTF9lYWd4a0cxOVRlWERxUzRzVWhrX2RCT2tzVFZFRHo0RE4yWVlETFpOUUI5S3JDaFVVUFZZMlJYdXBZNlBaMk13?oc=5",
           "pubDate": "2026-09-27T12:03:22.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Bogotá Mayor Proposes 60% Discount on Tax Debts and Fines"
-        },
-        {
-          "title": "Cómo hacer que la IA trabaje a su favor, la startup colombiana en el Tokyo Game Show y Claro Tech Summit 2026",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSm4tczRvaG52ajNvQWlfX052UnJpWFc2cDlVanFiRnBrV0RaUXotazZGbTB1YlVWMDhwZmhwMmU4RUdvVWtZWTE4VkNKZzRDYXY4S0NZUzZvcHRRNjlCV1VJS2s0cENRa3hzeEYwR1Z3MUNCdUMzbGQ0SkRwRmMzeUVuSEVUMDNobjJiX1ZtczlpLUpfaUNSMFNWbWw3MWR5S1pTYmFCVEdtVzBQSmJGcFdtb1I3YjJZdEx5dzlEckYtM1M4ci0xV3I0dHV3VmdKeEhmN0J0b0ktRnNQb055elJiWk1JYXNnTEJYTGlvdDV5UQ?oc=5",
-          "pubDate": "2026-09-27T05:00:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "How to Make AI Work for You: The Colombian Startup at the Tokyo Game Show and Claro Tech Summit 2026"
         }
       ]
     },
@@ -335,6 +359,14 @@
       "name": "Portafolio",
       "color": "yellow",
       "items": [
+        {
+          "title": "Euro se dispara frente al peso este martes: así se mueve la moneda y cuánto está costando en Colombia",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSzdESlhUcUdDTGkwTzZiUUNGOUJVSW5Td1VFWWZaZEpnTHNDNnU5dHlpV3JFNkNoRWZkaWVTMktkVGdmZEhfeUdFQmdPa01CSE5MQm1EWm1zbEZHZU1Vam9xZTltUDZxNWt5bjJZYXktWWg3a3FyOE9QcmprVGhrTHludXl4NDJCQS1sSHlmaFpOYVZFbzFZbG9nY2xHVXBzSVZoZjd1RTRTNjlSNlp2VW9FVFBTSUt4dmJtdkxXR29TMUQxcHFfSURRdzVWSURxWGpvLXFfZUdKSDJCeDl0eXdzd1pTUdIB6wFBVV95cUxQbU9ZUTNrMF9WUmR4eDB3VS1tZXdzTTZ2clZWcmxNSE1rWmpxVURzNDNSeUotdERJdkFPSDFKa2drRFEzU2YyV1dLOWMyUU1pU2M4TGlob1o1eGNIVGgtSDRiRjBwSjVOWE1qQ1dnb1ZFNHhzNHZnbi1FQW94TnBFclpJOE5FQkU2QlU1UHpTM1BXT1ZaSU1GMEpaVm14YTBEdUxwZHQ4bF9FaVVZZUt0TWRLc1NoNTAxN1IzVU1aRzEwaF8wRVNWYUNzNWl5OEMwM3RtQWxZNjlCNlYtd3R0Z0c4QXpDS1VjTDZF?oc=5",
+          "pubDate": "2026-09-29T12:44:40.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The euro soars against the peso on Tuesday: here's how the currency is moving and how much it costs in Colombia"
+        },
         {
           "title": "IA tiene el potencial para ayudar a bajar la inflación: BCE",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVTlKQVUzSmN4MExWbXdSamxGeW5pUVN1YmQ2eEpLSnZCaFdnUkZrNDlkWEFFaVhLQU5fbjkwLTBfbnRDdHZJNmNxQ2RRVlZVOF9LOElGN0VuaFJkdmduaTdnU0s1YWRQejdQS0VDSFlGcnpySUQ2eHhmUGFkeEppRVJibjZWWDB5U2g1ejNZLTk0RGJEM2F1aWMwRjdxbzVyQjNnb1NmbnrSAa4BQVVfeXFMUDZpSFd6blNhaTZqd0tOU0VTRmpvTGdrZmx6aEt0ZnBfUU1xWnNaal81TWlaSmdQblNTb2M2R3dMcmxUN2d6TWdtdEtldlNDTGJBS1BILXQ1R1RZaWpNQjhGYUIxTFNDQ0xxdG96THBOaENHdEwzRWlHV0p3VWdwVGJkQXczT1lxOVFOb3FXOGpjTVowQzU4TDdYNVlrV3M4c1F2bDFFZjEwVGxLeThn?oc=5",
@@ -344,44 +376,20 @@
           "title_en": "AI Has the Potential to Help Lower Inflation: ECB"
         },
         {
-          "title": "‘El sector aseguador ha reservado $5,75 billones para atender las reclamaciones por el terremoto’",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEVGZ2JJU3FWdXl0UVZfRGNJWV83blp3aEZkWGFyQVZka3ZuX0VzLTBFd3MwX19zSTZIMHlBZ0tYZW83dUZWRUM1NkM0WEpJNWlES2FJdFI3bExFcjNlNzh3MVRhR0t6akc3VzRCWHBGNVYtNnBnMmZLY0Y2R296eTFIbmsxeERYa0VpODlXQkVlTTlJa0tPbTdORVFxY2xMWHN4aEtBcUFya2xMeW9mbFZWUUNUSXd1TUpxVkh6TlBjUG9kN01odk1NNGl5VXlkVjlKdG1MMlZSR1QtVkHSAeMBQVVfeXFMTU1tSjVTS2VGXy12RUZhNkw1QUUxZmZiZEtubU5RT3BCVnBTcDFxS3JLZEtMbVFqc2llbDF1VUVLZ2wwNXE4MnBtcFBxVG82eUoyR2tuVEhfcFJ2cmtQMGo5Q29oRmhGM19ub0p4VktSeDJ2bEMxeHJCc3d1Q0VMeWdVUUZkTDVRODdzZGRRZzZkNVhMbmhMaXRaVEZ0UlpTS3piZkhTNEtVVkUtRDFCOFpNc0txRGlVOG9ZR0ZFakREalltelkxa0FySVBDSDRkQmhQSUFjbDBjVmMxNm1Rek4zXzQ?oc=5",
-          "pubDate": "2026-09-28T23:36:05.000Z",
+          "title": "FMI ayudará a Colombia: 'acción oportuna para reducir los desequilibrios fiscales puede fortalecer la confianza’",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVR2UkJlWVctek5HMHRyWUdnTXBTWG5QbllPMVFNRm1Za3huTkVTdy0tb2V6TXJ5RkJ6UjY4MnN1TVFaRUUyOEkxSW5pYVVnOFV2UkFGUV84UTVZVUtZVGdud2RkSjZxcmhfMXF6UEZhelZCenJNbDdzZGduTEhYNjI1NWtXZHUzTzhxelJoRHlJbzNfUVViLTlHYWlxblQ0RGNuSWJwQjg2aTE3SG52WE5MZkREczA5aWxHZ3NuN0JSM3VrTTBiUmpIcC1WQkJoZXfSAdcBQVVfeXFMUGhObEFkUDRIVkZLUHVlUWVvazQwMWlFQUtlRWZYb1lSVm1KWTRtYkFKNHNRbTZaSElqT0F0UXFQNTA5Wk9RcjY5c255ekozRmdEZVkzOXM4dmpfaUZsc3BJZnowVy01djQ4Q1llaFBPc1JNeE81d1NyVHJtUzRmSlNSbENtYTJRMjBOaV8xaU5mLXJ2RVJLbjg1ck9VM3JDV3VzNWowTUZLZjlCejRIQTFOLUZZUnF6Q2gxRlBMN013OWhQZ0xXMWxqbDZWT2cyT1NyOUJkZzQ?oc=5",
+          "pubDate": "2026-09-29T01:38:44.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "\"The insurance industry has set aside $5.75 trillion to cover earthquake claims.\""
+          "title_en": "IMF to Help Colombia: 'Timely Action to Reduce Fiscal Imbalances Can Strengthen Confidence'"
         },
         {
-          "title": "Shein y Temu, en disputa con la Cámara de Comercio Electrónico por el recaudo del IVA: ¿cómo les funciona?",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTTlnMFFuMEVoVnpXel9kY1BfaDg2QU84amtOMk5aR0VZVGp4SEs5dlJWZmgtX3BrU2tja2hLVEJsaTdnYTJsSWhJUXpfNUFRazVQV2dpMjdhWHh1aWt6VlU0Q3dkUlVSWkxCczdEVEhQNzY3MHZILUI1VHRzeTRVaDM0N1RwbjNFTTdzUWRzSWVOZi1HTUZIM1dVQkpac3FFcTJtRzFNRGJYX0dxWkJyYWxISXk3REJxMU1vNjBJaG1MTUFGcmxHelpienF5bEZuWGhUNy1xSXpTaWpnUXNZMWdURzNuV2l3bmfSAe8BQVVfeXFMUFNGTEUyX3pKZW5zdHZiZlpObHFHM2RyNU5BMWJaTHRJV2JGdlROLVc2VG9kLXVZMXFadjhGd0pycnFOT1VwSUVKZkZPRTB3RUw3RzVoSWhIY3NfTVVWbFg4eUZiTEFzNUJwMi1YcFpjSFdOcWpCOGRCZHFjazNmaUlrblhsbXZwM1FYa3Y4N2hyVmk5S1VlT3FMUmJodkpIZUl4R25sWEY5b2c1a1pZcVAweHZBdktndWIwRzdyQVhZWWl4YnRjOURack1GSS1EOWIzS1ZCY0NoanNldUJpYkVKeWZnM3haajYyQVlDRjA?oc=5",
-          "pubDate": "2026-09-28T23:22:25.000Z",
+          "title": "Bogotá cambia las reglas tributarias: Concejo aprueba reforma al ICA y alivios para más de 2 millones de deudores",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEdxNVpPcGRDa01obzMzTnZlZFNBd1BOQXBEWnNFdGwxempqdlR6THBEM2hXMUsyWnRPblBERHRXblhwUWk4bjhEMzBwVGQzN0Z4RHRvd1F5aHpRbnlXUk9XT0kxR1NHZEtKdFp1Ty1peDZySzc0NkpYVjZmOE1HTEVza0xFQTRGbDZraEQ0dGh3T3owTTk0YlM2WVhLTWpnanNqcFdPQUVxYXJOa3E2VDBYOUNoVWYtOG9FQ3ZBemlTT00zTmRUQ1RSYnB5VFdXbG1LN1JGNEJqN25oNjVkbGV4SG5wbWRzbkHSAe8BQVVfeXFMUHdSU3daTjc4QUxRWE8tTi15VEpMaG9jT1VGYmJHQ3EydXdmUDBXalY0MC04TVNEMUpCUkg5aER3M0szVWVqSHFhQklueFlFZnZQenVxbUFvYXdXT2x2T2NXMGhRbk1VR1hKSEl5dFh6clljRG1mZDMyOU5paTFXS2J0aFZHdFdERzlTUFVCV3FTUDN4by1QYy1NaEl1QWtTMlRhTmNIblB1dDlmUDhxa1VGeGJPTHhpTzByZlBrMWRvZzg2RjR2T1NlbVB3bTZoMjhxaGl3c09reEt3azZBUjJ6SXlqd0cwdk94Qk9yREE?oc=5",
+          "pubDate": "2026-09-28T21:17:43.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Shein and Temu Are in a Dispute with the E-Commerce Chamber Over VAT Collection: How Does It Work for Them?"
-        },
-        {
-          "title": "Fitch alerta por flujo de caja débil y tasas altas en empresas de Colombia",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVZhZ1ROMFJFa2dDRlpkTUUzUXVkOFNON2d4SGFjSndaRkl4a09ZbzdieE9GaHdWMzZQanpQY0RzZGV5UnM5NlpjQ1RJT2JFOFNrd1J6ZzFmWVVJTjZidXZOV08xSklxRTFsOTdPSUFVZEdsSHB3ZEk2dlVITEl0YVBraWVUYXJ0RUpzUmJLU2hIa3dnTE92U0tlalFXbzQtTkNaM1pWY2xqS2tmV09kaDlLWk55eG_SAbwBQVVfeXFMUHJlMjRTWFp1R05nTDlUck9OeTFFUHMxcU42bW5rX3NpYWJERVF4c21BLWhmbTkwT1pud3d3N2p4QWpKOEhjM19TdkZpUXlTS3ZnSmZVZjVhT1dhU2ZpQkFlbm1oWms3R1M0Z0pmQWJYMXc3Y2tUWmVpVkpudlRZQk1uU1hkaEhqcUpDUzdfQ0pESUU5elpzM1dXMS03U2xYcmU1RlpQQ3FEdzBBTlJTVDE5Y01qTnY0b2FhM1U?oc=5",
-          "pubDate": "2026-09-28T22:00:31.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Fitch Warns of Weak Cash Flow and High Interest Rates at Colombian Companies"
-        },
-        {
-          "title": "Turismo médico en Colombia crece 17,6%: 21.034 extranjeros llegaron por tratamientos entre enero y agosto",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOalFRSnVIbEVuSHp4RVh6dmpDMUVtTGtxUVUycmZUT2VJU0kyOTYxWXkydkhFMkN0Z1pWQWJUTmhLaVRGaXg1Z1VsT1JHSlRuZ1V1bU1YSlM4TXFkQzNpTWxza0VQM3BZN1l5ZjJ1Y3ZTRi14ZEtQbDZYVFJuMlh3NG9UVjVraDVHSVBVV3VJTEVTUWlVYjhvSHdsbm05Y2RCMm1LN1hqRnJTNFZoU0Q4aWw4ckxzVHB1UjRrV0Y3T0dVSGNFYmNHUUJhalNONW1zSnpfM1A5WkJrQUhZa1HSAeMBQVVfeXFMTXVXM2U4akFRMEIzRks2REhPcVVfVXJrbWd0TXFsVkFVS0ZJRmU3czZZSHBsYkJLX1RmOWNqalk2a2t2ZDdoM2NLT1ZSb2hXY0FjUkhmVnBoUnRRWXVkaFAxOFVJNDllcTltU090bTUwRU1SZnpXV1VIcmFoVzk0NTdEZ3BFMnZqc1NHTVlQZUM5RERRNFNKT2g1OHg4VkVYRTg0cHJPZkF2OF8yS09NaDNETEJURmtRaVVNbVQwdk5BSnJDQlZSWm5IbFpvM0t1YXhxUTFMVVYwWkhjNlFUVV9FVUk?oc=5",
-          "pubDate": "2026-09-28T21:20:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Medical tourism in Colombia grows 17.6%: 21,034 foreigners arrived for medical treatment between January and August"
-        },
-        {
-          "title": "Colombia llevará a Nueva York 176 proyectos estratégicos para atraer inversión en la 'Milagro Week'",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQXVkWVJXcGR0cUtvYm9BdUFIdFlab3doTG9aVkl3Tmx0RXY5UkJNaE9FSlFhcWl0QVlmUEw3RjlFbEJBb2kzc05SMTc4NG1ZVDJGM3VkT2lPSDJrbVBwNVJyYnR2VjFNR3Njb0M3Vlc3OWQ2MGlScTNZN0Jlel9DTms2M0hvTWU3enJvQnE3WnZseTR4c1dRYzR0WHJWdEJDNFdTM2RqUkpJa2d4MUVJRndSai0xTUx1Wmg5V0RMTGdnUkZPVjRmRWhOb21MeG1icHZEaHBRR3FyZnZqZmJBLXN30gHnAUFVX3lxTE9tQnlnWWdsVVlhQXd1OXRNTlFBVWdtTk5wQUxHN1hHWjBqMDNMaDQ2eHdvT0x2RHpkRHRQOHBtV2stbzExRlJsM1lUdnVVSTVPN1lqZ05CMzVWZEdUN1VoNm9BRlpTMW9kcWJDV2hucU1YcXFHdVpOaFhCVVhxQ3V3R0tmWGUtcXJtU2haR1RWY19oOEJ3TnVxTW1xLTB2cXAzOWZId3AxVThpbVJnSUF2WUpUVkVvdlpSdW53SVRGcG9ONEJicXI4c09wT014dXdTTzR0cXlhaUo4OE1ueTNjRi1wUHVZQQ?oc=5",
-          "pubDate": "2026-09-28T20:31:49.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Colombia will bring 176 strategic projects to New York to attract investment during \"Milagro Week\""
+          "title_en": "Bogotá Changes Tax Rules: City Council Approves ICA Reform and Relief for More Than 2 Million Taxpayers"
         }
       ]
     }
