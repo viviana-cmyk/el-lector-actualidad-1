@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:00:04.738Z",
+  "generatedAt": "2026-09-29T10:01:42.046Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -29,29 +29,29 @@
   ],
   "mundo": [
     {
-      "title": "The Daily",
-      "host": "The New York Times",
-      "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
-    },
-    {
       "title": "Crime Junkie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "Up First from NPR",
-      "host": "NPR",
-      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
-    },
-    {
-      "title": "REAL AF with Andy Frisella",
-      "host": "Andy Frisella",
-      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
+      "title": "The Daily",
+      "host": "The New York Times",
+      "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
       "title": "Pardon My Take",
       "host": "Barstool Sports",
       "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756"
+    },
+    {
+      "title": "Morbid",
+      "host": "Ash Kelley & Alaina Urquhart",
+      "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217"
+    },
+    {
+      "title": "REAL AF with Andy Frisella",
+      "host": "Andy Frisella",
+      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
     }
   ]
 }
