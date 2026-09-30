@@ -1,16 +1,23 @@
 {
-  "generatedAt": "2026-09-30T10:01:38.438Z",
+  "generatedAt": "2026-09-30T16:18:45.481Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
         {
+          "title": "On the Radar: Esposa e hija de Fito capturadas en Colombia",
+          "link": "https://insightcrime.org/es/noticias/esposa-hija-de-fito-capturadas-colombia-on-the-radar/",
+          "pubDate": "2026-09-30T15:01:37.000Z",
+          "snippet": "On the Radar: Esposa e hija de Fito capturadas en Colombia Autoridades de Ecuador y Colombia capturaron a la esposa e hija del exlíder de Los Choneros, alias “Fito”, en Santander, Colombia, en el más reciente golpe contra su red familiar. Además en On the Radar: la policía chilen…",
+          "title_en": "On the Radar: Fito's Wife and Daughter Captured in Colombia"
+        },
+        {
           "title": "William Joffre Alcívar Bautista, alias ‘Willy’",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/william-joffre-alcivar-bautista-alias-willy/",
           "pubDate": "2026-09-29T22:12:32.000Z",
           "snippet": "William Joffre Alcívar Bautista, alias ‘Willy’ William Joffre Alcívar Bautista, alias “El Negro Willy” o simplemente “Willy”, pasó de ser un guardia penitenciario a convertirse en el fundador de la banda criminal ecuatoriana Los Tiguerones. The post William Joffre Alcívar Bautist…",
-          "title_en": "William Joffre Alcívar Bautista, also known as “Willy”"
+          "title_en": "William Joffre Alcívar Bautista, alias “Willy”"
         },
         {
           "title": "Cómo la ofensiva de Bukele contra las pandillas transformó El Salvador",
@@ -24,7 +31,7 @@
           "link": "https://insightcrime.org/es/noticias/cultivos-record-de-coca-en-bolivia-alimentan-creciente-demanda-mundial-cocaina/",
           "pubDate": "2026-09-25T18:10:52.000Z",
           "snippet": "Los cultivos récord de coca en Bolivia alimentan una creciente demanda mundial de cocaína Bolivia registró un nuevo récord de cultivos de coca, mientras crece la brecha entre la producción de hoja y la demanda del mercado legal. The post Los cultivos récord de coca en Bolivia ali…",
-          "title_en": "Record coca crops in Bolivia are fueling a growing global demand for cocaine"
+          "title_en": "Record coca crops in Bolivia are fueling growing global demand for cocaine"
         },
         {
           "title": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN)",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-24T17:38:33.000Z",
           "snippet": "The InSight Take: Certificación antidrogas de EE. UU.: ¿aplicación de la ley o política? ¿Por qué Estados Unidos retiró a Venezuela de su lista negra antidrogas mientras Colombia y Bolivia permanecen en ella? Conozca la respuesta en The InSight Take. The post The InSight Take: Ce…",
           "title_en": "The InSight Take: U.S. Drug Testing: Law Enforcement or Policy?"
-        },
-        {
-          "title": "On the Radar | Escudo de las Américas apunta a 24 grupos criminales",
-          "link": "https://insightcrime.org/es/noticias/on-the-radar-escudo-de-las-americas-apunta-a-24-grupos-criminales/",
-          "pubDate": "2026-09-24T17:37:45.000Z",
-          "snippet": "On the Radar | Escudo de las Américas apunta a 24 grupos criminales Los gobiernos del Escudo de las Américas acuerdan sancionar a 24 grupos criminales. Además, fiscales aseguran que el PCC controla empresas de autobuses en San Pablo y las Autodefensas Conquistadoras de la Sierra…",
-          "title_en": "On the Radar | Escudo de las Américas Targets 24 Criminal Groups"
         }
       ]
     },
@@ -86,7 +86,7 @@
           "link": "https://www.crisisgroup.org/opd/global/uns-decline-choice",
           "pubDate": "2026-09-24T12:13:40.000Z",
           "snippet": "The UN’s decline is a choice cthuratong Thu, 09/24/2026 - 14:13 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Op-Ed / Multilateral Diplomacy 24 September 2026 1 minute Orig…",
-          "title_en": "The UN’s decline is a choice"
+          "title_en": "The UN's decline is a choice"
         },
         {
           "title": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned?",
@@ -102,6 +102,13 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Event Details - Ibadan Hub",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmNyMW1wUDBXVXlfWktyTjdCNkRKc19XZVhDR0lSYnM2NzQtTGZjTG0yZVQwbk5aOUdLdEhTUkQ5aTNfdEptWUFMYkZWckZnVkFtYWtsaDdRcWtzbzNKdE5xOWh3cTktTTRfOVI0ZVZtMFBsZmVCWkMtYV9CNU1GdFFGN0dqbTJuNncyNlc3LWsxcEVfeXFmU083M3pKTkl3V09VYi1aYTh3bnpWbl9ycVhn?oc=5",
+          "pubDate": "2026-09-30T09:53:35.000Z",
+          "snippet": null,
+          "title_en": "Event Details - Ibadan Hub"
+        },
+        {
           "title": "Travel & Tourism Development Index 2026",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NRkNvUHMxOG1YcGVSRmE2RmlPNTZPQ0x4WjNRNjNrUVJGSmN2YXBxQUp4S19PcC1oTDBlQnNES2s1a1BmV09GVGFIUDhSRGk3SlFUZEs1MC1tYnFaSXdyZWpvZGR3YjRBLWJnckZIUHZpbEZtajhYNXFJOWF6Ylk?oc=5",
           "pubDate": "2026-09-25T08:44:08.000Z",
@@ -116,6 +123,13 @@
           "title_en": "Autonomous Vehicles: From Regulatory Diversity to Shared Learning"
         },
         {
+          "title": "Estas son las 10 mejores habilidades del trabajo del futuro",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm1USXBjUXNPQm9SNkxsejAwM240b3ZxMTM5Ri1pbUU2Zi03WU1VS0oyajdwTExVN1RKNTVRS2kyRHpCeDNIVThReGJWbmR1cWVFaWRqbjVJaDhOdjY2Z0g4dU1SRmlwMlhJYzBsdGxqblRVVmN4S1VLNVZ0Z1lrSGNpYkVSNWpTbkhyRWtoSWwxZlE4?oc=5",
+          "pubDate": "2026-09-24T04:00:00.000Z",
+          "snippet": null,
+          "title_en": "These Are the Top 10 Skills for the Future of Work"
+        },
+        {
           "title": "Esta plataforma conecta a estudiantes de idiomas con profesores refugiados",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXBTZ3cxWnpRZU5IRVFMTHRLTFhsdGdwU1M0QjNJUkoyZE1hYjBYWjB4UG1JYVhpMkxRQl8zQ2d6cXlqV3djUDJ2V0RnV3ZFSldPcTR4VFN5QUdoY2VJd2NXWFFGZ1o1S3B6SVNMcFhJRmZvUmZoQ2NSZUJEeFdvaE1XM3dUajF3UXZBcDFmWGlPVk1oeTk3UFFqR2s5Ti1oZXdmblVmdVo3QQ?oc=5",
           "pubDate": "2026-09-24T04:00:00.000Z",
@@ -128,20 +142,6 @@
           "pubDate": "2026-09-23T04:24:43.000Z",
           "snippet": null,
           "title_en": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience"
-        },
-        {
-          "title": "Chief Economists' Outlook: September 2026",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUw2bnJGZHcxUGZUcU9tNmI3Vks5VHh0LVk3VVFDU0xGWmhDbVVCekRGQ2FWTm5aSDhpYjkxZzRTOGFTa20zTi1yQWZRZFJoQndoM2Nkc3FXYmtZR19LMHMzbGlEdS1xc3Y1TWZVbHE2UVczcnZNcFRrNy1fa3BaTENR?oc=5",
-          "pubDate": "2026-09-22T11:30:03.000Z",
-          "snippet": null,
-          "title_en": "Chief Economists' Outlook: September 2026"
-        },
-        {
-          "title": "Por cada persona conectada, hay 80 máquinas conectadas también",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjczlHS0VyX0w0ZXRtOVQ2Sk1tN1BKMmRMcjNsTVFMaGZjc185aWdhbi05VzVOX0sxZDVKeFpla3Jxa1oyNHR4YXlZZmp2SnpOMTFhWC1USHlLdnZtbmNOLWRCdGFLazQ?oc=5",
-          "pubDate": "2026-09-21T17:23:56.000Z",
-          "snippet": null,
-          "title_en": "For every person online, there are 80 devices online as well"
         }
       ]
     }
