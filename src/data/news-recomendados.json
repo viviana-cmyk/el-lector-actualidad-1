@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-09-29T16:22:38.056Z",
+  "generatedAt": "2026-09-30T10:01:38.438Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "William Joffre Alcívar Bautista, alias ‘Willy’",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/william-joffre-alcivar-bautista-alias-willy/",
+          "pubDate": "2026-09-29T22:12:32.000Z",
+          "snippet": "William Joffre Alcívar Bautista, alias ‘Willy’ William Joffre Alcívar Bautista, alias “El Negro Willy” o simplemente “Willy”, pasó de ser un guardia penitenciario a convertirse en el fundador de la banda criminal ecuatoriana Los Tiguerones. The post William Joffre Alcívar Bautist…",
+          "title_en": "William Joffre Alcívar Bautista, also known as “Willy”"
+        },
         {
           "title": "Cómo la ofensiva de Bukele contra las pandillas transformó El Salvador",
           "link": "https://insightcrime.org/es/noticias/como-ofensiva-bukele-contra-pandillas-transformo-el-salvador/",
@@ -24,7 +31,7 @@
           "link": "https://insightcrime.org/es/colombia-organized-crime-news/los-pachenca/",
           "pubDate": "2026-09-24T18:29:20.000Z",
           "snippet": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN) Autodefensas Conquistadoras de la Sierra Nevada (ACSN): historia, líderes, zonas de operación y actividades criminales. Perfil actualizado de 2026. The post Autodefensas Conquistadoras de la Sierra Nevada (ACSN) appeared firs…",
-          "title_en": "Sierra Nevada Conquerors Self-Defense Forces (ACSN)"
+          "title_en": "Sierra Nevada Conquering Self-Defense Forces (ACSN)"
         },
         {
           "title": "The InSight Take: Certificación antidrogas de EE. UU.: ¿aplicación de la ley o política?",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-24T17:37:45.000Z",
           "snippet": "On the Radar | Escudo de las Américas apunta a 24 grupos criminales Los gobiernos del Escudo de las Américas acuerdan sancionar a 24 grupos criminales. Además, fiscales aseguran que el PCC controla empresas de autobuses en San Pablo y las Autodefensas Conquistadoras de la Sierra…",
           "title_en": "On the Radar | Escudo de las Américas Targets 24 Criminal Groups"
-        },
-        {
-          "title": "Se dispara el contrabando de medicamentos para bajar de peso desde Paraguay hacia Brasil",
-          "link": "https://insightcrime.org/es/noticias/medicamentos-para-bajar-de-peso-mercado-de-contrabando-que-mas-crece-en-brasil/",
-          "pubDate": "2026-09-23T18:29:40.000Z",
-          "snippet": "Se dispara el contrabando de medicamentos para bajar de peso desde Paraguay hacia Brasil La creciente demanda de medicamentos para bajar de peso está impulsando robos, desvíos y nuevas rutas de contrabando entre Paraguay y Brasil. The post Se dispara el contrabando de medicamento…",
-          "title_en": "Smuggling of weight-loss drugs from Paraguay to Brazil is on the rise"
         }
       ]
     },
@@ -86,7 +86,7 @@
           "link": "https://www.crisisgroup.org/opd/global/uns-decline-choice",
           "pubDate": "2026-09-24T12:13:40.000Z",
           "snippet": "The UN’s decline is a choice cthuratong Thu, 09/24/2026 - 14:13 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Op-Ed / Multilateral Diplomacy 24 September 2026 1 minute Orig…",
-          "title_en": "The UN's decline is a choice"
+          "title_en": "The UN’s decline is a choice"
         },
         {
           "title": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned?",

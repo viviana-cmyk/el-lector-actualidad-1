@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-29T16:23:14.383Z",
+  "generatedAt": "2026-09-30T10:02:03.365Z",
   "dia": {
-    "nombre": "Día Mundial del Corazón",
-    "descripcion": "Se conmemora la importancia de la salud cardiovascular y se promueve la prevención de enfermedades del corazón, principal causa de mortalidad a nivel mundial."
+    "nombre": "Día Internacional de la Traducción",
+    "descripcion": "Se conmemora el aniversario del nacimiento de San Jerónimo, traductor de la Biblia, reconociendo la labor de traductores en la comunicación intercultural global."
   },
   "dia_en": {
-    "nombre": "World Heart Day",
-    "descripcion": "It commemorates the importance of cardiovascular health and promotes the prevention of heart disease, the leading cause of mortality worldwide."
+    "nombre": "International Translation Day",
+    "descripcion": "It commemorates the anniversary of the birth of Saint Jerome, translator of the Bible, recognizing the work of translators in global intercultural communication."
   }
 }
