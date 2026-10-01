@@ -2,25 +2,25 @@
   "_comment": "Los libros se actualizan automáticamente el 1° de cada mes mediante el workflow update-books.yml. Las tendencias de redes y podcasts siguen siendo manuales.",
   "books": [
     {
-      "title": "El Terrorismo en América Latina: Historia, Presente y Futuro",
-      "author": "Álvaro Camacho Guizado",
+      "title": "Crimen y Castigo en América Latina",
+      "author": "Lucia Dammert",
       "color": "blue",
-      "tag": "Terrorismo · Seguridad",
-      "description": "Análisis comprehensivo de las dinámicas del terrorismo en la región, fundamental para entender los ataques como el de Los Patios y la respuesta estatal. Proporciona contexto histórico y estratégico sobre grupos disidentes y sus métodos operacionales en Colombia y el continente."
+      "tag": "Seguridad · Justicia",
+      "description": "Análisis integral de los sistemas de seguridad y justicia penal en la región, con énfasis en la efectividad institucional y las reformas necesarias. Altamente relevante ante los recientes reportes de masacres, captura de redes criminales y debates sobre intervención policial en Colombia."
     },
     {
-      "title": "La Corrupción en América Latina: Instituciones, Dinero e Influencia Política",
-      "author": "Jorge Domínguez & Abraham Lowenthal",
+      "title": "El Colapso Fiscal: Deuda, Crisis y Política en América Latina",
+      "author": "José Antonio Ocampo",
       "color": "mint",
-      "tag": "Instituciones · Corrupción",
-      "description": "Examina cómo la corrupción debilita las instituciones democráticas y afecta la seguridad, directamente relevante ante investigaciones como la del general Mejía y cuestionamientos al CNE. Ofrece herramientas conceptuales para evaluar la gobernanza en contextos de transición política."
+      "tag": "Economía · Política",
+      "description": "Examen de los desequilibrios fiscales y endeudamiento en América Latina, con recomendaciones de política económica. Directamente aplicable al contexto colombiano actual de aumentos de tasas, déficit proyectado de 9,5% del PIB y ajuste fiscal en tres fases."
     },
     {
-      "title": "La Paz Imperfecta: Conflicto Armado y Construcción de Paz en Colombia",
-      "author": "Jairo López Frías",
+      "title": "Espías y Diplomacia: Inteligencia en el Siglo XXI",
+      "author": "Christopher Andrew",
       "color": "rose",
-      "tag": "Paz · Conflicto",
-      "description": "Analiza el fin de los diálogos bajo De la Espriella y la tensión entre acuerdos de paz y seguridad integral. Contribuye a comprender los dilemas entre negociación y confrontación armada que caracterizan la actual política de seguridad del gobierno."
+      "tag": "Geopolítica · Inteligencia",
+      "description": "Panorama contemporáneo de operaciones de inteligencia, espionaje y seguridad en el contexto global actual. Proporciona marco de análisis para entender incidentes como la captura de Sergei Vagin y tensiones geopolíticas con implicaciones para América Latina."
     }
   ],
   "tendencias": {
