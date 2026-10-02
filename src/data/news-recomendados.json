@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-10-01T16:55:47.132Z",
+  "generatedAt": "2026-10-02T10:01:49.106Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Comandos de la Frontera",
+          "link": "https://insightcrime.org/es/colombia-organized-crime-news/comandos-de-la-frontera/",
+          "pubDate": "2026-10-01T21:04:57.000Z",
+          "snippet": "Comandos de la Frontera Comandos de la Frontera: quiénes son, dónde operan, quién los lidera y cómo participan en el narcotráfico en Colombia. Perfil completo actualizado. The post Comandos de la Frontera appeared first on InSight Crime.",
+          "title_en": "Border Commandos"
+        },
         {
           "title": "On the Radar: Esposa e hija de Fito capturadas en Colombia",
           "link": "https://insightcrime.org/es/noticias/esposa-hija-de-fito-capturadas-colombia-on-the-radar/",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-24T18:29:20.000Z",
           "snippet": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN) Autodefensas Conquistadoras de la Sierra Nevada (ACSN): historia, líderes, zonas de operación y actividades criminales. Perfil actualizado de 2026. The post Autodefensas Conquistadoras de la Sierra Nevada (ACSN) appeared firs…",
           "title_en": "Sierra Nevada Conquering Self-Defense Forces (ACSN)"
-        },
-        {
-          "title": "The InSight Take: Certificación antidrogas de EE. UU.: ¿aplicación de la ley o política?",
-          "link": "https://insightcrime.org/es/noticias/the-insight-take-certificacion-antidrogas-de-ee-uu-aplicacion-de-la-ley-o-politica/",
-          "pubDate": "2026-09-24T17:38:33.000Z",
-          "snippet": "The InSight Take: Certificación antidrogas de EE. UU.: ¿aplicación de la ley o política? ¿Por qué Estados Unidos retiró a Venezuela de su lista negra antidrogas mientras Colombia y Bolivia permanecen en ella? Conozca la respuesta en The InSight Take. The post The InSight Take: Ce…",
-          "title_en": "The InSight Take: U.S. Drug Testing: Law Enforcement or Policy?"
         }
       ]
     },
@@ -93,7 +93,7 @@
           "link": "https://www.crisisgroup.org/evt/middle-east-north-africa/yemen-saudi-arabia/houthis-advance-bab-al-mandab-has-yemens-war-returned",
           "pubDate": "2026-09-22T18:06:48.000Z",
           "snippet": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned? eschelhaas Tue, 09/22/2026 - 20:06 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Event Recording / Middle E…",
-          "title_en": "The Houthis’ Advance to Bab al-Mandab: Has the War in Yemen Returned?"
+          "title_en": "The Houthis’ Advance Toward Bab al-Mandab: Has the War in Yemen Returned?"
         }
       ]
     },
@@ -107,13 +107,6 @@
           "pubDate": "2026-09-30T09:53:35.000Z",
           "snippet": null,
           "title_en": "Event Details - Ibadan Hub"
-        },
-        {
-          "title": "La economía mundial se está estabilizando. Pero no todo son buenas noticias, según los economistas jefe",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVZCaE5rdjAwRXI4ZVVHVENnUmlmbDV0QTdvc3lIaXZzUDJTQlV5LW9RVkxOX2JoQjJqUVlNU09NOW5US1Q5ZjhzSTdxQWw5dERmSHo1bXNMUzFySllLR0NNYUdZMjlQbWdXUHYyaTJwYzg5eFpTOW1ySEtnVzJ4X2x2UkZjLXl1OTBaY2ZnVVRTdFA2UkRfQVdaRzdWQm9odVBSRWJTc2psRWlHa2dONlBYazlnMXp0SGJqX0FxQ1lSeGhORllhN1E0MUY?oc=5",
-          "pubDate": "2026-09-25T21:06:41.000Z",
-          "snippet": null,
-          "title_en": "The global economy is stabilizing. But it's not all good news, according to chief economists"
         },
         {
           "title": "Travel & Tourism Development Index 2026",
@@ -142,6 +135,13 @@
           "pubDate": "2026-09-24T04:00:00.000Z",
           "snippet": null,
           "title_en": "This platform connects language learners with refugee teachers"
+        },
+        {
+          "title": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzREU3RtU1ZRV01sNEhOUm1XUzY1VndiSXVtLVJXNEVEa1Z1ekdWSHhoSXd1WmxYWEpyXzE4RWJYTFZrTWhDTXpJcm12REp2OHJxRHhFcG4xUVdnNU5fRW42VjhmLTVSV00zd3pQak1YLU5fTTZQaWoyT09TN0JYNUtqQXNlVUE1ZnF5Z1ZxRlFsOHozRkVtZGdmeGV6TGpNRUwyMEdTa1h6Z3ZQa3JNMw?oc=5",
+          "pubDate": "2026-09-23T04:24:43.000Z",
+          "snippet": null,
+          "title_en": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience"
         }
       ]
     }
