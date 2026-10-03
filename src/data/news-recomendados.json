@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-10-02T16:08:53.546Z",
+  "generatedAt": "2026-10-03T10:01:47.608Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras",
+          "link": "https://insightcrime.org/es/noticias/lucha-tierras-garifunas-corredor-narcotrafico-honduras/",
+          "pubDate": "2026-10-02T20:03:20.000Z",
+          "snippet": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras La presencia conjunta del narcotráfico y de poderosos intereses económicos sigue siendo uno de los principales obstáculos para la implementación de las sentencias de la Corte IDH en Punta Piedra y en o…",
+          "title_en": "The Struggle for Garifuna Lands in a Drug Trafficking Corridor in Honduras"
+        },
         {
           "title": "Comandos de la Frontera",
           "link": "https://insightcrime.org/es/colombia-organized-crime-news/comandos-de-la-frontera/",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-25T18:10:52.000Z",
           "snippet": "Los cultivos récord de coca en Bolivia alimentan una creciente demanda mundial de cocaína Bolivia registró un nuevo récord de cultivos de coca, mientras crece la brecha entre la producción de hoja y la demanda del mercado legal. The post Los cultivos récord de coca en Bolivia ali…",
           "title_en": "Record coca crops in Bolivia are fueling a growing global demand for cocaine"
-        },
-        {
-          "title": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN)",
-          "link": "https://insightcrime.org/es/colombia-organized-crime-news/los-pachenca/",
-          "pubDate": "2026-09-24T18:29:20.000Z",
-          "snippet": "Autodefensas Conquistadoras de la Sierra Nevada (ACSN) Autodefensas Conquistadoras de la Sierra Nevada (ACSN): historia, líderes, zonas de operación y actividades criminales. Perfil actualizado de 2026. The post Autodefensas Conquistadoras de la Sierra Nevada (ACSN) appeared firs…",
-          "title_en": "Sierra Nevada Conquering Self-Defense Forces (ACSN)"
         }
       ]
     },
@@ -93,7 +93,7 @@
           "link": "https://www.crisisgroup.org/evt/middle-east-north-africa/yemen-saudi-arabia/houthis-advance-bab-al-mandab-has-yemens-war-returned",
           "pubDate": "2026-09-22T18:06:48.000Z",
           "snippet": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned? eschelhaas Tue, 09/22/2026 - 20:06 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Event Recording / Middle E…",
-          "title_en": "The Houthis’ Advance on Bab al-Mandab: Has the War in Yemen Returned?"
+          "title_en": "The Houthis’ Advance to Bab al-Mandab: Has the War in Yemen Returned?"
         }
       ]
     },
@@ -101,6 +101,20 @@
       "name": "World Economic Forum",
       "color": "yellow",
       "items": [
+        {
+          "title": "Estos son los 10 mejores países para el turismo en este momento",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0pxZFdMMHdVem9BQzR5THk2ZTQyYXdud0NIU1J0VFpFUTRDUzBfQURkcF9iSnRHeGFJN2VVaGp1dVdvUFByMUNxNUswWkVBV0YwZ1RMSmIzWkN1anpkQnlNSWhfYnRwRFZPa1JoLVNVRV9uNHVPNmVqRlh2MkZfb0hSMTBPZEdjNkRWWm1VOTZBMFZrdXhLaXJB?oc=5",
+          "pubDate": "2026-10-02T20:47:57.000Z",
+          "snippet": null,
+          "title_en": "These are the 10 best countries for tourism right now"
+        },
+        {
+          "title": "Japón acaba de batir un nuevo récord turístico",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMWdyTHBzeWhJU2lqS0VJUEJLT1FxaEsxMVFGb0JTUmt6S2xJNHFZeVRYcmtqeWE1VjFQd3VQcU5RZEpQV08yN1dwLTJPLTFBYkxJV1FMbUVmU0hZaDV1WExIYjlGRHZoOGZUaXdvTFRrSmNzanBGUGNvUGF6YnNaSG0zOA?oc=5",
+          "pubDate": "2026-10-02T20:47:56.000Z",
+          "snippet": null,
+          "title_en": "Japan has just set a new tourism record"
+        },
         {
           "title": "Event Details - Bursa Hub",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkNqN0syeE5ONEhVTFNSNUVEWnI1b1dyVWt1NzUxTVdTcHF4TzRMRDU0V0djVHQ1NzU0QnY0cTRYdkpQbFRRSFlVeWZWNXEwcURyNG1rX3VRWHNGRm9SaGhpMHBpZW9keUVVeWZGUUViUzkwNk81QjUxUjB1Z0VIZDM5N0lYYm1FZ2VDWTBJODR4NGQwTkNoTS16TDd1bm1nRGVCR2g4Q1lZT1VKbWdjWQ?oc=5",
@@ -128,20 +142,6 @@
           "pubDate": "2026-09-24T04:38:54.000Z",
           "snippet": null,
           "title_en": "Autonomous Vehicles: From Regulatory Diversity to Shared Learning"
-        },
-        {
-          "title": "Estas son las 10 mejores habilidades del trabajo del futuro",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm1USXBjUXNPQm9SNkxsejAwM240b3ZxMTM5Ri1pbUU2Zi03WU1VS0oyajdwTExVN1RKNTVRS2kyRHpCeDNIVThReGJWbmR1cWVFaWRqbjVJaDhOdjY2Z0g4dU1SRmlwMlhJYzBsdGxqblRVVmN4S1VLNVZ0Z1lrSGNpYkVSNWpTbkhyRWtoSWwxZlE4?oc=5",
-          "pubDate": "2026-09-24T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "These Are the Top 10 Skills for the Future of Work"
-        },
-        {
-          "title": "Esta plataforma conecta a estudiantes de idiomas con profesores refugiados",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXBTZ3cxWnpRZU5IRVFMTHRLTFhsdGdwU1M0QjNJUkoyZE1hYjBYWjB4UG1JYVhpMkxRQl8zQ2d6cXlqV3djUDJ2V0RnV3ZFSldPcTR4VFN5QUdoY2VJd2NXWFFGZ1o1S3B6SVNMcFhJRmZvUmZoQ2NSZUJEeFdvaE1XM3dUajF3UXZBcDFmWGlPVk1oeTk3UFFqR2s5Ti1oZXdmblVmdVo3QQ?oc=5",
-          "pubDate": "2026-09-24T04:00:00.000Z",
-          "snippet": null,
-          "title_en": "This platform connects language learners with refugee teachers"
         }
       ]
     }
