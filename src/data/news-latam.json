@@ -1,38 +1,52 @@
 {
-  "generatedAt": "2026-10-04T10:01:42.072Z",
+  "generatedAt": "2026-10-04T15:11:20.174Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
-      "items": []
+      "items": [
+        {
+          "title": "PT dice que rivales distorsionan palabras de Lula sobre 'tocamiento' a mujeres y lo llama 'acción del Gabinete del Odio Bolsonarista'",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2U3bWNzMFJFNDl3bjg4c0xOcHlHM3BkVDNkOEZsdWhlQ1hWOHZ4RDdGX19hcFlUOTlJVnhsLWZZSS1xTGtOb2tGMmVDckdnZ2ZjdmlJYlVnd2xUV05xVVhDdENMTXdJRUNfZ1o5TlkwX1FjQmM2OFlmdW9WbUhtOWlBZS1zcGdQUWtUcV9WaVJvM2lRbUo1T2JIUnd6aFpReHVfSEJMSdIBtgFBVV95cUxQMEs0Y3NxcjRrYk04eG9SX2NQaU41ejNXcmJqcHBDUUFNTUNsc0FPUUg1cjBDX2xnRzIyTG1PVGU3U2tINkp1Mm9tZTN3T3BiZ2xPVFJndjFCc0VOYllLTlBBcHFiQ1czal80ajJMeXdnX0NULW8xS2VZdFBiclBRNXZqUVVHakp1aGRpbGxfSGd0R3RjeTNZUEF6Z1BZTUx0WkZlM2MwLW9lOTNMLWF6ZGZQMGlLUQ?oc=5",
+          "pubDate": "2026-09-29T23:47:34.000Z",
+          "snippet": null,
+          "title_en": "PT diz que rivais deturpam fala de Lula sobre 'toque' em mulheres e chama de 'ação do Gabinete do Ódio Bolsonarista'",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "El presidente Lula, candidato a la reelección por el PT, cumple agenda en Belén",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTENUaDkzenJaSEJXTlc2MFZudXRmNmVMeUVDdkRJUmxoR1N5em9heFhqY1RwU1VVSUNjQjhaT0FHRy1KdDFDSGdkUHJ2WnNPU1VSdi1rQW1hOElCeGZ0Z25GTnZ3V1pwVUFodlptckFRSnJzbDFQZXBQckJNYWhYRnpGcTF5ZkNQeVREbUNMZmp6RFRoT1FrU2xVOWtRdWFydV8zaGdPMDN1eTIwVzZTaWxCNnNYVWZyRFdvMUdraGdkazBZRmFhRUxB0gHYAUFVX3lxTFBKV1pmdXJNVkVEOUhHOEUtWHdMSFJmdTlBN1BZODQ2N1Nkb3pLSlFfQ2xqMXhfLWpCcmVHU1pVNHBtb1M5VHllMFltZ09CM2pMMGpYeF9QQ3NLT040ZzJLaFlTaVdGZFJMNk5YLS1EMlphRFJzbVB3ZFVLWXhQV29ObDlaTUdmbS1vOXFwUzVxVUU0cVlfWlJkTjhIR2FzUVFIYVNOdVNhNWVqQ0FNZlgzWVlMZnl3TkR1eHVsZ1FjOEctQkZVbzhZRU1WeFYzb0tjWUJSbW81Sg?oc=5",
+          "pubDate": "2026-09-29T01:15:11.000Z",
+          "snippet": null,
+          "title_en": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Belém"
+        }
+      ]
     },
     {
       "name": "La Nación (Argentina)",
       "color": "sky",
       "items": [
         {
-          "title": "Después de diez meses, aún no se definió quién debe investigar la causa sobre la quinta de Pilar",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3E1N28zb1B6VHFmZU9PT3JSTlNPQWRRdGw0T25LN2l0MU01LVp3dUtoTDVRQ3d4MzdoT1N0YkRIX19icHlYTi1EcWt5cHVhYVlWdTRxN1VnM3ROb0doLTNiV2VIRC16bWNld3Vjb1dBMEpyVlROOTRwTkZIb2tPNFZPaUc0ckJ2b2gzU3oxb0VsNDNGemlrejlONVVfeFhtcExfaU40Y2poSzBfMjNDaTlHdkE2SEpjMWRPZE1tV01vSmJVUm1sOHZ5QnV6dExmTnBSTUhMUjFhaWcxOWc?oc=5",
-          "pubDate": "2026-10-03T23:07:00.000Z",
+          "title": "Los manejos de la AFA: “Chiqui” Tapia cambió el esquema de cobros y puso a una sociedad de Dubai como “agente de recaudación”",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRkN6RFdJMDNrV1lkX0VLLTlaSHd6d2FMeHZ5SGdBNFdaYXB6b3ZLeFBkS1AxcllVX1hUTEZYeTZIeU1ZRUJEWmhMNk1TMURFYVVIUTctbU5rSlhHVkNhMUtfRVpGRTJyX1RrMHpSODdEZ3BmWTdOZU1qcXNhcVkzeV9MVDFpR0lRbWlZYXhWaDhXVGU2cnhlTnVUYjQ0dWx3YjBEWlJSMmhnSW40bWM2VjVKODJEUmJnMDFRRnR0bFFvcHB6VDJmV2FTV3BVUTJCMll0c0RleFV4aHpVYnVFaXVR?oc=5",
+          "pubDate": "2026-10-04T10:12:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "After ten months, it has still not been determined who should investigate the case involving Pilar's country estate"
+          "title_en": "The AFA's maneuvers: “Chiqui” Tapia changed the payment structure and appointed a Dubai-based company as the “collection agent”"
         },
         {
-          "title": "“No hay magia”: la receta de Israel para pasar de la hiperinflación y la recesión a potencia tecnológica",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT210WkVTek1nWE9TU1lJd2NMR1k1U3lBMXdVOV9wMkFfejctVU8yZWp3akU4QlhNRjVnUUdGS1A5Rl93VXljbGx2RkVQUjB2XzhXeEZGOG94Q1d2M0QwdWpoeUpkOWhQd3VpdUdQOUdxR1hRWlgyNm9pVVZKTWJ6cWlKcTBFYTJsR2tuZnVYMzNHcVk1c1hDMmxhN1dhTDZPdGQ3NXY3b0h0UUh5ZTRudU1oNnRfZllFMnYycGREc2FLQnI4MHREcXNYeHdpcEs1X0N4bGJ3?oc=5",
-          "pubDate": "2026-10-03T19:01:00.000Z",
+          "title": "Llevaron una oveja salvaje a una isla para cazarla y más de cuatro décadas después se volvió una amenaza para el ecosistema",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQanFkbmNrdmlVUmpPMWFYajJNMTdWTzVTZGRpLVZSZF9iejBnSlVWQ2szNzh2R1ZWa1ZFNTZnMHFaTHRhdV9xRTRZMmpQQmNJUUZMSHJ0Y2dhNEU4TTJZb1pxdHNna3VNcnRVNldyTmIxZWx1Z3MzUk93SllqNDFudTdudDJCVjhKdElwVFZWRlFyWFVldHhiRmswd2NLbmVhaW00bGpudVpBaXdxQVd2WnhsSGhSN1BpVG5WMGEtb2NvV3lFYVlVQnVxWm51TWhSNHBfREVVVlk3MnFlZFFBSw?oc=5",
+          "pubDate": "2026-10-04T12:10:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "“There’s No Magic”: Israel’s Recipe for Moving from Hyperinflation and Recession to Becoming a Tech Powerhouse"
+          "title_en": "They brought a wild sheep to an island to hunt it, and more than four decades later, it became a threat to the ecosystem"
         },
         {
-          "title": "Identifican al agresor del vuelo de Flydubai y Emiratos Árabes ‌confirma que fue un ataque terrorista",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkJDaGJNYWNuc0VSdktkbWRtN0EyX19MQU81ZXBGNk10dXNqZnVDbFVpdThEMmI1M0FmalpWYlduWW1ZUTdBbEV4Z0FaSXVrOVYwYXhwRGJ0UmxlZjg5cXk0WUlHZXdBdHlhR1V6VUhPVlJTaGplR2Y5Y3VfRWdFRTFuS0JJbGNvaW04ZVNvU0VqS2JQYXQ3UUxzbXMzUnREbUlnUDdPTVRPb0xXc1FSZnRMeDFKT3YxdE5UYXZlSjBMUzVHOVplYjNkUW1lLXBQdUhjWTl2RXB1QVpxN3FxUmpBOUk?oc=5",
-          "pubDate": "2026-10-03T17:59:00.000Z",
+          "title": "Nuevo mensaje de García Cuerva para Milei en la misa de cierre de la peregrinación a Luján: pidió terminar con “las heridas de la descalificación”",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnNzXzRoSHpiUUFVNzhPM0ZFd2NSc3l0SkxBUkJzUjV6dEhZRUw0dTdBR2NjXzk0ZFljT0Q0bkY1RncyQ1lzSTFBYkNtX2xTdFhtZGRmZ2lOZW1vcFRyQ3VrWTB5cjk0MUJJWjhNdm4xQjFra2VyMVBFQUtQLTNFZ3ludVgwWWprLXFlNHV2am9iby1YNGJUOFFsYzVFdkpDNzJmWVJPeWM3N2M0eTRwVGVFR3Z0Y2lOZGctWE00SnVXNDRoRWo4a3JMZHB5Qmd6elFXR2JMUm1MbDJBSzRDWDl3?oc=5",
+          "pubDate": "2026-10-04T11:42:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The perpetrator of the attack on the Flydubai flight has been identified, and the United Arab Emirates confirms that it was a terrorist attack"
+          "title_en": "New message from García Cuerva to Milei at the closing Mass of the pilgrimage to Luján: he called for an end to “the wounds caused by disparagement”"
         }
       ]
     },
@@ -49,20 +63,18 @@
           "title_en": "Mexican National Team: El Tri Is Humiliated by the United States in the CONCACAF Classic, and Rafa Márquez Still Has Yet to Taste Victory"
         },
         {
-          "title": "Este sería el 11 titular de la Selección Mexicana para enfrentar HOY a Estados Unidos",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGdBTE10UFp1VmFZZzhlTTJ4MkFLVE1nbklHSGJXdEliUEFyZDlXSy1FMzVkdUJIZTdvX3EtMmg0WHpmX19lWHZqV2dFMHhTcExmLUxBU0hCaU02aWdHcUNENE1uQ3YwSkZjNFNuYjA4cVdac2hZN0hhdFREWDAtS1EyVU1sdTAyUDVCZWMyZHRtV3M1OWtVSU5ObjJKRzRxd0RNYW1YdzVUaXhIbmpCcEhmSmJIQzA0MGRXSDJ4bG5JYk1h0gHYAUFVX3lxTFBwdExEX09yaUZaRXVWZ0hqcmdCTDc0NTVfUW5qWW1jUXl0anhwVG5IcjQ4aTA1Umk1OUdjZXhQOUpCeXpROVNkMnBZYzkzVXlhbHp5dVdJOVJCbElyY1Fjb0xrWU9qZ3lNdnlRNjBSTkRfVWsxc3V4TW9ZZDJFcERDM1F6WkpidnEyTFNkT2g0eE00eGRFWk9sU0dfM2tyUjZ2RlNqWmFydzhDWFZ5SXhYS25pblJic3RyRnpQTUVEejJmTHdmdjVOS203YWlDZTFkTzZGSnI5UA?oc=5",
-          "pubDate": "2026-10-03T20:46:58.000Z",
+          "title": "Premios Ariel 2026: Empates, emotivos homenajes y el Ariel de Oro a Rosita Arenas; así fue la fiesta del cine mexicano",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMWJ0MEt1bTlBbEFvam1CZm9lUXJRNHNDWGNPWFluajMxR1lsak9QX2R2VHFaOUZNa1J3NUNsd09kZ3JETnBWZ0JGOEttTTU3dndJRWJua2otN1N1dEItWmU4UW9mOGlpVmlfY25OTTNMQVBxR1dSR2NNcWJDZGlxbm1XWVUya3daQ19yNkJ6em1rWXh1SVdZOUhYVmZzTUVOMDhrcXpWd2J1aGx1aXVmRlhTWEZ1eHVZZEowX0hLa2pwak9yeFNHbGlWT2RiRktfVi1Vek5Ma0wyLXRqbDhkam5WeERmN0lWZXU1QTBqMA?oc=5",
+          "pubDate": "2026-10-04T04:34:00.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "This would be the Mexican National Team's starting 11 for TODAY'S match against the United States"
+          "title_en": "2026 Ariel Awards: Ties, Heartfelt Tributes, and the Golden Ariel for Rosita Arenas; Here's How the Mexican Film Celebration Unfolded"
         },
         {
-          "title": "MLB: Horario y dónde ver EN VIVO los partidos de Playoffs de las Ligas Mayores, HOY 3 de octubre",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHNibDk4bVVOREY2OFFCdUF1aVdoVHRpRFYxSTJrc1ZOSW9QVWpMbG5GdE1XZThqcVZrTUQ3eWdzVXVPdkluRXJQSzJiTVZiWTZ0azdqVExMQWtjTUhQdmtnUXFpS2RGa19vbmpMeEtrSU1ybkJ6VXVvMmFfOTladGk2QzNrZ3p4ZEtqeTFrdEN6Z201dU9YQW5HRUd0V3Izbnk3Z0ZENWxvQ3FKeC1BY2pMMHhjZVJTR3A3cUNtb1BXbzZvZlVHWXNwUdIB3wFBVV95cUxQbTU2NFRSamhTTlJ1U29MV211bmNaaS1VWTFEMklRQWw3elZUbzhIbm42R242Vkh3amh4UEJyZVh5TFFjWkNQWXdMVld4SmlVWmJwNV9nVkZucHV5R3Q4ZlU5aU1yeldwQWszdy1DMEpnZ01tQlBCdTRKeGRTd3VEM2tGY2djaHlsaUlnR25XcFRfOEZIU2VUNXNtSXV2cHlXdlBhRUxReWpKV3BVVTZiYWdMSWdSTWZPQnU3SmRQaWREQVlhNkswTkw2R3hTWURwSVJxMmJrZUxkazZVY19n?oc=5",
-          "pubDate": "2026-10-03T16:08:02.000Z",
+          "title": "Elton John da cátedra de cómo desafiar al tiempo; el cantante se despide de México",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IT1FRaGxLNlFGenFEZnR6MjVzNTVwU0E4anY3S0tlUWl1RU9kQUpzRld1Tm43UEk3MVBoTmZhWVVoN2pyeW1fNlUyRGNIQkRwbXBVanc1ZmgtS0tiTUMxOEZLN0pmUlQ5YXN4WmNCcktqRE8xaVdLRktNbw?oc=5",
+          "pubDate": "2026-10-04T02:03:00.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "MLB: Schedule and Where to Watch Major League Baseball Playoff Games LIVE, TODAY, October 3"
+          "title_en": "Elton John Shows Us How to Defy Time; the Singer Bids Farewell to Mexico"
         }
       ]
     },
@@ -79,20 +91,20 @@
           "title_en": "Delegation of Powers: What Will Fuerza Popular Do Following the Approval of the Report Covering Only Two Issues?"
         },
         {
-          "title": "Ante cuestionamientos de El Comercio, el Mininter asegura que Programa de Recompensas está “en reestructuración”",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQlF4OGtJeFhOQ2I1dnpzZ1NWSzRsNURtVTljM3JFX1RwVThRbmlCamFYX08xSmttU0VReFprMlo3WW9jVGpVUGQ4Yi1FbG5mcVZDSTFJTFJFSnMzemROMmZZN2kzRXQxSk5WTUtCY3dJV2t5aGpwdkpoSHVxcU50NjZUT3NwU04zWmZBa0hsZGI1OVpZSjJaVWcxRDFzcnpMS280cWNYUkNpeGtvU2tEck5CT3R5ek9KNC14LU03emtqczFkZnFzNkFTSEdhcmY2OXVoTFR0cGpScFBFMWdXM0xfRkYzQQ?oc=5",
-          "pubDate": "2026-10-03T19:32:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "In response to questions from El Comercio, the Ministry of the Interior states that the Rewards Program is “undergoing restructuring”"
-        },
-        {
           "title": "Elecciones Regionales y Municipales 2026: Más de 10 mil candidatos no tienen domicilio legal en la jurisdicción donde postulan",
           "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLVI4SURXM1dsdGFZeXZxcDBoVnltV0dKMXdlVzJUQ2kwek15S3R2Ti1BWHViYjRfZGFTd3BjaVlvQW5QQWVFaW9lZnBVc2Z5UEpJbzYtYnktY3NES2JYdElibi1hbktzSW9uVHg5TUtxNFNtWTUtdUxaaHdCam0ybDJxNURfYmZ4ZGJ4all1b3N2bGtYbV9hLXZVTmF4NDRBX1ZCYS1WU3VyemcyOG5qSm84ZlVKQjBMNzd1N3huaUhZNjUtOERrd1ZIbFhkaVc5amlCcmNYT0d0SXNaNWt3dF9MQ1JMVG5CNEdhTkRFX0lpNnFqN2FDYzhDemNtdEdUelY3N1k5Unp4R1VaUGVidjdjZGFmMmVVeU5oZmZnT01fTnVESHM3MDgxOUdkbm8?oc=5",
           "pubDate": "2026-10-03T19:29:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "2026 Regional and Municipal Elections: More than 10,000 candidates do not have a legal address in the jurisdiction where they are running for office"
+          "title_en": "2026 Regional and Municipal Elections: More than 10,000 candidates do not have a legal residence in the jurisdiction where they are running for office"
+        },
+        {
+          "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNHJzX0ZaTTdOWnNaS2p3aFVmYmo3SGFXUGJIT3hfb1B2RDBiNkduVy1vUUNOT0VuV2Y2U3hRV1B0VlBZR0YyV2tmZmpoMXkwWmpvWUJXYTBZNzF3Sk9YNG1sNFVzOGFvT0c4eXlDTDA2Sm5XNGpFdjZndy1fVEJWUE85RWFiR0wxazljanRLTFkyWWpQN2pqaV8xMEt2ZGpCYVFvajNWdnF4eFFkQ2RuWUVfV3dJRk1yUkZ4X2lqYWxpS0twLWJZamFsQzNZN1liRlNXa1JCNWNLOTR1dG43SjRoaTJKclpaRmVkYkJubHZPTkNqSUQtQ1FoR1hmV09iM1N0ZlBYTVEzQ2ttbWtoWFdrbDhVUVAxMUhoMGNLeW1MUWc?oc=5",
+          "pubDate": "2026-10-03T18:31:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "2026 Regional and Municipal Elections: Candidacies from regional movements have fallen 83% since 2022, and political parties dominate the field"
         }
       ]
     },
@@ -109,20 +121,20 @@
           "title_en": "Matthei lashes out at the government over the end of the “Yo Elijo Mi PC” program: “I knew this was going to happen”"
         },
         {
-          "title": "A fondo con Joaquín Niemann: “Ser accionista del LIV no sé si es algo que quiero tomar en esta época de mi carrera”",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTldWY045LWhYR3BYOFo5SjFoa0VWTklyay1pN0FuTGI2dml6dmk5b1NtS1JJdlJlNlVzaWFVc3dnN2Q2Smd2ekdmU0p2YkU2bnNqeDRsX2t0aHhIWlBHM25VQko2aEJsT1kyQ2c0TldFWmRpR0phLVFKandfY0d1Qnp6QUVPMkFtX2Z3dnIySWpyMUtCTFFfNkFlRXdkdU5fa2ZFcWFpejhFd0xnLUVXbklMdG5VUmpURjltYzJ2MF8tTEwybnJlZGZCaGN2QlU2ZW9hTDZfV0VMVUhBM3lhWndqaHhPVXI4Y3I5RWY0WEJad9IBkwJBVV95cUxPZzlSOUJUSDY5VW5MNzROMFhCN3VBeTJ4R3JHZDQ3Yng3c0YyVEw1azVpbnpZelBBRFBoY0lxejdOaXZxMGR3LWU1a01mMnFtTXNSY0hzVjhqVnhXQ1RBWFA2dFpoTWFLRTJ0S19xaDQ2d05lYU9DMjgzX0FjbUlsZXNZNV82aEo1blI4ZjZhcUUxTjdqMXJqeHNjMmgwejlzMWZFY2ZFcmE3TDY3eXJIdzBta2pTWmlSMGlUa0FVeGJUT0Q5VFpyRmJUUXFvaWhaVHVPVGdZTWFjcElzYW44ZGl5WkdDVDNPUkh6SWdSdlJoZGhoRjR5aThZWTZlbVhzak5Hb3phWkJTdGZPR0RWMWNSYw?oc=5",
-          "pubDate": "2026-10-03T23:56:33.000Z",
+          "title": "Migraciones casi triplica fondos para expulsiones en Presupuesto 2027: ampliaría vuelos chárter, de la FACH y traslados terrestres",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYmdYakhUZE50ZkVnMkQxT2txN0xzbURiTF9rbC13anZtcDZkU0poNjhYczFhTnFZeWVQWjAzcUszX2RNekxzNnFsSk56ZTROTVF2YUk2UEczLVV4S1JjTlhJWTN2eUkxenNsaTV0ZzhNU05rdEI4MExHcTgyZE9YVkx6RlpMbkt4NGJPTjRjaW9WVVM5N0xKWTNOZVdzMS1yLVJHY25kdzRoRW1MeTR6QktJczBTNVBFNGk1b3JqNGZpWnVuNzFxSU1UWkNNcFhkSXpDTFp4dGFvWG5HSndjaVpVUVB5LW8zUW9nM1BIM2IweTdXTkZsdlh0OFJtaGhVV0HSAaMCQVVfeXFMTnFMSmJjbnhIZE9KdzhPS1Y0RXVuQ3hvRDNWdE44R1llZ014SEZrWEd6eExpVmpRbXlwN3VyUzFOLTh2MV92dUhFNE8wcU9ncGxtNFpDVHJsaWVUbE9BXzJJWUlFRngtaGhtWVdSQThqbFVKMTJYOVU5dHMtd1JNcWt5SV9tenMwWFpFNDZiWVBnbF9vNzhReHJJaDgxSDVDUHptVmFGd1FMeXFmSzNneFNVNFdEUkl4OFpMWXRZVEN1dmVJd2VQSWdtYmt4cUF3endtR1kwTWhpdXVUd2FTRnRCTzlTRWhUemFwWDduR0ZDeERLUUc2RVNucU9HOUtaV0Nac3QwMDhPcEhQTUE1dUpwSS1LQTVvQkFCOVluUklQdjBj?oc=5",
+          "pubDate": "2026-10-03T16:16:04.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "An In-Depth Look at Joaquín Niemann: “I’m not sure if becoming a shareholder in the LIV is something I want to do at this stage of my career”"
+          "_priority": "ALTA",
+          "title_en": "Immigration Agency Nearly Triples Funding for Deportations in the 2027 Budget: Plans to Expand Charter Flights, Chilean Air Force Flights, and Ground Transports"
         },
         {
-          "title": "Cobreloa celebra en la agonía y aprovecha la caída de Wanderers para estirar su ventaja en el Ascenso",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW1EbG9FQkFBVkRoaTBIbTJ4UWprZjhweGsyNXotYlpzdTN3ckdPSEllamtOYXpWRDh3WVJyZkEzQnNCZjA1bER3UmZ5b1NxVnJjanlpaG1ZLTNKdDlGdVgwTHNRWjd5OGRhYldHRVlGeVFIZkQ0dU9jcjVOUWRhU1VmVXhsQXh0dlU3aGxCZXdhUFFCa3diN3VxM3ZSWmJuSURCNFQ1WGx3RENrSExZWmY3X0tORE96MFZBa1pIdDJRVjE3bEZ4cXhmU2dQQWc0cTdCc3JkSnVLNGlMODk2d0FRY9IBhAJBVV95cUxQV1JNMkVncm9HeUljSmlkU3dEbnE3MTk4NTl0dktOVm0wdi1EblNkWkNienducVhpNHU1dkM2aGY1M3FlRWhKd0ZGTDNvTWlXUzJnclRhSkNBdElaSDZpZWhhd3V5STFEXzlBZWxVM3RCaXBtTVViN1dLaDhlRFdQUGk4XzZSSlJKcGl4S19KYTNQNVpJdUFIQ1JLWklEV3lmd3h1TnpDQWpMNDA4UFZCWV9NRTgxODVvZWN3ZGY3c19EalhHVTRILXVETEU1cTFWcDJIa0NLUW9Ob3A2YnpReFpHTWZCMzVIbG1HOE1iNHVFdFgxeFI1X3ZJZ1BlMTZYX0dWag?oc=5",
-          "pubDate": "2026-10-03T23:44:12.000Z",
+          "title": "Los nombres que baraja el gobierno para el cupo de Rodrigo Cid en el directorio de TVN",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTEhKSkJhLXJkTms5ZDZpTlExc1hRdUJjNEZsX1daT3M5ZXJ2Q28yUDBnN0I3cUlQY3VUaW1qRzd4YjNTNUhMeDNJSWxBeDRWczg0R2NJTlN3VFQtSGc3YzZ5TUkwMzJodVhYYU83R18zdm15N3JHWEJQbER6Qm90UHRsNVFNM2lLYkNwMEZXWWN5bUZIdWtrajdIajFwWWVqSWNxZjNwM09CcXRpRGFGRGlHQUVha2E2QnVCZUFuUTFybFkwclp1dlRB0gHrAUFVX3lxTE5vV2Q1MnVRenYxMnRxVE1YUUw4ZkNfaXhIYWFoaEl4dGozTnFrOVlmM19OSzlrSS1MWGRqTkZZMS1JMFM5ZEwyTmliNmJpWkk0MmJxM1hDOGdGWUliOUtSXzRCd0Z2eU56N2tOYU43bkR3MDNTc3V6di1IcTA2cHotNFV1Z1pUYjRUSURTNzVFc3RJd2ROc1RNcmFidEo3YmdRRlV1X3owQ2gwUkRKclRGUjNJVU9oM0l2d2pwUkt1dmNBZDNZai1PTHJOb1k5ODczMDB3cFJRd1lEMGVqNmhGMHQzQVZCcFlPV0k?oc=5",
+          "pubDate": "2026-10-03T19:18:18.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "Cobreloa Celebrates in the Final Moments and Takes Advantage of Wanderers' Loss to Extend Its Lead in the Ascenso"
+          "_priority": "ALTA",
+          "title_en": "The names the government is considering to fill Rodrigo Cid's seat on TVN's board of directors"
         }
       ]
     },
@@ -147,12 +159,11 @@
           "title_en": "Petroecuador Expects to Resume Pumping at SOTE in Six Days Following a Fire in Baeza"
         },
         {
-          "title": "¿Cuándo y dónde ver la Fórmula 1 en Malasia con Verstappen y Hamilton?",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2NTVkdjNER6Yi1Ca0xfSXc1T2kxdlRvaVFMaDNld1FJUHRpUHFidGxaSVBpUktIbHhiUFYyeDNKbHV0M0FGaXYtOXdKczFjV0thU0lWdks0UUdlblYxNEVsRE1pWTNOSE90UzkzVXl3a1VQUUdhT0tOQnhRMTAxamNnZkIzaVlKSkQ4Q25LbnMtd1JTSk5ULV82RHdIQQ?oc=5",
-          "pubDate": "2026-10-03T23:22:32.000Z",
+          "title": "¿Los caramelos mentolados para ‘el delicioso’ suponen algún peligro?",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWl9GeDE5VzdiYkFncUU4NkQxOUsxMEZYS3lNOVNBOFFaT2c2eGdFNHoxcFZFOWRyRkVOVUt0clVpV1JxNl9ndmxHRWd4TVgydjNRaXJ1VGRiRkRMREtXb3lubTl0c1lmWkxxSERtVUJwN2J2UUh2bko3SC1ZVzE0clpJNjJCdXUtaUIwc2lDcw?oc=5",
+          "pubDate": "2026-10-04T13:00:00.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "When and where can I watch the Formula 1 race in Malaysia featuring Verstappen and Hamilton?"
+          "title_en": "Do the mint candies for “El Delicioso” pose any danger?"
         }
       ]
     },
@@ -161,28 +172,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "Prisión preventiva para el exfiscal general de Bolivia acusado de proteger a Marset",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdGpJLUNwbjhFU19rNVIxdlFwMGRmdEhTR05vVHEtMnZSM3pmNnFEMUFIdWc3NlpOdXJCU1l3U1BwZFo0V3hWbkZaSXBVdm1uTmhEUVpPbXI0YzNQODNRRWxSOUZjRThpM1dBbDZ0WnhNZFNFQTZPWjh2TFBuV0tXOUd6cHBab254NWpnanJqNWhwanQ4dzQwdWlBekwzZ3ZKUjFMeUsyd3M2anZ5RTM2TzhiYXB4eEpFaVdnYUI0X0xNeHR4Q0Rnd3p5b0Rpbm9IQm9KRldtMA?oc=5",
-          "pubDate": "2026-10-04T09:56:15.000Z",
+          "title": "Elecciones municipales: ANR afirma que la jornada se desarrolla con normalidad, pese a incidentes menores",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTG9reFpPLWJuVTVQWERLSzhEQ2FQdUJaSWhpUk5jemtwZ3ZTZlREc3dZOUFCWGpvNFV5aWxIX19oMlExRUZ0aUdRTndETWVjYmtkQUZybHhWWll2aUtmYmRpX2R3SEthYlBvZWlrNndEVlZpRllkWXJCcC1ralliOXdfaWdkODlzWE9yak5EMV9la282bVp0d19lT2RGN2ZqZm5xMXc0S0IzWlMyMUN2dUhsZWhNTUZJNHNyMmNHUkRpbG8zcThMMENjRlRPNjhLaG1fNVlXelpTbnpTV0R4Xw?oc=5",
+          "pubDate": "2026-10-04T15:00:42.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Pretrial Detention for Bolivia's Former Attorney General Accused of Protecting Marset"
+          "title_en": "Municipal Elections: ANR Says Voting Is Proceeding Normally, Despite Minor Incidents"
         },
         {
-          "title": "Elecciones municipales: ¿se podrá votar con cédula digital?",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkFWcWR5dkF4aC1kdWtTQkRBQWFHa3ZBa0NsaVpiWnpPalZZMzhuSnVneDFXak42aWROVGpiZDJLckFQSDlVMk00cDJjbG9qVk1zOGhmaXA5N0NIQWVUeXplWVg0cEJSWVo1cEd2Q0VKZkxWcXBNUGRYWW5HWWlkWjd5SEZBaFY4YkNvbnhCLTBMNnFJYk9Wak1WLWVBbXpCV1E?oc=5",
-          "pubDate": "2026-10-04T07:51:12.000Z",
+          "title": "Peña descarta compra de votos: “Decir que el ciudadano es manipulado es una falta de respeto” - Política",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS3I3SWlkdVF5MXZvNy1JYzVzemVIdnpaZnFsWkltYV96ZXBQTTkyZTJWR0ZWVXBNeWxnencwUHdWN3FGVlBDajlmTWdxVmxsclZFWF9EOHF3TzBSYUNvckptcW5rdUtzWTZmMDJlbm13cUdzOFA1Q2QzUGhUd0Yyel8ySW5lLWw1MGFLVnpwclZUUE5KNUotcjdZQmlpOWtWR2hNR1lGM2ZZaHRsOGtqcmZjWUhzLUY5bEJTazdZZHhzbW1oYUtfaVlRUkw0Y1k?oc=5",
+          "pubDate": "2026-10-04T12:54:06.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Municipal Elections: Will It Be Possible to Vote Using a Digital ID?"
+          "title_en": "Peña Rules Out Vote-Buying: “To Say That Citizens Are Being Manipulated Is Disrespectful” - Politics"
         },
         {
-          "title": "San Lorenzo rompe récords negativos con el descenso más prematuro",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc193RnowMk1HVm9nN200a2h5SVNXUFFnTVFTTU90MERTM2lLWnBOU0F5OWNfMmVYdno0SnA1WEFKRHJMX19OUDNBNGRTdER4a2FfcXdFb3MxT3VjeG84dFJ2NXVIVkZXemU2MHppTGg4RXEtaE1XT3hCWTNKRFVSd0w5M1BMZjNzRXNZbXhvLTd1T29nMWRTeHBGaUdpOG9hdDdxMlNWUEU5bU9qLUlxNHBoN3VTWEpTREl1UHRMTHNMb2w3ekdJ?oc=5",
-          "pubDate": "2026-10-04T07:46:46.000Z",
+          "title": "Oposición denuncia irregularidades: Mencionan compra de cédulas y voto asistido y critican la ANR",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpN1o4M0FydXFnYUppeXdVTldzLVBiZzFRT0VnRXRFLTdQUFBNQVZZdUcwb0N0MDl0dzMyUXNEeHVkQVRCbXZpVm1pRjA0RDgtLXc?oc=5",
+          "pubDate": "2026-10-04T12:37:35.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "San Lorenzo Sets New Negatives Records with Its Earliest-Ever Relegation"
+          "_priority": "ALTA",
+          "title_en": "Opposition Alleges Irregularities: They Cite the Purchase of ID Cards and Assisted Voting and Criticize the ANR"
         }
       ]
     },
@@ -191,35 +202,49 @@
       "color": "slate",
       "items": [
         {
-          "title": "Máster plan del Gran Parque Central: Nacional logra una moción de consenso que votará el lunes en directiva",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnNFUE1TeFo5MkMzUTZIcW5HRDZ4anJuS0QwV3dLcHZpUkFCd05jdnhiVEY1ZG50OTJCcUFBc3RNMFNPN3VfRkFwNUFJVGRuWWZaS2wtYWh1NTFmd3NFakF0eDhMSldKQXVyWWpzRXgzQWtJaHpoZFdhR1FJaVkxaEg2VlZsYURoMllveDI4ZWR2Q3pYcGhsQmxDaFRiWjFRV1JGamd3Um5jcTl0U3haaWg3MjlJNEd0SldpakU3ZnBmZ0Vsc0gzWTZvX09hZy10VTRJV3NtR2RHTTJGZDdPQg?oc=5",
-          "pubDate": "2026-10-03T23:27:29.000Z",
+          "title": "La “caja negra” de los pagos a ediles en todo el país: denuncias penales, demandas laborales y aportes a partidos",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUNFaTF6S1oxREx5cTk5WFE3eFp4LUVWX0Z0dFZ4bXRwQjZlYTNEQ05TSFc1eFkwSzV1T3JWWDlaOVRRYnBRTzdXdHo2bFhTSUlHMHAzR1hVbFdCcHB4dzVrdHN4UUVXal9lQzc2YzhjX1ltN3lDdU1IMl9nUUpOa1dOT21OR0tQSUxpc3NhM0hiYjhkVVdydzNJZlNXeEZHR3dxeVRtN2YwenlUcHFQZm9qazZZOUhNZ0YwbGttUW1fR2VXOVAwMHQ5dkZJTDdIRXpTTkc0djNwenhJ?oc=5",
+          "pubDate": "2026-10-04T14:37:30.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "Master Plan for the Gran Parque Central: The National Party Reaches a Consensus on a Motion to Be Voted on Monday by the Executive Committee"
+          "_priority": "ALTA",
+          "title_en": "The “black box” of payments to city council members nationwide: criminal complaints, labor lawsuits, and political contributions"
         },
         {
-          "title": "Máster plan del Gran Parque Central: el avance importante de Nacional para una moción conjunta que \"no es fácil\"",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYUFXQzZxWDQ1RmVnLUthaUp4NmJkeW12T29xZUpUMmpaYWFxckZKTUlWNHoxaFpkMkZ4cklZTjQ2T09tQlE1RGhWSWluQVdVTDZDdEpkdERSWkNSZnJGZG9kT3hRWlAwSUZFYng5MlVUQy12NmNZaVFnZUQxd0dCTFVkQVQ3cUNtMWFoX3poNVB0X2RETVl2MWVsREZFRDJhVXotS29LV0N3QjJWX1VBUEc5SVYybXFxMWtIQzYyV2xGQ1k3SnlhYU9paXlUWE85SzN5cVVGdkl3RlFGYWVNS1VkdkE?oc=5",
-          "pubDate": "2026-10-03T21:42:07.000Z",
+          "title": "Racing vs. Peñarol por el Clausura: hora, dónde ver y probables alineaciones de un partido clave en la Anual",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZU9UUUVyVXdhZW1CMXZqYVkzWkhZZFR1aVJpV2J6Z25qdDNEeTNyVWlGQTNGb3NOMW1PRElvQm1KeGVCYnNfMUM1XzRCdUxUbk1Lcm43RWlvdTk0RjhDODhTY2ZJRV9GNjJWcjRnSU5fQ3YxZVQzNmN6cnZfTnN4d2NvQUFfLXlhS1RiVkkyMlI1UU1qRDVpcUZnb0RORHdVR0RleGpEd2tocW9FRWY4MmYzX0RDNmM1TnlKa0dmOHdoSFRLRWhkd3kzQU5GdzUzZUVoMjllRWpTN1pROGlZ?oc=5",
+          "pubDate": "2026-10-04T14:26:15.000Z",
           "snippet": null,
           "_priority": "DEPORTES",
-          "title_en": "Master Plan for the Gran Parque Central: Nacional's Significant Progress Toward a Joint Motion That \"Is Not Easy\""
+          "title_en": "Racing vs. Peñarol in the Clausura: Time, Where to Watch, and Probable Lineups for a Key Match in the Anual"
         },
         {
-          "title": "Deportivo Maldonado 3-0 Central Español por el Clausura: el fernandino goleó y sigue prendido en la Anual",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0JVa25lNzdwVUtQQlpGTFRnSmJjN0ZRSlF5RmMycllpWTRKMXNMUi02eFpoaTA4QS1UNVZlakotMmpNZEFHZ0dnTUF3Wk1ZV2dYZWdRbXFJMW84X2ZEMmpIZDZrWW42WmttSlFvcnZBQzM0NU1feVRWdkxuZjJjOTFDUWxkU1phMVpVLWRnY2lqbHlkVWhtZHRfQlFDUGp4R1FuVWM5cG9nYjdLMlozVWI5amtwcDhoWDdkNWF4OFZ4eEhUTTVicGxlMDNkMjY3cUJtSEgwTlhKY21oV0luUjZGcVA?oc=5",
-          "pubDate": "2026-10-03T20:44:29.000Z",
+          "title": "Garrapata: la piedra en el zapato de la ganadería",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlhFcjhFWE5SaE50cjREWmhFVVZJZHp0T1YtT0hlaV9SN2RBRmcyeWxWeGpnb0Y2TzVoQmM5ajNoZjdTRUpBRFFtMFB0cVMyRXMwWEZBbzlfRGRXM3A5LXdfSk1RcnVzaHRFcXdhYVlVSnVIRFROTnhpWWZ1NnBIX3BweHJOTzNtbzlSb2xXOWNpQQ?oc=5",
+          "pubDate": "2026-10-04T14:48:45.000Z",
           "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "Deportivo Maldonado 3-0 Central Español in the Clausura: The team from Fernando won by a landslide and remains in contention for the Anual title"
+          "title_en": "Ticks: A Thorn in the Side of the Cattle Industry"
         }
       ]
     },
     {
       "name": "La Razón (Bolivia)",
       "color": "cream",
-      "items": []
+      "items": [
+        {
+          "title": "Page 9 - 02 de octubre del 2026 - La Razón",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb25iSndsUDJPX1hnNjBEVFlFcWloaTZUUGxlT0pDX0NQcnIzVTdwVU9VWkg4RHBKSHQ5MjR6R0phd1ZwWUhvb1dlb1E4ZG5QbVRlbG1QOVdMZk4yTUExUjkyWm5uWDFRSDcwbVFsVFk2YjJBRElIVWNwd1RuUWpPbXdvNzNweHpVMmVtb3hsMHQ4dFVaQ201bVdSMnR3YjVWMUE?oc=5",
+          "pubDate": "2026-10-02T09:53:09.000Z",
+          "snippet": null,
+          "title_en": "Page 9 - October 2, 2026 - La Razón"
+        },
+        {
+          "title": "Page 1 - 04 de octubre del 2026 - La Razón",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmtLRk9NUnpya3R5N3RRR0t5LVVRdVBFWFFQZ0NMVmZyb2NEdjMxaERaaE5BVzJJOUo0WnVhTjlLekhBV25HcDBNeC1wSFUyRWdCd1JUeElUSHEtWHh2NHhLbFdQdjZENVprR3pZNlR5ZjFELTlfRDJEb2JQc0hHeTBMVFNrRGRld25mUVZ3YlRRbzVpUXRrd0lBdHkzOFZPYUE?oc=5",
+          "pubDate": "2026-10-01T07:00:00.000Z",
+          "snippet": null,
+          "title_en": "Page 1 - October 4, 2026 - La Razón"
+        }
+      ]
     },
     {
       "name": "El Nacional (Venezuela)",
@@ -242,12 +267,12 @@
           "title_en": "The U.S. Attorney's Office rejected immunity for Nicolás Maduro and Cilia Flores and demanded that the trial proceed"
         },
         {
-          "title": "Renunció el jefe de prisiones de Tennessee tras la fallida ejecución por inyección letal de Christa Pike",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3ZCUmdzOTJ4N2hvYVZQam9qMlNsTWdvcDlLOEJEd3hGSXExU0F0RTR1N3NtT3JtZ2NIdXhDQUlzU0xfNHpTTm5hWS1WNllVZlRMWUp6UnpZZXVxeHpmTzc1dTFxZ2txS3UxdktYWXREVzlscFdOS085NW5jOVFOeWI2amczWjhPOXQyaWhyY0V3T3BuOTF1V1JpejJnLTNheWQwQXpBRmNOa3ZUVjg2a3A5MVUtd0xiT1poV3RKanBETGR3UzVXbXV0dGM3RjNNaU5FNmlHQQ?oc=5",
-          "pubDate": "2026-10-04T03:11:15.000Z",
+          "title": "Encuesta: 42% de la población venezolana no confía en ningún político para las presidenciales",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3RoWG95WHdEWnZneTdsOEVlRUZwZkl4UU1DaXdKRFk4czZyUDhIOFNRN2I1TkdudzQyQkxSc3BPY3V3VnBlcFdMQlBLOTVWSDZKcTJ2WEVEMTROV2h6QUprQ1cyVW5JYzZEZUx6eWM4dXJmeWpIdWFtVURwRFdxMmdybXNtNDVmb2hxRHAzQ3JHLWZmYl9DTG5EZUdnc3FwNGk1M09YMlk3eXI2MmhB?oc=5",
+          "pubDate": "2026-10-03T23:19:35.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Tennessee's prison chief resigned following the botched lethal injection of Christa Pike"
+          "title_en": "Poll: 42% of the Venezuelan population does not trust any politician in the presidential election"
         }
       ]
     },
@@ -272,12 +297,12 @@
           "title_en": "Cornell's president says the university \"must do more\" following allegations of a gang rape at a fraternity"
         },
         {
-          "title": "Xelajú resistió con diez y venció 2-0 a San Pedro en el Mario Camposeco",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzc2QTdKNzBLMk5ZOEFtRlBTelE0SkJvNmFrZ2ZFOEpyZ0ZnS3p0WF9UazBpTVI2WTZoZF9RRVpJSlVWQUxKUHBnVXRPSlQ0S1ZQRU94UVoyS3RFNlF4a3pqeHRTT2N4VVdJMVlLMTB0VVFBSTZKOUtVRWZ4UXE3SE8wMnpGRWh0R2dwRUUtSks5NGFnaHlrWGdWQW5UYmd4OWpDMXAwTzlSbWNFRXpXdjhwb3VGNHd5aTUwN1dtOXd5TFIyUVRyRVc2SURPOTg?oc=5",
-          "pubDate": "2026-10-04T03:55:07.000Z",
+          "title": "Argentina golea 7-0 a Burkina Faso y se prepara para despedir a Lionel Messi",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWGp2bExJN3YySGh0TjBiaGlxa3IyQUdhTHVKX0k2dVRxVTBPMmp6Z0M3b1VieFdDeXhXTG5kUmNrN0gyZlZ1VnFCQ2ZPSW5mb19ZNUpiNHNCZDJjZDU4VFV5UURxOHNtcnc4OVhHRW1jYkhWMDUyY2Q1VlhEYmk4N1ljeEdiZ1Y1OWpvM2FfZmJEYXNGdEJqUVpIZDZmV2wxamtJODFTRGJBMkFnLUxkbmhwQmZMZklMN1lRa1M0WU1BUGtnR0VKUnBjY3JDeUFLcjE0ZDlqS2tENUo1?oc=5",
+          "pubDate": "2026-10-04T02:43:27.000Z",
           "snippet": null,
           "_priority": "DEPORTES",
-          "title_en": "Xelajú held on with ten players and defeated San Pedro 2-0 at Mario Camposeco Stadium"
+          "title_en": "Argentina thrashes Burkina Faso 7-0 and prepares to bid farewell to Lionel Messi"
         }
       ]
     }

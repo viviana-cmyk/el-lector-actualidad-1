@@ -1,17 +1,25 @@
 {
-  "generatedAt": "2026-10-04T10:01:42.072Z",
+  "generatedAt": "2026-10-04T15:11:20.174Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "Exclusiva: imágenes de Al Qaeda publicadas en las redes sociales de Hammami, sospechoso del ataque en un vuelo de Flydubai",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVNRN3AwQkRGV08zNDAwdVVuM3NraHhBZVJuc0ZnZTNUaGxJMnEwOUZacG9Yd3BBcVVmakF0ckNIZ3J5N1RMZWk4UFcxN0JiaWxuZkFaTXQza1RmRDFscTR5Y3AtR1VVekYxc0xiWEktYjUtT2FZSWJBQkdNaHRvQk5zNEhEb1g5WWFBWQ?oc=5",
-          "pubDate": "2026-10-04T00:40:10.000Z",
+          "title": "Flávio Bolsonaro vota en las elecciones presidenciales de Brasil",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGpLQm9iZW42VXNtRDZNQ0FwZ0RLcGVDUkZoaFZGSmZpTjNWRGdtZVM4Xy1Cbk9VTndLTkh4ZlNGVmpRS3RGZ29Vai1HMktISEpIOE1QUEhWSV9GSERELXVtaU1kZ1Rkano5Uy1PX2FDekNfaHFiYlFQVzBISTlrWU1UNTNLT0xsOXItck50Q3Vaalk1YmR2VWV3X19XQQ?oc=5",
+          "pubDate": "2026-10-04T14:31:47.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Exclusive: Al Qaeda images posted on the social media accounts of Hammami, a suspect in the attack on a Flydubai flight"
+          "title_en": "Flávio Bolsonaro votes in Brazil's presidential election"
+        },
+        {
+          "title": "Así votó Lula da Silva en las elecciones presidenciales de Brasil",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNejdLeVRRdlBKM2Y5c2xtdDVsWlNrTTFHZl9XbzBtS2p3Q2JHdUk5NzUxTjBLLWhJOTBENEUtX0xvUmo2OFpMNFc1YjQ5NVBwNkp2NlBPd3hHeUFjMkkyX3FEV05LbENodWNoZU9FeTFhYUhhZTFwanpUQTYyNFJQTFF4bi1ybnBCbFVXb0xIQmhRemlqWEE?oc=5",
+          "pubDate": "2026-10-04T12:51:11.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Here's how Lula da Silva voted in Brazil's presidential election"
         },
         {
           "title": "Elecciones en Brasil: así cerraron sus campañas Lula y Bolsonaro",
@@ -22,12 +30,20 @@
           "title_en": "Elections in Brazil: How Lula and Bolsonaro Wrapped Up Their Campaigns"
         },
         {
-          "title": "EE.UU. detiene a un presunto líder del Tren de Aragua que estaba entre los 10 más buscados del FBI",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRENacXJYNkdTaVNrT2ZURWZKSE1oNWtpamN3YndCcjZaWjRnOUV6SFJaUGw1UzkxRkRNOElqNTdmcGUxOXFlalZxTlB3U0N2NUtuQkkxVVpzSHJFMzYyNm1xNHhvZmlmaEx0YjNZWHhjcFMxYlUwVnR4TWVfU0V5cnFkN2VfWVhsVmtHMG9fU1VtenN5X1VydWNQNHNKR19QQzBkbw?oc=5",
-          "pubDate": "2026-10-03T19:41:00.000Z",
+          "title": "La primera ministra de Japón protesta ante EE.UU. tras el arresto de un infante de Marina sospechoso de asesinato en Okinawa",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUpwSWgtUWVxT0VheWJ3WVpBREVEd3VUTkpsY3FpUnJmQkdPaUo4VTZnT2VnS2UwM2haNW44cXlZU2ZDY0dNbXJTdUVzd3hFM2Z2VFFra1Y1Sm5xNjBtdHdUS3l6LV9FMzNkLTR3SkVxc19CbU92TmpObFNGSWdlUjBkajhIdkJSaFBNVVV6enV1ckEzdGV4ZjhZeTlJZw?oc=5",
+          "pubDate": "2026-10-04T08:53:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The U.S. arrests a suspected leader of the \"Tren de Aragua\" who was on the FBI's 10 Most Wanted list"
+          "title_en": "Japan's Prime Minister Lodges a Protest with the U.S. Following the Arrest of a Marine Suspected of Murder in Okinawa"
+        },
+        {
+          "title": "Exclusiva: imágenes de Al Qaeda publicadas en las redes sociales de Hammami, sospechoso del ataque en un vuelo de Flydubai",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVNRN3AwQkRGV08zNDAwdVVuM3NraHhBZVJuc0ZnZTNUaGxJMnEwOUZacG9Yd3BBcVVmakF0ckNIZ3J5N1RMZWk4UFcxN0JiaWxuZkFaTXQza1RmRDFscTR5Y3AtR1VVekYxc0xiWEktYjUtT2FZSWJBQkdNaHRvQk5zNEhEb1g5WWFBWQ?oc=5",
+          "pubDate": "2026-10-04T00:40:10.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Exclusive: Al Qaeda images posted on the social media accounts of Hammami, a suspect in the attack on a Flydubai flight"
         },
         {
           "title": "“ICE no sirve a los intereses de la seguridad pública”, afirma el alcalde de Nueva York, Zohran Mamdani",
@@ -36,22 +52,6 @@
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "“ICE does not serve the interests of public safety,” says New York City Mayor Zohran Mamdani"
-        },
-        {
-          "title": "Trump dará US$ 90 a las personas mayores para las primas de Medicare",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2t4Tm9GNUZoZWYyV2lPVzhQNWxhVzF0SWJKYUk4X1gxc1h4ajd5c1NBZkM5cHNwRWhkX3RZS1daS2ZZZUsxVkFEenZMX0FqblU5cVM4VlRBcm1vM3IxeXhnWmU1clVSUUVKSWJPaG4zcl9SQmtQOU9UX2hadGx5Q29KSUJHSEdNdXZDTV8tM2RNSmZt?oc=5",
-          "pubDate": "2026-10-03T16:54:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Trump Will Give Seniors $90 Toward Their Medicare Premiums"
-        },
-        {
-          "title": "La empresa de Jared Kushner invierte en una compañía israelí vinculada al ejército",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSV9pM01aZnBkTkE3ZEIwVmFqTW9KZVdiWU1uRTBUZmQ0M0hxem9LTUQ5dEFnV0VnTFFKaTF1R21VdHR0U3FNR0stdWdtdkJpbjJ5WVZNSEg0dXlpV3YxRzNXb3VDY1pMcUlzVTF5ZnM3YWczbkhyZjJ5SnZXYXlQaGlNcjBHdDZpZjF1M1l2UDBiZDdQdnQ4?oc=5",
-          "pubDate": "2026-10-03T21:51:30.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Jared Kushner's firm invests in an Israeli company with ties to the military"
         }
       ]
     },
@@ -60,52 +60,52 @@
       "color": "sky",
       "items": [
         {
+          "title": "Elecciones en Brasil 2026, en vivo | Lula y Bolsonaro votan en la primera vuelta por la presidencia",
+          "link": "https://elpais.com/america/2026-10-04/elecciones-en-brasil-2026-en-vivo.html",
+          "pubDate": "2026-10-04T14:58:31.000Z",
+          "snippet": "La última encuesta, divulgada el sábado por la noche, otorga 45% de los votos al presidente y 42% al ultraderechista",
+          "_priority": "ALTA",
+          "title_en": "2026 Brazilian Elections, Live | Lula and Bolsonaro Vote in the First Round of the Presidential Election"
+        },
+        {
           "title": "Lista Unida gana las elecciones en Letonia y apunta a una coalición favorable a Ucrania",
           "link": "https://elpais.com/internacional/2026-10-03/el-partido-conservador-lista-unida-gana-las-generales-en-letonia-segun-los-sondeos.html",
-          "pubDate": "2026-10-04T09:38:25.000Z",
+          "pubDate": "2026-10-04T15:07:05.000Z",
           "snippet": "La formación del primer ministro, Andris Kulbergs, triplica los votos obtenidos en 2022",
           "_priority": "ALTA",
           "title_en": "United List Wins Elections in Latvia and Aims for a Pro-Ukraine Coalition"
         },
         {
-          "title": "Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales",
-          "link": "https://elpais.com/espana/catalunya/2026-10-04/la-alerta-por-el-temporal-sigue-y-los-rios-van-al-limite-no-bajar-la-guardia.html",
-          "pubDate": "2026-10-04T09:13:00.000Z",
-          "snippet": "Protección Civil manda otro Es-Alert por riesgo de desbordamiento del río Besòs mientras las lluvias se intensifican en Girona. “No bajar la guardia”, avisan",
+          "title": "La UE rechaza retirar a sus diplomáticos de Kiev tras las últimas amenazas de Putin",
+          "link": "https://elpais.com/internacional/2026-10-04/la-ue-rechaza-retirar-a-sus-diplomaticos-de-kiev-tras-las-ultimas-amenazas-de-putin.html",
+          "pubDate": "2026-10-04T10:49:41.000Z",
+          "snippet": "El Kremlin afirma que mantendrá su ofensiva sobre la capital e insta a la delegación comunitaria a abandonar Ucrania",
           "_priority": "ALTA",
-          "title_en": "Two Dead and One Missing in Catalonia Due to Torrential Rains"
+          "title_en": "The EU refuses to withdraw its diplomats from Kyiv following Putin's latest threats"
+        },
+        {
+          "title": "La OPEP+ mantiene sin cambios la producción de petróleo para noviembre",
+          "link": "https://elpais.com/economia/2026-10-04/la-opep-mantiene-sin-cambios-la-produccion-de-petroleo-para-noviembre.html",
+          "pubDate": "2026-10-04T12:11:47.000Z",
+          "snippet": "Arabia Saudí, Rusia y otros cinco productores prolongan por segundo mes la pausa en los aumentos de bombeo",
+          "_priority": "ALTA",
+          "title_en": "OPEC+ Leaves Oil Production Unchanged for November"
         },
         {
           "title": "La Policía empieza a desalojar el asentamiento de migrantes de la playa de El Trampolín de Ceuta",
           "link": "https://elpais.com/espana/2026-10-04/la-policia-empieza-a-desalojar-el-asentamiento-de-la-playa-de-el-trampolin-de-ceuta.html",
-          "pubDate": "2026-10-04T06:04:54.000Z",
-          "snippet": "Decenas de agentes participan en el dispositivo, que pretende desmantelar una parte del campamento. Interior ha enviado tres vehículos pesados a la ciudad autónoma ante a un operativo muy complicado",
+          "pubDate": "2026-10-04T11:32:22.000Z",
+          "snippet": "Más de 350 agentes participan en el dispositivo para desmantelar una parte del campamento. Los efectivos trasladan a las personas que estaban sobre la arena al paso de El Tarajal, donde muchos están retornando “voluntariamente”",
           "_priority": "ALTA",
-          "title_en": "Police Begin Evicting Migrants from the Settlement on El Trampolín Beach in Ceuta"
+          "title_en": "Police Begin Evicting the Migrant Settlement on El Trampolín Beach in Ceuta"
         },
         {
-          "title": "Una dana extiende los chubascos fuertes al centro y norte peninsular mientras continúa el azote a Cataluña",
-          "link": "https://elpais.com/el-tiempo/2026-10-04/continua-el-azote-del-temporal-de-lluvias-torrenciales-con-una-dana-y-un-pequeno-miniciclon-en-cataluna.html",
-          "pubDate": "2026-10-04T09:51:13.000Z",
-          "snippet": "Hay 10 comunidades bajo aviso, con Cataluña en rojo y Extremadura y Asturias en naranja",
+          "title": "La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales",
+          "link": "https://elpais.com/espana/2026-10-04/la-izquierda-alternativa-gana-tiempo-y-fija-para-el-17-de-octubre-el-lanzamiento-del-frente-amplio-y-su-lider-para-las-generales.html",
+          "pubDate": "2026-10-04T14:26:01.000Z",
+          "snippet": "IU, Comuns, Más Madrid y Movimiento Sumar deciden oficializar la candidatura haya o no adelanto electoral tras una reunión este domingo con sus ministros",
           "_priority": "ALTA",
-          "title_en": "A weather system is bringing heavy showers to central and northern Spain, while Catalonia continues to be battered by the storm"
-        },
-        {
-          "title": "Marc Márquez supera de nuevo a Jorge Martín en el GP de Japón: el Mundial está en un puño",
-          "link": "https://elpais.com/deportes/motociclismo/2026-10-04/marc-marquez-supera-de-nuevo-a-jorge-martin-en-el-gp-de-japon-el-mundial-esta-en-un-puno.html",
-          "pubDate": "2026-10-04T08:06:29.000Z",
-          "snippet": "El heptacampeón de Ducati firma una carrera perfecta en Motegi para situarse a dos puntos del líder de Aprilia en la clasificación del Mundial",
-          "_priority": "DEPORTES",
-          "title_en": "Marc Márquez beats Jorge Martín again at the Japanese Grand Prix: The World Championship is up for grabs"
-        },
-        {
-          "title": "Marc Márquez y Jorge Martín, un toma y daca diario por el título de MotoGP",
-          "link": "https://elpais.com/deportes/motociclismo/2026-10-03/marc-marquez-y-jorge-martin-un-toma-y-daca-diario-por-el-titulo-de-motogp.html",
-          "pubDate": "2026-10-04T06:11:45.000Z",
-          "snippet": "El vigente campeón se lleva la ‘sprint’ del GP de Japón por delante del líder del certamen, ‘poleman’ de récord en Motegi y tercero en la meta este sábado",
-          "_priority": "DEPORTES",
-          "title_en": "Marc Márquez and Jorge Martín: A Daily Back-and-Forth for the MotoGP Title"
+          "title_en": "The alternative left is buying time and has set October 17 as the date for the launch of the Frente Amplio and the announcement of its leader for the general election"
         }
       ]
     },
@@ -114,52 +114,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
-          "link": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
-          "pubDate": "2026-10-04T01:26:39.000Z",
-          "snippet": "Police confirm investigation into period the man reportedly spent in Australia before alleged attempted terrorist attack Get our breaking news email, free app or daily news podcast Australian security agencies have launched an investigation after it emerged that the flydubai co-p…",
-          "_priority": "ALTA",
-          "title_en": "Flydubai co-pilot’s time in Australia is being investigated by security agencies following an alleged cockpit attack"
-        },
-        {
           "title": "Brazil goes to polls in decisive election for future of Latin America",
           "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
-          "pubDate": "2026-10-04T08:53:01.000Z",
-          "snippet": "Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president Brazilians go to the polls on Sunday in the first round of a highly polarised and high-stakes presidential election that could change not only the direction of Latin A…",
+          "pubDate": "2026-10-04T13:52:33.000Z",
+          "snippet": "Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president Brazilians are going to the polls in the first round of a highly polarised and high-stakes presidential election that could change not only the direction of Latin Amer…",
           "_priority": "ALTA",
           "title_en": "Brazil heads to the polls in an election that will determine the future of Latin America"
         },
         {
-          "title": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
+          "title": "US marine arrested in Japan on suspicion of killing woman, police say",
+          "link": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+          "pubDate": "2026-10-04T13:46:19.000Z",
+          "snippet": "Suspect allegedly killed woman at hotel in Okinawa as prime minister calls crime ‘exceptionally brutal and vicious’ A US marine stationed on Japan’s southern island of Okinawa is accused of murdering a Japanese woman and has been arrested on suspicion of murder, police said on Su…",
+          "_priority": "ALTA",
+          "title_en": "U.S. Marine Arrested in Japan on Suspicion of Killing a Woman, Police Say"
+        },
+        {
+          "title": "Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support",
+          "link": "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
+          "pubDate": "2026-10-04T11:53:09.000Z",
+          "snippet": "Attack happened shortly after Friedrich Merz arrived in city, on unannounced visit intended to underline Germany’s backing Russia has struck another major bridge in Kyiv as the German chancellor, Friedrich Merz, arrived in the capital in a show of support for Ukraine. A Russian d…",
+          "_priority": "ALTA",
+          "title_en": "Russia strikes a bridge in Kyiv as the German chancellor visits Ukraine in a show of support"
+        },
+        {
+          "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
           "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
-          "pubDate": "2026-10-04T09:41:38.000Z",
-          "snippet": "German chancellor tours city with president Zelenskyy after Moscow strikes city’s North Bridge this morning amid his arrival My colleague Pjotr Sauer, the Guardian’s Russian affairs reporter in Kyiv this week, has described the onslaught of around-the-clock attacks we’re seeing o…",
+          "pubDate": "2026-10-04T14:35:31.000Z",
+          "snippet": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injured Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapon…",
           "_priority": "ALTA",
-          "title_en": "Friedrich Merz Begins Unannounced Visit to Kyiv as Russia Continues Strikes on Ukraine’s Capital – Europe Live"
+          "title_en": "French education minister says up to 500 schools will remain partially or fully closed on Monday following student protests – Europe live"
         },
         {
-          "title": "Polish activists launch abortion pill locker to bypass near-total ban",
-          "link": "https://www.theguardian.com/world/2026/oct/04/polish-activists-launch-abortion-pill-locker-to-bypass-near-total-ban",
-          "pubDate": "2026-10-04T05:00:20.000Z",
-          "snippet": "‘AbortOmat’ in Warsaw offers novel way to challenge country’s restrictions and allow women swift, anonymous access They call it the “world’s first parcel locker for abortion pills”. Polish campaigners have launched a new means of distribution as part of their ongoing effort to sk…",
+          "title": "Trump sets off on midterm blitz – are his trademark rallies a liability for Republicans?",
+          "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-midterm-rallies-campaign-republicans",
+          "pubDate": "2026-10-04T11:00:28.000Z",
+          "snippet": "Rallies have been mainstay of president’s brand but even some in his own party fear voters are sick of the sight of him “Get your asses in that car.” That was Donald Trump’s order, he later recalled, to his motorcade after foul weather grounded Air Force One in Texas on Thursday.…",
           "_priority": "ALTA",
-          "title_en": "Polish activists launch an abortion pill locker to circumvent the near-total ban"
+          "title_en": "Trump Kicks Off Midterm Blitz — Are His Signature Rallies a Liability for Republicans?"
         },
         {
-          "title": "Glasgow council workers face pay cuts in fire-and-rehire plan after union talks break down",
-          "link": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
-          "pubDate": "2026-10-04T09:13:29.000Z",
-          "snippet": "Unison refuses to ballot members on offer that would see thousands of council employees worse off Thousands of Glasgow council workers face being sacked and reappointed under less favourable terms in one of the UK’s biggest ever “fire-and-rehire” exercises, after union negotiatio…",
+          "title": "Green party votes to adopt policy that equates Zionism with racism",
+          "link": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+          "pubDate": "2026-10-04T14:15:31.000Z",
+          "snippet": "Motion that has alarmed some Jewish members is passed by 1,022 votes to 813 at party’s annual conference in Brighton UK politics live – latest updates The Greens have formally adopted a policy which equates Zionism with racism, a move that will dismay the bulk of the party’s MPs…",
           "_priority": "ALTA",
-          "title_en": "Glasgow council workers face pay cuts under a \"fire-and-rehire\" plan after union talks break down"
-        },
-        {
-          "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
-          "link": "https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires",
-          "pubDate": "2026-10-04T07:00:21.000Z",
-          "snippet": "FOI request shows wildfire risk scheme scrapped, as survey highlights many fire services lack proper protective gear The government quietly scrapped plans to prepare the countryside in England for wildfires, it has been revealed. This was despite new data showing fire crews do no…",
-          "_priority": "ALTA",
-          "title_en": "Revealed: Government Quietly Scrapped Plan to Prepare England for Wildfires"
+          "title_en": "Green Party Votes to Adopt Policy That Equates Zionism with Racism"
         }
       ]
     },
@@ -168,20 +168,20 @@
       "color": "mint",
       "items": [
         {
-          "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-          "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-          "pubDate": "2026-10-03T14:59:12.000Z",
-          "snippet": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.",
+          "title": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in 2026 Presidential Race",
+          "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-2026-president-race-lula-bolsonaro.html",
+          "pubDate": "2026-10-04T09:02:22.000Z",
+          "snippet": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a race that could define the future of Latin America.",
           "_priority": "ALTA",
-          "title_en": "How FlyDubai Passengers and Crew Averted a Disaster After a Pilot Was Stabbed During the Flight"
+          "title_en": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in the 2026 Presidential Race"
         },
         {
-          "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
-          "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html",
-          "pubDate": "2026-10-03T14:52:27.000Z",
-          "snippet": "The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.",
+          "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+          "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+          "pubDate": "2026-10-04T15:01:58.000Z",
+          "snippet": "The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.",
           "_priority": "ALTA",
-          "title_en": "FlyDubai Co-Pilot Used a Crash Axe in a 'Terrorist' Cockpit Attack, Emirates Says"
+          "title_en": "Israeli Authorities Blame Each Other for Failure to Flag FlyDubai Co-Pilot"
         },
         {
           "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
@@ -192,14 +192,6 @@
           "title_en": "Omani Co-Pilot on FlyDubai Flight Is Reported to Hold Extremist Views"
         },
         {
-          "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
-          "link": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
-          "pubDate": "2026-10-04T09:31:07.000Z",
-          "snippet": "The conflict is raising fears of a regional war in the Horn of Africa, drawing in foreign powers including Eritrea, Egypt, the United Arab Emirates and Saudi Arabia.",
-          "_priority": "ALTA",
-          "title_en": "What to Know About the Fighting Between Ethiopia and Rebels in Tigray"
-        },
-        {
           "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
           "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
           "pubDate": "2026-10-03T20:17:31.000Z",
@@ -208,12 +200,20 @@
           "title_en": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline"
         },
         {
-          "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
-          "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
-          "pubDate": "2026-10-04T08:38:42.000Z",
-          "snippet": "The matter threatened to revive tensions over the American military presence on the Japanese archipelago.",
+          "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+          "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+          "pubDate": "2026-10-04T14:46:27.000Z",
+          "snippet": "The announcement plunges the Middle East deeper into war, as the Iran-allied Houthis have scored a series of triumphs in Yemen on the battlefield since the conflict was reignited.",
           "_priority": "ALTA",
-          "title_en": "Japan Protests After a U.S. Marine Is Accused of Killing a Woman in Okinawa"
+          "title_en": "Houthis Claim Responsibility for Attack on Aramco as Yemen Conflict Escalates"
+        },
+        {
+          "title": "American High School Students Are Selling Guns Bound for Cartels",
+          "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+          "pubDate": "2026-10-03T18:40:49.000Z",
+          "snippet": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
+          "_priority": "ALTA",
+          "title_en": "American High School Students Are Selling Guns Destined for Cartels"
         }
       ]
     },
@@ -222,20 +222,20 @@
       "color": "green",
       "items": [
         {
-          "title": "Tennessee’s prisons chief resigns after failed Pike execution, governor says",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkVJY09zakhSb1hick1OWHpkemp5VVNWOXI1MW5FdlB0c2M4Tk5qTy1mYXVyNURfeEJBNXd0UWd3cFNlbW00RGZOLTJaSWJtUGxHcm5UM1R0VWlmT1dZMVktV3hhVjk3MlJFeDRDcVpUc3V3YlNLdUowYVlIaEVDVUcwRzJ6ZF9lWUd4bUR6dkJQeWVUVmhESGpYQkdQNHdLZWlKN0V0d3VfdEUzbmFXRG1hOFd5XzhzRWFYczlscGZES2s5?oc=5",
-          "pubDate": "2026-10-04T01:38:22.000Z",
+          "title": "Ex-congressman and Rubio ally gets 10 years for secret Venezuela lobbying",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE1VbzVvRjBITXM5ZkcyRF9oRm45UEl3UHFWMlc5MWI5cFhXNXVzTWFHN3VxVFFpUndyU2ZfajdoNFlDMUdYSU43dEdFYlp6dHlld3d3WXhuOEFPak1DdFlfd3RUZzFuUjl6SmJxYkpjTjFkNGhjNFFKRUU1bG1xWmJWMS1zNFM2T0xvUE5nSThBRmVaWHNZeTZXYlpGbFFfU0RZWFEzZzRyWkdORFFrX2M4RjJDU2JaN1JPTUxRQ2JjdGdL?oc=5",
+          "pubDate": "2026-10-03T02:38:58.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Tennessee’s Prisons Chief Resigns After Failed Pike Execution, Governor Says"
+          "title_en": "Former congressman and Rubio ally sentenced to 10 years for secret lobbying on behalf of Venezuela"
         },
         {
-          "title": "Trump heads back to Texas on Wednesday as GOP fights to keep state red",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1hNNXlpQTBFYV9GaEpEZ19GUEp4bHBFeDRIMkRCMkk0NHhUQTBXeWxnUXN1bUp3S3dBektuaFVfaVc2N0JOSXZlTGtaQ2tEZ21QUHFZR0J0U0VlblFkNWdsNGt2RTE5dWRQdm5Xc1JtTHNsNFFScDNzUzR0YkRBTVlLeXlZaTRkM3VCNkxJdWVCUEI2VXBQU2ZGLWJPSnFDRDZUa1ZPQXJRS2FjemU4?oc=5",
-          "pubDate": "2026-10-03T03:59:06.000Z",
+          "title": "Trump announces plan to send $90 payments to millions of seniors",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGI4dzdHV1dUV2RrSm5JTFc1VXM3T3RXdW1hbXJLS2RZX2U0MkZNcmlaT3F1c25YMS05TzdjZjFCQ19ORUVMbHl6bnNvM3ZnVVhsZDhhNncxaG9BOGpvWkliTHFmdWoySW03V0s3NEVhaWxrams0Y2hNa3pSSThmQXNka1BjYjd5NkRWeXVUZGNzY2FOYUNvX3VyRDRsTGZqbWhUVTJGMlExUQ?oc=5",
+          "pubDate": "2026-10-04T06:48:19.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump heads back to Texas on Wednesday as the GOP fights to keep the state red"
+          "title_en": "Trump Announces Plan to Send $90 Payments to Millions of Seniors"
         },
         {
           "title": "G-7 agrees to release oil reserves to reduce fuel prices after U.S. pressure",
@@ -246,12 +246,12 @@
           "title_en": "G-7 Agrees to Release Oil Reserves to Reduce Fuel Prices Following Pressure from the U.S."
         },
         {
-          "title": "The National Guard keeps appearing outside D.C. schools, stoking tensions",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS054bHpKMkduUVpNRE41ZDh2enl6c0I2REgteTYxeFUxYXBGclVhUWdBQkR6cUV1Q2g0V0tDdHh5OC14YmpvU3FWZ1hfS0lvWjl4RlVUTXpqNlNvQUtBdXQ3NjZ1bUJrd0dfbDNyZk9wUUNNalVpNUhzbVdSN3U0cHlCQjhsUHktS0VVV29TMjJOVDRKRWs0WUMwck9NN0N3d1hFN3hpVzR0a0Y0bm5lTHUwekZqZ1M1NWc?oc=5",
-          "pubDate": "2026-10-03T17:00:00.000Z",
+          "title": "Tennessee’s prisons chief resigns after failed Pike execution, governor says",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkVJY09zakhSb1hick1OWHpkemp5VVNWOXI1MW5FdlB0c2M4Tk5qTy1mYXVyNURfeEJBNXd0UWd3cFNlbW00RGZOLTJaSWJtUGxHcm5UM1R0VWlmT1dZMVktV3hhVjk3MlJFeDRDcVpUc3V3YlNLdUowYVlIaEVDVUcwRzJ6ZF9lWUd4bUR6dkJQeWVUVmhESGpYQkdQNHdLZWlKN0V0d3VfdEUzbmFXRG1hOFd5XzhzRWFYczlscGZES2s5?oc=5",
+          "pubDate": "2026-10-04T01:38:22.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The National Guard continues to appear outside schools in D.C., fueling tensions"
+          "title_en": "Tennessee’s Prisons Chief Resigns After Failed Pike Execution, Governor Says"
         },
         {
           "title": "A police search using Flock was a form of ‘mass surveillance,’ judge rules",
@@ -262,12 +262,12 @@
           "title_en": "A police search using Flock was a form of “mass surveillance,” a judge ruled"
         },
         {
-          "title": "Governor slams district attorney, Cornell police on handling of rape allegations",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbS1pcjRoNVB0SkdmbzVPMENhWjlBa0ZpY3JfbGN0UWliZ192N3NQaWdHWGFDa0VVMTB4R2dwSmZPbXZzenN2dE5XSlJGSkFCTzdaNXhsUjRsX1VmRkt2clBHZWFiV1VlVk9zT3RSZDZLN0Zuby1NM2NCMDUxYmt2SmdiMW9qYS1xblhlcGRQU0hoWV9tTzlIYTJpalc4TmNsRkhUMC1Zb0JyanRyY0hfUXkxdlNQWVdQbzRmSzBPMnZmTGFhdzd2cWxjQUNxZw?oc=5",
-          "pubDate": "2026-10-02T23:36:39.000Z",
+          "title": "Trump expected to name intelligence chief Jay Clayton as new AI czar",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5",
+          "pubDate": "2026-10-02T23:31:27.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Governor Criticizes District Attorney and Cornell Police for Their Handling of Rape Allegations"
+          "title_en": "Trump is expected to name intelligence chief Jay Clayton as the new AI czar"
         }
       ]
     },
@@ -276,12 +276,12 @@
       "color": "lilac",
       "items": [
         {
-          "title": "World in Brief: G7 to release oil reserves; Russia targets Kyiv’s bridges",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlB4VDNaRm1nOEZMWHh5TG5CSi1aVnVESEVvell3QlVjenpiT2ZPZzBSa0cxMDc3WldYSXA2Mk9IakFXLS00dXVoRjhpSlRybXN3ZnJMZTBIRWNjOVdsUDVJYU9IVEdZUTdjMHJycThEQmt3VU1sU3BnWUtzSnpWVVIxQWtFOGt4RE1fRXBISVF2X3EtNFVJ?oc=5",
-          "pubDate": "2026-10-03T16:35:58.000Z",
+          "title": "Brazil’s unpopularity contest",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUhhUjV4anZHWUtRTDk2cm9neFotdW9qTGpEbDdMYm1ReUYtMlBNWTBUNms1SU1uRy1JN1paSERHVEJUVmlubkNxa0RiVG1JeUhoako0Q3FQbWZrSS1EMk8wZ002MjlvZkp4LUNhQnFmbzlGYXBESWdjb1NMUU1BaXc1dDBwQWV0WjkwdmFjTG1KYmhCYm5B?oc=5",
+          "pubDate": "2026-10-04T00:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "World in Brief: G7 to Release Oil Reserves; Russia Targets Kyiv’s Bridges"
+          "title_en": "Brazil's Unpopularity Contest"
         },
         {
           "title": "Schoolyard protests are setting France ablaze",
@@ -300,6 +300,14 @@
           "title_en": "America's grim record of failed executions"
         },
         {
+          "title": "Coffer stop: AI may shrink tax base",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVd6Y3FfR1BaQzFkUkw2bzY5UzhvVko5ZzNlVmhDaHo2bjJWbDJjb21VaE1Dam45U2pMU05uMXpRRmRCV0VUVGRfakxWeldHbjhiU1dteFVydldhcTQ4NkczRmpMYzNrR2x0NEV4M3FiSXQ1TVU1TkVoelRrRkVqUmY5emx2cjQ?oc=5",
+          "pubDate": "2026-10-02T10:27:50.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Coffer Stop: AI May Shrink the Tax Base"
+        },
+        {
           "title": "What Brazil must do to kick the corruption habit",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkN0WlIwcmxBTW9lTzh1ZjI0eDRaT1AtOE9qb0FabWxIRGdWSUNHQ3BiOHpqM0E1cnR2M2RkN1pGUG5JOWZwajIxXzNySlVTeGVwTjQycEtxY194UmIwR1E0cm84Mmk5TjNzRVlCUVdYSm40Q0ZWTEhvcGZBVHdhenZ5cFVHNFFiTUg2cUd2YUVkTElZUGh1QTgyUENKT2tq?oc=5",
           "pubDate": "2026-10-02T09:24:30.000Z",
@@ -314,14 +322,6 @@
       "color": "peach",
       "items": [
         {
-          "title": "exigen la verdad jurídica del 68 este 2 de octubre",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnRPVDF2RGpaUU82OEl2ZW4zZ09IcFAwSlBrN1kwNWhkdmxxMkNoMjZIQWtPOGtYejM3MVpKMngzem5ic0hDTHU1bUpOVWpSZUc5VTYwRzEyYkpEcDhiOXJBRm1xQnNxRXRQZEd0YW9vdmtBcHNQSzlKZFY5RWc2Tmw3Ulh5MVhMVEZLOVJtTXoyUEJ4MUJXYjNnTUNXdjE5dGtzYTktVjJzT095VUpRelBzMnFaYVRXaWNpam96MVdZUdIB1gFBVV95cUxOUUsxS2dQdldMcThwRkZxRkx0ZG9pM2lPeF9VeHdRRXRpdUtrNXZRMHhPWHVoaWdxc3FQMDhCZ0xDRHdiRlgzZ19leURHZnY3OWdrZUd0ZEVQUnVIWWpfdG9TdHdFSmd3ZWNEcDBLYWFFR21PVU9iVDFoMDhGNE81Nk01OEhSMFNpRXU1ZHRmeTFHNGVqZGtFUG9UcU1VY19TYVRLRGdkY2R2UFc5QkxlLU16VkF6NmlGTVBTZkN6QVJTTUw1djk5em4ySEk2eFJjWlhLdFdn?oc=5",
-          "pubDate": "2026-10-03T09:33:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "They are demanding the legal truth about 1968 this October 2"
-        },
-        {
           "title": "México participa en Tercera Reunión de sherpas del G20; intercambian perspectivas en economía y seguridad",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXBKTzlXalNpUHlZcDh6MUYyRFhuOFJ1cGhpX1VaYVhIZXl2OEN0LU13dlpmRWxzdWtrakllVHBkSmd5bklabXBWUDJQZ2k1TVdnUlpJUndocmtWWGcxNm02MUF3TUJIaktYdF9SMDlLbU82VVE5Nk1EYnR4aU5aYlY2RWRfMUxwV2dCUG5VbW5VQUdvVWdXTHlhdkotVDg4RVp2eEZ4bFlad0JXNzdjT0hOU2FYMG0wWFRvc2RxcFNCZWhZUmo0czhNSTF3Zy0wQjM4SHJaU1NRUlnSAe8BQVVfeXFMTTUwbzZlTHdPVEl2MEhqZzE3Tk1hRXFCSzVqTy02TjBnQ0FmaEJYUVhLSkJEZUlRNUlOak92WVp5bDJCQ1RwTUtaWlMxR2hzTFFNUHd3Y3cxS0ZKb1lNdTVkR2RPQUVXU3laTXZuUTd5c05SSmQzRi1NLWl5aE5XSkRmUDRqc0VuTWxaOVlCb2R5Sk1LMFJJZWJNb25pOUgzZHdNMkdVcWE5R0taZ24tT2w4X0JCNlZOX0FaNE40bk0zYzZEc1padWtNd3BYV0FWbEtRd3J2ZkVsNnhWRzdReS0wUHJ6TzBpdW1sM1hqSTA?oc=5",
           "pubDate": "2026-10-03T04:05:12.000Z",
@@ -330,20 +330,44 @@
           "title_en": "Mexico Participates in the Third G20 Sherpa Meeting; Participants Exchange Views on the Economy and Security"
         },
         {
+          "title": "Vinculan a proceso a sujeto acusado de entrar a robar una casa en Álvaro Obregón",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY2UwdGhDTm85SDhYWGtIUWxZMlZaMmFBSTM0WFdjRHVhMjNRQVg5dHFOT09sMUc3TW5hWTZwQXA0bkhJX1lHQlBBbHBHRFJXNlZNRzRZeEpEa0ZKUWQwV2dfN0RMaXBWRkhpbzhnYTJrTy1USmQ3bUFwZXczaGtWaGQwTW5MTkZZdzM3QXAyeElpa3hNV2R3d0gyMjY1RDItTXZ0YW9kUDR4QjlHb2lDQzloa0VYYVNETVJyb2kzX1lxX2Y5RDRjX1dJSTRIZ0t0U0pUczJHUHlRTXh4XzJSWVNhNjJJd9IB-gFBVV95cUxOWlZxeVZmSGE5OV93YVpYaWFMLXlqbkhCVDJCSGhoU0FDcWxzbFRCbkFIVXhXM3Mwc0RaUzl1eDBsazlfdlRMMmgzRG9keHJ1T0pYNERzaE1odncyRnY3M0NvRy1wdEx4S1V3YVV1eENiRkc2OU53V1JCdmgyOGEyRlJYUnRjbjNwU1lEZkkzZjRFY2VaWGRzQU5CNXJuZ2tHRDdpZ2t2UU9tT3BJOTVUR2xaakZSZEV4ajIyV1ctLTNXNXo5UTJjV19PcVdmSmlaR1d0aWdGMVpzbEpkWGZBRWRpbmwxWVkwSERONlpzbUtrcm53MzEtUjRn?oc=5",
+          "pubDate": "2026-10-03T20:50:09.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Man Accused of Breaking into a Home in Álvaro Obregón Is Charged"
+        },
+        {
+          "title": "exigen la verdad jurídica del 68 este 2 de octubre",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnRPVDF2RGpaUU82OEl2ZW4zZ09IcFAwSlBrN1kwNWhkdmxxMkNoMjZIQWtPOGtYejM3MVpKMngzem5ic0hDTHU1bUpOVWpSZUc5VTYwRzEyYkpEcDhiOXJBRm1xQnNxRXRQZEd0YW9vdmtBcHNQSzlKZFY5RWc2Tmw3Ulh5MVhMVEZLOVJtTXoyUEJ4MUJXYjNnTUNXdjE5dGtzYTktVjJzT095VUpRelBzMnFaYVRXaWNpam96MVdZUdIB1gFBVV95cUxOUUsxS2dQdldMcThwRkZxRkx0ZG9pM2lPeF9VeHdRRXRpdUtrNXZRMHhPWHVoaWdxc3FQMDhCZ0xDRHdiRlgzZ19leURHZnY3OWdrZUd0ZEVQUnVIWWpfdG9TdHdFSmd3ZWNEcDBLYWFFR21PVU9iVDFoMDhGNE81Nk01OEhSMFNpRXU1ZHRmeTFHNGVqZGtFUG9UcU1VY19TYVRLRGdkY2R2UFc5QkxlLU16VkF6NmlGTVBTZkN6QVJTTUw1djk5em4ySEk2eFJjWlhLdFdn?oc=5",
+          "pubDate": "2026-10-03T09:33:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "They are demanding the legal truth about 1968 this October 2"
+        },
+        {
+          "title": "Accidente en carretera Teapa-Villahermosa deja 2 universitarios muertos y 5 heridos",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSDZrVmpCeDBWWGQzQWhjVXZlNEJEa0FXOGg2Z0ttY2ZmSkhoRmhUSWU5b00xUnhpczM5N3U3QUZHM0haVEdJVTVGQ2szRHBfYUpTNUQyMXJVY1pNU1lzNnZsNG1nX00wNUxYOXZLUG51RGR4M01yTzItVGl3M055T3kzTC05TWtEcFpIREFxcmJRYTBPQXljUDVvNl9pNkQ0VEJXQzJZTFZqMUgzX3ZXN2w5djYwNzR4UU9OSDl4QU51V3JJMVlyTFpvdU1tWXBYbDhIbDc4MWZFdEItYmdsNFJickV2VDh1bGYyRC1HOVM1ZDVydXdpWkZEYkZDRWlqejJEZncyZzQtd9IBngJBVV95cUxPN2ZKNFlfQTZ6dFBiUFUtRFNjM1p1VXZsczNKTnFVTG04SVVVZk82LWxScFBZTmtQN3RWcHpBTVNfWkp5dW1qSTJXVzZ1aWpyUzNTT3dkUUs0OVJKUTlYLW9fcldIZkNKNm9IckxJbENMSEU3dDFJeHJReHNFbG8tWFpSZjM5V3hNNy1MX1hZVHJ4a2xxNEFVb1FKRmlSMlF0RU03Q0RwTWRNd1FwLTA3Q19PN0w2Z3JDcFQxbGExZFk4b1d0VFRpMjdOQ3hqejA0YXZQQzVvQ2pqbzM1dlBlWW1hZ05NZk5SSnpfQ2otaDRFNmM5WXZ5eWp5bW9ZS1R0eUNPMkEtY1o5bEdGUWZCUkFaUXJnLUVEMHNuVmpB?oc=5",
+          "pubDate": "2026-10-03T03:45:57.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Accident on the Teapa-Villahermosa Highway Leaves 2 College Students Dead and 5 Injured"
+        },
+        {
+          "title": "En marcha del 2 de octubre, estudiantes de la UAEM exigen justicia para sus compañeros asesinados",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdGRRVmRXWS1WZ0U4cTBoRl9XZmhWX2FRRHhHTUJyU3cxU2NjdXA3aWdXMFRKUVdLbXI0NEJEbWpxaFNVN3VHYzFJcUhER3ZUOHNYVHBJTVRBemNLb0R2NUNXYVRvTllLQUduaWF4cFlNWkZRZHRWakxKVGNfc2ozQ05JajFqbWZyLUZaamthQm5SNE9wbFV5YURYcHYxT0RUeVpMZlRqem1sT2pvdEFtMWhMUllPb3NLVjlONVZtQ1NPX1pmU2l0ZzB4NDJJa284MTV6QjBUTzEydHMxTUpHNW80UWtKeXUtU2RxSXVIT1ExMzQtOWpmTFY2eFgxNm5KNEZJY1FEZzDSAZwCQVVfeXFMUG4xbmhoa3FTaUVVNGdROUM3c2N1ek95MjR2VllGcjhtbExDaGwxVm9lQlV4WjBFRHRIX3duQlp0VWVUUlBqdlVhZ1d3eUJwNnZYWTJuXzlDU2laT3BDWFo5d0NCYk0ya19Jb25XLV9BODdEVHBMaTJqSnEtSGtPWUFfUGl2ZTVoZ2g0Z2liTEZsaXNUdXc3MjFHLTJ1Vnl1OS1VRVVUR1dFek12MC1XTmZnbUVCQVNoaHZhel9EMFVob280bjhZNkxrSDgxVzJHUUdNcjE5WEhHN3ZUM3Q1YXNoMzIzRGhJRmhaWjhkREg1NDdObG5zQk5kME5yajlZUkRPVnFjMlFoelZ4MDIwRjFCS0tWU0NZRHRESmI?oc=5",
+          "pubDate": "2026-10-03T00:48:11.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "At a march on October 2, UAEM students demand justice for their murdered classmates"
+        },
+        {
           "title": "Selección Mexicana: El Tri es humillado por Estados Unidos en el Clásico de Concacaf y Rafa Márquez sigue sin conocer la victoria",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNalpMOF9LWUk0WWVZenVvNnhsaTZieGhmZXhrNWxBd08xdy1LUVczUGVQcnRUYmdyMy1jbkRmTHdQNTlTcW13TDg1QUVlaVFqS2lqck5GdDFHYXB4TlRHTFlmamJxLWJXcE5oZzNfYXNYbTlOcWw4WTZJTWtRZW8zZ1BTUkk3ZXlSZlRLTEEtdHpQUHc1LTF1SWFxTktGZmNaVHQ4MGtIZzloU2I3a2tEYUhwVUEzYUN1OUtPbTd6UVByYWp6a3gxVG9VZy1GUWl5anVoYmN5ZXVyTHNIaGV0ak9R0gH2AUFVX3lxTE5YQktucDhoMWxhejRFeU0wWVJvTXRjd3E2YW85T3AzVzYyTkdRc29oOHJ0cW52bXAyaHo2enpFcG9pMXcwVS11X1p2Y1FPRWlhSVFsM3RqQnpXNnQ1Rk81bjJLUmpwa0l4OW8yeWtqMTdULTBfeVRwX0h4SF9KQm1IS21vMk9lcEJ1bjMxOUJ6RTRLNHlJX2hkZEV1ZXVtbHVfMGowdUxycTd6LWhxQTJhdUdVWFlsd1BGamM4RlkxZDlDNmo0OW9yZ3VkRGowR0lnSzQydzhBU281SU9Ud3ZCSzZQZDQwRFJ5Wjh4eWJONWZXdE1qQQ?oc=5",
           "pubDate": "2026-10-04T04:29:00.000Z",
           "snippet": null,
           "_priority": "DEPORTES",
           "title_en": "Mexican National Team: El Tri Is Humiliated by the United States in the CONCACAF Classic, and Rafa Márquez Still Has Yet to Taste Victory"
-        },
-        {
-          "title": "MLB: Así se disputarán las Series Divisionales; destaca el duelo Brewers vs Padres",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2Z5VXhtc2xTNUhVQ1d6RVpNdlNZbllQVFRHUzZoMjNtWkxNeGd4MXFHTDFDUHFfVEdndzBCRmVOLXpjN0dGNmpqMjJuR0FJcWR0bHZKTDBaR0pGMzFNQXVwSmN3a2xJS2hzSTRHeWdCR0c5ZUV2QWJBSjZGdGRGVElsQmFBbFJreHAydGZwTXZtVDhWQUdCb3NJdTRybFFwcFNWUjh3cE1vQnVIQTUtOE1qeG5fdFM0dWd5V0tR0gHSAUFVX3lxTFBiaEVsdkZFRmJEbEZKMVhaejV1Vmp6TWZCUFU3cTVUSE9FTUNHUW9uYnRMaUZlRC1VeHIxMUxlSzdYcnJTUmVzb2RDOGpvRGRfcHMtQlpXR2UtMUd2UFFfYTZqVnd6Qy01Z0llLTBab2NKUXhNME1NZ0hfbXYxOW5xME5MQVpNYzhZbkVUT1ZvVXpia1gzQzVCMHltc09BV2JOcVVQTUhkeXc0ZTczV01KLWFaR1pLN05PWjgyWllFUGp6WWQtTS10NHJyd0I5a2hkUQ?oc=5",
-          "pubDate": "2026-10-03T04:02:40.000Z",
-          "snippet": null,
-          "_priority": "DEPORTES",
-          "title_en": "MLB: Here's How the Division Series Will Be Played; The Brewers vs. Padres Matchup Stands Out"
         }
       ]
     },
@@ -352,20 +376,20 @@
       "color": "blue",
       "items": [
         {
+          "title": "El Diario, Edición Semanal: Experto advierte que la detención migratoria no debe convertirse en castigo",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ3lWZkNzc3BiUnktanFOV1pyalN2Y2tYQU41S2FuZUpLM0hWYXhZU0ZudnpHa1RxVVBZZEw2UUl1TF9mNlowLWhtVkpNZHNqRFZhRElLYlZKQmlHT0dvSVR5Y24tRk54NUlqbFVXQ2NBcEN3U0ViTnJ5dnV0eXZPazRVQmMxY3ZiemlibmF5SUxXbEZFWmx5cjZwR3hoTnF3eWJ1ZU1ybHBVT0wwWE55a2tsYUNFc0RxdFFuV3hOQ2ctem1xYjhCZTBQYVA4VTFpNEY2ZGV1am94MDNIYW1KMi130gHnAUFVX3lxTFBQOHJBRnMxQWpneHRtLTdkYmtudklhMllOakV2UFF2UXVlWDhIeDJkbzd1MDlIMUFSVmN2eFA1UERnVjBzNmNrMWhmcVAwQlJXdWt3dzRfVWNQRlV1Tk9zeVNqeFpyVkVQYmlxUktyM0NXRG9mS210LUZRdWo0eUMzZkNvSnBNcTdnT3I1eHNGVU91T0Ytc3FNaVRIRUlibW93YlNPS3dxM2VWU2NfdkNEV0UtWGdCeU9UcURPMXBFRzU1bkgzanFxVGxPUnB3R1NlQnJSTVRDZUZHYWdndVEtemp0Q1BiSQ?oc=5",
+          "pubDate": "2026-10-02T22:46:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "El Diario, Weekly Edition: Expert Warns That Immigration Detention Should Not Become a Form of Punishment"
+        },
+        {
           "title": "El G7 acuerda liberar 100 millones de barriles de petróleo de reservas europeas",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejNHRkR0R2hqbmJVc1Bta1h2Yl9rNm1LZHJZbFZxNi1Xd0ZNOEcyLWVDd0xkd2JVa1lpUWQwNWZ6cTdVUjFKOF9xWEI3S3ZBTjhqYkc3aThoeHYzOWJ3M1doUUNudEE4ak50MnB1UHRfTndneG8wSGd0d0Mzd2stQ0N3NHgtNGxPZEk3QnFGaFRsMkRxRlR3aUNub3E5LXpRczE5RGVCRVJMWExHRVhieHg0eG80cllMcFl0TFFkUdIBxAFBVV95cUxQQlJQZldEYS1aa1RBVkRncklYUGR4dEFVcHpHSG1xdTNEZkRVMkoxam0zQWZoUGNfVEx1dXRFc0JuRUxzM3Q1QmhfaW8yNUVDQUxQb21vRnJVbXdibnFnemRwaTc0MHdMZDltY3llWm1ySWJyT0ZMQVMzSU5GZ0k3ZnpNYzJRWVBHWGwxOVlNV1Q0a2kxLXBndV9CdVZMOWc0d001LXFXWl9XZGxYZU1yaVV0QURUcTJNMENNVzFsSE1ONjR3?oc=5",
           "pubDate": "2026-10-02T17:27:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "The G7 agrees to release 100 million barrels of oil from European reserves"
-        },
-        {
-          "title": "Desempleo en EEUU se mantiene casi sin variación en septiembre",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGxKVE54eW8teHF3VmZnQjR6N2tTU3lVODg2ek9CSWZOMGV2OC1QNzFRcEJFcGpocGFUcDkzSGtYY2tLQkk1VVJJWDdaQmdQZ1U5N1JfU2VSSGx1Tjl0S1d3dkFkOGtaSkZyYmxCWnhZbzFBVWtNcjFMZXZJbTNEYzhwRGxwa2dDLVZEM09YSnFOcHpoWXFiMGZlYzN3RGVJZUt5OE40WdIBrAFBVV95cUxQQXQ3Y204VHZZREtxUnNQeER2UktDYm0yTGtONjBUbUN2cF93WDJwMHBDeHNZZnZWZXlzM0FzQzhLdm0wMDRZSDdlOWdwZXJoZzBfVkdnM1NIcU1xOXFUZHVvOC0zZkpoVUxXZVJJLWJYcl82SW93NDhERzNDb3FMSTczQXR2VG1CQUNBbnpqMEo2S1hpNWdFTDl3UnVkeGp4T1d6OFpUaDZORW8x?oc=5",
-          "pubDate": "2026-10-02T16:29:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "U.S. Unemployment Remains Virtually Unchanged in September"
         },
         {
           "title": "Florida demanda a Pfizer por presuntos engaños sobre vacuna COVID-19",
@@ -384,20 +408,20 @@
           "title_en": "Trump on immigration: \"We have to do what the moment calls for\""
         },
         {
-          "title": "Benjamin Netanyahu apunta a un adoctrinamiento \"islamista radical\" del copiloto implicado en incidente del vuelo a Israel",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYjVYUzV6WUhEY0ktak0tRTFEVWRvMld0VFZZMWRQdUg1SndUWk5YZ21XWjZIQndZZUtxblUzeWV2ck1oTDY1UExzUEx6ZlpwamJGX3ZOZUtXWktvUy04bTZHS2w5NnNKVEZtQ3B1d3NtVllCNm9lSi1LRkxHNXJBMDA0NFN1UzE1bHBfMGJYcHVTVWZSdjMzRzdFSFRndldHWTFPWmdrTGN6MERucmJtZUlQdTZZZjRfdmRjTDBlUUc2MDVuWUQ0ZkVoOHdCQ0tiWjRvWk4zeWROeUsyeFFZcml2TXFqNlVVOU9Wa1ZFVFViemR1LTBUaNIB-AFBVV95cUxQYjVYUzV6WUhEY0ktak0tRTFEVWRvMld0VFZZMWRQdUg1SndUWk5YZ21XWjZIQndZZUtxblUzeWV2ck1oTDY1UExzUEx6ZlpwamJGX3ZOZUtXWktvUy04bTZHS2w5NnNKVEZtQ3B1d3NtVllCNm9lSi1LRkxHNXJBMDA0NFN1UzE1bHBfMGJYcHVTVWZSdjMzRzdFSFRndldHWTFPWmdrTGN6MERucmJtZUlQdTZZZjRfdmRjTDBlUUc2MDVuWUQ0ZkVoOHdCQ0tiWjRvWk4zeWROeUsyeFFZcml2TXFqNlVVOU9Wa1ZFVFViemR1LTBUaA?oc=5",
-          "pubDate": "2026-10-01T21:26:33.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Benjamin Netanyahu points to \"radical Islamist\" indoctrination of the co-pilot involved in the incident on the flight to Israel"
-        },
-        {
           "title": "Régimen cubano condena a Anna Bensi y su madre a dos años de limitación de libertad",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVpwOGFRbU1zMm1nX2swT1ZyZjh3elk4OVVidjlyZ0duODdyWFJvc0QtbE1EWF9UMWtwYTNidDNKd2xpVUhaVlVxdFpUXzQ5V0c4QW5JS3ZucXlMWXN3a1V2SndHU1NuNzhJbmljUmJFejRiTHZFR0dzRk0yRGNqTlZUWjB4eDJTcDBjQm9MTVRsbFNnaWtXQno3Q0NlaDdYTDhhV0tqeEJ5UjdyVkJzYlBkcURTVjDSAbwBQVVfeXFMUFVQZ1JvYjQzT250U25obDE3WmpOQXg0VENKTjJfc0FXNXBOajF3UzRRR19uVG81V25sY1QwVkFUd1V1SWRCemZiZzJ2bVFzMG5TMU1nTHEybVlydFdWdWZjaV8xVjgyc0lWYjJLZHp1UFNYRElkZDFaQjF3d29BZ0QxcnpHMWppZXI3X1FTQkJKeXJxYTV2WWhtbHVQNWE5QldNMDA4c290RGZaZTBWX3lLWFZyUDltdzMxOU0?oc=5",
           "pubDate": "2026-10-01T19:52:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Cuban regime sentences Anna Bensi and her mother to two years of restricted freedom"
+        },
+        {
+          "title": "Trump define: Recuperación económica debe anteceder a transición política y elecciones en Venezuela",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUFNfekFLNktKX01MSnA3cC1zbEw0R2VvcnR1Y1lQeThUdjFnX3V2TUtlRWxKbE9Pa2dYYThjNmRIQ0hIaXBlQ1gxZXB5OHZUY2wwVmNxcEpRNXhFY3dDSlRlQUt6VmdiMDRGbm5fbnFEM0Q1aFBLVXpxcndBRXY5VEtxZV9lNFZHWDFRQTNOWUxvaWxPQnhCT0RodGVqOW1Eb2xjU1ZLX1JqeGRCMkRzTm5rbHRpelVmcFhMOGdXODI4VnVVQWF3M3FlakR4aG5rMC0yOWpsVjVTV2JoREVTS2NncFRiZ9IB6wFBVV95cUxQekI5NUxUNWNSMTdnUEQ1YWdRQU5QQ0FLcC00RF9DS0NzbEFicGJkQWFmRmYySU5uNklpZnVXbF8wZkxtY2FSaFV0d0VrS0NQWXBHSUxGa0VZRTNkcWdwYlplaFZ5dXN1bF9zaG1Qc0h6WkMxeVlZYkhISUVUQzc3NVdGS2NfNjFNMVZ5cVJ6WjdiTHVNbDJObXZLTGVBRTlnZW5FaWViRGF2blJRdWFUOEpqb2ZNcTJUQ0dMVVFoUWNNeDBDdTZaUWZSbVczUGlMSEQ2d2NfUFlnWG1BckFGNGZ4cms0MFFTdFZv?oc=5",
+          "pubDate": "2026-10-01T18:55:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump States: Economic Recovery Must Precede Political Transition and Elections in Venezuela"
         }
       ]
     }
