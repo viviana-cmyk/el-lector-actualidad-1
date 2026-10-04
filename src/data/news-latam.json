@@ -1,55 +1,38 @@
 {
-  "generatedAt": "2026-10-03T14:36:01.358Z",
+  "generatedAt": "2026-10-04T10:01:42.072Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
-      "items": [
-        {
-          "title": "PT dice que rivales distorsionan declaración de Lula sobre 'tocamiento' de mujeres y llama de 'acción del Gabinete del Odio Bolsonarista'",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2U3bWNzMFJFNDl3bjg4c0xOcHlHM3BkVDNkOEZsdWhlQ1hWOHZ4RDdGX19hcFlUOTlJVnhsLWZZSS1xTGtOb2tGMmVDckdnZ2ZjdmlJYlVnd2xUV05xVVhDdENMTXdJRUNfZ1o5TlkwX1FjQmM2OFlmdW9WbUhtOWlBZS1zcGdQUWtUcV9WaVJvM2lRbUo1T2JIUnd6aFpReHVfSEJMSdIBtgFBVV95cUxQMEs0Y3NxcjRrYk04eG9SX2NQaU41ejNXcmJqcHBDUUFNTUNsc0FPUUg1cjBDX2xnRzIyTG1PVGU3U2tINkp1Mm9tZTN3T3BiZ2xPVFJndjFCc0VOYllLTlBBcHFiQ1czal80ajJMeXdnX0NULW8xS2VZdFBiclBRNXZqUVVHakp1aGRpbGxfSGd0R3RjeTNZUEF6Z1BZTUx0WkZlM2MwLW9lOTNMLWF6ZGZQMGlLUQ?oc=5",
-          "pubDate": "2026-09-29T23:47:34.000Z",
-          "snippet": null,
-          "title_en": "PT diz que rivais deturpam fala de Lula sobre 'toque' em mulheres e chama de 'ação do Gabinete do Ódio Bolsonarista'",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Presidente Lula, candidato a la reelección por el PT, cumple agenda en Belém",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTENUaDkzenJaSEJXTlc2MFZudXRmNmVMeUVDdkRJUmxoR1N5em9heFhqY1RwU1VVSUNjQjhaT0FHRy1KdDFDSGdkUHJ2WnNPU1VSdi1rQW1hOElCeGZ0Z25GTnZ3V1pwVUFodlptckFRSnJzbDFQZXBQckJNYWhYRnpGcTF5ZkNQeVREbUNMZmp6RFRoT1FrU2xVOWtRdWFydV8zaGdPMDN1eTIwVzZTaWxCNnNYVWZyRFdvMUdraGdkazBZRmFhRUxB0gHYAUFVX3lxTFBKV1pmdXJNVkVEOUhHOEUtWHdMSFJmdTlBN1BZODQ2N1Nkb3pLSlFfQ2xqMXhfLWpCcmVHU1pVNHBtb1M5VHllMFltZ09CM2pMMGpYeF9QQ3NLT040ZzJLaFlTaVdGZFJMNk5YLS1EMlphRFJzbVB3ZFVLWXhQV29ObDlaTUdmbS1vOXFwUzVxVUU0cVlfWlJkTjhIR2FzUVFIYVNOdVNhNWVqQ0FNZlgzWVlMZnl3TkR1eHVsZ1FjOEctQkZVbzhZRU1WeFYzb0tjWUJSbW81Sg?oc=5",
-          "pubDate": "2026-09-29T01:15:11.000Z",
-          "snippet": null,
-          "title_en": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Belém",
-          "_priority": "ALTA"
-        }
-      ]
+      "items": []
     },
     {
       "name": "La Nación (Argentina)",
       "color": "sky",
       "items": [
         {
-          "title": "La reforma laboral de Milei no seduce todavía a los creadores de empleo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUpDX0pTNE9OVVgtOTZwanVZNnJ6blBnNjgwT1NTV29yaEZYVzJMRWpldUVzUDljaThVejJsd3B1VVlxNklKaF9GRXpmRThFbElFSERsZVRGY0VUYnZhTjVSTUx3eE9DZ2k4Z3ZlaXBuYTlBZ0R5Ym1INXB4cFNkdmZxeXFMaF92b1hYczFmTUoxY08wMmJIdHl5d3VWV1Y4MGJGRkNFZ0dMV015bnNyRVFWYUZXbW1HYkhmOHhB?oc=5",
-          "pubDate": "2026-10-03T05:46:00.000Z",
+          "title": "Después de diez meses, aún no se definió quién debe investigar la causa sobre la quinta de Pilar",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3E1N28zb1B6VHFmZU9PT3JSTlNPQWRRdGw0T25LN2l0MU01LVp3dUtoTDVRQ3d4MzdoT1N0YkRIX19icHlYTi1EcWt5cHVhYVlWdTRxN1VnM3ROb0doLTNiV2VIRC16bWNld3Vjb1dBMEpyVlROOTRwTkZIb2tPNFZPaUc0ckJ2b2gzU3oxb0VsNDNGemlrejlONVVfeFhtcExfaU40Y2poSzBfMjNDaTlHdkE2SEpjMWRPZE1tV01vSmJVUm1sOHZ5QnV6dExmTnBSTUhMUjFhaWcxOWc?oc=5",
+          "pubDate": "2026-10-03T23:07:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Milei's labor reform has yet to win over job creators"
+          "title_en": "After ten months, it has still not been determined who should investigate the case involving Pilar's country estate"
         },
         {
-          "title": "Milei o nadie, la fórmula del mercado",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWThhZGhuaHpEUWdSWGdHNlloQWUxeVVkb3NVLU0zaFg2QUgwTFBTT011djhBeEQxc3FzNEszeXU4MkZkazJvOXhUQkF1MXZvR1AxYjBYTlpyR1lIczBpc09GLWdRS2pvWG8wanc3NWQ5T1dvRXdLdGttcjFMXzl5OW5md0NKXzUtWE9CQU5n?oc=5",
-          "pubDate": "2026-10-03T03:08:00.000Z",
+          "title": "“No hay magia”: la receta de Israel para pasar de la hiperinflación y la recesión a potencia tecnológica",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT210WkVTek1nWE9TU1lJd2NMR1k1U3lBMXdVOV9wMkFfejctVU8yZWp3akU4QlhNRjVnUUdGS1A5Rl93VXljbGx2RkVQUjB2XzhXeEZGOG94Q1d2M0QwdWpoeUpkOWhQd3VpdUdQOUdxR1hRWlgyNm9pVVZKTWJ6cWlKcTBFYTJsR2tuZnVYMzNHcVk1c1hDMmxhN1dhTDZPdGQ3NXY3b0h0UUh5ZTRudU1oNnRfZllFMnYycGREc2FLQnI4MHREcXNYeHdpcEs1X0N4bGJ3?oc=5",
+          "pubDate": "2026-10-03T19:01:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Milei or No One: The Market's Formula"
+          "title_en": "“There’s No Magic”: Israel’s Recipe for Moving from Hyperinflation and Recession to Becoming a Tech Powerhouse"
         },
         {
-          "title": "Votantes dispersos en busca del candidato que no existe",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEVnQkdEMkhXeXFya3c3aUlpU1dyVlhyM2lfcjZnYXcycFlUMF9uQUxIcE9abXQyYzIyMTVCZUUzVmZRUDZVdHdwWHg3Z29fT3pJWWhzQVBzYW00ZG42TGxhQjVYb2V5RVZGQTJFMmRZaUlCWGZyVlQzcy1IZFNaZDBzTl9RVG5BdGRfUm5EcW1HSVkyU3VVV1Q5dHlMWmw2WUJabQ?oc=5",
-          "pubDate": "2026-10-03T03:08:00.000Z",
+          "title": "Identifican al agresor del vuelo de Flydubai y Emiratos Árabes ‌confirma que fue un ataque terrorista",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkJDaGJNYWNuc0VSdktkbWRtN0EyX19MQU81ZXBGNk10dXNqZnVDbFVpdThEMmI1M0FmalpWYlduWW1ZUTdBbEV4Z0FaSXVrOVYwYXhwRGJ0UmxlZjg5cXk0WUlHZXdBdHlhR1V6VUhPVlJTaGplR2Y5Y3VfRWdFRTFuS0JJbGNvaW04ZVNvU0VqS2JQYXQ3UUxzbXMzUnREbUlnUDdPTVRPb0xXc1FSZnRMeDFKT3YxdE5UYXZlSjBMUzVHOVplYjNkUW1lLXBQdUhjWTl2RXB1QVpxN3FxUmpBOUk?oc=5",
+          "pubDate": "2026-10-03T17:59:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Scattered voters in search of a candidate who doesn't exist"
+          "title_en": "The perpetrator of the attack on the Flydubai flight has been identified, and the United Arab Emirates confirms that it was a terrorist attack"
         }
       ]
     },
@@ -58,28 +41,28 @@
       "color": "rose",
       "items": [
         {
-          "title": "exigen la verdad jurídica del 68 este 2 de octubre",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnRPVDF2RGpaUU82OEl2ZW4zZ09IcFAwSlBrN1kwNWhkdmxxMkNoMjZIQWtPOGtYejM3MVpKMngzem5ic0hDTHU1bUpOVWpSZUc5VTYwRzEyYkpEcDhiOXJBRm1xQnNxRXRQZEd0YW9vdmtBcHNQSzlKZFY5RWc2Tmw3Ulh5MVhMVEZLOVJtTXoyUEJ4MUJXYjNnTUNXdjE5dGtzYTktVjJzT095VUpRelBzMnFaYVRXaWNpam96MVdZUdIB1gFBVV95cUxOUUsxS2dQdldMcThwRkZxRkx0ZG9pM2lPeF9VeHdRRXRpdUtrNXZRMHhPWHVoaWdxc3FQMDhCZ0xDRHdiRlgzZ19leURHZnY3OWdrZUd0ZEVQUnVIWWpfdG9TdHdFSmd3ZWNEcDBLYWFFR21PVU9iVDFoMDhGNE81Nk01OEhSMFNpRXU1ZHRmeTFHNGVqZGtFUG9UcU1VY19TYVRLRGdkY2R2UFc5QkxlLU16VkF6NmlGTVBTZkN6QVJTTUw1djk5em4ySEk2eFJjWlhLdFdn?oc=5",
-          "pubDate": "2026-10-03T09:33:00.000Z",
+          "title": "Selección Mexicana: El Tri es humillado por Estados Unidos en el Clásico de Concacaf y Rafa Márquez sigue sin conocer la victoria",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNalpMOF9LWUk0WWVZenVvNnhsaTZieGhmZXhrNWxBd08xdy1LUVczUGVQcnRUYmdyMy1jbkRmTHdQNTlTcW13TDg1QUVlaVFqS2lqck5GdDFHYXB4TlRHTFlmamJxLWJXcE5oZzNfYXNYbTlOcWw4WTZJTWtRZW8zZ1BTUkk3ZXlSZlRLTEEtdHpQUHc1LTF1SWFxTktGZmNaVHQ4MGtIZzloU2I3a2tEYUhwVUEzYUN1OUtPbTd6UVByYWp6a3gxVG9VZy1GUWl5anVoYmN5ZXVyTHNIaGV0ak9R0gH2AUFVX3lxTE5YQktucDhoMWxhejRFeU0wWVJvTXRjd3E2YW85T3AzVzYyTkdRc29oOHJ0cW52bXAyaHo2enpFcG9pMXcwVS11X1p2Y1FPRWlhSVFsM3RqQnpXNnQ1Rk81bjJLUmpwa0l4OW8yeWtqMTdULTBfeVRwX0h4SF9KQm1IS21vMk9lcEJ1bjMxOUJ6RTRLNHlJX2hkZEV1ZXVtbHVfMGowdUxycTd6LWhxQTJhdUdVWFlsd1BGamM4RlkxZDlDNmo0OW9yZ3VkRGowR0lnSzQydzhBU281SU9Ud3ZCSzZQZDQwRFJ5Wjh4eWJONWZXdE1qQQ?oc=5",
+          "pubDate": "2026-10-04T04:29:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "They are demanding the legal truth about 1968 this October 2"
+          "_priority": "DEPORTES",
+          "title_en": "Mexican National Team: El Tri Is Humiliated by the United States in the CONCACAF Classic, and Rafa Márquez Still Has Yet to Taste Victory"
         },
         {
-          "title": "México participa en Tercera Reunión de sherpas del G20; intercambian perspectivas en economía y seguridad",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXBKTzlXalNpUHlZcDh6MUYyRFhuOFJ1cGhpX1VaYVhIZXl2OEN0LU13dlpmRWxzdWtrakllVHBkSmd5bklabXBWUDJQZ2k1TVdnUlpJUndocmtWWGcxNm02MUF3TUJIaktYdF9SMDlLbU82VVE5Nk1EYnR4aU5aYlY2RWRfMUxwV2dCUG5VbW5VQUdvVWdXTHlhdkotVDg4RVp2eEZ4bFlad0JXNzdjT0hOU2FYMG0wWFRvc2RxcFNCZWhZUmo0czhNSTF3Zy0wQjM4SHJaU1NRUlnSAe8BQVVfeXFMTTUwbzZlTHdPVEl2MEhqZzE3Tk1hRXFCSzVqTy02TjBnQ0FmaEJYUVhLSkJEZUlRNUlOak92WVp5bDJCQ1RwTUtaWlMxR2hzTFFNUHd3Y3cxS0ZKb1lNdTVkR2RPQUVXU3laTXZuUTd5c05SSmQzRi1NLWl5aE5XSkRmUDRqc0VuTWxaOVlCb2R5Sk1LMFJJZWJNb25pOUgzZHdNMkdVcWE5R0taZ24tT2w4X0JCNlZOX0FaNE40bk0zYzZEc1padWtNd3BYV0FWbEtRd3J2ZkVsNnhWRzdReS0wUHJ6TzBpdW1sM1hqSTA?oc=5",
-          "pubDate": "2026-10-03T04:05:12.000Z",
+          "title": "Este sería el 11 titular de la Selección Mexicana para enfrentar HOY a Estados Unidos",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGdBTE10UFp1VmFZZzhlTTJ4MkFLVE1nbklHSGJXdEliUEFyZDlXSy1FMzVkdUJIZTdvX3EtMmg0WHpmX19lWHZqV2dFMHhTcExmLUxBU0hCaU02aWdHcUNENE1uQ3YwSkZjNFNuYjA4cVdac2hZN0hhdFREWDAtS1EyVU1sdTAyUDVCZWMyZHRtV3M1OWtVSU5ObjJKRzRxd0RNYW1YdzVUaXhIbmpCcEhmSmJIQzA0MGRXSDJ4bG5JYk1h0gHYAUFVX3lxTFBwdExEX09yaUZaRXVWZ0hqcmdCTDc0NTVfUW5qWW1jUXl0anhwVG5IcjQ4aTA1Umk1OUdjZXhQOUpCeXpROVNkMnBZYzkzVXlhbHp5dVdJOVJCbElyY1Fjb0xrWU9qZ3lNdnlRNjBSTkRfVWsxc3V4TW9ZZDJFcERDM1F6WkpidnEyTFNkT2g0eE00eGRFWk9sU0dfM2tyUjZ2RlNqWmFydzhDWFZ5SXhYS25pblJic3RyRnpQTUVEejJmTHdmdjVOS203YWlDZTFkTzZGSnI5UA?oc=5",
+          "pubDate": "2026-10-03T20:46:58.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Mexico Participates in the Third G20 Sherpa Meeting; Participants Exchange Views on the Economy and Security"
+          "_priority": "DEPORTES",
+          "title_en": "This would be the Mexican National Team's starting 11 for TODAY'S match against the United States"
         },
         {
-          "title": "Argentina propone “pasaporte dorado” para extranjeros adinerados; busca aumentar el ingreso de dólares",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVlozdFhYWnFMZ0xiU2hNemd5dnRXeGlaY3FVNnhQT0ZFaDdtTWxHVEhaY1RYU3hiTDdKT1BwbFppeVVocmxrcTFlX01OMzB0T1VVNDRXRkFWOTdKN2ZFSEFETm5Ra1dPVUJFMEdDeC1wMV82WEs3QU02R2pQYnB0MWxNT3hRekpzZXVTbFJCVDhRd1ZaeGs1V3pycXRub01ibVZnTUtVamxiR3czUkJuVWNuU2RDM0JodEJTYk1mVUhFb1ZPenVURVlKOUNwREowR1BN?oc=5",
-          "pubDate": "2026-10-02T20:34:00.000Z",
+          "title": "MLB: Horario y dónde ver EN VIVO los partidos de Playoffs de las Ligas Mayores, HOY 3 de octubre",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHNibDk4bVVOREY2OFFCdUF1aVdoVHRpRFYxSTJrc1ZOSW9QVWpMbG5GdE1XZThqcVZrTUQ3eWdzVXVPdkluRXJQSzJiTVZiWTZ0azdqVExMQWtjTUhQdmtnUXFpS2RGa19vbmpMeEtrSU1ybkJ6VXVvMmFfOTladGk2QzNrZ3p4ZEtqeTFrdEN6Z201dU9YQW5HRUd0V3Izbnk3Z0ZENWxvQ3FKeC1BY2pMMHhjZVJTR3A3cUNtb1BXbzZvZlVHWXNwUdIB3wFBVV95cUxQbTU2NFRSamhTTlJ1U29MV211bmNaaS1VWTFEMklRQWw3elZUbzhIbm42R242Vkh3amh4UEJyZVh5TFFjWkNQWXdMVld4SmlVWmJwNV9nVkZucHV5R3Q4ZlU5aU1yeldwQWszdy1DMEpnZ01tQlBCdTRKeGRTd3VEM2tGY2djaHlsaUlnR25XcFRfOEZIU2VUNXNtSXV2cHlXdlBhRUxReWpKV3BVVTZiYWdMSWdSTWZPQnU3SmRQaWREQVlhNkswTkw2R3hTWURwSVJxMmJrZUxkazZVY19n?oc=5",
+          "pubDate": "2026-10-03T16:08:02.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Argentina Proposes a “Golden Passport” for Wealthy Foreigners; Seeks to Increase Dollar Inflows"
+          "_priority": "DEPORTES",
+          "title_en": "MLB: Schedule and Where to Watch Major League Baseball Playoff Games LIVE, TODAY, October 3"
         }
       ]
     },
@@ -88,27 +71,28 @@
       "color": "peach",
       "items": [
         {
-          "title": "Delegación de facultades: Los alcances de lo aprobado por la Comisión de Constitución",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZGxld1k2RXZLWlA1X1M4QkppcHFZa3o4ZTlMc0NLMXZ3VWR2YnowalR5NzlEZzNsOEZQUmZOM2RvdzNvNjF3c1QzUDJfdWJybF9tQ2p6NUN4NVRER2pWLWRqazY2RHl4cTl3ejJqX3lJMFdldlRTcGROSlpEcXJMaGpyQnp6NGM2MkhuU2tBdUQzaElFbk1paVhQcDZudlRqRllxQU91alNLZExWYjVyZ29TNVhPc3Z5eWJSWDUzTm5RZS1UZ3E2RnhOWnIxTnhzMV9ncGQyOWJYRi1neFgtRVFTZlBqM3h3TnpIb29uMXBNZ2FxRVNGV2VUS0xLWWdXdHRwejQ2c9IBmwJBVV95cUxPcEZkUklBMEtodHVOSThmams0U0gtZzk2dWk0eUJpQ0pJY2M1UGFBd09FbmlRb0UtYW5VVnN3a1RyeV9DZ1BHS2d6X1BxSjJhY0pyTVNlWlB0Z1FxWnFxSGNpa2NBUXdCeGtpNWxnQkZFdnRTNjNSZ2MwajdzNUV5MkpqaklPcW12WUF3ME5IR2VlQmxCZkMzeVAtbWRPMTFjcTA2SkNscW9Wb3JwV1BkY05DVTlDUThxNGFJM21wN3dvcFJFRVVDYldkd0ZhdWh0d09pOHE0eHdkY2UxY2V2dUV5TVphY09mSWhXUkc0UDRmU0pzb08xUncwWFNHd2lMV0xxUzFTWENLX2o5cENkNjN1a0l6S1paUGQw?oc=5",
-          "pubDate": "2026-10-02T19:42:10.000Z",
+          "title": "Delegación de facultades: ¿qué hará Fuerza Popular tras la aprobación del dictamen con solo 2 materias?",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNC1sejNDUFZKeTBSSEs4aTV2TFhqeWZDNjRkeDkwajd0dTVqc29VakVVcHNxYXRjcUNJUVFTVnEyU0lPNDVBWndNWFViendtWTNYVlcyOFIwYzFUdlhLMC1qWXBWRTZLaDlFZHJ2ZzROcHE5NjBJSDVEcFJ2TkZmVU1GTU04Vk1HNUZJUUt4Z2lwX25HSjhwSEJqTDZTLXNCdm5adnZjSm90QXoyTWwxandFa0pvbC04M3JxNmI1WndidVBidjh1TktjNjRqXzl4cTExWGZQNNIB6wFBVV95cUxPdnNrVXZ3cDkwN2kyRFFsSmJpcHpBNGJIX05IWU9Pa3dMV3l5M1RoSDVONWZpMHZsYWl1Y2c4cWRaZTBKWi1mNE1SNUJGam9sYVRuMFJ3dGlsR2ZnY192UHdnejBrNUJmRWxteWwtdGdIX3M0ZEItaTZCbm93SXJlYklqUmhjb2txb1VCNWtKMkg0NHV3NHpYX2VMX1cwS2RyNWdyRkJiNDBLLWx3R0hfZXRtdGVpWTJCQWRLakJ1X3g3bl9UYTk5UmdNZGpPalAycHFtYUxCampVaHZTUmdUMHluSld2Q1NXTm9B?oc=5",
+          "pubDate": "2026-10-03T21:50:56.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Delegation of Powers: The Scope of What Was Approved by the Constitutional Commission"
+          "title_en": "Delegation of Powers: What Will Fuerza Popular Do Following the Approval of the Report Covering Only Two Issues?"
         },
         {
-          "title": "Diferencias y movidas en la oposición debilitan ahora la moción de interpelación al ministro de Educación",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWDM3LWdwN1RxVUk1R2FEODhYUWxSeWZVQ3RHS1l5eFlZSXVBeFpQaUFxVmNDZnNqWjRVdG9YTUJKNFowZEtBeFBrUUEzUzBQQ1NPZDIwSmo5MEJkREhTYm5LbHdwN09BNVpRbTBrWEE3N0dkWXRvUHh0clQxSjFjNWIxaUY1dDhKTkU2RlFOMHVYMzJKY0p1ejI4NU9xNU5udGtZNWI5SU43blIxX1dpZXlvRVpENmo4YmNV0gHPAUFVX3lxTE9pcUNzcXRLNWVtQkdGRHJhYWpQMGlnQmxoUXIyanZLaHVUUkZMekJnOGhtU25ZdUVrN1g3MHVGSjRHQ25XTjZyMGE3aUlyZllzcUhMeHlOU3lrYU54RmZwQndNVktjNGd3S3JLcm0zRlNhV2tzekJVWXRBUWI4VEZuTlFacEYyY2VsZXItUUxSOWpXNWpzd2JtQ1NseXFJdUdvR3ExdHpmMWdJSHU4eVFVTFM3dzZoV2w3aGw1b0lsYzdCQkRERVNiN01ZRWlZaw?oc=5",
-          "pubDate": "2026-10-02T18:37:44.000Z",
+          "title": "Ante cuestionamientos de El Comercio, el Mininter asegura que Programa de Recompensas está “en reestructuración”",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQlF4OGtJeFhOQ2I1dnpzZ1NWSzRsNURtVTljM3JFX1RwVThRbmlCamFYX08xSmttU0VReFprMlo3WW9jVGpVUGQ4Yi1FbG5mcVZDSTFJTFJFSnMzemROMmZZN2kzRXQxSk5WTUtCY3dJV2t5aGpwdkpoSHVxcU50NjZUT3NwU04zWmZBa0hsZGI1OVpZSjJaVWcxRDFzcnpMS280cWNYUkNpeGtvU2tEck5CT3R5ek9KNC14LU03emtqczFkZnFzNkFTSEdhcmY2OXVoTFR0cGpScFBFMWdXM0xfRkYzQQ?oc=5",
+          "pubDate": "2026-10-03T19:32:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Disagreements and turmoil within the opposition are now weakening the motion to question the education minister"
+          "title_en": "In response to questions from El Comercio, the Ministry of the Interior states that the Rewards Program is “undergoing restructuring”"
         },
         {
-          "title": "“Encontramos 3 jugadores”: quiénes son los elegidos, qué convenció tan rápido a Mano y los que vienen detrás en el titánico reto del recambio bicolor",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOYXd6ZFkwTmJZTVdFeEdSWGZEWXZ3UmFYbEdWRFNSd09NUXV0Y243cncwRG9WZ3E1QTRhMkxYc1U3NWZmS0NVaS1mZElERHdfYklvLWs4NlZPanlWdERpV1N2MF9nS1FqWkIyVjRrQmxUaW1NRmttSllZWWE4N25LSkRoNXduUHppZDZ5S1JWMmRYcDdEbjFvRDhuU1hROXZhQlNtc1ZmV19teDA0N05VUTNBbG9zS2hlVGFITWhaLUFRd3RaQVZSRENGLXZxNXhIcUUyUmc4VzFFcW5RbnNHZzlndGJaV2RnV3lQS0NUMFhsZFBzanljcmdwWHc5aV9McnF0OXoxYU5PTFpMTDJOMkE5OS1TR1pjOUN5Rk44V0JiZ1NiZnFkRmIxd3NuZXZMc3NBWUx6Q1M0LVp3MVJlYUdxWEVvMF80c0daNXh6OFZkeUFZYWlF?oc=5",
-          "pubDate": "2026-10-03T11:59:38.000Z",
+          "title": "Elecciones Regionales y Municipales 2026: Más de 10 mil candidatos no tienen domicilio legal en la jurisdicción donde postulan",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNLVI4SURXM1dsdGFZeXZxcDBoVnltV0dKMXdlVzJUQ2kwek15S3R2Ti1BWHViYjRfZGFTd3BjaVlvQW5QQWVFaW9lZnBVc2Z5UEpJbzYtYnktY3NES2JYdElibi1hbktzSW9uVHg5TUtxNFNtWTUtdUxaaHdCam0ybDJxNURfYmZ4ZGJ4all1b3N2bGtYbV9hLXZVTmF4NDRBX1ZCYS1WU3VyemcyOG5qSm84ZlVKQjBMNzd1N3huaUhZNjUtOERrd1ZIbFhkaVc5amlCcmNYT0d0SXNaNWt3dF9MQ1JMVG5CNEdhTkRFX0lpNnFqN2FDYzhDemNtdEdUelY3N1k5Unp4R1VaUGVidjdjZGFmMmVVeU5oZmZnT01fTnVESHM3MDgxOUdkbm8?oc=5",
+          "pubDate": "2026-10-03T19:29:00.000Z",
           "snippet": null,
-          "title_en": "“We found three players”: Who are the chosen ones, what convinced Mano so quickly, and who’s next in line for the titanic challenge of rebuilding the national team?"
+          "_priority": "ALTA",
+          "title_en": "2026 Regional and Municipal Elections: More than 10,000 candidates do not have a legal address in the jurisdiction where they are running for office"
         }
       ]
     },
@@ -117,28 +101,28 @@
       "color": "blue",
       "items": [
         {
-          "title": "FA fustiga al gobierno por fin de Yo Elijo Mi PC, eventuales despidos docentes y advierte inquietud por otros posibles recortes",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOG9iM0lXZ0lsR3pHb1VBTnJxWU5XTlBwTnZDeHByaGMzenp6T1hidVBUTlI4LXkwODM1S3o4MWJreWw3THlHcmVtZUNYTF9wR0ZlZHZTRlVrd0pwa0lQU3Z3WXh5RlEtaWJiY1J5Um9WbUpfWTItRklfZzdCS29LOGI0Q0hFZnFXVmpCVHI2TjlzWG5qcTBCUXh2OHMxWExPbXBDVTQ0NlFJSElKWHFxYmYwOXlDay1vcGNCWmFtcW5Dc0ZQOEZPRkQzVnY2S3luQ0NqT1ZWcml3RHl4SWc5ck5PNENJSkV0cXNqaTV5NlBVMzFELVVaZ1l5ZlgyVzTSAaACQVVfeXFMUDJnUmRhWks2WUtMOUtXeVQyakpOdHczV2d6UnVmanViRzA2cU1aZzF0RmRiQUh5U1U3ZFlvN09ydmJRWWlhakltTHhUcnNRRzVEUGMxTTZNTTBxWktHNWh3N2xPYmxraWF6U1J2QUcwR2ZEelRDZXJ4YjJPczNUbkR6N1kxZzhRU2tNcEMxdmU0ZVMzYVpTNndpb1ktLUlKcThNSWtmVnpZRGNJNzlyRy1MSzFfMENoNm5BWmFnaHl3aUlQQUQtWG1Lb25qLTRtLUJCWG5HaG4yNEcxcHplbGdCa1FRRnk5TFpPaHJSWjQ3emNkQUYzR1RSTEJ3NFltZ09jeWs2UEFrdVExV25DUnNxQ0g0dTlNcHpvaXNzcF96?oc=5",
-          "pubDate": "2026-10-02T20:06:32.000Z",
+          "title": "Matthei arremete contra el Gobierno por el fin del programa Yo Elijo Mi PC: “Sabía que esto iba a suceder”",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa2lyd21SdEZhQWNabjRzOHVtM3dkeG1DQWs5X0sxdjlkWlpOR2N4WnpJaWRWTWJGTnhmZ1ZDYmZWSTBGTUcxM3V3Q29OSHR5MDhkNHJkYzQzNkFpWWlXVVYzMGhBNTlBdFdTSzBSV2RWVWhwakFITmgxVGk4UTgtdENFajdrcnB6OTRhbFB1RXVzQTgwYVdvMFBwaHQ3ZHBIUldnTVUzdUFPTGJhcEVEYzhJYjlMQVZCNU9veEdmN01GNnVWQmpnRGk5NHVNelpJMDVnNFRGWTljZXIwcnk4UdIBggJBVV95cUxNOXNKRzZDMFJ2MUNGV20xelJhaWI1eDRycGlVTE9vSFJOVzBiNHlqWnNXSkJCZEdWcjliM2lnSV9nREozYy1TNTZ6ejRza0lCaWlqQ1FsczVHVVdQZTZhaWJkYmY2QnlWV3ZJNTJsam1ZbS16QW9PVEFybWVOWUNiNnVmbzZGRmc5OGtuVGYzMnk2MHM1VzVMSlo1Yll1cU04S3dpS2VyV0pkNDUzeG1XOUtpeF9IRThzYzZTc0ZBQnV0aGU4WTBIc1k1QWx4c042ZF9EbER1aXZmZFJWS3o4WWVzQXY5RC1PMnFva2x0amVwbzlMVkdBdjZKdTR1NjljU0E?oc=5",
+          "pubDate": "2026-10-03T19:42:26.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "FA Criticizes the Government for Ending the \"Yo Elijo Mi PC\" Program and Potential Teacher Layoffs, and Expresses Concern Over Other Possible Cuts"
+          "title_en": "Matthei lashes out at the government over the end of the “Yo Elijo Mi PC” program: “I knew this was going to happen”"
         },
         {
-          "title": "Christa Pike permanece inconsciente y conectada a un ventilador tras fallido intento de ejecución en Tennessee",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOUI0V282cDk0cVVaVlBsRjJ6ekZndHFkVzZqQWtiYl85Sm5rMklDMG1IaVZYWGlMNnJ4R0ppQUdVYmVYR0dEaDc2WlFqTXd3c2RtN0VBbHhuVklaQk90UE1abFloNVFKSkJfN3Y0TmtUOGtQZW9OXzhzT0RKMUNFamlERHk4U0RGeEpsLW0tMnpBd090V0hnYmpoS0dWZF9SSTd2MFF6SF9pMFVKd29oWnotd2FWSzVrQThKYTlYSzdtdkhEb3NMTjA5N1lMOVphVGdHXzhrMjRUSnFPVmlOWlhaS3RiUdIBhwJBVV95cUxNOE4zS0xEU2w5UjhKRjlmR3I2ZjhINmZCd053TFI0Sk9kZmt1YnYxeHcwZEotLVVPR1N1TW5JVVZlYWZuVFV0YnItWUZqX0xjaHNoT1dMbWRGYkVFVll6eGszS1V1VFI1OVRlYW5Ya1FvWnNFOXNPanVmeWxWQTdoSEFLYWZta09qdkpPaVJ5WUltWlBxRk1HazJFYWZMOTZrR1F0emRDNWkzTklhT2hqd1EtVURBT3gtUU1QemgzNmVaT3IwLUhuRTYyM044M0Zsb3B0eXE4LUU2U1dJWUpTcGY3aGVaT2lGRDVpUjAxZlQ3ay05V3JlT3Raa2NHS0dhdVY3cUdvUQ?oc=5",
-          "pubDate": "2026-10-02T19:48:09.000Z",
+          "title": "A fondo con Joaquín Niemann: “Ser accionista del LIV no sé si es algo que quiero tomar en esta época de mi carrera”",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTldWY045LWhYR3BYOFo5SjFoa0VWTklyay1pN0FuTGI2dml6dmk5b1NtS1JJdlJlNlVzaWFVc3dnN2Q2Smd2ekdmU0p2YkU2bnNqeDRsX2t0aHhIWlBHM25VQko2aEJsT1kyQ2c0TldFWmRpR0phLVFKandfY0d1Qnp6QUVPMkFtX2Z3dnIySWpyMUtCTFFfNkFlRXdkdU5fa2ZFcWFpejhFd0xnLUVXbklMdG5VUmpURjltYzJ2MF8tTEwybnJlZGZCaGN2QlU2ZW9hTDZfV0VMVUhBM3lhWndqaHhPVXI4Y3I5RWY0WEJad9IBkwJBVV95cUxPZzlSOUJUSDY5VW5MNzROMFhCN3VBeTJ4R3JHZDQ3Yng3c0YyVEw1azVpbnpZelBBRFBoY0lxejdOaXZxMGR3LWU1a01mMnFtTXNSY0hzVjhqVnhXQ1RBWFA2dFpoTWFLRTJ0S19xaDQ2d05lYU9DMjgzX0FjbUlsZXNZNV82aEo1blI4ZjZhcUUxTjdqMXJqeHNjMmgwejlzMWZFY2ZFcmE3TDY3eXJIdzBta2pTWmlSMGlUa0FVeGJUT0Q5VFpyRmJUUXFvaWhaVHVPVGdZTWFjcElzYW44ZGl5WkdDVDNPUkh6SWdSdlJoZGhoRjR5aThZWTZlbVhzak5Hb3phWkJTdGZPR0RWMWNSYw?oc=5",
+          "pubDate": "2026-10-03T23:56:33.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Christa Pike remains unconscious and on a ventilator following a failed execution attempt in Tennessee"
+          "_priority": "DEPORTES",
+          "title_en": "An In-Depth Look at Joaquín Niemann: “I’m not sure if becoming a shareholder in the LIV is something I want to do at this stage of my career”"
         },
         {
-          "title": "Bancada PS critica fin de Yo Elijo mi PC y anuncia que buscará revertir decisión en el Congreso",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelJGNmhscHdaYXhmNW95c214MGNZeHdwWDN4M01fWEZFY2NyNjB3bS1vS1R3V1NEZ1pmTjBrM1JlTDhkM1N1UDcybWttYjlOOVFKX0g0alNlZk1qbjBJVTRacGRvOWxnTHJOSzAxMjFzWmk0QzFWRTBndWotczlTZHdHNi1QRlcyZmhnSnk5S1RWSWZFLTI1dmdEbHBNSndTWW1DXzFuRWtxR2Z2a0hWbm12RjN0WGZYaF9jdngyUGtzQW5XZ3pQbDNvYVVrVm9HVzdoTkxB0gH3AUFVX3lxTE42aDRyM0xXTHRKTGdVaDJVS3JhdnpxOEJoV0toSi1pMmJQVjE3U00wLVpSbm9zMnVycHdwbnR3TklHckttUzdrMy01eUVrMEV0c19Ccmgzb0dqU0tURVczSTNwbWpaVDJDQVQ5UlJuVXdkLTdxNF84bmpucXFiN2h2ZVhDYnkyRmR3M1Y1Sm81Wm1DMERPUGdrRVpzeV9GSWNEdkRpZmFQUGFPczBBcll2OEFya1dMRzd4OE5vYTllbFBRRXNUbGItMFl6YmhON3k5Qm9qb1JHbFRPc3lqNEFaVXVmeXVZOWNuXzNTVWZrd0tjOUtnWTQ?oc=5",
-          "pubDate": "2026-10-02T16:58:48.000Z",
+          "title": "Cobreloa celebra en la agonía y aprovecha la caída de Wanderers para estirar su ventaja en el Ascenso",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW1EbG9FQkFBVkRoaTBIbTJ4UWprZjhweGsyNXotYlpzdTN3ckdPSEllamtOYXpWRDh3WVJyZkEzQnNCZjA1bER3UmZ5b1NxVnJjanlpaG1ZLTNKdDlGdVgwTHNRWjd5OGRhYldHRVlGeVFIZkQ0dU9jcjVOUWRhU1VmVXhsQXh0dlU3aGxCZXdhUFFCa3diN3VxM3ZSWmJuSURCNFQ1WGx3RENrSExZWmY3X0tORE96MFZBa1pIdDJRVjE3bEZ4cXhmU2dQQWc0cTdCc3JkSnVLNGlMODk2d0FRY9IBhAJBVV95cUxQV1JNMkVncm9HeUljSmlkU3dEbnE3MTk4NTl0dktOVm0wdi1EblNkWkNienducVhpNHU1dkM2aGY1M3FlRWhKd0ZGTDNvTWlXUzJnclRhSkNBdElaSDZpZWhhd3V5STFEXzlBZWxVM3RCaXBtTVViN1dLaDhlRFdQUGk4XzZSSlJKcGl4S19KYTNQNVpJdUFIQ1JLWklEV3lmd3h1TnpDQWpMNDA4UFZCWV9NRTgxODVvZWN3ZGY3c19EalhHVTRILXVETEU1cTFWcDJIa0NLUW9Ob3A2YnpReFpHTWZCMzVIbG1HOE1iNHVFdFgxeFI1X3ZJZ1BlMTZYX0dWag?oc=5",
+          "pubDate": "2026-10-03T23:44:12.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The PS caucus criticizes the end of the \"Yo Elijo mi PC\" program and announces that it will seek to overturn the decision in Congress"
+          "_priority": "DEPORTES",
+          "title_en": "Cobreloa Celebrates in the Final Moments and Takes Advantage of Wanderers' Loss to Extend Its Lead in the Ascenso"
         }
       ]
     },
@@ -147,28 +131,28 @@
       "color": "yellow",
       "items": [
         {
-          "title": "La seguridad no puede depender de medidas excepcionales",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclJMS25IQy1fTWtJUDA1eENEb3ZjanpUMUtfYVYyS0RzNnZNM19seEhpci1ZNUZKWnRQZmVsemhraWJ5b3Etc2Zhb0xUZ3JHdF9faVdWZ3plYnNnb2U0STRBZ0w4NkF5a1pEakxOZXl1dVk5enhBazFMbkl1bmhCQXhHY1dmOXgtYl9WMk96QmdwUnE3U2pKbGI1bw?oc=5",
-          "pubDate": "2026-10-03T05:15:00.000Z",
+          "title": "Policía libera a cuatro personas y detiene a 15 en operativos contra extorsiones y secuestros",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcU1Ta3B4THpYbFVMY1dHUEktQzBnM2x6YnRFVzBEU2FlRDNaOC1DU1pRWDE4ZHR2TW9XN2kteTZiVHBnb094WDMxeTZCUkpMU1lkbjFkS1ZZc0gzOW0zV2VwQlZ3OWw4YXdmM0cyYU5CaDRBVmRuMjhkUjM0dGZoZHM0NTNuT3I3cFo4UDhPRTN0RjdtRmpjQklHQjhGZi1zcDNYdUhJemJ0OG1ZX2JvMXRIZzYzanU0aDZBSGpCdWlpX0pQWGZzWmx3?oc=5",
+          "pubDate": "2026-10-03T23:02:08.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Security cannot depend on exceptional measures"
+          "title_en": "Police Free Four People and Arrest 15 in Operations Against Extortion and Kidnapping"
         },
         {
-          "title": "¿La IA nos va a aniquilar?",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3JsT2lJQm41d1p4M0F1dHhMZFI2VXpUYW9Wek85NklsdFpUN3ZVNnl2SldEX1A4ZzQtMHowaXZYWGV6Vk5XdGkzOTNMeFNBOEhYX21OWXFiaUFqX2RGVnhEa3RTdWJzZUFyNDJFWW5GNkhKRFk4eWNlV1VBU3VrSDBiY3lRNEJjazZFaUpoR2JSeENybUJidFM2RElwQQ?oc=5",
-          "pubDate": "2026-10-03T05:05:00.000Z",
+          "title": "Petroecuador prevé reanudar el bombeo del SOTE en seis días tras incendio en Baeza",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUVrN2YxLWRvVTlyY1ZBQTVaejhyV19vRmh2WUZwcVFmdDFLOHNWdUxKVENKRDFfVUVxR3l5SkgwTGtRZ1RkQVF2dGpIZUpaLWNscXIyX0lDWDNlMk0yWnNHcHBPeDd5cVNjT3BoeDN4WDdtaURTME9jVV8yVl9ESU5BbUtCTlFmSS1fWjk0ZDNlR0pyLXR4ZDl3UXlRWllMTW5uWmN0blhrMDJuN3VyME1n?oc=5",
+          "pubDate": "2026-10-03T22:42:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Is AI going to wipe us out?"
+          "title_en": "Petroecuador Expects to Resume Pumping at SOTE in Six Days Following a Fire in Baeza"
         },
         {
-          "title": "Alerta por el peor fenómeno de El Niño en 100 años activa fondos de la CAF",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFo5WVZmNDA3MkZVSTU3ckl0MlVHejFhWXVyVUVjUDFxVlBHcHVhX19mUTRKUEhNakdBcEY0S216NTEyRkdTVmtVMTh0ampyY3JwdzNGeDhyRGhocjROVWN4UHg4SlRYTEhNakV5VGNJSW00aEIyM0syQ0FfUERid2diUEFyVHZmZTdKNmZjc0l3d3QyRzYtUDAwSWw?oc=5",
-          "pubDate": "2026-10-03T03:01:06.000Z",
+          "title": "¿Cuándo y dónde ver la Fórmula 1 en Malasia con Verstappen y Hamilton?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2NTVkdjNER6Yi1Ca0xfSXc1T2kxdlRvaVFMaDNld1FJUHRpUHFidGxaSVBpUktIbHhiUFYyeDNKbHV0M0FGaXYtOXdKczFjV0thU0lWdks0UUdlblYxNEVsRE1pWTNOSE90UzkzVXl3a1VQUUdhT0tOQnhRMTAxamNnZkIzaVlKSkQ4Q25LbnMtd1JTSk5ULV82RHdIQQ?oc=5",
+          "pubDate": "2026-10-03T23:22:32.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Alert Over the Worst El Niño Event in 100 Years Triggers CAF Funding"
+          "_priority": "DEPORTES",
+          "title_en": "When and where can I watch the Formula 1 race in Malaysia featuring Verstappen and Hamilton?"
         }
       ]
     },
@@ -177,27 +161,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "Elecciones de Brasil: qué está en juego para el comercio y las inversiones con Paraguay",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUUJZbjItcTF6MkgyalRuZmVTZ25ZejVPcHN4blZTeUVfbmdxRFhVNXZnbGhNRWpQSXVVaFJoRU9xcm53NVFuSDltVEhDXzM5ZWtJXzJINEJTOFlkOWRXNXlVWmZnS3o4VkNHNmZ0QlNHVEszc2Fsa3lNUENFcWt1R3hZMl92WF9xcjBySzFkOWpZQkdWUHFjcDB3TXZuNHhOSm5RRlhqY1NlUkdELW9mWTJYUWZOV0V6T05JS0UzcEdLNmNXMWRHM2tB?oc=5",
-          "pubDate": "2026-10-03T14:03:16.000Z",
+          "title": "Prisión preventiva para el exfiscal general de Bolivia acusado de proteger a Marset",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdGpJLUNwbjhFU19rNVIxdlFwMGRmdEhTR05vVHEtMnZSM3pmNnFEMUFIdWc3NlpOdXJCU1l3U1BwZFo0V3hWbkZaSXBVdm1uTmhEUVpPbXI0YzNQODNRRWxSOUZjRThpM1dBbDZ0WnhNZFNFQTZPWjh2TFBuV0tXOUd6cHBab254NWpnanJqNWhwanQ4dzQwdWlBekwzZ3ZKUjFMeUsyd3M2anZ5RTM2TzhiYXB4eEpFaVdnYUI0X0xNeHR4Q0Rnd3p5b0Rpbm9IQm9KRldtMA?oc=5",
+          "pubDate": "2026-10-04T09:56:15.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Brazilian Elections: What's at Stake for Trade and Investment with Paraguay"
+          "title_en": "Pretrial Detention for Bolivia's Former Attorney General Accused of Protecting Marset"
         },
         {
-          "title": "El caso Hernán Rivas",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JTDFuS0c4S185WWw3OHFOYno0d3JMTTZJVTFHMlFEMllCbWNKUHJIcXhyRTRnbGxVRWlqQTJLcGlNbGxqN082Y2ZXXzNJcU5DSWxXNUFiVV8xWUFQZXdRQVMwTmtxRXZueHVjSA?oc=5",
-          "pubDate": "2026-10-03T13:21:50.000Z",
+          "title": "Elecciones municipales: ¿se podrá votar con cédula digital?",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkFWcWR5dkF4aC1kdWtTQkRBQWFHa3ZBa0NsaVpiWnpPalZZMzhuSnVneDFXak42aWROVGpiZDJLckFQSDlVMk00cDJjbG9qVk1zOGhmaXA5N0NIQWVUeXplWVg0cEJSWVo1cEd2Q0VKZkxWcXBNUGRYWW5HWWlkWjd5SEZBaFY4YkNvbnhCLTBMNnFJYk9Wak1WLWVBbXpCV1E?oc=5",
+          "pubDate": "2026-10-04T07:51:12.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Hernán Rivas Case"
+          "title_en": "Municipal Elections: Will It Be Possible to Vote Using a Digital ID?"
         },
         {
-          "title": "David Beckham llenó de halagos a Victoria, tras la presentación de su nueva colección en París",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcUw3dG84bUE5WklIb2NpQVhnQ3p5eEd1TV9zdEhXWUN6T0trMms3N1JJUkY5NEpLd3phRUNQcm1aenFhT0tFWXJKdzlyR2N1RjlvUW9qU3dMVnRtanBZVl8xRVFNUW56VGZhenQtRHUwS05Hb1JKUlR6SWVxOHNldnNqVjFkSm13dG05WktYRFJYZ2FiR3BNOGRpWlVwT3hmbVQxbzFSWlRXcUpTT2VQZk1yU0cyZ0pwTF9wVmxudDFkcmY2UlB2VjNGRWthRUU?oc=5",
-          "pubDate": "2026-10-03T13:29:06.000Z",
+          "title": "San Lorenzo rompe récords negativos con el descenso más prematuro",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc193RnowMk1HVm9nN200a2h5SVNXUFFnTVFTTU90MERTM2lLWnBOU0F5OWNfMmVYdno0SnA1WEFKRHJMX19OUDNBNGRTdER4a2FfcXdFb3MxT3VjeG84dFJ2NXVIVkZXemU2MHppTGg4RXEtaE1XT3hCWTNKRFVSd0w5M1BMZjNzRXNZbXhvLTd1T29nMWRTeHBGaUdpOG9hdDdxMlNWUEU5bU9qLUlxNHBoN3VTWEpTREl1UHRMTHNMb2w3ekdJ?oc=5",
+          "pubDate": "2026-10-04T07:46:46.000Z",
           "snippet": null,
-          "title_en": "David Beckham showered Victoria with compliments following the unveiling of her new collection in Paris"
+          "_priority": "DEPORTES",
+          "title_en": "San Lorenzo Sets New Negatives Records with Its Earliest-Ever Relegation"
         }
       ]
     },
@@ -206,78 +191,63 @@
       "color": "slate",
       "items": [
         {
-          "title": "Udelar registró cifra récord de nuevos inscriptos en 2026; creció demanda en FCEA y FING, entre otras facultades",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFpnLVkwbGFhQXFTMVN2YWVpeDdURlZQZmtLSkVQc1ZOdFowSjc0SXAxdnYwaGVESlI1cUFEVUl0Znl3eFRodDZjd0prYVo0TDVJbFpSNTd1a1N4SlN6Vnh4d21RbEtCdUoyRFRCNWZkWXV6cEE4bTE2NncyS04yY21fc1IwNUVYc0t2OEtwdUpDd2YyVjVQZWhaOUJzWjg5R1VfOU5haU5YQl84LUlib3ZYOG9kWUlZckVMVDhmQmtadzdFdm1PTUpEU2U5TzhyM09RYjZ2MUtmV3h5YVYyNldNaEM3dWVyZkI0YWdpWQ?oc=5",
-          "pubDate": "2026-10-03T03:00:00.000Z",
+          "title": "Máster plan del Gran Parque Central: Nacional logra una moción de consenso que votará el lunes en directiva",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnNFUE1TeFo5MkMzUTZIcW5HRDZ4anJuS0QwV3dLcHZpUkFCd05jdnhiVEY1ZG50OTJCcUFBc3RNMFNPN3VfRkFwNUFJVGRuWWZaS2wtYWh1NTFmd3NFakF0eDhMSldKQXVyWWpzRXgzQWtJaHpoZFdhR1FJaVkxaEg2VlZsYURoMllveDI4ZWR2Q3pYcGhsQmxDaFRiWjFRV1JGamd3Um5jcTl0U3haaWg3MjlJNEd0SldpakU3ZnBmZ0Vsc0gzWTZvX09hZy10VTRJV3NtR2RHTTJGZDdPQg?oc=5",
+          "pubDate": "2026-10-03T23:27:29.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "UDELAR recorded a record number of new enrollments in 2026; demand grew at FCEA and FING, among other schools"
+          "_priority": "DEPORTES",
+          "title_en": "Master Plan for the Gran Parque Central: The National Party Reaches a Consensus on a Motion to Be Voted on Monday by the Executive Committee"
         },
         {
-          "title": "\"Una buena noticia\": Sánchez celebró el fin del conflicto portuario tras preacuerdo entre TCP y el sindicato",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORkJqcVFqN2tzaU1TSmo2UUFkLWVNWTUzOEJDeWUzVk5qVVZVZm55eWswaXpVTG1ZQlJFSlNEYTFxajNOVUxObXB6ZG45UHI2TzBfVVZxV3p3UXpoanNrSXpmbDBzVG1SOGQzSnU2TlowNzlKZWVoYVJ3dWVsazJTdHRybTdSZ3J5Tm1aUk9YeTZoeDJWWC1JQzQ0ZGdaV1hTWTNUU1RHNWh2cG1xSDBDYzByU2hYbnhOVnNoYlZWUzVEeUR6a0Z3dTcwT3NSbXdjY0hkX0hwYmF2R3NSZ1oxUHdyNHFkdm8?oc=5",
-          "pubDate": "2026-10-02T23:48:43.000Z",
+          "title": "Máster plan del Gran Parque Central: el avance importante de Nacional para una moción conjunta que \"no es fácil\"",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYUFXQzZxWDQ1RmVnLUthaUp4NmJkeW12T29xZUpUMmpaYWFxckZKTUlWNHoxaFpkMkZ4cklZTjQ2T09tQlE1RGhWSWluQVdVTDZDdEpkdERSWkNSZnJGZG9kT3hRWlAwSUZFYng5MlVUQy12NmNZaVFnZUQxd0dCTFVkQVQ3cUNtMWFoX3poNVB0X2RETVl2MWVsREZFRDJhVXotS29LV0N3QjJWX1VBUEc5SVYybXFxMWtIQzYyV2xGQ1k3SnlhYU9paXlUWE85SzN5cVVGdkl3RlFGYWVNS1VkdkE?oc=5",
+          "pubDate": "2026-10-03T21:42:07.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "\"Good news\": Sánchez celebrated the end of the port dispute following a preliminary agreement between TCP and the union"
+          "_priority": "DEPORTES",
+          "title_en": "Master Plan for the Gran Parque Central: Nacional's Significant Progress Toward a Joint Motion That \"Is Not Easy\""
         },
         {
-          "title": "\"Fue un error\": gobierno busca modificar artículo de la LUC tras fallo de la SCJ que avaló el homeschooling",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRk5CNXAxVFN0NERNNUVTeHRlenVJaWFuZGozbzlYcjh6UEozX090MXBUTXM4YWtpVmphTTJZbVhadmkzMVRDSzhYWlZ1WVpmM0h0cF9kYTZscnNSQVFYM01lNHN3YnM0c25UY1dYbXAzb2gwMTJJMVIxejRBeE1JTV9peFFVNkdpS2Z3SnZvcGhKeXhYcWNXUkxrdVFhekl4M1doTTVsSWdXeThLVG51Q2pJdktULTZoaGhIVHBnQkQ2STJyakNjZEJRNzc2YUsxUkxlYVd3MUcxNVRCc2RkS0RES0REYnc?oc=5",
-          "pubDate": "2026-10-02T17:41:00.000Z",
+          "title": "Deportivo Maldonado 3-0 Central Español por el Clausura: el fernandino goleó y sigue prendido en la Anual",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0JVa25lNzdwVUtQQlpGTFRnSmJjN0ZRSlF5RmMycllpWTRKMXNMUi02eFpoaTA4QS1UNVZlakotMmpNZEFHZ0dnTUF3Wk1ZV2dYZWdRbXFJMW84X2ZEMmpIZDZrWW42WmttSlFvcnZBQzM0NU1feVRWdkxuZjJjOTFDUWxkU1phMVpVLWRnY2lqbHlkVWhtZHRfQlFDUGp4R1FuVWM5cG9nYjdLMlozVWI5amtwcDhoWDdkNWF4OFZ4eEhUTTVicGxlMDNkMjY3cUJtSEgwTlhKY21oV0luUjZGcVA?oc=5",
+          "pubDate": "2026-10-03T20:44:29.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "\"It was a mistake\": Government Seeks to Amend Article of the LUC Following Supreme Court Ruling Upholding Homeschooling"
+          "_priority": "DEPORTES",
+          "title_en": "Deportivo Maldonado 3-0 Central Español in the Clausura: The team from Fernando won by a landslide and remains in contention for the Anual title"
         }
       ]
     },
     {
       "name": "La Razón (Bolivia)",
       "color": "cream",
-      "items": [
-        {
-          "title": "Page 8 - 02 de octubre del 2026 - La Razón",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEViUUpmd1JuVDRsbkc3dk53RDBNN2tlZzNlZjI5QUNuVVJfY1g5eEItUWlXM1B0X2dfUkZkWFJVWGppRUlWUm5GTnNtR0ZoSDhNZnIwRDQ3Z091bWZjOW83V1FCd0lrNVRJWWp0RC1ZbHl3V1R6MzQ1RnJuNFBreEp5X1BuN1RvY2pQaFdQek5kajcxc0dGSThiczVDZTRmUWc?oc=5",
-          "pubDate": "2026-10-02T08:38:10.000Z",
-          "snippet": null,
-          "title_en": "Page 8 - October 2, 2026 - La Razón"
-        },
-        {
-          "title": "28 de septiembre del 2026 - go.la-razon.com",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1yNlFVbUVmajdERmoyc2JVVGtqY1g3T2ZPZFRzU28weUZPaUM0cmNOZVdOTTZPRDNIRDRkSXZ2VTJhTHk2?oc=5",
-          "pubDate": "2026-09-28T13:54:04.000Z",
-          "snippet": null,
-          "title_en": "September 28, 2026 - go.la-razon.com"
-        }
-      ]
+      "items": []
     },
     {
       "name": "El Nacional (Venezuela)",
       "color": "grey",
       "items": [
         {
-          "title": "Claudia Macero: María Corina Machado viene a organizar, a movilizar y a generar acuerdos",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZG51Wkd3V2JOd05NOTRhTTQ0dkU3dkFuN1NwWHczcUktZU5vYUxvRkd1V25tdFUxaU13YWN3TmM2a01nbE5rVl9DbFpqa3BQQmxmaFhCQU84bE9Tci1oakh5cEhxWFdKdEVHOXJBWndJSzZwTnJsejNaWm01SlJhVlJRbFBPSG1JT0diRzhhNUx5WjNRMTM3b1AzODA2M2RVWGhpSlB4UEYxdm1LN1VQTFVRYU9kSFRBeGMxVkNzTQ?oc=5",
-          "pubDate": "2026-10-02T20:03:58.000Z",
+          "title": "Discurso en la ONU, el cerco a María Corina y el clamor en la calle",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3VQMDk2dkN3dVVPNkVKMlp5dlpiSG1HaUg0ZnJSRWZldURDUGlSX0pyWTN0cXVhbVdRQ0hZUTZ2amlBOS11WlNIVEJPVVdHaTA2eXRBRXB5aXl4bzRUSnNKbFY4cENXNmtzX1NmYmR3V0JtQUxxdTdsaVlvOVB4cm9ZVWlJUi1OS3hXSlFkOWMyYzVIQ29JZ2NWbFpTTUMyRXVoM1pn?oc=5",
+          "pubDate": "2026-10-04T05:33:21.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Claudia Macero: María Corina Machado is here to organize, mobilize, and build consensus"
+          "title_en": "Speech at the UN, the siege against María Corina, and the outcry in the streets"
         },
         {
-          "title": "Congreso español rechaza los dos decretos sobre vivienda propuestos por el gobierno",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFJXTEl6WGRxOVQtWWl1NVlFVDZqR1FJejNuUU0tdWt5UkZVU19MaTRWang1Ykl0MVFXS2VZLXdQQ2ZkTDdDRFNJYlZRZC1YOXg0QzE1UlpUVkF1TVFBMVFMUXFMS3VkbXlzT24zeHQ3MElja09tTS1qWFBieGRpYl81X2lwaGhHQS1IM3Y1cVF5VE91UjZ6ZHhJN3paN2s4OG9jVEZaeW9SMTlNNEY4dFNOdGR2dzV2R3dV?oc=5",
-          "pubDate": "2026-10-02T16:24:05.000Z",
+          "title": "Fiscalía de EE UU rechazó inmunidad de Nicolás Maduro y Cilia Flores y exigió avanzar con el juicio",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnpVMmJVUDJROF9STmdLUm9Nd0I4MElQUzJCX1VfTXFtSm5FWWtUaXk0RTZwY3pnQTVSYXlCYU82QXVzejdzSXktQjZTNnVDOXFLc3gwNWZyNndONzJKc2Q4aHhuemQ0Y2ZMRmIzZGhvckpFZVZ1T3owTDlJRGJISzlTWUNNRk5JLWFZaHF0cjBNRl9lNl9LWkFzRzNIRFlwQncxeWk3anpacE1YTEJZSkpfZ2ZILTFJTENMMDZ6SW5jbm5EdzNqSVJ1MDNCRTZV?oc=5",
+          "pubDate": "2026-10-03T23:59:45.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The Spanish Congress Rejects the Two Housing Decrees Proposed by the Government"
+          "title_en": "The U.S. Attorney's Office rejected immunity for Nicolás Maduro and Cilia Flores and demanded that the trial proceed"
         },
         {
-          "title": "Tribunal condena a 10 personas señaladas en el caso Brazalete Blanco con sentencias de 3 a 18 años de prisión",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0t2clFVR29BMFlBc2FTMkJuZ0F5aGpjMkQ1a1NIXy1lQXRuZXh1QlpXM3ZrZ190X0hXOGtLSnhaVnJzYnZnNm1CV0I3eDRjYTBaMnI0dHprcEt0eHdrYl9vZmV5RjlyM3BDZk5GekRwYkRQdlZqTlB5eUlPak44WGhabm5peUJsTkk3MWJmZjc1Y1A4elNCNFFmamZqaEtWR2ZXMWh4Z1pNbzlMaWhjclFOUlFiN2dDVU1ZV2hUQXhGeTVSVUNCaXd4Z2phZFJqLVEzdUFSbXZFRHVmRWc?oc=5",
-          "pubDate": "2026-10-02T15:42:35.000Z",
+          "title": "Renunció el jefe de prisiones de Tennessee tras la fallida ejecución por inyección letal de Christa Pike",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3ZCUmdzOTJ4N2hvYVZQam9qMlNsTWdvcDlLOEJEd3hGSXExU0F0RTR1N3NtT3JtZ2NIdXhDQUlzU0xfNHpTTm5hWS1WNllVZlRMWUp6UnpZZXVxeHpmTzc1dTFxZ2txS3UxdktYWXREVzlscFdOS085NW5jOVFOeWI2amczWjhPOXQyaWhyY0V3T3BuOTF1V1JpejJnLTNheWQwQXpBRmNOa3ZUVjg2a3A5MVUtd0xiT1poV3RKanBETGR3UzVXbXV0dGM3RjNNaU5FNmlHQQ?oc=5",
+          "pubDate": "2026-10-04T03:11:15.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Court sentences 10 defendants in the \"Brazalete Blanco\" case to prison terms ranging from 3 to 18 years"
+          "title_en": "Tennessee's prison chief resigned following the botched lethal injection of Christa Pike"
         }
       ]
     },
@@ -286,28 +256,28 @@
       "color": "teal",
       "items": [
         {
-          "title": "Buscan repatriar a migrante guatemalteco que murió tras intento de detención de ICE en Michigan",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU0FvRFM0UVpqQkpGejR1bGFJY0tuVkNpb2VDMEJUNnpxOVVENWtBUzFWQ0liLXVnak9HeU9ydDNjd0JTREV0UGdMZXVyTk9EN1lfUTZkZVJRQW9tdUNYZUkxcFZYLS1Kc1NkdVZ5dzIxRXNqYkNZWmNqNEhsUFFWd0ktSUZMLThjcDA2ZU54ekNjbVhvLVNGc01ZNDR6V3NoWXlNT1J5b1dKTmpkR0Y5ZWtscXBsNVFjMW1Ib1VSd1UxUEVOSXpqR1FIYTRXRWg1TEczTlVraDgwa0JnRC12aDROMk0ycmhjS1Zkazd0QWVFZV8z?oc=5",
-          "pubDate": "2026-10-03T03:08:40.000Z",
+          "title": "\"Mitbestimmung\": cómo Alemania obliga a las grandes empresas a dar voz a los trabajadores en la toma de decisiones (y qué impacto tiene en la economía)",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdGhSaFdXTGhlRVN4T2ZEbUxsS19ETWkweXBXeXZpSnVLbmx5a0VWcGI0Z3VmaDl6VnRiSVpTdmw2dXNVTm5DTG9EbzJTck1EMTVIc2tiSE5VWjZlOEwwbUI4VEtrVWdJbHFETXZyeThOSzgwQ05idll2aTlFOHNmeU1JMjlZbDROX0ZQTnc1OFpLcFhPODR1WHJHZk9zekVTQWZROVIzY2l4SDJFSmV3STRreEtpWE1Edzk5YUVQT0dHYXVfVS1McXNqRUdsZGo5OUhWeVNBRHZSMzNVck5uQ0ljczRRN21mTFNSdzc2b0xWZFNpWkM5Z3piWGZTb2xMTnJORWo4T2FDR0gwZEVUczNUWk53MnMza0R2N1N4N1MwSTROLUNCdUdCUlJUQld0R1E?oc=5",
+          "pubDate": "2026-10-04T04:00:32.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Efforts Are Underway to Repatriate a Guatemalan Migrant Who Died After an ICE Attempt to Detain Him in Michigan"
+          "title_en": "\"Mitbestimmung\": How Germany Requires Large Companies to Give Workers a Say in Decision-Making (and What Impact This Has on the Economy)"
         },
         {
-          "title": "Por qué la defensa de Christa Pike pidió la horca en lugar de la inyección letal en Tennessee",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbndJU1RHaGVobExPTXFkamhxZm1Fejk3RHd6TWhhcmdxeEpGcnREeEp1R3Y4SDYtY1JzVjd2cnJySHVBUFdYdHJSNWtEWDBYZW9GclVla3dGRTU5RlZQVk9qYnlTb3ZMV3JDYWZPRUdFcUpsckJ1WFN4MDNNcm9WN2Y0THVzMWxySEF0WXpsTUZoNzhXellvbXZIMDFQRkRKejhkM1UxTVh4b3JlNXpGRTlleVVlbUNPS29uWWZMekFRcFFoSjd2U25HQ1lGUS1QN0E?oc=5",
-          "pubDate": "2026-10-03T01:37:33.000Z",
+          "title": "El presidente de Cornell dice que la universidad \"debe hacer más\" tras la denuncia de violación en grupo en una fraternidad",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPVkF1WE9CS3ZCa0VHczVyOC1IODROcVJYaGJHbnlLMS03MzVEZ2Nqa294Sm85dFZNUHhnUWJtaE1fSW9WNmZTdC05RFVuamZfR2kzdWhza2g2VXdFcDZ6bS1PS3VRb2xRdjc5R3dhdzAzcDF2NkZnLWUwZ1FpZ0l3VlJKdTNza1dHb0J3MVhqRm9WYmFZU2JGUDRNMFVmdmpFaDNBUEwyS1Z0X3dFUW5GUEFfQkxxbkpMS2YxQXdQTERsQW5ob2ExNF9MM2RFOFFOVGJkZWxRdkZHTnJQc1FaQWRmLUpmMXBTZXExbzJrYlJwVGVBR1J4cVpaVW5lbUNHX1o3ZllyUkU5VDMwcjBRd2d2OUZVWlBRVWtpd1h3?oc=5",
+          "pubDate": "2026-10-04T03:17:20.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Why Christa Pike's defense team requested hanging instead of lethal injection in Tennessee"
+          "title_en": "Cornell's president says the university \"must do more\" following allegations of a gang rape at a fraternity"
         },
         {
-          "title": "Dos candidatos a la CGC son los favoritos en un Congreso sin acuerdos para la elección",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVWFoWW9tNFc2ZHRaNmU2WkxmeTlrM2VfTkk1OHhvdTY5MGtuOGMxOThUR0d5QWtudjJlWlAtSmNFbkluVzVzLWloN2duVzJxS2x1MkFGVU9uS1RrTEU5cVJaaENmTTcwS0EtUjBsZm1QY0k0UFJBTEVDcDhrYWpnTmJULVB4NnJVaTl1NjVfbktZS1FHbVBOWFBGWHoxMC1QNjQzQ051dXcybFE1cE1uNDY1RGJRMVpiSnlQazVBVzBLSHhKYjdTZ2MzVk5IcGM?oc=5",
-          "pubDate": "2026-10-02T23:59:51.000Z",
+          "title": "Xelajú resistió con diez y venció 2-0 a San Pedro en el Mario Camposeco",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzc2QTdKNzBLMk5ZOEFtRlBTelE0SkJvNmFrZ2ZFOEpyZ0ZnS3p0WF9UazBpTVI2WTZoZF9RRVpJSlVWQUxKUHBnVXRPSlQ0S1ZQRU94UVoyS3RFNlF4a3pqeHRTT2N4VVdJMVlLMTB0VVFBSTZKOUtVRWZ4UXE3SE8wMnpGRWh0R2dwRUUtSks5NGFnaHlrWGdWQW5UYmd4OWpDMXAwTzlSbWNFRXpXdjhwb3VGNHd5aTUwN1dtOXd5TFIyUVRyRVc2SURPOTg?oc=5",
+          "pubDate": "2026-10-04T03:55:07.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Two CGC candidates are the frontrunners in a Congress where no agreements have been reached regarding the election"
+          "_priority": "DEPORTES",
+          "title_en": "Xelajú held on with ten players and defeated San Pedro 2-0 at Mario Camposeco Stadium"
         }
       ]
     }
