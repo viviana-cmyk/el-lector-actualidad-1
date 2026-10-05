@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-26T10:02:07.085Z",
+  "generatedAt": "2026-10-05T10:02:18.109Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Rechazo estadounidense al acuerdo nuclear iraní y control del Estrecho de Ormuz",
-      "titulo_en": "US Rejection of Iranian Nuclear Deal and Strait of Hormuz Control",
-      "region": "Oriente Medio",
+      "titulo": "Polarización política y riesgo institucional en Brasil",
+      "titulo_en": "Political Polarization and Institutional Risk in Brazil",
+      "region": "América del Sur",
       "noticia": {
-        "titulo": "Trump reportedly rejects Iran's seven-day peace deal to reopen strait of Hormuz",
-        "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-        "fuente": "The Guardian"
+        "titulo": "Brazil Elections Head to Runoff Between Lula and Bolsonaro",
+        "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Trump rechaza un plan de siete días de Irán para reapertura de negociaciones sobre el Estrecho de Ormuz, intensificando la confrontación en una zona estratégica de flujo de petróleo global. Este rechazo mantiene elevado el riesgo de escalada militar en el Golfo Pérsico y afecta directamente la estabilidad energética mundial y las alianzas regionales.",
-      "analisis_en": "Trump rejects Iran's seven-day plan to reopen negotiations on the Strait of Hormuz, intensifying confrontation in a strategically critical global oil chokepoint. This rejection maintains high risk of military escalation in the Persian Gulf and directly impacts global energy stability and regional alliances."
+      "analisis": "La segunda vuelta electoral entre Lula y Bolsonaro refleja una profunda fractura política en la mayor economía latinoamericana, con Bolsonaro cuestionando resultados y movilizando sectores conservadores mientras Lula busca consolidar un bloque progresista ampliado. Esta polarización tiene implicaciones directas para la estabilidad institucional, la política económica regional y las relaciones diplomáticas de Brasil con potencias globales.",
+      "analisis_en": "The runoff election between Lula and Bolsonaro reveals a deep political fracture in Latin America's largest economy, with Bolsonaro questioning results and mobilizing conservative sectors while Lula seeks to consolidate an expanded progressive bloc. This polarization has direct implications for institutional stability, regional economic policy, and Brazil's diplomatic relations with global powers."
     },
     {
       "rank": 2,
-      "titulo": "Consolidación de la extrema derecha en Europa y su estrategia de control de la UE",
-      "titulo_en": "Far-Right Consolidation in Europe and Strategy to Control the EU",
-      "region": "Europa",
+      "titulo": "Crisis de vivienda e inestabilidad política en España",
+      "titulo_en": "Housing Crisis and Political Instability in Spain",
+      "region": "Europa Occidental",
       "noticia": {
-        "titulo": "La Europa de Le Pen, Weidel y Meloni: cómo los ultras planean tomar la UE",
-        "link": "https://cincodias.elpais.com/opinion/2026-09-26/la-europa-de-le-pen-weidel-y-meloni-como-los-ultras-planean-tomar-la-ue.html",
+        "titulo": "Sánchez adelanta las elecciones al 29 de noviembre: 'Necesitamos una mayoría progresista mucho más amplia'",
+        "link": "https://elpais.com/espana/2026-10-05/sanchez-adelanta-las-elecciones-al-29-de-noviembre-necesitamos-una-mayoria-progresista-mucho-mas-amplia.html",
         "fuente": "El País"
       },
-      "analisis": "Los líderes ultraderechistas europeos (Le Pen, Weidel, Meloni) coordinan estrategias para penetrar instituciones de la UE mediante convergencia en inmigración pese a divergencias sobre Rusia. Este avance representa un riesgo sistémico para la gobernanza comunitaria y la cohesión de políticas exteriores europeas, fragmentando respuestas coordinadas a amenazas globales.",
-      "analisis_en": "Far-right European leaders (Le Pen, Weidel, Meloni) coordinate strategies to penetrate EU institutions through convergence on immigration despite divergences on Russia. This advance represents systemic risk to community governance and EU foreign policy cohesion, fragmenting coordinated responses to global threats."
+      "analisis": "La convocatoria adelantada de elecciones por Sánchez responde a una crisis de gobernanza agravada por la crisis de vivienda, fragmentando aún más el Parlamento español y fortaleciendo opciones de derecha y separatismo catalán. Esta inestabilidad política impacta las políticas europeas de convergencia fiscal y la capacidad de España para liderar iniciativas comunitarias.",
+      "analisis_en": "Sánchez's early election call responds to a governance crisis worsened by the housing emergency, further fragmenting the Spanish Parliament and strengthening right-wing and Catalan separatist options. This political instability impacts European fiscal convergence policies and Spain's capacity to lead community initiatives."
     },
     {
       "rank": 3,
-      "titulo": "Competencia geopolítica sino-estadounidense en Asia y posicionamiento sobre Taiwán",
-      "titulo_en": "Sino-US Geopolitical Competition in Asia and Taiwan Positioning",
-      "region": "Asia-Pacífico",
+      "titulo": "Amenaza separatista y crisis política en Canadá",
+      "titulo_en": "Separatist Threat and Political Crisis in Canada",
+      "region": "América del Norte",
       "noticia": {
-        "titulo": "At Summit, Xi Sought to Tilt Trump's Stance on America's Place in Asia",
-        "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-        "fuente": "The New York Times"
+        "titulo": "Quebec poised to elect separatists to power for first time more than decade",
+        "link": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+        "fuente": "The Guardian"
       },
-      "analisis": "Xi intenta en cumbre persuadir a Trump sobre el papel estadounidense en Asia, señalando tensiones sobre Taiwán y reconfiguración de alianzas regionales. La incertidumbre sobre compromisos estadounidenses con Japón y aliados regionales genera inestabilidad en el equilibrio de poder del Pacífico y riesgo de miscalcul estratégico entre potencias nucleares.",
-      "analisis_en": "Xi attempts at summit to persuade Trump on America's role in Asia, signaling tensions over Taiwan and reconfiguration of regional alliances. Uncertainty about US commitments to Japan and regional allies generates instability in Pacific power balance and risk of strategic miscalculation between nuclear powers."
+      "analisis": "El resurgimiento del Parti Québécois después de más de una década marca un punto de quiebre en la cohesión de Canadá, con visos de reactivar agendas separatistas y potencialmente desencadenar un nuevo referéndum sobre la soberanía de Quebec. Este resultado tensiona las relaciones federales-provinciales y complica la capacidad de respuesta de Ottawa ante desafíos económicos y de seguridad continental.",
+      "analisis_en": "The Parti Québécois's resurgence after more than a decade marks a critical inflection point in Canada's cohesion, with signs of reactivating separatist agendas and potentially triggering a new referendum on Quebec sovereignty. This outcome strains federal-provincial relations and complicates Ottawa's capacity to respond to economic and continental security challenges."
     }
   ]
 }

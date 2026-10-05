@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T15:11:54.896Z",
+  "generatedAt": "2026-10-05T10:02:18.109Z",
   "dia": {
-    "nombre": "Día Mundial de los Animales",
-    "descripcion": "Se conmemora el aniversario del nacimiento de San Francisco de Asís (1181), patrono de los animales, promoviendo la protección y el bienestar animal a nivel global."
+    "nombre": "Día Mundial del Hábitat",
+    "descripcion": "Conmemoración de la ONU celebrada el primer lunes de octubre para promover vivienda adecuada y comunidades sostenibles, destacando el derecho universal a un hogar digno."
   },
   "dia_en": {
-    "nombre": "World Animal Day",
-    "descripcion": "It commemorates the anniversary of the birth of Saint Francis of Assisi (1181), patron saint of animals, promoting animal protection and welfare globally."
+    "nombre": "World Habitat Day",
+    "descripcion": "UN commemoration celebrated on the first Monday of October to promote adequate housing and sustainable communities, highlighting the universal right to a dignified home."
   }
 }
