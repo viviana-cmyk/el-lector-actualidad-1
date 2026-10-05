@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-10-05T10:01:42.447Z",
+  "generatedAt": "2026-10-05T19:06:44.217Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "La captura de “R1” expone la red de comandantes vinculados a la “R” del CJNG",
+          "link": "https://insightcrime.org/es/noticias/captura-de-r1-expone-red-comandantes-vinculados-a-r-del-cjng/",
+          "pubDate": "2026-10-05T18:05:09.000Z",
+          "snippet": "La captura de “R1” expone la red de comandantes vinculados a la “R” del CJNG Tras los asesinatos del alcalde Carlos Manzo y de la influencer Valeria Márquez, las autoridades mexicanas afirman tener bajo custodia a uno de sus principales sospechosos: Ramón Álvarez Ayala, alias […]…",
+          "title_en": "The arrest of “R1” exposes the network of commanders linked to the “R” faction of the CJNG"
+        },
         {
           "title": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras",
           "link": "https://insightcrime.org/es/noticias/lucha-tierras-garifunas-corredor-narcotrafico-honduras/",
@@ -39,13 +46,6 @@
           "pubDate": "2026-09-28T15:36:53.000Z",
           "snippet": "Cómo la ofensiva de Bukele contra las pandillas transformó El Salvador ¿Cómo logró Bukele debilitar a las pandillas en El Salvador? De los arrestos masivos a los juicios colectivos: claves y costos de su ofensiva. The post Cómo la ofensiva de Bukele contra las pandillas transform…",
           "title_en": "How Bukele's Crackdown on Gangs Transformed El Salvador"
-        },
-        {
-          "title": "Los cultivos récord de coca en Bolivia alimentan una creciente demanda mundial de cocaína",
-          "link": "https://insightcrime.org/es/noticias/cultivos-record-de-coca-en-bolivia-alimentan-creciente-demanda-mundial-cocaina/",
-          "pubDate": "2026-09-25T18:10:52.000Z",
-          "snippet": "Los cultivos récord de coca en Bolivia alimentan una creciente demanda mundial de cocaína Bolivia registró un nuevo récord de cultivos de coca, mientras crece la brecha entre la producción de hoja y la demanda del mercado legal. The post Los cultivos récord de coca en Bolivia ali…",
-          "title_en": "Record coca crops in Bolivia are fueling a growing global demand for cocaine"
         }
       ]
     },
@@ -93,7 +93,7 @@
           "link": "https://www.crisisgroup.org/evt/middle-east-north-africa/yemen-saudi-arabia/houthis-advance-bab-al-mandab-has-yemens-war-returned",
           "pubDate": "2026-09-22T18:06:48.000Z",
           "snippet": "The Houthis’ Advance to Bab al-Mandab: Has Yemen’s War Returned? eschelhaas Tue, 09/22/2026 - 20:06 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Event Recording / Middle E…",
-          "title_en": "The Houthis’ Advance to Bab al-Mandab: Has the War in Yemen Returned?"
+          "title_en": "The Houthis’ Advance on Bab al-Mandab: Has the War in Yemen Returned?"
         }
       ]
     },
@@ -102,46 +102,46 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Event Details - Bursa Hub",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkNqN0syeE5ONEhVTFNSNUVEWnI1b1dyVWt1NzUxTVdTcHF4TzRMRDU0V0djVHQ1NzU0QnY0cTRYdkpQbFRRSFlVeWZWNXEwcURyNG1rX3VRWHNGRm9SaGhpMHBpZW9keUVVeWZGUUViUzkwNk81QjUxUjB1Z0VIZDM5N0lYYm1FZ2VDWTBJODR4NGQwTkNoTS16TDd1bm1nRGVCR2g4Q1lZT1VKbWdjWQ?oc=5",
-          "pubDate": "2026-10-02T10:34:36.000Z",
+          "title": "Betazone: The Human-Machine Line > Annual Meeting of Global Future Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMExrRDk0X2wzdVJWSWNxemVLR0h0UUJkenFMM1duWldIZElKbVcteTFpeDRDZkc5ZTlrWl9wblpRNXB0U1FyNTBiZkM0cWg0NnM0cW9pNW4taDQwc1JzZlhsRjZrQmZ1Uk9VTnRPRnkzdDlVT0NLSkhKamRZZEw2VzBzdkw2UC11YXU3bUtVMmNnVHY2eG5rbGR1TG5XekNjQU9DSEF2ZDlrRlFqVVBNd1p2dmRnbVJoSlE?oc=5",
+          "pubDate": "2026-10-05T12:56:45.000Z",
           "snippet": null,
-          "title_en": "Event Details - Bursa Hub"
+          "title_en": "Betazone: The Human-Machine Line > Annual Meeting of Global Future Leaders"
         },
         {
-          "title": "Estas son las 10 mejores habilidades del trabajo del futuro",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbm1USXBjUXNPQm9SNkxsejAwM240b3ZxMTM5Ri1pbUU2Zi03WU1VS0oyajdwTExVN1RKNTVRS2kyRHpCeDNIVThReGJWbmR1cWVFaWRqbjVJaDhOdjY2Z0g4dU1SRmlwMlhJYzBsdGxqblRVVmN4S1VLNVZ0Z1lrSGNpYkVSNWpTbkhyRWtoSWwxZlE4?oc=5",
-          "pubDate": "2026-09-24T04:00:00.000Z",
+          "title": "Trade In a Changing World > Annual Meeting of Global Future Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlNEWEducDJJWmxvdjI2Y09pMUhkcnJ3TzhYdjNEck1vNGNNQjRleTRjN2lzNWw0dEVKWjRnM01WU1RJd1lkWWNjcERwdUFJRmhtdnRYV1prODEydXhjS3I1cndwQm54N2hQVVN5VU9RNnQxNnNjUTJXN25vSXBHYTZLNDktSTBuQUtKTmN3ZzFCRmRnSmNKU2thZVc4eUMxMzFVaEVQN2o?oc=5",
+          "pubDate": "2026-10-05T12:56:45.000Z",
           "snippet": null,
-          "title_en": "These Are the Top 10 Skills for the Future of Work"
+          "title_en": "Trade in a Changing World > Annual Meeting of Global Future Leaders"
         },
         {
-          "title": "Esta plataforma conecta a estudiantes de idiomas con profesores refugiados",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXBTZ3cxWnpRZU5IRVFMTHRLTFhsdGdwU1M0QjNJUkoyZE1hYjBYWjB4UG1JYVhpMkxRQl8zQ2d6cXlqV3djUDJ2V0RnV3ZFSldPcTR4VFN5QUdoY2VJd2NXWFFGZ1o1S3B6SVNMcFhJRmZvUmZoQ2NSZUJEeFdvaE1XM3dUajF3UXZBcDFmWGlPVk1oeTk3UFFqR2s5Ti1oZXdmblVmdVo3QQ?oc=5",
-          "pubDate": "2026-09-24T04:00:00.000Z",
+          "title": "Opening Plenary > Annual Meeting of Global Future Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbElKVUhjVXc2SDlhZmFFNU1fNzNiTGx4c2R1X2NJTEhNYjhzanNtSGFIdXdqZlp5MlpQeTRVTFp0Ty1HWUhiVXR4RzNLLVl5bGhFbU5zR2NKVi1YLXZHTkVMRkZUcGszUnZJVFlsZThGLTZsMVU0blZJSEdoMnNiaHdxWUhjYVc0cktEaDljM1IzeUNBQkU2ellBVEpzRW4tSHBqQV9qN1p0MDRwMDdkd0l3Zw?oc=5",
+          "pubDate": "2026-10-05T12:56:44.000Z",
           "snippet": null,
-          "title_en": "This platform connects language learners with refugee teachers"
+          "title_en": "Opening Plenary > Annual Meeting of Global Future Leaders"
         },
         {
-          "title": "Event Details - Bursa Hub",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFM3YW5VbUFUSmR3R3poTEhwRWdFZ21EODQyVk50LWlicGd2NlV0STB4Rk81bUwyN3RXOURzT3REUl81U2tMY3VyN0tWeXdUcVAtb1RaS3FlVUtPQmQzeE8wd2o4ZFF4a3ZoeVYybDBTNUF1bG1aQ1BmVmZHeFlDcGk1eDR3VnpCNXI4Qg?oc=5",
-          "pubDate": "2026-09-23T07:00:00.000Z",
+          "title": "Closing Plenary > Annual Meeting of Global Future Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUJ4a0RmUXFLSjJjWDJzc3FpUkVzMXM1OVljY1liRWx1cG9yckVIbl82WG96QXhwaXFjemNOTTdUMGhWOTF2cGZMb2ZXYzY5WHFIMWdfTlg2dGZfZ0NMVjdDM09RWFVyZGp5STJvVzVEdXVGUE1WVzFvMjBfV013ZDlQTU83U19wZk5WQjB3MUhmRGFMb2F6UjRCNk1YUFB0QjFSUTEzUTBKUFZwNk1xLXpUdw?oc=5",
+          "pubDate": "2026-10-05T12:56:44.000Z",
           "snippet": null,
-          "title_en": "Event Details - Bursa Hub"
+          "title_en": "Closing Plenary > Annual Meeting of Global Future Leaders"
         },
         {
-          "title": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzREU3RtU1ZRV01sNEhOUm1XUzY1VndiSXVtLVJXNEVEa1Z1ekdWSHhoSXd1WmxYWEpyXzE4RWJYTFZrTWhDTXpJcm12REp2OHJxRHhFcG4xUVdnNU5fRW42VjhmLTVSV00zd3pQak1YLU5fTTZQaWoyT09TN0JYNUtqQXNlVUE1ZnF5Z1ZxRlFsOHozRkVtZGdmeGV6TGpNRUwyMEdTa1h6Z3ZQa3JNMw?oc=5",
-          "pubDate": "2026-09-23T04:24:43.000Z",
+          "title": "Opening Plenary > Annual Meeting of Global Future Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUxJaTlXdGFwdUx0MmhYYlFqMGdFT3RMUFhPSFlzUlhXMVRoZUZtQlloR19qVml1QnJCR0tVSjVUVDBLOGJnT2liZHQxSktGYUtsWktXd3dVaEROUVVYWlBzZXRkT0NSVGxKXzRtSjl1ZlQ3dk1ldFpYWFZfM3ltbDYwbWkwcWtYY3Nuc1Vtd0lGcnNzWjRLY19vSl9iQzBQRWZpMDR4Wkdia0RGcXhITWppMA?oc=5",
+          "pubDate": "2026-10-05T12:56:43.000Z",
           "snippet": null,
-          "title_en": "Addressing Insurability: A Playbook for Investing in Place-Based Resilience"
+          "title_en": "Opening Plenary > Annual Meeting of Global Future Leaders"
         },
         {
-          "title": "Why The Pink Tax Makes It More Expensive To Be A Women",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pdVNiZlIydlJJaGE0c2hVRy1MSFRpczFUTEkydk9LMVZTd2RlaUtGVzVfbF9ZX2dBcmpsenVOOWVleUFpcm54bF91WENDZURUTjNZeFRoajkyYWMxb1oybXFuM3dUS1pyY0d1OVJFWHY?oc=5",
-          "pubDate": "2026-09-16T07:00:00.000Z",
+          "title": "Betazone: Sensing the Invisible > Annual Meeting of Global Future Leaders",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGpUczc5NXFPdDFPRGp3cEQxcGtJQ1lYVlBiVU1xaUZEczZ3WGVFS3g4LWdTNWJ2VTJuU2UtNW1odnlLdTJRMk4wS0R2LUtyQXVXZ21ZdWJZS1ljUVRrdU91YjlqZ2RtNEpIUTc3VEF6SkhBeDJ5VFFsWjFpQm1MOEI3cWxGcWQ0MTFSX0pLUTlqcFYtdW1WeEZfS0QzR2RWWkhRdHIzQTJkOWFqc3VWb29aaFpReGli?oc=5",
+          "pubDate": "2026-10-05T12:56:43.000Z",
           "snippet": null,
-          "title_en": "Why the Pink Tax Makes It More Expensive to Be a Woman"
+          "title_en": "Betazone: Sensing the Invisible > Annual Meeting of Global Future Leaders"
         }
       ]
     }
