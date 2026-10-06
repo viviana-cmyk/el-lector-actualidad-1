@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:01:46.751Z",
+  "generatedAt": "2026-10-06T16:33:03.253Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,14 +7,14 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "DianaUribe.fm",
-      "host": "Diana Uribe",
-      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
-    },
-    {
       "title": "Estoicismo Filosofia",
       "host": "Estoicismo Filosofia",
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
+    },
+    {
+      "title": "DianaUribe.fm",
+      "host": "Diana Uribe",
+      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
       "title": "365 con Dios",
@@ -39,19 +39,19 @@
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "Dateline NBC",
-      "host": "NBC News",
-      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+      "title": "Reaching Out",
+      "host": "Futuro Media",
+      "url": "https://podcasts.apple.com/us/podcast/reaching-out/id6802824181"
     },
     {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+      "title": "Up First from NPR",
+      "host": "NPR",
+      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
     },
     {
-      "title": "REAL AF with Andy Frisella",
-      "host": "Andy Frisella",
-      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
+      "title": "Unblinded with Sean Callagy",
+      "host": "Sean Callagy",
+      "url": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260"
     }
   ]
 }

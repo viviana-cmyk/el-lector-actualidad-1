@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-10-06T10:01:46.751Z",
+  "generatedAt": "2026-10-06T16:33:03.253Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "Trump firma un decreto para reducir los precios del diésel",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWtLaWhBalNFUlpka1A5MW80bVFWLXVGWVBldnRwUktyaVJMOTRJSHR3d3F3WThpdHRZMW1fSjlqUEo1Ym55QUdubjNFbHA1TjVrN194Y3dHZ0cxY0FRajY1amJfdFlNNTN3VFVCM2lIVzF5Vld6aDljRm40TV9tMXNB?oc=5",
-          "pubDate": "2026-10-06T02:18:00.000Z",
+          "title": "El polémico discurso de Trump sobre Irán y California",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcE1HeWZsNEVWRjhaM1hNeVpMQ2xnUS1jRml4WlpON0dLTlF3QksyY1VuQmdTdENSbmxpTGRQX0E3VGpWMWtqMHJzdFE2UnhKQlJ6YUNxTThwZUs4WlVaVzFscnlzbG1nZWRqUC1SWlRIV1dMN09tLWhUT2liNXhYMkRTblpwMFdPZWVkVnlmRU5RMW91?oc=5",
+          "pubDate": "2026-10-06T16:13:36.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Trump Signs an Executive Order to Lower Diesel Prices"
+          "title_en": "Trump's Controversial Speech on Iran and California"
         },
         {
-          "title": "Video muestra ataque de EE.UU. contra presunta embarcación de narcotráfico en el Caribe",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQak12VWRUc3A2WWFYcE1aN1FTUVBfdkdGdmhQZEZpU0dyY1ZZV3FGcmJRbkg4Sjg3c3huMFpHTHVxQkNXdzJ3NzZHX1Y5YmVJZnpocUV4R0otTV9DNlZLa2otMXVKbk9nTUdiQ3hRNV9FcUE0U2hCTko4VW9HaG9mcjE0RWVldEtsM09XVzA2TQ?oc=5",
-          "pubDate": "2026-10-06T01:00:03.000Z",
+          "title": "El control del Senado de EE.UU. está en juego. Estos son los caminos de cada partido hacia la mayoría",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjJIWlRicHB0T2lpS3lQSVY2U1lmSUR5Ml9SdDl3NDltSng3RElwT3EtRndmemRNYjZCTE9uY1hsMko1VEhSTkoyY1VVeGUzZWhoWG9Eb081U3E3Ty1WRVNCZ3FzQ09LMnBNYk96ZnB0U2Y2M2RsZ1NJQXg0MzhFZTV3VEdmeG1hZEtPM1h0NUJ4UTZQQ1RuYmxqUHdFUQ?oc=5",
+          "pubDate": "2026-10-06T15:47:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Video Shows U.S. Attack on Suspected Drug-Smuggling Vessel in the Caribbean"
+          "title_en": "Control of the U.S. Senate is at stake. Here are each party's paths to a majority"
         },
         {
-          "title": "Marimar Martínez demandará al Gobierno de EE.UU. tras incidente en el que agente de la Patrulla Fronteriza le disparó",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUt4d0lQT1pDVlVuZFJxbVllOExqN215SjkwYi1Gekh4cV80c250eWthbGhsYWJyNnM4d0JueHBpdUxaN0Y5US1ieTYwTGl0aUhQN1dJanltSl92eXlkVEpBT1diTDRvR0Z3clIxQmRiQVBmY292UWFNdW5idHJFNWZ5bjgzM2VwV1FYYlA5UQ?oc=5",
-          "pubDate": "2026-10-06T00:40:00.000Z",
+          "title": "Trump recibe duras críticas tras sugerir que Irán podría \"arrasar\" con Los Ángeles o San Diego",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2F1eEo4VWhMcndCdXJJNVpJSkJjajRoWTVIeVpRV0h3cy1oeVB1UkR3ODRSVzNjRVpBcUxtdE96LXU0cVU3M3Vha3F1blBqYUdsVXlLczVwOUJhRFcyaS11bWIwTndGWWhoZjBnNWNSSU9KVzBKZDdfSFFNLVVJOHJnNHR1Zw?oc=5",
+          "pubDate": "2026-10-06T12:29:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Marimar Martínez will sue the U.S. government following an incident in which a Border Patrol agent shot her"
+          "title_en": "Trump Faces Harsh Criticism After Suggesting Iran Could \"Wipe Out\" Los Angeles or San Diego"
         },
         {
-          "title": "Sobreviviente de disparos durante operativo migratorio en Chicago demanda al Gobierno de EE.UU.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEhwaF9rNkd4OW1FSVlrdGRld3I5OGM2Sk9jNTZQWVJ2cmNzLWF6QWc0X0lBY09UbldtRUlQNlVjdUxmU0g1QVl1NTNCNnpXYktyczI0YW1rUEJ0VVRHT2diVFBqRE04RDBoUzhnd1ZPMEx6MVFEWFYxV2dTcjJMRlBQZ0VWY1VrSm9WQ1NR?oc=5",
-          "pubDate": "2026-10-05T23:50:21.000Z",
+          "title": "Arrestan a exjefe de inteligencia alemán por cargos de traición y espionaje",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlR0N1Azd29QM2xhamdiQTZLZzFDY3NyZ1dUa19oc3RSVWZ2QzZ0azZ3aXZSem1iaUFESHZJYjBWcGFFLUtLUGVLNTh2MHQ0YnFjOV91dm1fS0xSenVkOWF6dGliRnZ6YXRBYTZmeXpDQnY5NUNsbnJDNU1zdHNWVlBxYWRsTDd6bG91WVd0NEVxY0ZHMVBlOA?oc=5",
+          "pubDate": "2026-10-06T14:05:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Survivor of a shooting during an immigration raid in Chicago sues the U.S. government."
+          "title_en": "Former German Intelligence Chief Arrested on Charges of Treason and Espionage"
         },
         {
-          "title": "Protestas estudiantiles sin precedentes sacuden Francia. ¿Por qué están indignados?",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUNwZ2diVktvRGdZVl9fMmFKMklDMUZkaWRla29YMHdYUnZXVV9LSXdrcFVOMWlrRzlqOHcxdzA5Yk1NT2JWM2JYSGVFb0pOV3phNzc2Yk1aaEs1T1M4Mm5YelRfazlyNkFLZGY2WXEwV2tNVjBFdk0taWVxWUpQN2s3dDNyYUZsTFFaLWc4OGlQeGJTNnc?oc=5",
-          "pubDate": "2026-10-06T07:55:00.000Z",
+          "title": "Video muestra cómo la guardia costera de Taiwán dispara con un cañón de agua a un pesquero chino",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWdwR2FaVmllajlJWkdIWko1N01pT21yRFlFMWw2ZGpUTVBOMTN3NHNib3ZWNUIxdDBsRkVLQzFPMmc3YWthckFBaGJfY2swUUJpUWxyWXFYQWJSa2thRlYzX1Z0ZmRBOV9YTkZkdDByZ19LdGZQTmEzYlA4LVRwdjBqQzlmS19tZ3RlVlBBRkk?oc=5",
+          "pubDate": "2026-10-06T12:15:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Unprecedented student protests are rocking France. Why are they outraged?"
+          "title_en": "Video Shows Taiwan's Coast Guard Firing a Water Cannon at a Chinese Fishing Vessel"
         },
         {
-          "title": "Exclusivo: profesores de Cornell preparan moción de censura contra la administración por el presunto caso de agresión sexual",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWM0cWRrQUNsVS1LRlpxekdHRk5qb0NVY2ZlZGNEVFRIdmc2RHBGcUlOUDRDQTZPQkZuUFU2VHVUcnNFX1BoODBiYzduZlY3YmJIbWdIeHRkb3NxS0JuVTRkYWh1T2FJOEJHbDVzc1c1djE5R1RIUzhyaWxkaDkydDRFWDJjRENE?oc=5",
-          "pubDate": "2026-10-06T07:57:00.000Z",
+          "title": "Trump aprueba la primera ejecución por fusilamiento del Ejército de EE.UU. desde la Segunda Guerra Mundial",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVm9ERnhzQ3AxbDlHdFcxV1hkNDFOTmluenZQWlV2Y3FENy1mSGItRDM1VWdxcVNFR1Y2VGVoMXYzVmNUcGlNanNWRDV3SEhQbDRIZnhfMzFFR0dvUnFEMWprbGFQbDhkQVpycnd2VWpnOE8wcFBpUV9DMEk3ekpHUjBwTHk?oc=5",
+          "pubDate": "2026-10-06T09:41:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Exclusive: Cornell professors are preparing a motion of no confidence against the administration over the alleged sexual assault case"
+          "title_en": "Trump Approves the U.S. Army's First Execution by Firing Squad Since World War II"
         }
       ]
     },
@@ -60,52 +60,52 @@
       "color": "sky",
       "items": [
         {
-          "title": "Vía libre al regreso de Puigdemont: el Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’",
-          "link": "https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html",
-          "pubDate": "2026-10-06T09:55:59.000Z",
-          "snippet": "Con siete votos a favor y cinco en contra, el tribunal de garantías ampara a la exconsejera de la Generalitat Dolors Bassa y fija la doctrina de la que se beneficiará el ‘expresident’ fugado",
+          "title": "Elecciones generales del 29-N, en directo | Puigdemont mantiene la incógnita sobre la fecha de su vuelta pese a la retirada de la orden de detención",
+          "link": "https://elpais.com/espana/2026-10-06/elecciones-generales-del-29-n-en-directo.html",
+          "pubDate": "2026-10-06T16:26:37.000Z",
+          "snippet": "El ‘expresident’ celebra la “derrota” de los poderes públicos que “han impedido y retrasado” la aplicación de la amnistía | Feijóo: “Nada puede borrar que la amnistía es otro engaño más de Sánchez” | El PNV garantiza la convalidación del decreto principal de vivienda aprobado de…",
           "_priority": "ALTA",
-          "title_en": "Green Light for Puigdemont’s Return: The Constitutional Court Orders the Supreme Court to Grant Amnesty for Embezzlement Related to the “procés”"
+          "title_en": "November 29 General Elections, Live | Puigdemont Keeps the Date of His Return a Mystery Despite the Withdrawal of the Arrest Warrant"
         },
         {
-          "title": "Última hora de las elecciones generales, en directo | Ayuso insiste en esparcir sospechas sobre las “trampas” del voto por correo: “Que la gente acuda a votar a la urna”",
-          "link": "https://elpais.com/espana/2026-10-06/ultima-hora-de-las-elecciones-generales-en-directo.html",
-          "pubDate": "2026-10-06T09:58:18.000Z",
-          "snippet": "Génova se desmarca de la presidenta de la Comunidad de Madrid y ve “garantista” el sistema | Sánchez comparecerá tras el Consejo de Ministros, que prevé volver a aprobar los decretos de vivienda | Belarra insiste en unas primarias mientras el Frente Amplio las rechaza",
+          "title": "Ucrania instala redes antidrones en Kiev por primera vez para blindarse ante la ofensiva rusa",
+          "link": "https://elpais.com/internacional/2026-10-06/ucrania-instala-redes-antidrones-en-kiev-por-primera-vez-para-blindarse-ante-la-ofensiva-rusa-sobre-la-capital.html",
+          "pubDate": "2026-10-06T15:43:02.000Z",
+          "snippet": "Una malla, como las que se emplean en localidades más próximas al frente, ha sido colocada en el puente Norte, uno de los cuatro atacados por tropas del Kremlin en los últimos días",
           "_priority": "ALTA",
-          "title_en": "Breaking News on the General Election, Live | Ayuso Insists on Casting Doubt on “Fraud” in Mail-In Voting: “People Should Go to the Polls to Vote”"
+          "title_en": "Ukraine Deploys Anti-Drone Nets in Kyiv for the First Time to Protect Itself Against the Russian Offensive"
         },
         {
-          "title": "Claves sobre la huelga general por la vivienda: ¿qué argumentan los sindicatos? ¿qué opina CEOE? ¿cuándo fue la última?",
-          "link": "https://elpais.com/economia/vivienda/2026-10-06/claves-sobre-la-huelga-general-por-la-vivienda-que-argumentan-los-sindicatos-que-opina-ceoe-cuando-fue-la-ultima.html",
-          "pubDate": "2026-10-06T08:42:45.000Z",
-          "snippet": "CC OO y UGT llaman a los trabajadores a un paro general de 24 horas, aún sin fecha, tras la ola de indignación social por el desahucio de Maricarmen",
+          "title": "El clan Bolsonaro, un presidenciable, cuatro nuevos parlamentarios y un sinfín de tensiones internas",
+          "link": "https://elpais.com/america/2026-10-06/el-clan-bolsonaro-un-presidenciable-cuatro-nuevos-parlamentarios-y-un-sinfin-de-tensiones-internas.html",
+          "pubDate": "2026-10-06T15:16:27.000Z",
+          "snippet": "Guía para no perderse en el árbol genealógico de la familia que aspira a regresar al poder en Brasil mientras pelea por la marca política creada por Jair, el patriarca",
           "_priority": "ALTA",
-          "title_en": "Key Facts About the General Strike for Housing: What Are the Unions' Arguments? What Does the CEOE Say? When Was the Last One?"
+          "title_en": "The Bolsonaro clan: a presidential candidate, four new lawmakers, and endless internal tensions"
         },
         {
-          "title": "La presidenta del Parlamento Europeo denuncia el “intolerable” acoso con pornografía ‘deepfake’ a decenas de eurodiputadas",
-          "link": "https://elpais.com/sociedad/2026-10-06/la-presidenta-del-parlamento-europeo-denuncia-el-intolerable-acoso-con-pornografia-deepfake-a-decenas-de-eurodiputadas.html",
-          "pubDate": "2026-10-06T09:34:01.000Z",
-          "snippet": "Metsola urge a actuar contra las aplicaciones capaces de generar desnudos falsos y su rápida difusión",
+          "title": "Trump autoriza el fusilamiento de un expsiquiatra militar condenado por matar a 13 personas",
+          "link": "https://elpais.com/us/2026-10-06/trump-autoriza-el-fusilamiento-de-un-expsiquiatra-militar-condenado-por-matar-a-13-personas.html",
+          "pubDate": "2026-10-06T15:13:46.000Z",
+          "snippet": "La ejecución de Nidal Malik Hasan, autor de una matanza en la base de Fort Hood, Texas, sería la primera del Ejército desde 1961",
           "_priority": "ALTA",
-          "title_en": "The President of the European Parliament condemns the “intolerable” harassment involving “deepfake” pornography targeting dozens of female MEPs"
+          "title_en": "Trump authorizes the execution by firing squad of a former military psychiatrist convicted of killing 13 people"
         },
         {
-          "title": "Dos barcos comerciales son atacados por drones en el mar Negro",
-          "link": "https://elpais.com/internacional/2026-10-06/dos-barcos-comerciales-son-atacados-por-drones-en-el-mar-negro.html",
-          "pubDate": "2026-10-06T09:20:33.000Z",
-          "snippet": "Uno de ellos se ha hundido y otro ha tenido que ser evacuado un día después de que otra ofensiva matara a dos personas a bordo de un buque en Rumania",
+          "title": "El voto del PNV permitirá aprobar el decreto de vivienda que tumbaron las derechas",
+          "link": "https://elpais.com/espana/2026-10-06/el-pnv-volvera-a-apoyar-el-decreto-principal-de-vivienda.html",
+          "pubDate": "2026-10-06T15:06:26.000Z",
+          "snippet": "Las 20 medidas acordadas este martes por el Consejo de Ministros será convalidadas en la Diputación Permanente del Congreso",
           "_priority": "ALTA",
-          "title_en": "Two commercial ships are attacked by drones in the Black Sea"
+          "title_en": "The PNV's vote will make it possible to pass the housing decree that the right-wing parties had blocked"
         },
         {
-          "title": "Estados Unidos retiró sus bombarderos de la base británica de Fairford por un posible ataque con drones de Irán",
-          "link": "https://elpais.com/internacional/2026-10-06/estados-unidos-retiro-sus-bombarderos-de-la-base-britanica-de-fairford-por-un-posible-ataque-con-drones-de-iran.html",
-          "pubDate": "2026-10-06T08:49:45.000Z",
-          "snippet": "El intento de atentado formaba parte de una conspiración para destruir aviones y matar a estadounidenses, según ‘The New York Times’",
+          "title": "Absueltos 11 activistas de Greenpeace por una protesta pacífica contra un buque cargado de gas de EE UU en Sagunto",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-06/absueltos-11-activistas-de-greenpeace-por-una-protesta-pacifica-contra-un-buque-cargado-de-gas-de-ee-uu-en-sagunto.html",
+          "pubDate": "2026-10-06T14:51:07.000Z",
+          "snippet": "La fiscalía llego a pedir cinco años por desórdenes públicos",
           "_priority": "ALTA",
-          "title_en": "The United States withdrew its bombers from the British base at Fairford due to a possible drone attack by Iran"
+          "title_en": "11 Greenpeace activists acquitted for a peaceful protest against a U.S. ship carrying natural gas in Sagunto"
         }
       ]
     },
@@ -114,52 +114,52 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Kenya confirms first Ebola case and says patient has died",
-          "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-          "pubDate": "2026-10-06T09:35:12.000Z",
-          "snippet": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya ⁠has recorded its ⁠first confirmed ​Ebola case, a Kenyan citizen who had been living in the Democratic ⁠Republic of the Congo and arrived in Nairobi on Saturday, the health m…",
-          "_priority": "ALTA",
-          "title_en": "Kenya Confirms First Ebola Case and Says the Patient Has Died"
-        },
-        {
-          "title": "Germany arrests former domestic intelligence chief over alleged spying",
-          "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
-          "pubDate": "2026-10-06T08:59:16.000Z",
-          "snippet": "August Hanning served as president of Federal Intelligence Service from 1998 to 2005 Germany’s federal prosecutor’s office has said a former domestic intelligence chief was arrested on Tuesday on espionage allegations. August Hanning served as president of the Federal Intelligenc…",
-          "_priority": "ALTA",
-          "title_en": "Germany Arrests Former Domestic Intelligence Chief Over Alleged Espionage"
-        },
-        {
-          "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
+          "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
           "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-          "pubDate": "2026-10-06T08:47:20.000Z",
-          "snippet": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? Join us for a live conversation on 6 October at 12pm ET with political and global correspondents Sign in or sign up to join the conversation Welcome to our latest US midterms…",
+          "pubDate": "2026-10-06T16:11:07.000Z",
+          "snippet": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? We’re live with political and global correspondents to answer your questions Sign in or sign up to join the conversation Roxanne Magnuson from Oregon, USA asks in a reader ca…",
           "_priority": "ALTA",
-          "title_en": "The war in Iran is unpopular, but will it cost Trump the midterms? Our reporters answer your questions"
+          "title_en": "Our reporters are answering your questions about how the war in Iran will affect the midterm elections"
         },
         {
-          "title": "Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego",
-          "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego",
-          "pubDate": "2026-10-06T08:04:20.000Z",
-          "snippet": "Gavin Newsom calls comments ‘deranged and dangerous’ after president tells Nebraska rally: ‘They can take out a city’ Leaders in California have denounced Donald Trump as “reckless” and “deranged” after the US president suggested Iran could “take out” Los Angeles and San Diego –…",
+          "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+          "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+          "pubDate": "2026-10-06T16:10:19.000Z",
+          "snippet": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is…",
           "_priority": "ALTA",
-          "title_en": "Trump suggests he would let Iran “take out” Los Angeles or San Diego"
+          "title_en": "Badenoch suggests the Tories would not reverse Labour’s “triple lock” pension legislation – UK politics live"
         },
         {
-          "title": "US households pay 62% more for water than they did a decade ago, study finds",
-          "link": "https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study",
-          "pubDate": "2026-10-06T09:00:09.000Z",
-          "snippet": "For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author says US households are paying 62% more for drinking water than they did a decade ago – outpacing inflation, grocery prices and household incomes, according to a ne…",
+          "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+          "pubDate": "2026-10-06T16:05:03.000Z",
+          "snippet": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media gia…",
           "_priority": "ALTA",
-          "title_en": "Study finds that U.S. households pay 62% more for water than they did a decade ago"
+          "title_en": "Whistleblower Claims Trump Ordered the FBI to Investigate Anti-ICE Protesters in Los Angeles – U.S. Politics Live"
         },
         {
-          "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on October 7 anniversary eve",
-          "link": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
-          "pubDate": "2026-10-06T07:00:06.000Z",
-          "snippet": "Relations have soured between the two countries over a number of issues since 2023, but Hillel Newman says a ‘reset’ is possible Get our new political email, free app or daily news podcast Israel’s ambassador to Australia says the third anniversary of October 7 is an opportunity…",
+          "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+          "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+          "pubDate": "2026-10-06T15:41:12.000Z",
+          "snippet": "Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers dragg…",
           "_priority": "ALTA",
-          "title_en": "Israeli Ambassador to Australia Says He Hopes for a Return to 'Traditional Friendship' on the Eve of the October 7 Anniversary"
+          "title_en": "“This is state violence”: Paris students lash out at politicians and heavy-handed policing"
+        },
+        {
+          "title": "Trump’s suggestion to ‘take out’ LA or San Diego draws Republican rebuke",
+          "link": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
+          "pubDate": "2026-10-06T15:39:22.000Z",
+          "snippet": "Congressional candidate Jim Desmond says he ‘served to protect Americans, not write off American cities’ A Republican candidate in San Diego has criticized Donald Trump after the US president suggested Iran could “take out” the city or Los Angeles. Trump has faced a chorus of con…",
+          "_priority": "ALTA",
+          "title_en": "Trump’s suggestion to “take out” Los Angeles or San Diego draws criticism from Republicans"
+        },
+        {
+          "title": "State parliament elects Germany’s first far-right speaker since second world war",
+          "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+          "pubDate": "2026-10-06T15:38:58.000Z",
+          "snippet": "Tobias Rausch secures role of president in Saxony-Anhalt after AfD’s election breakthrough Europe live – latest updates Alternative für Deutschland has become Germany’s first far-right party to secure the position of speaker of a regional parliament since the second world war. To…",
+          "_priority": "ALTA",
+          "title_en": "State Parliament Elects Germany's First Far-Right Speaker Since World War II"
         }
       ]
     },
@@ -168,52 +168,52 @@
       "color": "mint",
       "items": [
         {
-          "title": "Lawmakers Set to Elect Germany’s 1st Far-Right Statehouse Speaker Since 1945",
-          "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-          "pubDate": "2026-10-06T07:58:17.000Z",
-          "snippet": "After winning a state election last month, the AfD is now on the cusp of being the first far-right party to oversee a state Parliament since the Nazi era.",
+          "title": "Live Updates: Student Protests Expand to More Than 40 French Cities",
+          "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+          "pubDate": "2026-10-06T16:25:08.000Z",
+          "snippet": "Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.",
           "_priority": "ALTA",
-          "title_en": "Lawmakers Set to Elect Germany’s First Far-Right Statehouse Speaker Since 1945"
+          "title_en": "Live Updates: Student Protests Spread to More Than 40 French Cities"
         },
         {
-          "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
-          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
-          "pubDate": "2026-10-06T04:01:14.000Z",
-          "snippet": "Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.",
+          "title": "People of All Ages Join French Student Protests, as Movement Broadens",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
+          "pubDate": "2026-10-06T16:14:08.000Z",
+          "snippet": "Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.",
           "_priority": "ALTA",
-          "title_en": "Strikes, Barricades, and Fiscal Turmoil: An Autumn of Discontent Grips France"
+          "title_en": "People of All Ages Join French Student Protests as the Movement Gains Momentum"
         },
         {
-          "title": "A Pensioner’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
-          "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
-          "pubDate": "2026-10-06T09:03:47.000Z",
-          "snippet": "The eviction of an 87-year-old woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.",
+          "title": "Spain Clears Way for Separatist Leader to Return to Catalonia",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+          "pubDate": "2026-10-06T16:03:07.000Z",
+          "snippet": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
           "_priority": "ALTA",
-          "title_en": "A Pensioner’s Eviction Brought Down Spain’s Leader. Will It Also Save Him?"
-        },
-        {
-          "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
-          "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
-          "pubDate": "2026-10-06T09:03:33.000Z",
-          "snippet": "MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.",
-          "_priority": "ALTA",
-          "title_en": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Down Cartels"
+          "title_en": "Spain Clears the Way for Separatist Leader to Return to Catalonia"
         },
         {
           "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
-          "link": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
-          "pubDate": "2026-10-06T07:02:29.000Z",
+          "link": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
+          "pubDate": "2026-10-06T15:55:46.000Z",
           "snippet": "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government.",
           "_priority": "ALTA",
           "title_en": "India Removed 130 Million Names From the Voter Roll, Fueling Protests Against Modi"
         },
         {
-          "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
-          "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-henning-arrested-espionage.html",
-          "pubDate": "2026-10-06T09:35:39.000Z",
-          "snippet": "August Henning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.",
+          "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
+          "pubDate": "2026-10-06T15:54:36.000Z",
+          "snippet": "After winning a state election last month, the Alternative for Germany is the first far-right party to oversee a state legislature since the Nazi era.",
           "_priority": "ALTA",
-          "title_en": "German Officials Arrest Former Spy Chief on Espionage Charges"
+          "title_en": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945"
+        },
+        {
+          "title": "Protests Spread Across France, Growing From School Demonstrations",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
+          "pubDate": "2026-10-06T15:32:24.000Z",
+          "snippet": "The rallies are a test of the strength of the student-led protest movement that has escalated at French high schools since late September.",
+          "_priority": "ALTA",
+          "title_en": "Protests Spread Across France, Growing Out of School Demonstrations"
         }
       ]
     },
@@ -222,52 +222,52 @@
       "color": "green",
       "items": [
         {
-          "title": "Barack Obama to campaign with El-Sayed in Michigan race’s final stretch",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakh0a2FxcFpGMU9la2pfbGZvZ2RFcVZUTVh3MEk0SHZpUVI0cmtrRkR5Q0tlU2JhTjNtTlkwMFhQUmNGQ1diZkZyM1FsZE9tbndnS2ZCNzVOYlRjZ1NmQlJMNl83SHU5a0UtcFpCTnBQLTFud28xRkRZOWx0Zms5TmVSeTJ3NVNuTkNhZjFtUy1lOXo4cXdxQTU1cWFaMjVQQXlHYkRwbzByQktnaDFJZmtIcW8zeHc?oc=5",
-          "pubDate": "2026-10-06T02:07:16.000Z",
+          "title": "Paramount closes $110B deal with Warner Bros. Discovery after months of wrangling",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFphZVVjTXIycFF0TkVJdU1nYWNuNkZjWXJnNVExay1OUFlWLWVLRnJpcEYtNG5lSGZGaHNSaFBwdms3WkhCaVhkbGpqUzhCMlF0V3JVNWd2aUdkVnlTLW1CRkdoSFl1RGxaUktBZmwxVGtIMHlfcEh4Y0oyREYweDkyM3hNUTlZZWRjenRyTDZ4LUlKY1Jzc3Juc2JtaGhfVnc3U2VkZTlOTVJTbFJLS1gyX25DV1dUMktyM0FCU2tVc1lhRV9B?oc=5",
+          "pubDate": "2026-10-06T16:23:29.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Barack Obama to campaign with El-Sayed in the final stretch of the Michigan race"
+          "title_en": "Paramount closes a $110 billion deal with Warner Bros. Discovery after months of wrangling"
         },
         {
-          "title": "White House blocks Politico from Air Force One trip, cannot secure replacement",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0JfUUF6b0JGeThTcHZzdzlWYVExY3NjRmxjd0hpSTlPZS1ZV2ctZEgzb3RXZjFjX0lwbjVWUnhLcTRWUUZMc1d4dnBZSjhzNzNhdktnYzdaNXpHRURfOWxvU05zbVRSU0NkdWtpZXZIalh1WGZXMVdzNzhFR25qQnVEVDlLY2lvODZRWWhDdkpYa3FLSGExYll5REFuOUE?oc=5",
-          "pubDate": "2026-10-06T00:04:08.000Z",
+          "title": "Kratom, an opioid-like drug linked to deaths, remains legal in most states",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnphYTdWMmFhZ2hyRjl3V0t4d1cyN1MyeUZMaktZNTFVVkJZOWJxWTMwZEFFYWl2M0JxRlNxQnl4WmZBRTR6NnE3RmdZQ1gzYlJ6MWdUTzdKUm5lVXdSZmJIV3k3REFxVlRzbFRaclJTT1pjN3dnZGswZkhqeF9ZRkd2MHp2QWEyU1ZxdnMwbWwzUXRCMDJrZWlIdkI1dVFaZEJJaVlHTzNxNmZFcEFHT2V2YzBiWDQ?oc=5",
+          "pubDate": "2026-10-06T16:18:10.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "White House bars Politico from Air Force One trip; cannot secure a replacement"
+          "title_en": "Kratom, an opioid-like drug linked to deaths, remains legal in most states"
         },
         {
-          "title": "With attention on Gaza and Iran, Israeli settlers grab land in West Bank",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMklnQ3AtQnFqMWRHLTR1WFptSDgtd3E1YnMwclVDQ2U3ZG0yem42eG0zU3dQOEt4cDRUNTVTUmZqOThmOEc0UVpaZ3BHYTZKZElkbUdGRUc1cE1ZLURkRVpqakZFU25aQzlHaVlQbmQ3ZkUwZkRqTmpDQklZSEVuVGhUX1FxMFhBTnZrb1hNeVpwTFJhODNXbFBobkVVS1BqOVZxNFdn?oc=5",
-          "pubDate": "2026-10-05T16:00:00.000Z",
+          "title": "Trump approves firing squad execution for Fort Hood shooter",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRWTm1oLXhpS2ljRUF1cjJ5VFdoVVFfTGFNbUtFUU5rMElSQjZOam9FOVE3YS14OVhTcWxEa3ZpWm1UWnZMOEtzY2ROaThtVHVWLU93QUx5Z25MN1lYOFVhdHdJUTZnMzIxU0M5NVNoR2pvcS1CbU5sYi1pa2R5QWg4R01ScHVONG1uOFJ2ZDJtUkFjVldIR1BVRDlBU08ydk5LMHEzd3hyNHZ2UEplbkV3NEpENDdQVnYtZnNyclZDWFR6?oc=5",
+          "pubDate": "2026-10-06T16:12:24.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "With attention focused on Gaza and Iran, Israeli settlers seize land in the West Bank"
+          "title_en": "Trump Approves Firing Squad Execution for Fort Hood Shooter"
         },
         {
-          "title": "U.S. military removes bombers from U.K. base targeted in suspected terror plot",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkpxWlg0bUxwb0NsTllSWndLRnRSRk9tTmdhY2ZZc2MzNEFza0tZaDdLRnU3TGxUeWd4Q3VObTkyWHNFODVYTjN6cjlDOFI5VzBMM3BhUmh3eHRfQWJQQ1FySm5naTJMWUtLRUtPaTd4RVV0bFB1ZzdpVmlQUFdxUFktWU9oUWt5bHRQZXkwa3VoTVk3c18wcUxxZElWZkdmYUhpVkF3MXlBVnA0T3hTWVR0Zmptam8?oc=5",
-          "pubDate": "2026-10-05T05:22:07.000Z",
+          "title": "Intelligence on potential Iranian drone attack led U.S. to move bombers",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckl5bW5PZ2lxMWh3b3pfWDc4NU9DQVNTaG96RE00ajRhcmpuYy14X0NQMkgydDZGdVlyU1RsMWswbzZFamlRR1lPVjFkN3JPSXRSWExLMjUzUHJ5Xy11ZmtkV3B6YVBveG44UDM1cVdBUHpEazVYaG1fZ2R5NnFrejNoVWdYeEQyUFB2UXE3aHEzRkdBcVJfYlNlaEJKbk12VGdRZFQ1eEtRWEVSX0E?oc=5",
+          "pubDate": "2026-10-06T16:07:54.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "U.S. military withdraws bombers from a U.K. base targeted in a suspected terrorist plot"
+          "title_en": "Intelligence on a potential Iranian drone attack led the U.S. to deploy bombers"
         },
         {
-          "title": "With threats to midterms, states say Trump administration isn’t helping",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeG9TU1NTbWVoajdGNWlRMENWV19STzZDWFoyeC1Gcm9XVGktLUwxWmlyYVZ4cmFkQm4yTU1US20zelJBS0lwX0hBM0swVS03SHZVejRqNTNDNWRYSGNnV2c2Ump2WWdzOFBSZl9kcnYydVE0UVV0YW5CU20tY0tBSG5kbHcyeXJKcHBiVGNWYXFpcG14NjRoNEstYkpOUGd2VTFMYUVvUnhZOS1fbHlrZjVBRk1JeERoN0E?oc=5",
-          "pubDate": "2026-10-05T03:45:00.000Z",
+          "title": "GOP is at risk of significant state legislative losses, Post analysis finds",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGVfXzJWLXBud0hzT3I1VlBkWUxlS01EZ0duZkNKYkI3Z2NXOVBMc2Y0ZTVBajVLMzdwamdtak5Hak45VWxHckhSbjViUzJzN2NwYnBHTnNuY2hXNTM1TE85amNKVFVJRUQwUnRtMGNtMjU4ZHh1cXZFalgxMUZZdmtmYkFLRUJRc0NzODdQUThMbGZxakNQam9FYmJ4aVRKS0x2UHNrZTBLXzRJaWVwX0RFdF84RjN3TkZr?oc=5",
+          "pubDate": "2026-10-06T13:32:52.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "With midterm elections looming, states say the Trump administration isn’t helping"
+          "title_en": "GOP Faces Risk of Significant Losses in State Legislatures, Post Analysis Finds"
         },
         {
-          "title": "Opinion | What are the best ways to lower the U.S. deficit? Test and find out.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTFpNWxOaUZsWnA5OGZRNXJOOUZZcWRSbnd6UDBsck0xNzlpSlcyQlh6TGlRZUktWDNEZGdRT2RMMUg1Sm9OSTNyNGM4VXB6ODUtdnh4UU9xR2prWWpRMldKUkRJeDFfdlBFX2ZmZTZHaG9kdzJrUkdmS0hBME1YMEtRT1ctbmk0QjQ5NTFaclpwLUpxYVhaa01uUEw4OFN3akFmaDBWd3hiMU9VZkxBVklocE53WmtSbGVF?oc=5",
-          "pubDate": "2026-10-05T18:30:00.000Z",
+          "title": "Opinion | The Supreme Court foresees a shakedown of the energy industry",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWkpudk1pZWc3RWdybnVqdmhoRVNiSTJyTnpUR0RFZUZVUTMzMjFLSFZRazc5bWxMeEd1aXEyeG1mdHBLYy1VaFRwUUJmZ2RFVVc3c2xDSEhlWTJReVNzX3luVFRJNmNpd2s2UkFmQnNJMXpkRTRGQV9fRFNCUU1UakplLURxM2MtWWVIT0xQbHpMX0dCVnJtWEpPb2VueUJycENEVHVHMUx2bEN1RFB6VzN6UDNtYlI4?oc=5",
+          "pubDate": "2026-10-06T04:43:11.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Opinion | What are the best ways to reduce the U.S. deficit? Take the quiz and find out."
+          "title_en": "Opinion | The Supreme Court Anticipates a Shake-up in the Energy Industry"
         }
       ]
     },
@@ -275,6 +275,14 @@
       "name": "The Economist",
       "color": "lilac",
       "items": [
+        {
+          "title": "House call: Spain’s snap election",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDd6STA0c1JpaElfY1h0VDl3WkhPbHFialRhQnl5WU9qTF9QWDgwbVBBTXFFZDdkV2w5Z2oxY0NZU3Itd1czRi1JOGJUWkVCa09rdEFSeTFqTWlyUWtxb3dkOURGUTV6aEZSbWx3N1h2dnJvMWJTX1dOT2tEZ1ptbGJJMA?oc=5",
+          "pubDate": "2026-10-06T11:12:10.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "House Call: Spain's Snap Election"
+        },
         {
           "title": "World in Brief: Turkey and Pakistan come to Saudi Arabia’s aid; Spain’s snap election",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSV9JTllMUEZFSzRvMDFVUEVxQm5qU01vSlZhM2MtaENxRll1ZUdJQUh5OG1iNTIxLUZBNDlWSHQ1TlFkbzFvUU1FZXNVaWFqczFrU01TR2Vvc3pXT0hkTW83bXNtZ2E0YkRaSGNCeGJwZENLazJMODNJM0wyYUZuT2t3SEZhaEF2SWdlRjRJcC1JVlZOZGE0?oc=5",
@@ -292,14 +300,6 @@
           "title_en": "World in Brief: Bolsonaro and Lula Head to a Runoff in Brazil; Spain’s Snap Election"
         },
         {
-          "title": "The bond market sell-off is helping the dollar",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1l1QW1EOEx6bkhqVUZMRGdoNnQ1U2loYkFHTW5RVVRacDNvWlZuTnRQYUtWSUpQU3lIRGpTNm5SNDFNRW1RV09aRnJHVERoaHhvMVAyaUk0RVBVdEtEQzFfZUs2VC1GUWE3RmxES3RWLUt4ekJ3dG1raGMzWlRiWE1UcENtZ3ZOY2k3UUtMUGZiMDRKV1FmSlVUTDAySHZyU0s4YzVYNjU?oc=5",
-          "pubDate": "2026-10-05T19:31:48.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The bond market sell-off is helping the dollar"
-        },
-        {
           "title": "Germany and France want EU storm gates for China’s trade surge",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmhUOTcwcWRwMnFMa0RrZEtEQl9BQ2dXS283eFhCY2d0cjFqdmlHcHpYSWtHeWtwMC1lRmlQckNiNldKUkRpNlhvYnBpazF4dFpZX3V3VE5JTzlRT3k2VXA5OEtOQVNWdGJCVEhoZGZ2QUxqOE5HNU55aWhSaGM2LTFxRDRXQU85Q0tKUTJ2em9JRm1pTlZhRFc4dE5UNUVBYjhEZ3JnQ1k?oc=5",
           "pubDate": "2026-10-05T18:58:01.000Z",
@@ -308,20 +308,20 @@
           "title_en": "Germany and France Want the EU to Put the Brakes on China’s Trade Surge"
         },
         {
-          "title": "Pedro Sánchez gambles on a snap election—and populist policies",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUtaaXgzS0RLZnNCTFpMaVNUcVAxcWdTLTNLZW5yYWgzS3pINkJ1SzVRbXJ1Yl9aRFRkOUl2dWlkYlZmNjlQb2xGNjMtLWUtbW5USXBoSVNWeXNpZmFTVHI0ZXlrd1h0WFIySWlGU2RCanRvTGpnR01jRFJJMzVkMGVaTXpYTGVvRjVBa0RvVHBlVHZXcV9aTk5hOUd3OUV5ZUI4RnU3eDBTQQ?oc=5",
-          "pubDate": "2026-10-05T13:16:24.000Z",
+          "title": "Fifty years after the Cultural Revolution, China won’t talk about it",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQamx4NVRKaGtHUm5JdGt6MHZzVjluaHhVTkk2bG03Q0hzczhJaTdIb1V1Q19kcVdOei1xSkx4VHRvb1RrY3NLSWsycTZhbWtwT0xMSXkydnJFMFJ3NHFVbEFXeDUxQlVZTFVqc1NYTThsbDR1UUIxMXJIYzNFQl9pU0kzTDIybF9zSHo3Z1B1X3FKT0JXbE1vYjdUUS1OQTFwUXJTVEVLcXBJVTVYTmc?oc=5",
+          "pubDate": "2026-10-05T16:51:25.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Pedro Sánchez Bets on a Snap Election—and Populist Policies"
+          "title_en": "Fifty years after the Cultural Revolution, China still won't talk about it"
         },
         {
-          "title": "Here comes the son? Brazil’s election tips rightward",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaW85ZXVGdTVPMlN4OGpRUU1yRXJkOUhlc0h4REJrUm9BV3AwTlVHNzJpQTVvNE9NV3J5VDhNY3VMT2FwNkJ4VDJnTmNYQkQ1dnBpRUZnWC1rNHUwOVdTZEs5dVhHQ0pkM19ySDNTZFpEVHlmdVdRNVd4ZDA4SE5FN0xLU1hTUEhFcVc1MVQ1Tk5uOUIwRjJ0c3ZOOVQ?oc=5",
-          "pubDate": "2026-10-05T10:20:11.000Z",
+          "title": "A controversial new power grab in Pakistan",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWldDcG9GOWJ4SDVibnFTUFZudGQ0TkFmQkxnc09UV1FvSFNlNmFTQlJtRVhOczZWbDFxWGx4ME9YMjhGd3dEdDFfbjlzQWhVRFBNaWlsUkppSWNWQzE5VzFubWZHSG5ZWld4X04yNXd4Ul90NGZNTGVjanJWTUFhYkVwYzJ3aWJ4d2hhYg?oc=5",
+          "pubDate": "2026-10-05T15:30:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Here comes the son? Brazil’s election shifts to the right"
+          "title_en": "A Controversial New Power Grab in Pakistan"
         }
       ]
     },
@@ -330,12 +330,28 @@
       "color": "peach",
       "items": [
         {
+          "title": "Brasil, la derecha y el modelo Bukele, escribe Solange Márquez",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUC16SmJVTmZDZlBDNVRMM0FEdFAwV1h2cV85WkJ0dnlnWXZXSWZsNWVpbTZKc1MwZzRLbFV5TXZLbXVvWUF2elB0YWh2M3B6LWpSUGV6dnVUNFFKbUp3UXBacmotTmNpWmRrdWtwemI0VVhtXzJCQUliREN1QzhXdDFBVHNac0NPbW8zN2pzbUM4TE5tcjU0?oc=5",
+          "pubDate": "2026-10-06T10:56:52.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Brazil, the Right, and the Bukele Model, by Solange Márquez"
+        },
+        {
           "title": "Sheinbaum y Ronald Johnson chocan por seguridad y soberanía, así han sido sus desencuentros",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdm0tV2hIUC1SaE1UNkxqV0M3YkpXOHFMLXZFeExSVkZsa3lfVnBYRExQNmpTbHJFeE5nZ3N3TnFrTExjY3lSZ2FpeVdwbjFYTzVWRHFuXzZhUDhTU2QyT3BwZnV0a1AxOHp0eFduV09yZXBMOEpXeEl3TVlKTmNidXpHeVNSaVh2Vi0xQW5hV0dRWnNBbnZmdjFiclpLUlUwcGZPcUpnb1dpQUM3QWxCWldPQWlZRVVOTVJpM1l1SWpMTnllaDFyYtIB3AFBVV95cUxQSHRKU3NjVjVBR2pIYVF4cUd0NkcxYzFGSlVvSnFicGVXSVpiZ0FTOWhqdmFHUGdOM0hNV2hlWW9rTDlPeGwxVzNjRVpHeTQtVFcyOU5KVnUwS1FuYUpvUXo0aENzVWxybXg1UlFITWNUOTZjdTFGdGZPNjMtTnVFZS01OWR3emluSkZKdTZIWm14ajlESmVrY2pTLUs0bGsyV0cwMThLWjVvYWxiQ3hLS2c0cGhmajBLNjVYbG5BTTBPc2hHb2kwX0R0QXZjWDhadEdHUHV1RGV4ellm?oc=5",
           "pubDate": "2026-10-06T03:40:41.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Sheinbaum and Ronald Johnson Clash Over Security and Sovereignty: Here's a Look at Their Disagreements"
+        },
+        {
+          "title": "Trump aprueba ejecución de Nidal Hasan por matanza de Fort Hood; exmayor será fusilado",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnlXZnRkVjBpeXJNenFlenc2LW1ZZmVodmRpcm5MUFV3d0haNllZTnRUaFlhUHlpbjdBN0xUUmtYVzRWYnRIaEd4LVNEWlZFRkZEWmlDR1FzTnNINVotWjl0OXRqVEFDQzFWR1ZVNjhjX2YtNENvQkk2THJ6N0VnVE5MQVNvLUVwRUoxbG14NGlOcV9wWWpkZ0R6N2h3OTdpc1Z1R0k2R0lBSG1rTVdlUG9mQWdwX2JvXzRuOUhIS0otNEk?oc=5",
+          "pubDate": "2026-10-06T01:22:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Trump Approves Execution of Nidal Hasan for Fort Hood Massacre; Former Major to Be Shot"
         },
         {
           "title": "Rosa Icela Rodríguez garantiza seguridad en elecciones del 2027 y descarta intervención de EU",
@@ -354,28 +370,12 @@
           "title_en": "PVEM Will Respect Morena's Polls in Selecting Candidates, Says Velasco; Coalition Districts Still Under Negotiation"
         },
         {
-          "title": "Sheinbaum cuestiona participación de embajador de EU en academia policial de Querétaro",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQajB1dWdKZC1ubXNMLTZDamxEdGtBQ1JCS2t5Y040aUl6LUJPRlhBNkRyV2d2OFFPdEl4TklyRV9ieU5scUJHamF0SWV0eUVtXzh1LW9yTHh4RXJHdENZZWFlVVJaRVhXV04tdkRhSHI2M0ktOEp0QVBkakZtakVRRjhHNG9iX0xnbjdENG1vLTlfbjV2aENHVjdOUERWOWFuZlFxa0JlMWpWc0tFd0lpV1RBbVJ2WEN2eUZwYTdTc2E3NnFlQ2FwN0hpa0xvZmxmeDBBTXdzLXdOQkU4RHBFUE15bkt0OFJHYjAyVG9fTk44X2lW0gGIAkFVX3lxTFBQYU5nUGViQ3NOcjNJaXJaWFE3ZHJSbzl6dmVvdi1mb0JUbjdTOUhMZms5UkdfdXh0QTFCeVdNbDktaUhZRXRWV2FLdHd0YzFhNjVUNEVFQXJlNGM5akZuUTVZc1pVckZhZ3BiQWpNYkVtQldQOG16RnpkR3RodnhvTGtpWkJHQklrZHFneVRKdUtyYURmRDBXSHRHeUFEVFVDUnp0UlFvR1NHbU5VSkcyajdvcWNmdk9YR2xfUlhCWU1UUm83VkE3ODV3UnQ2eDh5R3RPaGVTcEhzY2l0QlloVWpDTWtxVlVKbldUMmNIdWN1eUVpTlplQzU5M0ZhR1VLNnI1cFdhNw?oc=5",
-          "pubDate": "2026-10-05T15:10:00.000Z",
+          "title": "Sheinbaum alista decreto para prohibir propagación de violencia en redes sociales",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORFJYNXF4YktBRWcwZFphc29tUDJ2Y2JPV2dUWVpiX0ZRU2pfWkhlamFpS3ZSX192UWtHS3JPYkZsQnB6bEtEclRpM21DRHg3NTFScndfX3VlSDcyRlByeHQtaldRWEJ5TV90VXhjbHdWM0RjQzhldjhkU0ZMYXZPc1dncHMwVWUyWWs2MTdCaGxPQldOc0xGLXVwMHhGTzNwbThQV2RfYnBIVFp6dkstVjB1OHRXS2YxY2laa3BITkxDeExkRjYzbVBWSVNKMGRZZ2pTZnNBYTdEUjNXZXpkOC1wTTVjNnpROThxSUNEd2JjZ9IBhgJBVV95cUxOOHI0VVpDZkY3eDF6YWI0RmlMOHlpYXlCRGVVeWlqZ3dvYzZPVzRaNEdJaDdzcER1cUU1dFNGRllxbldfMXdNTUJjbFZvTElwNUdiZnhXWXBGTGlVMWRzUXZZQWxJbjRYZmxMSndnUnJqZGZ3UnQweVQ3ak9pU1pweWllRmExcEM5Qkx6VTZ4VEs5Q1lkSDhyTzVSeEtNZnVJYXJrODRTYUxQeWgwQm42eTlLUDRjT0Y5UVVXX0h3ejYyX1VqT1RwajRvc0pFd3U0bHF5RkR3dVdlUjBoVTRPOFZWZTBKTlpKSy14ZURpMms0ZnBDc1lDZGJzSThpS0tEM0NEbEdn?oc=5",
+          "pubDate": "2026-10-05T16:35:29.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Sheinbaum Questions U.S. Ambassador's Involvement in the Querétaro Police Academy"
-        },
-        {
-          "title": "Catean inmueble en San Luis Potosí por robo a autotransporte",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1ptTDE4WnQyZUowR3QteGJhZUhlMVluZVliVlJNTlhvTVVyQ19zTnhzeHNxb3lYWHdZeUxneWhvVE1KOVRvZFliRHF0ODA0RGdkY3hOeFRlNWtXcENqeEF3NkZ5UjByeTBjR3gzaUFfWE9NVUZzZWhiUzExbkwxczNlNnIzdGxWdDRBOV9rRWQzR3IzdU01RGtTc0RybHE1UzRpcHNwbDR2VWQ0b2hSZWtnN0JmTFVVUmFWZ1RlYWhzNFhQTlFBdlRTeTlZZ9IB4gFBVV95cUxQR0xVak1DNnFjU1FfZEg4aUM1NWV3M2xMdEJZV3BneHNVZmpmY3BBeTA3S0FFbXY4RGRPV0Vzb3RYeDdCVC14QWg3bV95TVZmNy10NXExY2c3SW1FNWtNVE1sSVR0S2dkbWs3LVZ2V0FqVDN2bTVDbkc3VjZ2T2s3eXNwTUJhOHcyNC02RU4wTmpHN3pQeGR4M3pxbksyS3RKRlMtQmJSeExRSTctbkRsTVJCaW81ZE9mSEFDNk9rczFVTExYbkw0Q3FmVmVZTG5WVUs1MGhTY3Q1VlNJOFlpUmh3?oc=5",
-          "pubDate": "2026-10-05T13:40:59.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Property in San Luis Potosí Raided in Connection with a Trucking Theft"
-        },
-        {
-          "title": "Gastan 40% de ingresos en transporte público en Valle de México; esto se paga entre camiones y metro",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0JlVG91cUtnWC1BczB6MElzbzJMaFphQkF6dFAzSF9lYURCWFl5a0VWb0dONGlBTUFKdGgwX085RktDX3BGT2oyWFFEdUx2UkVCYjZRejVBdExTUFJhZENaREZ3aThwUjdNU1NPcndsdHNGTGtQLURuNEpldTdNeHZueGhtZ0dpdDFUUHcteHVUMmUtMU9yWjZBZUFSdjloM2RSQklMOE9CUWdnUTE2LTBjbUJUUFlFLTVXZzJJbi1wZVM4a0xLN0gzbkJNcUEwZzBHdXltQdIB6wFBVV95cUxPeEh2RTJtZzVfTmxCVVRCQ3paaERpT1pUM2VGelpQdUJxQ1FhNnBxdUZnbTZhRC0wR1BGR0F0SzVRSU5LZFRjbGluXzNFU2pzbnlzbGdkVVl3SGxnUGN6NzVpOGIzYll4cWNvTjVyOEFIVk5EOHNUM0x2NXpNZjNPV05rVU5fMmkwa0lwS1NwcU9TVW5Sd2FNXzRqU0RRVnB6Tl8yaGUxZ2lqc3hFdlFlSjFqSFdlZU9xM19kalFnRkRBZHZEOFU2RzdBYVd0LUFDcy03Qkx5OEE5ZV8zMTc5aURGYjhOSm1EcVln?oc=5",
-          "pubDate": "2026-10-05T11:37:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "People in the Valley of Mexico spend 40% of their income on public transportation; this is split between buses and the subway"
+          "title_en": "Sheinbaum Prepares Decree to Prohibit the Spread of Violence on Social Media"
         }
       ]
     },
@@ -383,6 +383,14 @@
       "name": "Diario Las Américas",
       "color": "blue",
       "items": [
+        {
+          "title": "Marco Rubio exige que Rusia comparta información sobre el presunto caso de peste",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXlxNklXRnpmR1g1bTlOZE8tUGstcHoxd1dNZld3VjQ3ZlZnT1dpVFhPX0l5eXM1ckU2LV9oeEdyNXc1Nm4tU1lsNldXTE5Gc1FGMndWbkNCTHpzSloybmxIOTRYRTZJaU1XZkk2MGdJTzRBZEdfbmh6VElYTFA2VlNPajd2czZOZF9heTE3MHk0OGdBaDg5aWxfdGFJd2p4SUxrUEtnYzByMWtTVUpfbHBIRGpDenAxYTZ2QlYyMmPSAcABQVVfeXFMTjF5cTZJV0Z6ZkdYNW05TmRPLVBrLXB6MXdXTWZXd1Y0N2ZWZ09XaVRYT19JeXlzNXJFNi1faHhHcjV3NTZuLVNZbDZXV0xORnNRRjJ3Vm5DQkx6c0paMm5sSDk0WEU2SWlNV2ZJNjBnSU80QWRHX25oelRJWExQNlZTT2o3dnM2TmRfYXkxNzB5NDhnQWg4OWlsX3RhSXdqeElMa1BLZ2MwcjFrU1VKX2xwSERqQ3pwMWE2dkJWMjJj?oc=5",
+          "pubDate": "2026-10-06T11:34:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Marco Rubio Demands That Russia Share Information on the Alleged Case of the Plague"
+        },
         {
           "title": "Trump afirma que \"todo saldrá bien\" al ser preguntado por el regreso de Machado a Venezuela",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVG9UM19waUFRWUdjSXRFRGh6aElnb2wyQ3Z1WUdka3pjczFpUUdNY2R1WmJLOW82N0ZOR1dEVnNEc1A4dG10a1Fra2YzTW8yXzVsc1Z3U0pvbDEyWm5mM0pKSUVfY2cwZkZ6bWtQTENXdmpsQjJWbWJ5SDZFd1pZY3dQMnhKNk1MWGlQTU9GWXEtZ2tqb0gyZ1VXVUxObTZ5alpZejlzZ2dPekdxa0ZVS1pHbEtodnpSUVNsTW1meFlPMFVfYU5MdTdXZ1rSAcwBQVVfeXFMTlRvVDNfcGlBUVlHY0l0RURoemhJZ29sMkN2dVlHZGt6Y3MxaVFHTWNkdVpiSzlvNjdGTkdXRFZzRHNQOHRtdGtRa2tmM01vMl81bHNWd1NKb2wxMlpuZjNKSklFX2NnMGZGem1rUExDV3ZqbEIyVm1ieUg2RXdaWWN3UDJ4SjZNTFhpUE1PRllxLWdram9IMmdVV1VMTm02eWpaWXo5c2dnT3pHcWtGVUtaR2xLaHZ6UlFTbE1tZnhZTzBVX2FOTHU3V2da?oc=5",
@@ -408,28 +416,20 @@
           "title_en": "U.S. Government Purchases Three Migrant Detention Centers in California"
         },
         {
+          "title": "Hombre de origen brasileño con ropa de ICE enfrenta cinco cargos tras incidente electoral en Kendall",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1Z6TjB0ZzB4VXh1T3dORzJkU0dubkcxNS1JX3dCNFVHMnpVNjhiRWN3eUp4cEt5TnVhcEgyczV4a3czWW9MV09PRW1Ub2ZKU08tRi1obGNqeF9wTG9FX1ZZVU1FUzJnWDJwZnpfTGpFVDhyMTg1eVd5ZFl6Zi1wUUVvUWwxZW8ybFFhbFRkU3k3UG1WcmJENTZ5dVVjNUl5QWtEZThvNkRvZXlhQkI3cmlNMU1TS2hIdk13cnIyX09jZGdPZ1A5UktNUmtJQdIB0wFBVV95cUxNcE5zX2lweFV2YkJmaVc2MG4yTkxmVVY4SEVkaFV2LW9KOXFMUlk1OE0zVWNGazA3QzZZak1rY1c5ZF9qS01ySUpjeHFOWll6NzQ4M2kwR3lBalZWWXBNbTBaYXJjb3kzSXFRdTRXQWM3MUg4S2t3eEJUclNWYjVaVVJwcFRVTFBQYnJKcDV2cXJVMlBYS0F1d296V3o1Z0pXY1pMT3NOclFLbjluOFhWd0xSMUxXVEVVdmNVbFhBUzZ2V09fajZKUExneEJSa1NiaEtr?oc=5",
+          "pubDate": "2026-10-05T18:03:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "A man of Brazilian origin wearing ICE clothing faces five charges following an election-related incident in Kendall"
+        },
+        {
           "title": "Las reformas electorales en el centro de la disputa en próximas legislativas",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2JaRUxMQkVxMDBRVkxxQnQ0VVhMY0pqcGlZNllFWE4tdFpkTGx0LU5GZThnOHJrZzFYVGhZTldIYkFXLWZOenJqQ3k3NXJ0WGlpcDFQVjVLUVNDYlRhaXN3WHhSZHRFd29QbmxPcTlpWTU1OGYwSGtOUjNjdE9CVVlMWW8yaUEwZHdVOUJoc3laWW5fb2Y4SXJWUTJXZjNKVFAzOFZoY0lFUXFjTEhKakQwTzdPUUNMSFJr0gHAAUFVX3lxTE9iRnYtSzUtQm5RUFVOOGNEM1J1a2piM0JLcFNwWGdiX1p2eC1ydkVnMEhyamJyOGdWWi01Y1hCZ19FcFpfZ3E2MkhITy03aWM1a1hxOXZ5REhVNDV3TXk0SzhlemowcXRMX1duMkREOVZLMHpOTXRtSERraC0ybmRpVm1VdWJYNGJRYmFFbDdOc3FPeEJpTzhqaHU2eWl4ZjlKVDM4OFdwanRYa0JvVUd4SGpCWlJQQVgwWDN5LV9abQ?oc=5",
           "pubDate": "2026-10-05T17:48:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "Electoral reforms at the heart of the dispute ahead of the upcoming legislative elections"
-        },
-        {
-          "title": "DeSantis niega que Enmienda 3 vaya a encarecer alquileres en Florida",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeTBnQnJpekVLNUZkaU1oQmFfbS1ZMjRvNmFJYnFRdUZqSnBEQ2lHdGF2VDRKWElPeHBMRXRRaWUwbmM5YXlkZFdSUllHUnJ1TDM5TTI2Q01adGtkWDhlRFB1MzVlYnJOVkZGbF9rbktQVDIxMm9rQU5CSFc5c1E2b3lnX2dTWlVmUUZ0ZkgzTmhaT1VqM1VTQ0VaU01TQ1VELU8wUmgzaGlJekZsLUxoZDhaaGrSAboBQVVfeXFMT0tQZEU3TklpX2N0QndoRTNUanhkVnhLMDY4a1pjNGktVmNGTGpEYWVCaEVDVDJvbThKV2hFbFlxYUdMTmJPOHUyVDZoZHVZVjE0X01wVkJvVmpacU1ubEQxZ0IzeGNPZlZZd1RObUhlMWZZSUt4bXFxSG5wVENLUU1qYmZVMlBjNkQwUVF2ck84TDBibWY3SFMyNXBZaVFjSDhuY2gtdEZ1TEU3UDVRaUJPdWpuRWg5UkxB?oc=5",
-          "pubDate": "2026-10-05T17:06:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "DeSantis Denies That Amendment 3 Will Drive Up Rents in Florida"
-        },
-        {
-          "title": "El Diario en 90 segundos: Últimas horas para registrarse y votar en las elecciones generales de Florida",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHBXMUh6VnJ2QkdBemd1RkVaN1ZOcFdScVpZS1V1YkJxNjZQYk1DSW0ydXk4REJPMmswcVYtSlM0QjlldG9NYnhDSWQ4aERUT19YZnktYzdtWDloRHFpMDllS0F3MEpkMGhXZGlhcjF6eVN0bmVpVGhHR0FhWHFvWXBDalZ3RFh6Z2lFQWdTX210Um9pMlVEcXU4dDVxa3FCNmdKX0NzQjhMT1Z4dFJpdnFBS0V3NHJKZ1JlV0piQmgyV1Z0M2ljUHlRNGJiVl9BbGpyazlTa3BGd9IB2gFBVV95cUxOSHBXMUh6VnJ2QkdBemd1RkVaN1ZOcFdScVpZS1V1YkJxNjZQYk1DSW0ydXk4REJPMmswcVYtSlM0QjlldG9NYnhDSWQ4aERUT19YZnktYzdtWDloRHFpMDllS0F3MEpkMGhXZGlhcjF6eVN0bmVpVGhHR0FhWHFvWXBDalZ3RFh6Z2lFQWdTX210Um9pMlVEcXU4dDVxa3FCNmdKX0NzQjhMT1Z4dFJpdnFBS0V3NHJKZ1JlV0piQmgyV1Z0M2ljUHlRNGJiVl9BbGpyazlTa3BGdw?oc=5",
-          "pubDate": "2026-10-05T17:03:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Daily in 90 Seconds: Last Chance to Register and Vote in Florida's General Election"
         }
       ]
     }
