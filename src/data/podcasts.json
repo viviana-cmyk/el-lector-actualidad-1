@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T10:01:46.897Z",
+  "generatedAt": "2026-10-07T17:20:02.000Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,14 +7,14 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "Estoicismo Filosofia",
-      "host": "Estoicismo Filosofia",
-      "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
-    },
-    {
       "title": "DianaUribe.fm",
       "host": "Diana Uribe",
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
+    },
+    {
+      "title": "Estoicismo Filosofia",
+      "host": "Estoicismo Filosofia",
+      "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
       "title": "365 con Dios",
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     },
     {
-      "title": "Good Hang with Amy Poehler",
-      "host": "The Ringer",
-      "url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480"
-    },
-    {
       "title": "Reaching Out",
       "host": "Futuro Media",
       "url": "https://podcasts.apple.com/us/podcast/reaching-out/id6802824181"
+    },
+    {
+      "title": "Good Hang with Amy Poehler",
+      "host": "The Ringer",
+      "url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480"
     }
   ]
 }
