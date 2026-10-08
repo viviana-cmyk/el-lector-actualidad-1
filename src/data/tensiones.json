@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-05T10:02:18.109Z",
+  "generatedAt": "2026-10-08T17:15:32.110Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Polarización política y riesgo institucional en Brasil",
-      "titulo_en": "Political Polarization and Institutional Risk in Brazil",
-      "region": "América del Sur",
+      "titulo": "Guerra Rusia-Ucrania: Intensificación de ataques contra civiles",
+      "titulo_en": "Russia-Ukraine War: Escalation of Attacks Against Civilians",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Brazil Elections Head to Runoff Between Lula and Bolsonaro",
-        "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
-        "fuente": "The New York Times"
+        "titulo": "Rusia mata al menos a 30 personas en la ciudad de Kramatorsk en su segundo día de ataques masivos contra civiles",
+        "link": "https://elpais.com/internacional/2026-10-08/rusia-mata-a-decenas-de-personas-en-un-ataque-contra-la-ciudad-ucrania-de-kramatorsk.html",
+        "fuente": "El País"
       },
-      "analisis": "La segunda vuelta electoral entre Lula y Bolsonaro refleja una profunda fractura política en la mayor economía latinoamericana, con Bolsonaro cuestionando resultados y movilizando sectores conservadores mientras Lula busca consolidar un bloque progresista ampliado. Esta polarización tiene implicaciones directas para la estabilidad institucional, la política económica regional y las relaciones diplomáticas de Brasil con potencias globales.",
-      "analisis_en": "The runoff election between Lula and Bolsonaro reveals a deep political fracture in Latin America's largest economy, with Bolsonaro questioning results and mobilizing conservative sectors while Lula seeks to consolidate an expanded progressive bloc. This polarization has direct implications for institutional stability, regional economic policy, and Brazil's diplomatic relations with global powers."
+      "analisis": "Los ataques masivos coordinados contra infraestructura civil en ciudades ucranianas marcan una escalada en la estrategia de desgaste de Rusia, buscando maximizar bajas civiles y colapso psicológico. Esta intensificación ocurre en un contexto de negociaciones diplomáticas estancadas y presiones estadounidenses sobre ambas partes, complejizando cualquier salida negociada del conflicto.",
+      "analisis_en": "Russia's coordinated mass attacks on Ukrainian civilian infrastructure mark an escalation in its attrition strategy, seeking to maximize civilian casualties and psychological collapse. This intensification occurs amid stalled diplomatic negotiations and U.S. pressure on both sides, complicating any negotiated exit from the conflict."
     },
     {
       "rank": 2,
-      "titulo": "Crisis de vivienda e inestabilidad política en España",
-      "titulo_en": "Housing Crisis and Political Instability in Spain",
-      "region": "Europa Occidental",
+      "titulo": "Conflicto fronterizo Etiopía-Eritrea: Riesgo de reapertura de hostilidades",
+      "titulo_en": "Ethiopia-Eritrea Border Conflict: Risk of Renewed Hostilities",
+      "region": "Cuerno de África",
       "noticia": {
-        "titulo": "Sánchez adelanta las elecciones al 29 de noviembre: 'Necesitamos una mayoría progresista mucho más amplia'",
-        "link": "https://elpais.com/espana/2026-10-05/sanchez-adelanta-las-elecciones-al-29-de-noviembre-necesitamos-una-mayoria-progresista-mucho-mas-amplia.html",
-        "fuente": "El País"
+        "titulo": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+        "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+        "fuente": "The Guardian"
       },
-      "analisis": "La convocatoria adelantada de elecciones por Sánchez responde a una crisis de gobernanza agravada por la crisis de vivienda, fragmentando aún más el Parlamento español y fortaleciendo opciones de derecha y separatismo catalán. Esta inestabilidad política impacta las políticas europeas de convergencia fiscal y la capacidad de España para liderar iniciativas comunitarias.",
-      "analisis_en": "Sánchez's early election call responds to a governance crisis worsened by the housing emergency, further fragmenting the Spanish Parliament and strengthening right-wing and Catalan separatist options. This political instability impacts European fiscal convergence policies and Spain's capacity to lead community initiatives."
+      "analisis": "Los ataques con drones etíopes contra tropas eritreas que cruzan hacia Tigray señalan el resurgimiento de tensiones en una región donde un conflicto anterior dejó cientos de miles de muertos. La penetración territorial y respuesta armada directa sugiere que los mecanismos de contención post-acuerdo están fallando, con riesgo de escalada a un nuevo enfrentamiento bilateral.",
+      "analisis_en": "Ethiopian drone attacks against Eritrean troops crossing into Tigray signal the resurgence of tensions in a region where a previous conflict killed hundreds of thousands. Territorial penetration and direct armed response suggest that post-agreement containment mechanisms are failing, with risk of escalation into renewed bilateral confrontation."
     },
     {
       "rank": 3,
-      "titulo": "Amenaza separatista y crisis política en Canadá",
-      "titulo_en": "Separatist Threat and Political Crisis in Canada",
-      "region": "América del Norte",
+      "titulo": "Injerencia electoral estadounidense en Balkanes: Apoyo a actores pro-rusos",
+      "titulo_en": "U.S. Electoral Interference in Balkans: Support for Pro-Russian Actors",
+      "region": "Europa Sudoriental",
       "noticia": {
-        "titulo": "Quebec poised to elect separatists to power for first time more than decade",
-        "link": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
-        "fuente": "The Guardian"
+        "titulo": "Dos asesores de Trump viajaron a Bosnia-Herzegovina para ayudar al partido del prorruso Milorad Dodik a ganar las elecciones",
+        "link": "https://elpais.com/internacional/2026-10-08/dos-asesores-de-trump-viajaron-a-bosnia-herzegovina-para-ayudar-al-partido-del-prorruso-milorad-dodik-a-ganar-las-elecciones.html",
+        "fuente": "El País"
       },
-      "analisis": "El resurgimiento del Parti Québécois después de más de una década marca un punto de quiebre en la cohesión de Canadá, con visos de reactivar agendas separatistas y potencialmente desencadenar un nuevo referéndum sobre la soberanía de Quebec. Este resultado tensiona las relaciones federales-provinciales y complica la capacidad de respuesta de Ottawa ante desafíos económicos y de seguridad continental.",
-      "analisis_en": "The Parti Québécois's resurgence after more than a decade marks a critical inflection point in Canada's cohesion, with signs of reactivating separatist agendas and potentially triggering a new referendum on Quebec sovereignty. This outcome strains federal-provincial relations and complicates Ottawa's capacity to respond to economic and continental security challenges."
+      "analisis": "La participación de asesores de Trump en apoyo a Milorad Dodik, conocido separatista bosnio con vínculos con Moscú, revela una reconfiguración de alineamientos geopolíticos en los Balkanes contraria a la política OTAN-EU tradicional. Este movimiento debilita la cohesión occidental en una región históricamente volátil y crea un precedente peligroso de coordinación electoral transnacional que favorece a actores desestabilizadores.",
+      "analisis_en": "Trump advisors' support for Milorad Dodik, a known Bosnian separatist with Moscow ties, reveals a reconfiguration of geopolitical alignments in the Balkans contrary to traditional NATO-EU policy. This move weakens Western cohesion in a historically volatile region and sets a dangerous precedent for transnational electoral coordination favoring destabilizing actors."
     }
   ]
 }
