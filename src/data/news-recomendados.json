@@ -1,10 +1,53 @@
 {
-  "generatedAt": "2026-10-07T17:20:02.000Z",
+  "generatedAt": "2026-10-08T10:01:49.853Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
-      "items": []
+      "items": [
+        {
+          "title": "Redes sociales, un terreno fértil para la minería ilegal en Perú",
+          "link": "https://insightcrime.org/es/noticias/redes-sociales-terreno-fertil-para-mineria-ilegal-peru/",
+          "pubDate": "2026-10-06T20:36:44.000Z",
+          "snippet": "Redes sociales, un terreno fértil para la minería ilegal en Perú Una investigación encubierta revela cómo el REINFO, el registro creado para formalizar a los mineros informales en Perú, puede servir de cobertura para la minería ilegal y el lavado de oro en Madre de Dios. The post…",
+          "title_en": "Social Media: A Hotbed for Illegal Mining in Peru"
+        },
+        {
+          "title": "La captura de “R1” expone la red de comandantes vinculados a la “R” del CJNG",
+          "link": "https://insightcrime.org/es/noticias/captura-de-r1-expone-red-comandantes-vinculados-a-r-del-cjng/",
+          "pubDate": "2026-10-05T18:05:09.000Z",
+          "snippet": "La captura de “R1” expone la red de comandantes vinculados a la “R” del CJNG Tras los asesinatos del alcalde Carlos Manzo y de la influencer Valeria Márquez, las autoridades mexicanas afirman tener bajo custodia a uno de sus principales sospechosos: Ramón Álvarez Ayala, alias […]…",
+          "title_en": "The arrest of “R1” exposes the network of commanders linked to the “R” faction of the CJNG"
+        },
+        {
+          "title": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras",
+          "link": "https://insightcrime.org/es/noticias/lucha-tierras-garifunas-corredor-narcotrafico-honduras/",
+          "pubDate": "2026-10-02T20:03:20.000Z",
+          "snippet": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras La presencia conjunta del narcotráfico y de poderosos intereses económicos sigue siendo uno de los principales obstáculos para la implementación de las sentencias de la Corte IDH en Punta Piedra y en o…",
+          "title_en": "The Struggle for Garifuna Lands in a Drug Trafficking Corridor in Honduras"
+        },
+        {
+          "title": "Comandos de la Frontera",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/comandos-de-la-frontera/",
+          "pubDate": "2026-10-01T21:04:57.000Z",
+          "snippet": "Comandos de la Frontera Comandos de la Frontera: quiénes son, dónde operan, quién los lidera y cómo participan en el narcotráfico en Colombia. Perfil completo actualizado. The post Comandos de la Frontera appeared first on InSight Crime.",
+          "title_en": "Border Commandos"
+        },
+        {
+          "title": "On the Radar: Esposa e hija de Fito capturadas en Colombia",
+          "link": "https://insightcrime.org/es/noticias/esposa-hija-de-fito-capturadas-colombia-on-the-radar/",
+          "pubDate": "2026-09-30T15:01:37.000Z",
+          "snippet": "On the Radar: Esposa e hija de Fito capturadas en Colombia Autoridades de Ecuador y Colombia capturaron a la esposa e hija del exlíder de Los Choneros, alias “Fito”, en Santander, Colombia, en el más reciente golpe contra su red familiar. Además en On the Radar: la policía chilen…",
+          "title_en": "On the Radar: Fito's Wife and Daughter Arrested in Colombia"
+        },
+        {
+          "title": "William Joffre Alcívar Bautista, alias ‘Willy’",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/william-joffre-alcivar-bautista-alias-willy/",
+          "pubDate": "2026-09-29T22:12:32.000Z",
+          "snippet": "William Joffre Alcívar Bautista, alias ‘Willy’ William Joffre Alcívar Bautista, alias “El Negro Willy” o simplemente “Willy”, pasó de ser un guardia penitenciario a convertirse en el fundador de la banda criminal ecuatoriana Los Tiguerones. The post William Joffre Alcívar Bautist…",
+          "title_en": "William Joffre Alcívar Bautista, alias “Willy”"
+        }
+      ]
     },
     {
       "name": "International Crisis Group",
