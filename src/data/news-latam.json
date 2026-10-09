@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-09T10:01:55.759Z",
+  "generatedAt": "2026-10-09T16:51:30.942Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
       "items": [
         {
-          "title": "Justicia condena a la Iglesia Bautista de Lagoinha y al pastor que dijo haber besado a su hija en la boca a pagar una indemnización de R$ 150 mil",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSlR0Xy1HTmtmak9qaGcwOWJGSXMzZHdwaVZpaTdmcllCekctMUdBcmV5cUJVTHpRS05ZZzN3d1BKVUNva3p2OEtudV9vcXI5NjF6bDE5T050Zno3R1FoRUVVVFN4U2NURTRrQmtLZWEwMGtPYzFBMVVJM0pjdWEzWGlmb25TSEdYUnpFUmFGVjZjUXpFb01yRFEzVzVDb2xRM1M0bVFNaFBqUFdKZ0V1bU4xR2JqY3Q1OG9GSkRSVW0wVnhqYU9DYlc4dEdob2xyQmZVRmk0ZVpQa0ZEMEdkQUFDaEVmQ0kxNG1fdnlFYk4wRTlad01fenlWbm9Cb200aTlvRlZHdEtJdVl0NXRBUjBSSUNOYnZPeEhWR2hmMmx6Z9IBsAJBVV95cUxOUGpWbTROdWpoQzhfVUNhaERNVnVpZk5aQm8wcjg2RHhuVVBKX0NyTGp6SlNoR2xkOUpITEgtVmpVd1A4azBnbmdnb2dUN09NS3FvWnZwdUFpOUhYUWFpbW1VbW5OUVVVWkpwX0RKRVRGRUJsMWl0d3ZnMzZuRGYyTWVlNG9oNGJzOFVuS002Z294QzMxYUJud1Y5SWw1bHZ3MVJlTFctc0tkd2NoX2JKS0VfX1lPWktXQlhOTkd3UmsybHdkS3huZXhaMzFNV18tRzhFX3FiVW9JYVFUQlgxMUEwblZiQzhiWTBIbkNYbERGcnV6YndoMUFKc19pbEZXZXgtYnNWbk0walBXUTg2OTE1US1RV19ZeHpWZlprSzdROEZtdWZnOUtlU3k0SnhK?oc=5",
-          "pubDate": "2026-10-06T19:33:23.000Z",
-          "snippet": null,
-          "title_en": "Justiça condena Igreja Batista da Lagoinha e pastor que disse ter beijado filha na boca a pagar indenização de R$ 150 mil",
-          "_priority": "ALTA"
-        },
-        {
           "title": "Datafolha, primera vuelta - votos válidos: Lula, 45%; Flávio Bolsonaro, 42%; Caiado, 4%; Renan, 3%; Cury, 3%; Zema, 1%",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1R5NnpSZktPaElsVFA2Y1lvdnEzOGxTRXFGTWJNRlozTnVxWHZuOTBDY1MycVl6RnpCN2pvbC1XQlVFeUVzbzJfVThkRENnQzVDUHBxN2s0R3RGTFpDc2NYbnA2OHdkS0k2TDhkaV9NSVJvclp5dVlzSWR4aTdiVXhPZy1lNWVJekJnNWk0bHkzeTNNUEhKTTNXUnR1dVk5X3RqVnEwaTNTajlJME1FX1R4S0NNX2hsRlHSAcgBQVVfeXFMTy1PS0FsOUV0S3Z3UWFMLTBrMDRNemE1T3phNmFMVTVBZFN3RE5nOGY3VkpxcW9ja1lKclZIQ1g3SUFnQ0lZQlR4bk9CS2hEYmpPNTliWXMyX1IwS0JlX2E2aThqU2tJeWYwR2VlWTdUTWtVNFhFXzZ6dmo1WEpac0Vuelk4YzZtcmpZTUZ0bkhVNDFEY055dUMyLW5qZXlPS2R5LTV1T3RIZXhWNzU0eFBlLXBHZjY1WUNVWFBSQVZ0LWNWc1R0Mjc?oc=5",
           "pubDate": "2026-10-03T21:32:23.000Z",
           "snippet": null,
           "title_en": "Datafolha, 1º turno - votos válidos: Lula, 45%; Flávio Bolsonaro, 42%; Caiado, 4%; Renan, 3%; Cury, 3%; Zema, 1%",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Justicia condena a la Iglesia Bautista de Lagoinha y pastor que dijo haber besado a su hija en la boca a pagar indemnización de R$ 150 mil",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSlR0Xy1HTmtmak9qaGcwOWJGSXMzZHdwaVZpaTdmcllCekctMUdBcmV5cUJVTHpRS05ZZzN3d1BKVUNva3p2OEtudV9vcXI5NjF6bDE5T050Zno3R1FoRUVVVFN4U2NURTRrQmtLZWEwMGtPYzFBMVVJM0pjdWEzWGlmb25TSEdYUnpFUmFGVjZjUXpFb01yRFEzVzVDb2xRM1M0bVFNaFBqUFdKZ0V1bU4xR2JqY3Q1OG9GSkRSVW0wVnhqYU9DYlc4dEdob2xyQmZVRmk0ZVpQa0ZEMEdkQUFDaEVmQ0kxNG1fdnlFYk4wRTlad01fenlWbm9Cb200aTlvRlZHdEtJdVl0NXRBUjBSSUNOYnZPeEhWR2hmMmx6Z9IBsAJBVV95cUxOUGpWbTROdWpoQzhfVUNhaERNVnVpZk5aQm8wcjg2RHhuVVBKX0NyTGp6SlNoR2xkOUpITEgtVmpVd1A4azBnbmdnb2dUN09NS3FvWnZwdUFpOUhYUWFpbW1VbW5OUVVVWkpwX0RKRVRGRUJsMWl0d3ZnMzZuRGYyTWVlNG9oNGJzOFVuS002Z294QzMxYUJud1Y5SWw1bHZ3MVJlTFctc0tkd2NoX2JKS0VfX1lPWktXQlhOTkd3UmsybHdkS3huZXhaMzFNV18tRzhFX3FiVW9JYVFUQlgxMUEwblZiQzhiWTBIbkNYbERGcnV6YndoMUFKc19pbEZXZXgtYnNWbk0walBXUTg2OTE1US1RV19ZeHpWZlprSzdROEZtdWZnOUtlU3k0SnhK?oc=5",
+          "pubDate": "2026-10-06T19:33:23.000Z",
+          "snippet": null,
+          "title_en": "Justiça condena Igreja Batista da Lagoinha e pastor que disse ter beijado filha na boca a pagar indenização de R$ 150 mil",
           "_priority": "ALTA"
         },
         {
@@ -35,28 +35,25 @@
       "color": "sky",
       "items": [
         {
-          "title": "Green card para cubanos: la regla del Uscis para el ajuste de estatus para familiares de residentes permanentes",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWWVIZlQwOTBnUXJSUHItR2VaQjMtVnBLOWJIMlVJdE5DMGNCcHVZYm1MOFBVcDdWS3dYRXdVcDE4Njhtb0tBSVRJUUFySTk1VzNaR1REb0lhSHlfSWV5RzNkblNXX3ZLZFlYZW5TR1FON1ZmYzRka0dnX3RrZm1Nd21KY1YzQmpuRWhfakFHYUJjZFVrR1hncWhoWGJQSEduZVZkaFczTWpQYkNrdWI5ZTAzRmt3eHNoR2dZUnI1ZFdXby1RZDlPajV6aWpyZTROdTFUeXJXdy1aNU1Tdnd4OXlySTdJTTl5RFhiOGZwdmptQUQ1OUR5THdfdnMwcFBM?oc=5",
-          "pubDate": "2026-10-09T07:30:00.000Z",
+          "title": "Tony Robbins, experto en desarrollo personal, de 66 años: “El enfoque en uno mismo crea sufrimiento”",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb2F4T25OVjR2TUxkV1dPYXlLd2RZWEhJZzJoUnV0X05CTDFOU0oyMEc1R294ckE2WnhtRkd4SGxxdWkyRzZhVVc4dV9ya0ZPeE9hbVZDU05mS1VqeW5ZMjdqNUNqZ3VRS0twTXdOM3ppQVVia0FsSFA2d3ZkTTg2VG5CUGlyVXh2eTFPLV9MSWRmaTI2S2VBTzB5ZlMyNy11SDR6NllGcFNVTFU1WmpfNmZER0F5WkpWREhPY3hKQkgxMWx0TFFaRW1aem9tWWt6clZfblFhWXBqWkFUYkE?oc=5",
+          "pubDate": "2026-10-09T15:38:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Green Cards for Cubans: USCIS Rules on Adjustment of Status for Relatives of Permanent Residents"
+          "title_en": "Tony Robbins, a 66-year-old personal development expert: “Focusing on oneself creates suffering”"
         },
         {
-          "title": "La Corte Suprema se reúne este viernes a las 9 para volver a fallar sobre la ley de tierras",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVm9TeGx6eXFyblZnd3lDZVhZbkpWN1dLRlpaZzlkZ1VqSE5QY29ZdjVLQkxmdlpydmJRRThpRHEwTmdKU2NQTC1RU0RhWnBvUzJrOVBTY0xMamRJVkF6TFZBT29oTkZCcTdjSmN3VXd0eS1pbk9tVkpqckVyTk14X1ZQVklXY0VlT004S0plWW04Q1VtWklyX29fRnBZclZWOVNtUFJhb3NfZzdSZDFZVlNldEpwUlJVaURFWS1wbFRBVjRiNktqR0s1WjY2M2NuMi10UVd5OXg?oc=5",
-          "pubDate": "2026-10-09T03:01:00.000Z",
+          "title": "Ofrecen US$3,5 millones: crece la puja por los activos de una láctea quebrada que fabricaba reconocidas marcas de yogures y postres",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX2pyUjdKYjMtXzBneWVNcDY0d3RXaWdHN2pRX2VaNVRCR2Q2X0tLVklHRkE2Rld6STQ0Nkh2OWpBUHdVTElFWU5wQkM5cmZoMzdtcmYtUkV5Z3BXSm5seVVJSFM3ZnF1ZFVPNXB0dW9BMTJMdFdwNFBwV1ZQUkZmT2p0NFlsblI2VXdNdldkQ1hVZVdJV050WGg5VkUydUdxblE1ZkxkZG9iOG9nMVVoWWF6TWZhcl9fRnNRRGVoMDN5YzhtRElKMzVsRFctQkpPZXRYMm5VS2pYTDZGbUxIcGV0Nl9heFpLTDZmSg?oc=5",
+          "pubDate": "2026-10-09T15:26:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Supreme Court will meet this Friday at 9 a.m. to rule again on the land law"
+          "title_en": "Bids Reach US$3.5 Million: The bidding war intensifies for the assets of a bankrupt dairy company that produced well-known brands of yogurt and desserts"
         },
         {
-          "title": "Stellantis Sudamérica advierte que podría cerrar sus dos fábricas en la Argentina",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVRENFdONlVOSUREM2tRcmZnMTZuVzh3VTRXSWppNVFNYkxjWGJrelVVSzczS0hhZjk4M0dZY2NDMFRueEdqLU92WWZ4a1p5VDdaSV9LTkNzYkxFQTdUOWN2S1k2VXl0RWtEeE1yS0kzWEtjd0hJemNMMVhVOFRVajBscnNSV1hxUUZMNktSXzBucERNNmpsT0Q3RGg4VFdZbjVjMUJQUnJGZU9VUTZVUElGSzJOQzNqVjROakJzOEEyclBhb0ZN?oc=5",
-          "pubDate": "2026-10-08T23:34:00.000Z",
+          "title": "Jane Fonda, a los 87 años: “Sigo haciendo pesas todos los días, camino mucho y nunca bajé el ritmo”",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZlpzT1pEdENKNF94VlFjWTBLT1RncVBUcVFsLTdPSzViaHQ1NUh4Mjl5Q0dJVzgzZDBpbnpyQ244YmRSaS16WFBiSjZFWW1INndSbXdFMWZZakRtN3luZFZUOE9rOC1OOElOb0tXZG9OcXJmUTltTi1QNHdxWTJiUUxNU1hZcUpSRDZsVWQ1Nmxqd3JmbW5hXzdoQXVJWFg0N2pYUkdjNVlwZUpneHZtQTRpMFlEVGdDamY3bGpJZE9Xd0ZOVFVZRVpkS0VEdHFsQmwtTzEyaXBiSzZXQXlEazBn?oc=5",
+          "pubDate": "2026-10-09T14:32:00.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Stellantis South America warns that it may close its two plants in Argentina"
+          "title_en": "Jane Fonda, at 87: “I still lift weights every day, walk a lot, and have never slowed down”"
         }
       ]
     },
@@ -65,28 +62,28 @@
       "color": "rose",
       "items": [
         {
-          "title": "Inicia audiencia contra “Capitán Sol” por huachicol fiscal; investigan compra de ocho inmuebles y apuestas por 52 mdp",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUGp5OWFLdjlvc2VZbWIyXzZhaXpWUkF6Wk82MmpORDdZaE9GN2VwQ01uNkVRRWtVVU9SblBFNkpvenFhUDRDazdHUkExbEIzZEgxVjVCNnp4QXRCWThvSGd1VnVPOUk1NmtPRFhpQ1pyb2MyVWFPMG1vREhBc3U0VWdrTDZfeTVPR0VCWVRmSFRYLU5JcTFremFZTUNWZmFNd0J3SjBkSmtqVXR6dmo3U0YzVDMxWDJkeHBiUVJqeURUUTVYLV81M0VPWG9zWENZbG1LRmZ1MkI4SklRR0JUWTJMTlhOVktR0gH8AUFVX3lxTFBWN1liWWFGVFNVUXZyTHRZeGhTTUFNbm5Tazl3dFBITXhuRllzUDVkd1k2NkExQ0FxMWZtelN5eFZ3VWtINEppWnlBNmtWekhYRzBiZWt4dV8tWEE1OVFkcUQ1RWhQYjhQb0tWZjRiTWhnb0toWlcxTmpISFRLblhfNnBjWjc3VmhZc252NDM1QkxXUFJ6cHNrZHF0TVB5bTdrU3hBOHdIN3RCZ19fRTIxbDB3LWVqS3lmLXJLX2o0MG90N0MwQ29oVGNTTGNGYjM2R1I3R2tQUEtMalZiVTd6NEo2NE5fS0ZxdUs0eFhJZTZuOXpIQXhqM0s1dw?oc=5",
-          "pubDate": "2026-10-09T04:10:03.000Z",
+          "title": "Sheinbaum destaca importancia de defender la soberanía; acusa a Calderón de abrir la puerta a agencias de EU",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORFRCT2RzLVZZc1Fmbkk2UG9ZdXpaeVpwQTNyZGxEUExKOGo2MUg4T3VBd0hBekt3alFfNUxyU2Fxc1prWWdMenRaTHY1aXpRYXltQkZsUElWeWREdERKZ0JKcklSZXdJeURyQzFIMTQxTHd0bTlOdE5JNjRabVdfRko4VlFvLUltY0VYM21oRmV5MjJkX1huLTV3OGZMd09kUmxYamFVOWRSNGRLcEJwZnpTcHVzMDJBdTBxZGs3YW04bU1FTDZvNExLNy1HQTBOMUhkckxub3lKbkxKamlr0gHzAUFVX3lxTE9DR29Ba3Z3NFZ5UUFuNHZyM04xZTZGYmtIMzhjU0JZM3J6NE1jSEhEMGJQeGFNR0NGeWFDVWpBWTFsRzBKQU5oeEVBVVFINVhRU2J3OEx4Y1pGMXlIRHFKQU5TeTl5OUpvUVZheGxjTnJhNVlWa0NfUko4bTNJelBuMF9ibzgwUFJqNURRRHRkc0pHcFRFYjhlbzFUNTdRVEMtd0UtcHNkajRyMUFJMFNFUlNCSkV0c2ZOMHh0clYyaWhsenJkMEQ3OEN6Wk5NMU41M1kyYm5QUlAwQ2NmcllPdXRWeEJqN3ZGQ2JQOERiX3V2cw?oc=5",
+          "pubDate": "2026-10-09T15:49:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Hearing Begins Against “Capitán Sol” on Charges of Fuel Theft; Authorities Investigate Purchase of Eight Properties and Bets Totaling 52 million pesos"
+          "title_en": "Sheinbaum Stresses the Importance of Defending Sovereignty; Accuses Calderón of Opening the Door to U.S. Agencies"
         },
         {
-          "title": "Riña en penal de Mazatlán deja seis muertos y 15 heridos",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWHZJbGdFYlpvelBBXzhYdVJsamN5VUFxQU12NHJBNzFqWGZSUGF0MUsyWDQ1TTVGYUVZczd6bDd5ZG85MGJpM080ZkxEX0RpZzdUakpFelVyeWdnclh1M2ZNdmFHTFNzYzkyZDBHa2VsQWZlYWoyaldsQS1NS0F3NEtLd3BDQ2tBc2lPZjNrOTJ6UllMa21BUGhTUTdLUGtrYkt0VU8tLXh6OHBGOWpjNzdOMFNvbjBrUm83RUZQd211bXh6M1JTQmwwT2JDaldJYy1JTUVacHJmcTVuT0VB0gHzAUFVX3lxTE5mY0IwUDl1MkVvMzVWZnFObXgyNEUtVEF0aUlUbWdTTWxLOWtCLUtwWmRZalNoTFYzZlJaUjBVcGdvZUR1M1VWeHN3TVdnUjhaTkNVWkpseGRuaFVqMVVuNkhKZU5lU1VIWUlYMmsxTWdJc1NOdnh4Nnp0RjdLckxjYnBsYnhzVk5ZaVAxUmdfbktoQTNtcG5RWGM3UUpHZFVmUTQyYnBrYkdLTUh5NlF1MlN3YWR0endNNDdUV1hneDdCdG04a2xLQTROS2hYY2k2ZWpQU3JPa1U5NGZ2c2d0Zm91d3lCY1RiR3ZqaG40N3BzUQ?oc=5",
-          "pubDate": "2026-10-09T00:09:00.000Z",
+          "title": "Huracán \"Isaías\" se fortalece a categoría 3 mientras se acerca a EU; Florida y Alabama declaran emergencia y ordenan evacuaciones",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUm1uUXRab3lZSF8xbWltMDZrSFY2bGkzWXZZVUF0MC1tVU4tdWx3YWFkZVQ0YjFfcGRRSFVvN0E2cnhwQmZEazZWZU03ZVR4dnZ0b2lGSzd2MU85UW1OdlhaUU1IMGVzWTY0cENTQzlNYVl3SDBzdWZiOGxQbEtxNEtkNno1blQ3NnIyY01iQV9JcTNBblV5c3J2UGVFOE5xMjIxdkJVRWdFbU5Vb2pnZi1CVWZFOFY5Q090bEtfWXdHd0cwYWIyQl9B0gHeAUFVX3lxTE5jN09wWjh5Y0NFZlJhdFZXdlJMajhfQ1I2NTNiT1BzRDd5aGFSOXdndVZEd0R2MVpJOV9BT0dZRXZ4UWtrTnA1ODMxQUVUTnZQX05hM05Ec1RyVU92c290QkdCZC0yeXFBWmplSC1TOVdGcUd4UV9xR203bERwZnJRd3BjR2EwM1owdEJhdW94UHJFblZKWVJFOUVNQ3V6NVdieFBVWEx5bXQ3bTNXR0ZxQWs2cWZ6Z05MWHJ6eTFaVVMtbXFKQ3liaGpYS0RzaDRJUWs3RjBMdUNxT0dPZw?oc=5",
+          "pubDate": "2026-10-09T13:09:44.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "A brawl at a Mazatlán prison leaves six dead and 15 injured"
+          "title_en": "Hurricane \"Isaiah\" Strengthens to Category 3 as It Approaches the U.S.; Florida and Alabama Declare States of Emergency and Order Evacuations"
         },
         {
-          "title": "SEP pide a plataformas digitales detectar y eliminar contenido violento",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR0RrRURmY1RpV0tBekFFWEZvckt3R2N4TVZXRVAzWG8tUnVkckxmVWR0aFBHZC1iXy1pYVZYVUhyU1FkazYwWTZDN2pWV05XMlRfaGx1WXJlT3dBUjFpbWxRby1NbHkzNDZodk93dmQycUxSUDZsOTdYRmkxYXB1TDB5cGZmUDNrYVQwcjM4M3hmdjhfZ1ZIQi1hUXNIc0JtUDhhY3J5RGFUT0lhcjktOEZXWVFWSm40RzR2eHNiOFY1bGJteGJZejhBWGtsTW5lVHZYbHg0dV91MlVqdDlybVhmdnE4aEhnaF94Z1pn0gGCAkFVX3lxTFBObmJJaEVraS11b084SmlOV29GRjJtT2tTclh4bzdtdnNjOHVCaFhaTVZKZG1jeG8zMDU0QzZyNFJqdndwZV9TSVRVa3hxOWJ2MVdFTHgxSktwdEJSU1NrSFZ6a3hFc0F4QkxNZGIxdEF1V2x3emRickhiWXFMb00yWG1WRmowMnY0T2NON0cxSUFMbF9ISGZ1alFaSG1idWdZVnN4dnF6Z2JwVVlSZTV3ekM0QnE2cTRsYlhOczBFMUxqaF8tZzE5WWFWcEt2QkFQT3QzT1g0RjB3QXVWM0VvTUlidEJkN0syR1VraXo3Rk8wejZrZWtvaVpQRXRheXFzZw?oc=5",
-          "pubDate": "2026-10-08T23:53:00.000Z",
+          "title": "Alertan sobre posible alza en predial en Zona Metropolitana del Valle de México; \"mercado inmobiliario será más alto\", advierten",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWEF1RGlkaTVROTZjOHlFTVVSNVVKdTN1ZVJ4d3lVZk1GZ3o4SVBxMzk0ZHpqWjdGN0lvRFNiazRyelpHWXZsN2dYWkhNS0V2SUduQ2czZXpMMEE4UWVOWEJQSFc5MThCUlh6NHFPbmNoVVlPaGRYSC11b3JVdjRCLWR3WnVXY1A4cHRjZzFlOVpzdTdDU3p6U25kQmtrd2lfbWNwSmFoWDJIb2djeWl2MTdhTDNVU3U4dFV3aHZ6TFdXWkYyWjRfX3VpR01DdXBsMUFtMnhNSlVmcjJKcnJKVmZwby1fV3FGMmh2TEt6Mkx6aG11MXBpajdB0gGOAkFVX3lxTE9TQ2NVM2lCcXJUM3Z2SVZ4LV9jQWhOQlBvelU5Mlg3OVhMY05VR0NRMklCbFFxSkt0NVU2cXVnWDhOV1BybkVZNlZIMVdlVG9sWXl5MEJDVGN0VXhKTjFWbkJrZ2trbTlJM3FsZU1sajhVVDFLRUJpNXJYZGpHR3A5ZEt3RlFpNEUycW82TzU3My1aVmNKUnE2WFh0R24tbWY4OEM4QmpsOEluX3ltbV9FTUFGaDVtTHdfNkRVdUtKY1FIV0pxbWl6cjk3cm5tYTRkWDhoenU2VUhEZkVSVEFTRDJ0ZkxXSnR4VnBuT0EySjNEbmxHRXJHQjBKbXBINjZhTktYMUE3c3RKbXBWQQ?oc=5",
+          "pubDate": "2026-10-09T09:30:00.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "SEP Calls on Digital Platforms to Detect and Remove Violent Content"
+          "title_en": "Warnings of a Possible Increase in Property Taxes in the Mexico City Metropolitan Area; \"Real Estate Prices Will Rise,\" Experts Warn"
         }
       ]
     },
@@ -95,28 +92,28 @@
       "color": "peach",
       "items": [
         {
-          "title": "Elecciones Lima 2026: ¿Cómo va el avance de las actas observadas y cuándo se aplica el recuento de votos?",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUVYaXlKbFRwdmZpOVM2QXJxS01zREpBUW9ZeFhTMUNrQndmSVlkQ3FQaFJEaS14OWNyaGQ4SUtOdUx2dS1ldjNxM2trQnhTMUdwT2oxanJjNTVsVGF2TXJTT190Z2dWdHY0dmRVU1p0b1djeldObXFCZjZFMnAyYUhEQ0NvQTFjUk9SWHBfYWt3X0lTM2ZhM0FobnpmR25nOWYtQ2loWUtNN3dFNzlSYlQ4Uk1oamQ3RnhtQUVOaTdaU1FmN2lrTWpKbm1KaG83UWxpcWR6Wkt0VGpsMGU5WG1sWGJYZU3SAfsBQVVfeXFMTmNaNDFCcUVvY29vU1NSOHBndnJ5ZjQ4NHljR1JXcXcteS1mdWRyWWVBX1hVM0ZsTkZ5YmxsUEZvVzdiS3VOS0pvdllMVTlheFpqMUQzdGRxT2FGLVpBMjExRkhMaFhqS0NEWWtJTVh3RlBoRFoybk0xUllnYUFpZXFUdjJHZTFtdHRFWmV0OW1ia2l6eDVxRDg4WjRZaTkzODhCZG9HYncybjhUYi15Mi1FeVBIaWFvMkF4d2IzSzQ0TTZvbDVWdGprMzlXSTFNUFpjaVpBdWktbktZcFo1YklHMTRYSTBDTGk1VDU5VjB2ZWxjZUVpalNIWVk?oc=5",
-          "pubDate": "2026-10-08T22:32:10.000Z",
+          "title": "Piden al JEE y a ONPE celeridad para definir resultados de la elección por la Alcaldía de Lima",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjlfZzFzUGtDT1MtaWhsb3NVRk5mRE5ialFaU2dnWkFpR3Z4NE81aDNUOHNHdjZWNjJUTDdXTF96dFF4bDVpNEVkeGhkVmtaa0pYOElhNEQtOExvSVFUdVlOZFZLc25ZVENZZXNJQ2JyLVlKUzFHTG1vTXRKTkxyaFFXMUJvZTk1MmJTaXVRVHY3NmhiWGZvR2lMT0tRV09kU3oxZmFSbUw3dnhYdFhjMGlIdUNOeHFobm5oYjVBMUZUVFZFNG5zWGx3UE9TMllCcE1FVmxMSGdBR1pqRlpobNIB9AFBVV95cUxQbzExTVNWZnJvVGhSR3QwRnMwbXcwODRxOGtDMWh6UnRGUkdKZ3F0T1pJZWJOd0R0b3FOMHdLdjBIaHlZWUZVd3lVUjVPQ3NEcUFTb0VtWUdSa1NQR1hSNjl0dHctWWh5aWhmNk5JNE1PNFhIUFg0U0o1SV9TVHlLRHVGOFM3dXRTakNMMmt1b3UzdHA3VmtPeHplOW1IZWVkdEhSZzg1VkJxQUlTYWtfMDN4dEg5NTFKUGRPUnUwcnhXb2pOSlZCT3dLVmozakZJRXFqMTFCWlluTW5TT3QzWmN4bEVWeEU0Vjk1Z3dGUU9VMjh3?oc=5",
+          "pubDate": "2026-10-09T12:53:51.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "2026 Lima Elections: What Is the Status of the Observed Ballot Counts, and When Will the Vote Recount Take Place?"
+          "title_en": "The JEE and ONPE Are Urged to Act Swiftly to Determine the Results of the Lima Mayoral Election"
         },
         {
-          "title": "Luis Dyer, ministro de Salud: “La oposición nos pide resultados, pero hay que acelerar las facultades para que eso se concrete” | ENTREVISTA",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZk5UUk9NTWtGQldsSGRCWnJuTUpTUWIyTloxaVc5UGxxNWJSRS1MdlZPMlJNbmlZMEJkalVCNnVlLXFhZlFzVzI5YmtTUWhDQ2VFMWxVV0VTTWM2c1A3RW9DTWN2bEtUdTRWbmQ2MGxLRGYwUzBuWXZCWmhzRlZXbm92Z252OUxUakhCcUd1cmdfNk95N21BazhqemZuTW5LRjB0SHcwMm1lZUwyOVBBMXVlQ1FWRTN5QjFrUkg4ZThCU2lkd2xWWmJicXQtTklqUDlZTk5hWVJsYTRzazh0cEdpNk5OZ3M0ZFhsYURlZkJsazdmSVJpMFZNbTFYRjlpNHFnMWVCWm5Sd2lwZ0tWTW1ORnZYdw?oc=5",
-          "pubDate": "2026-10-08T21:35:47.000Z",
+          "title": "Fuerza Popular apunta a incorporar nueve ítems en solicitud de facultades: ¿Cuáles son?",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWkdzWEdSbTlyTF9MMVlCNzNQcHB2VG9fNmZFSEU1NDJVazVLLWlKYktDbkpEWWRDLWNLWTJFY3Z5MjlNdlRVRXN6Tm40UTRtUzRTQl9feFpWcm4xZm5pWDBrQnNYUHNndC1obVFmcUpHbmZqUXRHLXR6ZmxRcEc1bmR5ZVJfZUczaGVPU1VQczFPZlBNeURrbWl3RGpVLWNMX1B3aFRDdGxWV0otdXIzeEtLbVNZSldzdmVKS1Y4UEl1V3kyeUh4WVFJMFotODJjUkZFMVZZM2d3c2p3UE0zaHdtWkc0d9IB-gFBVV95cUxOVVZyU25pVTNXV0F0SEZZSk1EOXBQUG1ZNmU3SGprM1pydjFwOE9lT3BmdHFTdTFsWURKRndFTUZMQmhwbHZETFJvR1E1eGpzZTIwb1J2elBPMm9vdEpFNExWN0h5YjFTV2t3V0Uybl9IUnFDQVJBRXNuS1p0ZE1LUjA5NU1naTdFREpKa1BRQjVpRTRzdk1WSEpleHYxekE4OUJTVlVOVU9lc3JYMzhuWkk2MUFnZXJrUGJrMTllLVN6MlZxNVdMMVAybDZ3VFdoeXo4WlJtRy14MGsyanZINzB6bGtNMDlHLVZOQXNhTnBTSVREZnZFdzhB?oc=5",
+          "pubDate": "2026-10-09T12:53:07.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Luis Dyer, Minister of Health: “The opposition is asking us for results, but we need to expedite the necessary authorizations to make that happen” | INTERVIEW"
+          "title_en": "Fuerza Popular Aims to Include Nine Items in Its Request for Powers: What Are They?"
         },
         {
-          "title": "Senado: Comisión de Constitución convoca a siete ministros para sustentar posición sobre facultades",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNanlhMnlicnVEYkdHZkRpaUxvcFpUcjBJdjUwVUJlTUEwbGdiTkhWODVqdFBFd0VxLVlKWjdMTEFSSlkwcHQ1dzhqcXZaTTJRcXJ3Ri01VmpkcENiWGRPQzJOMWNQWlduM0dlSzZNSTRKQ2t3aW9iSUtMVlp5Y1JzdHlrRWlsdGxubXBxZWJjMXdOMk9Qb2lmeFhOMENCbnNXWVVzNmRWc3ExYXRmZ2h3NU12cm5wZ3B2QXFKdFM3V2Nsd3FDZm4zWXVkYWdJcl9mRVcxeHRFQnc4aXZxckFVVEpIcklteGdGeE90RjF5RjItV3prQUY5aFRzaWQ5c2xMV1JNNk5jTndVTlZpem13MtIBpAJBVV95cUxOLVVpb2VjX3ozUXJ4T0hZOG1Tamo0Z19lZFdzYnNJUC05S1JFNUpBZnNPYUJmdkVoQTRsVS04R2VwOEREM0Q0amJIY1NFTTRNV1AwOE91S0FlNGV3MHhSRllJXzV4d1pJbWdrSTJDanJmZ0JjNHRxdk1jUXFoakkzUkVXZkljRDdISHFiSThZUE5RN1ZLTVl3TzZ6QUhKSk8ydUJvOGJLaGRGc2xtc3d6T2xZejFOZFBaUHFWeHZBMUJHdW42eEFzZVpvd0lKQXJXSWpBVlp5SWpZckJNS3lnNndoTENOaV9zc3V6ZGFTdUNZcVBFUi1CM2dENmJDQ1NQMXlQNTZ5UUY1Q292R3c5M1Z2VUZ4M1BCYldjaGRZUjcwR01N?oc=5",
-          "pubDate": "2026-10-08T20:53:28.000Z",
+          "title": "ProInversión planea alcanzar en el 2027 una adjudicación similar al 2024: Línea 3 y 4 del Metro de Lima y los otros proyectos en cartera",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbko5b0FUbWROMHBTRFdscER6dlU4VkdqbGhUWmVlNzM2ZVhyX0wxVDlxY25sdnkyWTlPYm9pM0pCTGNBQlVublEtLUZJcmxIRTdOWTlrSHdQcEtVS3VvUFRUWmpReXRLN3JaZXRETFA4U1Jqb0FEQWxmUEFxYWo2QzlySGE0aUptNjZOMzlVZVVXTUI2UEVKZkFsdF9xemFHU1JyMEZpZkJ1WmcwY1dubVFQb1ZNYlEzc21WWtIB0AFBVV95cUxQMGtGSGlMQ1lUSmpLUW5sbG4weW5BVHh2VnBoR0JQN0pPelUwOW5ZcFlDZTVua3VYRzlFRW01ekdzNDV3NW0zOUlMOEp6S19WOXp3LWtHQzRCakx6Tk9pNDZlcW9mSG43TTJRb2hMd210d3FfeG5IaGpZb0YtWnhNX3FWX0ZSNnlPODNMMXJWdUZXSHVfM3hqSnBpRkJxTTZHajhWb050QVpXZlR5ZXN5bnlLM3o5QUlBTlhpTXJ1MVZvaENYcXZORVMzVGtJbl9I?oc=5",
+          "pubDate": "2026-10-09T11:04:10.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Senate: Constitution Committee Summons Seven Ministers to Defend Their Position on Powers"
+          "title_en": "ProInversión plans to achieve a contract award volume in 2027 similar to that of 2024: Lines 3 and 4 of the Lima Metro and other projects in its portfolio"
         }
       ]
     },
@@ -125,12 +122,12 @@
       "color": "blue",
       "items": [
         {
-          "title": "La UC informa el estado del Claro Arena tras el aluvión en Las Condes",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1FZLTg3NjNyTk9GU2VnendTeE5yWWl6RDlsX1pvdDl0aFNvd2hQdVh4N2ZKZEcxWUkyVjFkVDdSSGRrMEowbXJPR2RSd3ByX1FFelByNUd6TlNVVGo2Vzd3dGo5T01fZ1hlUnBmV2tDNzlPUzlycXJzV0NQU2lIQVlnakJvRmtmN2NfYTlGMmJ5V1BwTVBrb2k5NmlwejE5MmFZVHNB0gHHAUFVX3lxTE9ycS1pZ2ZlQmI5N3JodHhjdWpnVW9NLUpLc1puRm9nV1V2bHE2Qmh5dXQ2dFlnc2c4ek0tcXI3b1NQRW81X0tyT2JEWTBTUkFkaHJjenIxQnhDOTdPV3h1Q3pqRmpwZzBLejlHV0pUanVEQkhTSERHYzg4V1NVMWFQUlBzdG8tZkpQTVMzMU1ZQ3lNak1CYmhmV2FrSVpILVMwOGhfTFllcy1rQlVYNFRLanBlWUQ2blNFYVFXYU03WC1LQVRYQkU?oc=5",
-          "pubDate": "2026-10-08T21:28:07.000Z",
+          "title": "Gobierno decreta zona de catástrofe en Las Condes tras devastador aluvión que arrasó con personas, autos y casas",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbFB6X00zTnZ2cUdhUEtUTWpaUm5CMldqSTBfVGR4RXNoOWF4YkE1TnB2bWJmZHBoSldGZ3BZMHZNLTBfWHlIVXVpanBtajdhcHF1OXhBUjZGTGpRc1VydEV6TFY5U0k0eXZjM0lJWXNGd1NmSGllNDNjdXpod1hzcEVFUEM0TFBFYWtESVV3V2Z6V1pLVXF2cGZUNW00ZGZYSkJXLTlqbGkzNll5U1VjN3hhMks0WVJrVXktQ0lXZ3hmRzIyMTByb2xob0l2RXFlaFJsMFRqbEZJZndjN2Rzekh0Ry15ZGNIeFl30gGMAkFVX3lxTE1ma0pvUXNVSk5nTTFqbU9nNDR5TnByTzY1bkt0SlNjeUN4bWhYMXBNZ2hOUkdBVWNCNXJINmtNekc5ckNvb1pjaDltRTFKQVI0dm41emZxVGRjTTRFUWpuanJ5SExvc2VSTlZYMGRiZUJXb2ZGOHJxTkw4aDNsT040SExXWDRVNEMzenVBWDZ4TEw1Wm85Z2R1dEhEM0x4WGdpWHZPV19KbFVuOU1qWmNSaTNkdkFOZTJoc3VsX0hsWUI2M29oVVVVM1V1V1NVTHpmRnVrNnJOaENCa2pERDZ2MzA1bVdzUXlaV1BTeFkzQ0NiMXR4LWJSaGk0WElqTHB6MUF6WmY5U19Ga18?oc=5",
+          "pubDate": "2026-10-08T20:53:15.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "UC Reports on the Condition of Claro Arena Following the Flood in Las Condes"
+          "title_en": "Government Declares Las Condes a Disaster Area After Devastating Flood That Swept Away People, Cars, and Homes"
         },
         {
           "title": "Presidente Kast anuncia despliegue de autoridades por aluvión en Las Condes y advierte “grave afectación” a vehículos y viviendas",
@@ -141,12 +138,12 @@
           "title_en": "President Kast Announces Deployment of Authorities Following Flooding in Las Condes and Warns of “Serious Damage” to Vehicles and Homes"
         },
         {
-          "title": "Médicos sin vínculo con Hospital de Talagante emitieron 1.045 recetas por fentanilo y otros fármacos controlados",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRnEwQXYxdEFOalRPUEFIVkcyUUFRSTF5Y2xwc3I2LTRvSjFXRkV0LWdzUXdqeXlCMFNlUXFTS2NVeGhSZW1udnFHNG1EakxUdkNSU0toRm1xV2hkNndRaS1aRVh1Q2JwM2o4ZHRFRXZ2RGYta3RhS0ota2FWenlXOVhYOU9kLUNodjBMNkdBTzFkZ2xvU0hRQWpWd1JiY3JqUVNoanhzYTJ3bUxhRFN5V3huWldpSUNWSEtwZnU4YVd2aG5JWEZsQzZBaFRsR19ZcUw2Y3E1ZEFDN0hTS2F1ckI4RXNSVHBoQ1o40gGMAkFVX3lxTE55SmVkQkppTlVGLTFLN0JkQk5iWXJfM0pVVkVkODRvYVYtb045YWJFTlkwdlpiakM5VVYzaDgxdkNyRVltQ3ZfWWJRYldaTXlYb3lZNXFMSzh3dGotMFZEdGs1T1dBMmJ2NzdPLU9GcUUxc3JiRVl4LVp3dDkyM1NkTUtSZzdkbUNmenVGeVRzeGZzVWNvN0I2cTBiUHppcUlLbWxkaVZnNUNmTUlEcHdPazQza0Y0VFozYkh2M1NDQ2tPU2hMamNMZXFmX2tadTVFbzdlT1Z2UHNaRXFrZklwaDR3WUFhLXZCeFQxcC13WmpCQm5lb2tjS21oeGwxMXhUdnY4VVg1Yko2ai0?oc=5",
-          "pubDate": "2026-10-08T19:59:57.000Z",
+          "title": "Petróleo sube con fuerza por ataques de Irán a buques en Ormuz y huracán en el Golfo de México",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbl9ON1hVcHhpdVZvcE5vZFlDcEJyRk4yV0xjZGUzQ01iLUR3RWs2clUwbEFJa01tMUFfZkZKZThkUjh5WEF5X21xNTFFQ1RtckU2VmJmN1JYdFlkSUZhMC1naXJkQ3ZGcWI0LTBNWnpOMFdrQU9veW1DNW5VdmNiNllzVzZTQ2FyU2dtMkpvZUJQTjZLMlVmSnR0YmVMdkV6bzdFcjY1Z3NGRVYza3VoQjNFaUFKZUN6OVdyb3hEUWxDWjRUOHpoUTNRV2huTmhl0gHyAUFVX3lxTE1UMlQ2VDNsMGRac01wMHpsUXZmSnk0N3R5cDNmT0R3UXduRzNRS0RScWpXMkNXR0JlVHh3djdSUjNYX3NYWUkxVkxmYm9vMkI0VFF3NVByeHphSXpsbzdFQ01ZYUEyTmdxWVpkbFM5VUV6cURpc3dpQkNyZWg5clQtM1RqN2U2TElDc05pVkt4ZURQWEZLODB2eDZqWXFaNlZrWllTNUlNa3hOellycy00dW9HcVdFd1JCWjd5NENpX3BQSDRoQUo3cS15UEgxNldzX1Vsc3E3WEY4eDVZUjN4NW50YmNVbDRYYWJqdmdva3RR?oc=5",
+          "pubDate": "2026-10-08T19:56:06.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Doctors with no affiliation with Talagante Hospital issued 1,045 prescriptions for fentanyl and other controlled substances"
+          "title_en": "Oil Prices Rise Sharply Due to Iran's Attacks on Ships in the Strait of Hormuz and a Hurricane in the Gulf of Mexico"
         }
       ]
     },
@@ -155,12 +152,12 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Instituciones firmes y mercados libres",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFdqT25sdG1oN3l2V09sNy1PeV9jQ0hSb3Z4NzJqSGRCVW15cUQ4YjgzTldpS3FZaldfWWVfdllCaDlqZzg4Tlc4WklaRmc5NGNGZXVPXzc3ZTdtT3VMbE9DQ3dHVmtOSUVILV91UDIyMFdLLVZWSl9udkl3MlhILUVaemFtcGZlY2FHV09hY3ZqSk5oVTJPdE5Icw?oc=5",
-          "pubDate": "2026-10-09T05:05:00.000Z",
+          "title": "Estados Unidos acusa a Nicolás Maduro y Cilia Flores de conspiración para cometer torturas",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHdrNFFfcHZ3aFg1ZGFpSHFmUFpqY19SZHlDZ2VOODdLSy1UT0ZsTjRWbWZyeFVWem5UcDBVSWtkMjkxUlVoSjVGbC1yNC04MGY0aVVXT1JiZEUzTlhubm5EcGxKd2pYSFRjV19nRTVVdjk1SklVTmpRWFdtMFNjWEppQklwRnM1Zjd3eWVINWtrSXVhUmtMbkdkclo5aVRnV3lOWEN3?oc=5",
+          "pubDate": "2026-10-08T16:25:20.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Strong Institutions and Free Markets"
+          "title_en": "The United States accuses Nicolás Maduro and Cilia Flores of conspiracy to commit torture"
         },
         {
           "title": "Texas ejecuta al primer reo en EE.UU. desde el fallido intento de ejecución de Christa Pike",
@@ -171,12 +168,12 @@
           "title_en": "Texas executes the first inmate in the U.S. since the failed attempt to execute Christa Pike"
         },
         {
-          "title": "Estados Unidos acusa a Nicolás Maduro y Cilia Flores de conspiración para cometer torturas",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHdrNFFfcHZ3aFg1ZGFpSHFmUFpqY19SZHlDZ2VOODdLSy1UT0ZsTjRWbWZyeFVWem5UcDBVSWtkMjkxUlVoSjVGbC1yNC04MGY0aVVXT1JiZEUzTlhubm5EcGxKd2pYSFRjV19nRTVVdjk1SklVTmpRWFdtMFNjWEppQklwRnM1Zjd3eWVINWtrSXVhUmtMbkdkclo5aVRnV3lOWEN3?oc=5",
-          "pubDate": "2026-10-08T16:25:20.000Z",
+          "title": "Policías incautan cocaína en el puerto de Guayaquil oculta en maquinaria",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDJxTXFwemItYm1naEZzVmZYLVNGbUlKQVJZeF9ES0czRXpjdUJCZndQalAxeDNNWEtNMTRmQmVMRmlSWUlWRHluR0N3ejdNVWsyRFJXUUxlLWlId0NXWlhIMi1CcElvVkRiWVNYZ0xyQ0VUQnRJNFZSUXpzSDdhdkIwcll2Ylo0enJfYXlnWm5mTkYwaWlPSTZ1SmpKYkluS3RnVUNIYm9TQmpIbzAxdEx3?oc=5",
+          "pubDate": "2026-10-09T15:44:26.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "The United States accuses Nicolás Maduro and Cilia Flores of conspiracy to commit torture"
+          "title_en": "Police Seize Cocaine Hidden in Machinery at the Port of Guayaquil"
         }
       ]
     },
@@ -185,28 +182,28 @@
       "color": "mint",
       "items": [
         {
-          "title": "Escuelas destrozadas por la tormenta y sin ayuda del MEC: organizan polladas para volver a clases",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQi03cGRRS0tmaDIyWTl4YzFVX3VpWENIcTV3VG53M2s3SFdkWkpfVTRUeDhxMFRsaHJYM0NvNndjdXJ4RkpzSXJwMHpmS0x6U2YxUU9ZUm9kMXE2Nlh6cVFELTRIbDYyMHlsQVJUMTdXN0lPeUFsS2RuMEhTN2lJdDdyVktwUDdXLXo5ZjZqZ09HZDNuUmhWT2ZVaFlyc1Zzc0NFdXlEVGVPLURjNktnQmc4dDVod1BMb09ZelZYMlRiSGgweHBOcGY3b1FUcGQyUkFpOGY4WWdWZw?oc=5",
-          "pubDate": "2026-10-09T09:33:44.000Z",
+          "title": "“Ueno se vendió a sí misma con su mismo dinero”, denuncia Rafael Filizzola - Economía",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0lRRHpZMDdTdWtsdDZGYjJSTVZ4ZVg1WlpMdnZnQ1RNTnh4YWlBWGFaT2tYOHhFa1ZBTmM2b21mZGZDUHdxQ1p0akJ1MVNtUjliN1J0TWNMVGJOYVJFS05LX0d3MmIwckxNemtIa0hnalhkSEtHYTNLRG1zM3dHTUVzdFRsSFBadW5yaWRSOTJyelJBZHBidTRLeXRmd3hnV19qWXhGUGtMNmo0VGdVa3BKNUFqZw?oc=5",
+          "pubDate": "2026-10-09T15:20:25.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Schools Destroyed by the Storm and Without Help from the MEC: They're Organizing Fundraisers to Get Back to School"
+          "title_en": "“Ueno Sold Herself with Her Own Money,” Rafael Filizzola Alleges - Economy"
         },
         {
-          "title": "PGN 2027: la UNA pide US$ 61 millones adicionales",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnJEcFVwVV9jd2owclFWN0tXZGw2U2pZcDdOS3BoOXEtMVRQTk5FUnRNWV8tRW9PcTEwVThxVkYwdkpnNmhDT3B2NkdHTXEySTBLY0d5bVBScFJ0aXhOMThKTXVDSkhHaHRleHVMYllsUEloZ2JjQjZMbzQwWmVJUW13ZndBSlQyM0VjOWNXbGJMdw?oc=5",
-          "pubDate": "2026-10-09T09:09:16.000Z",
+          "title": "Ueno maneja más de US$ 800 millones en depósitos públicos: ¿Cuánto es de Itaipú? - Economía",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTk5xNXlyVVAzeDVxc2xBanlOWFMzV1dDQmFpRUxnNENpUXpyb09DWXF2TnhzZDR3Q05iTnFKVURYU3RnRndiR29CV3NVSGQybHZOZmVRc2lESlpYcHNZZ21PRWhPMENobGFsRXR5REFhSHU3WUQ3aEVXR0MzSVd1Q21aajdQb1dNV002aElTc0k0a2V1b2JWdGNtXzgtTjhCcXFzTk5BTS12cHplWm9xQ3ZUUmwtamdDUWdGWQ?oc=5",
+          "pubDate": "2026-10-09T12:19:13.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "2027 National Budget: UNA Requests an Additional US$61 Million"
+          "title_en": "Ueno Manages More Than US$800 Million in Public Deposits: How Much of That Is from Itaipú? - Economy"
         },
         {
-          "title": "AUDIO: ¿Se viene otra suba del combustible?: esto dice Petropar",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnNKV2NFdGc3T3REZFd5b3RvdEFnWjRSc21KdnpnQTRXQ2hQcXpYcGQzVFlvT1VFSzZWUEJybkRkQ3F1bmhNME43SF91SlhPWW1qQjk1ZEVDbklpU3llRWh6cU81S0xVSm5GY2h3UVNVS0dRQTZqTzg2VUQxWUhUQWhma0FOS0RUaWx2QlNDeS1aeDRtSnY5b2ZhRmg2Q3hzUFI0TDJxUDdWZ2JYZkJ1RC00Zw?oc=5",
-          "pubDate": "2026-10-09T00:56:33.000Z",
+          "title": "Condenan a 17 años de cárcel a padrastro por abuso sexual de una niña en Santa Rita",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzVOVVN2UnowRGRaWGI4UHBvU0NqN0VXY1J6dmJMWFlXVTRweEhyeGdGdTBXcy1scGc2QVZ3ck5teGxwWlR5RWQ5R0NxaDJJVnBDVFlOVkJlbVF6VzdvdlZCWlpvOE5oRllWSkNRYUZPUUE3aDlCS213c3FBQ215SFQyQnRIZ01FdkZRWk5ZUUkyZDN1SVVuLUFlMnlOR2ZVZmdNeXpsNUZ2YVRaS3Y5dGstUTkwQk1QMjVqSGIxckk?oc=5",
+          "pubDate": "2026-10-09T14:27:53.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "AUDIO: Is another fuel price hike on the way? Here's what Petropar says"
+          "title_en": "Stepfather Sentenced to 17 Years in Prison for Sexual Abuse of a Girl in Santa Rita"
         }
       ]
     },
@@ -215,28 +212,28 @@
       "color": "slate",
       "items": [
         {
-          "title": "Francia enfrenta una nueva etapa de la revuelta estudiantil, mientras la protesta contagia a Bélgica",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGZJRTdsT2Eyd2ZkanVIVVFHd1h6dDR2Ym83N1hqSWZCU19uUWprTDcxUHRiR2FvZ0xEdk1tSEhzc3pRUDVsc3NKQkZnSk10dTcxdlZkckdOd3d2cl9GNHQxbUhfdWdEc0F3YmxZYVgyYmRYN2dKaEh4ZS1pYTdVNm11S3FWMk15UlRqY2JaeE8zLTh1V0cwWHJGZ2Uxb0RnTGUzWkNkOGpaUkRfajVCT1F4MTd4c0FpZnItR0szTm82b09BZDRJakk2VQ?oc=5",
-          "pubDate": "2026-10-08T23:53:09.000Z",
+          "title": "El BCU subió la tasa de interés a 6%: ¿qué hay detrás de la decisión y qué prevén los economistas?",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlNTcWhSMFN6alJmRkZLdjZuNUwxWDNyZm5iX1NFcS1GS2R4ejlwMExMeUZjOWtVQ1ZCRTdNT1JHcjEyck8xWGVmbWlyRWVmZS05Yk1URFMza2diMGxfU2MtSjdjVEU2Y3VEOEl2X2lVLVlNbTdiTVZ2ck9VUVAzWFdfNlg2RTF1Qy1qNlRCUHJQZm8zU3FhQVhWdlQwZUJPcDE1WTE2UXlwdjdpOUhsdlVyaGQ0WEdHQ05sVndXNkhuZlN0Y2hBS2twUndfeVNQbWdHVw?oc=5",
+          "pubDate": "2026-10-09T08:22:37.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "France is facing a new phase of the student uprising, as the protests spread to Belgium"
+          "title_en": "The BCU raised the interest rate to 6%: What’s behind the decision, and what do economists predict?"
         },
         {
-          "title": "Ordenan detener a Eduardo Bolsonaro en medio de la campaña electoral de su hermano Flávio en Brasil",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODdsWkV6QXlwR1lGQnB2T2Fsb2ItMkdNYXd5OFVBZFJER0JYVzVHSmFfUDhtLXVPODJDbHRZUFhEcXA0bUxVQnhHVkw0ODJCNUF5N24xMXl4TkxocC1MOFhDaURCMS1oOHdZRmFXSGd0OHMzaWZheVZZRTc3ajdCbUpqWGtwd2pVd2JFNnpISE1YZHVXUjVMR1lMYjZTNmExazdFTVJFd3RhNkpZV19vcGxFd0R6aUUwYVF1N3NvMmhOU2wwWnJFdVBfQQ?oc=5",
-          "pubDate": "2026-10-08T23:00:20.000Z",
+          "title": "El jugador clave para Diego Aguirre que vuelve al 11 de Peñarol para enfrentar este sábado a Progreso",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUZobE43ME1tV2ppU0lIV0RZcGIxVUE2M2JObGxZTk1XOWdXai1VZlNlNlU2YXhxTWFLdUFSOFRfckRvSjRENlQ4VVRQV1o5Zm5JVUVJMEwxaE1ic2ppbWcwQ1V3R3VwX1F0LWVLUnNzdzVYdjZvczVDajBDemFraDE0YkN1S09uZ0R2VlNQenFkWDU3RlNEZkxjQ1o1VV9TUU1qUUhDeFM0V0V1bHVCSmlUNlBYRWx6aGtwSzdGU2ZTWWxxWU9ISzJHaFI3OTlZZXRYV3k2TDU1Zw?oc=5",
+          "pubDate": "2026-10-09T14:43:52.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Arrest Warrant Issued for Eduardo Bolsonaro Amid His Brother Flávio's Election Campaign in Brazil"
+          "_priority": "DEPORTES",
+          "title_en": "The key player for Diego Aguirre, who returns to Peñarol's starting lineup to face Progreso this Saturday"
         },
         {
-          "title": "Colorados insisten con “modelo Bukele” para la seguridad y piden aplicar algunas medidas de El Salvador en Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRDZrVWZXVWJTdTgtWVMybW1LNXJxV3R5U2l3WVJhSU10T0pRVEpKSXpidHdTTFJwLVFZZi1oWWxXdVdERTU3TmpUNVdaMWdoVVBPaDVLN3pWYkRfS0FpS0VFSi0tUkxGSzhUX05LMnc0UlFBU2RoTFlpVXUwYmpBalNicVlkWkZGQlFGWUxZdFV3RXNsQkpQdl93a2NDb3owY3dNNi1TSUZsUGcxNXRZU1VYbThQVWk1VklnOTlfTXU1Mk5Bd2FhOVNUMUt5N3JLc2xfb0JkZEc4d0JrZElYY2VoUENxcnpRRzY3SXlUTXU?oc=5",
-          "pubDate": "2026-10-08T22:35:25.000Z",
+          "title": "La selección planea su fecha FIFA de noviembre: cuándo se juega y posibles rivales para el Uruguay de Forlán",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcVlzbzBLdEVhbTBJaEZybUlpNXF0UzkyZXVfREJpY2NtN0ZrTkxjX21UQTU4ZjAwZTU3YWhJWUh2TVlJUWVfSnIybXM4bXA3OVc4Mi0yLXdpbUpNSlk2aG1KaXJLS0c1ZGFrYkpGdDNkS0tOdkdnblBSRmVhYndkRWFyQ25wcHpsWFowdU10alZtMERCNWdrVjRLdkFFNVo5X0JhdDRWcmdmVHhsY2x2LWFQSjU0TzNUQXhlMW5lM3R5ZG1wUHlFcDUwQm9wRkR5N2FOUjNsMzdCNmhoZFNQQUZ3?oc=5",
+          "pubDate": "2026-10-09T14:01:24.000Z",
           "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "The Colorados continue to advocate for the “Bukele model” for security and call for the implementation of certain measures from El Salvador in Uruguay"
+          "_priority": "DEPORTES",
+          "title_en": "The national team is planning for its November FIFA fixtures: when the games will be played and potential opponents for Forlán's Uruguay"
         }
       ]
     },
@@ -245,6 +242,13 @@
       "color": "cream",
       "items": [
         {
+          "title": "Page 11 - 09 de octubre del 2026 - La Razón",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXp0R29mSGxZN0lEcm1XWVBGZ0xkVk04Mll2aThXMU03TGdVdVZjbE1vd1p3MEhkejNuQk5SM2d6emE5anJHcXExSzE5TGNUZEdqcVYyQ2JFdUxLbnZFUUxaVXNSd0ZLcmR0SmZYV1FLSHV6MUlfWGNxWEY2US1yemhrdlpCTDMtM2lnTWJhTExXR3dCc21OZThNeDlrZVJ3SHlR?oc=5",
+          "pubDate": "2026-10-09T08:53:44.000Z",
+          "snippet": null,
+          "title_en": "Page 11 - October 9, 2026 - La Razón"
+        },
+        {
           "title": "Page 8 - 07 de octubre del 2026 - La Razón",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDdwZzRWWGxGenZ2b1ZlTGY3bGs4Wm1FbTZzR0JIeEszbFlKWDgwVE9tRkd4VTgyaU9JSjlTSFNzUVJlaHYzbktrLUI0dDZTcGQydVpvTTlkV3R6cGNpOHdXYmMyWE56VDJfUVVfQzhrOHUwUVFiRTdlWl9sSWJoUEVzQWEtaXZVR1BvZVNtblRPZXg0dkRPQlduTDh4c3k3X1E?oc=5",
           "pubDate": "2026-10-07T07:00:00.000Z",
@@ -252,11 +256,11 @@
           "title_en": "Page 8 - October 7, 2026 - La Razón"
         },
         {
-          "title": "Page 14 - 06 de octubre del 2026 - La Razón",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV19NRTRYWi1SeUIzandfS2tIT1N5VUxONHRzTHZORU53c1gxQUxuRGNHanBHWmpENFFvNGI0c2dmelNiTDVYaERGWnpXUDRSTkItdmczOUJnNDBma25FbWk0S29ELXVMTWdaMmNLeTBGbVY4c2JXcVp1REUtMm1nMndNOEhOcjFBUXM4eS1ObHVldmdIWTlDYzBhZGkxakREMk1j?oc=5",
+          "title": "Page 13 - 06 de octubre del 2026 - La Razón",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2s3Y0hBcURsRTJGQXN1NEpMVEY2MVhKRUZVOEdwS00zeUJndWVqMDdWSEVZbGNwUFhsYlFwSy1fTmhBTmV5aW0zZEdMa3N4aWQ1X21TbW95eXNxMFVjTEZYMU5yTUNqc0hLdWJRNmc1c01SLURuc3J3RGZTU1FtRU5NcjZZTkV6elJtajYyS3Z0YjNtY0piXzBtNUVQQkxlWWl3?oc=5",
           "pubDate": "2026-10-06T07:00:00.000Z",
           "snippet": null,
-          "title_en": "Page 14 - October 6, 2026 - La Razón"
+          "title_en": "Page 13 - October 6, 2026 - La Razón"
         }
       ]
     },
@@ -264,14 +268,6 @@
       "name": "El Nacional (Venezuela)",
       "color": "grey",
       "items": [
-        {
-          "title": "Empresas privadas ganan espacio en hospitales públicos mientras laboratorios y servicios pierden capacidad",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVQ4LWozczQ5RDR1eExzNWp6UG1pUW9OaFFUYkxnUFdKMlRYaDNWTkZ2b1o3Q0F3MkUxenE5TGRnbk1VX2QtWTA1X010bU4wY2ZWcTdlaFJmc1FNd0Z4YjdxNlhNSHJZTElnNjZ1V1Q5aE1ESTVWVktoRWdEWkQ5T3djLWVnU3B1UThQVGhfbHJ2VUV5?oc=5",
-          "pubDate": "2026-10-09T10:01:23.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Private companies are gaining ground in public hospitals, while laboratories and services are losing capacity"
-        },
         {
           "title": "El Gobierno entregó la renta y gestión de empresas públicas a privados en la sombra: la privatización sin propietarios",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUl1RURvbVFPczJRNVdUWVpYcDJXQVhkR2s3SXNkaVFuczA1UU0zaWdvQmtJbTJTUGFDckRvSWJ1emg0dlM5WnJsOXpMX01qc1g1WWR4OVdQTXM1dERoVE9hWmhRUW1xdGRjRVE3RjNoMm9MVkU0MVBoT2gxY3Itbkt1Ym5TV3pyMHZ6Z0o5ZkM1N1RhcU9kTlNCUk1fRldwWmg2NnJQZVYyMXhkYUstaGpNcGN4ZnJRM0plRjln?oc=5",
@@ -281,12 +277,20 @@
           "title_en": "The government handed over the operation and management of public enterprises to shadowy private entities: privatization without owners"
         },
         {
-          "title": "Carlos Julio Rojas queda en libertad plena tras absolución del tribunal",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDNEM0tFU3IydFh3OExNbHcwQWs3ekpzOWxELWUxZzdPMWlQNWE1Wkc2U0M5d3dlUFFIM0pNNmRsVVpEUkRtVktrU0xRb0ZTeThNRURzbmZQRnRlMjhTRGxKbUpEbmlhQklQWnNfaEhfcS05NmZWMmp3M2lSZVJKVVc2R3hNUzQ5TFJOa1VMVy1WbnNxcFZhRDJGRE82V0hCUFA5cWFoVnBfYW8?oc=5",
-          "pubDate": "2026-10-08T22:54:16.000Z",
+          "title": "Fiscalía de EE UU acusa también a Cilia Flores de narcoterrorismo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWR5aDAxa3pRdUNKX1ZrX3hpWDhWMGllT0dDdzYxOGN6S2xWR29OWDVFUFBoVExUVXZCX3VjaG5uM1RnR09DVE4yZ3ZhZ01TUHY0OF8yTXJScmhzLVFjQkZJTHM4RDhFYm1VVDZDbXFHbm5QR21BOUUxaGs4T0RJZGVlalR4ajdtekNEdGFfMDFuRi1EbUJFanRaMGpKLVVCQTJr?oc=5",
+          "pubDate": "2026-10-08T17:05:02.000Z",
           "snippet": null,
           "_priority": "ALTA",
-          "title_en": "Carlos Julio Rojas Is Fully Released Following the Court's Acquittal"
+          "title_en": "U.S. Attorney's Office Also Charges Cilia Flores with Narco-Terrorism"
+        },
+        {
+          "title": "Venezuela y República Dominicana acordaron el restablecimiento progresivo de sus relaciones diplomáticas",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGxfYTBKQk1GN1FTcEZkbklid01tWDRJVTNhNmtPRVJKTUpwWFBIZXV4dzRsNllvOWNzODJBRlVodHZOelJnTDBXOUtvU2ZyUEx2LTRONC1rY0Q5R19zSHE5X2dLckl6UTZFSVljY2ZzM0hIQVdtMDN1ZDNSUmJDS1lpNUNtQU5WdGNGZWFwanFmNkw5VHRsUDRNTEk3Mm1KS2FIdTNZa2JKMGlvRUI1d1cydUNWaW5JVElmRW9fbk1iNE1RX0s3Qlc1N0l0b1QyT0dPeDExeEVKVEJVV3BJcExIT3VIY3d0Mmc?oc=5",
+          "pubDate": "2026-10-08T18:04:48.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "Venezuela and the Dominican Republic agreed to gradually restore diplomatic relations"
         }
       ]
     },
@@ -295,20 +299,20 @@
       "color": "teal",
       "items": [
         {
+          "title": "Mindef pone a disposición del MP a 107 militares tras masacre en Huité, Zacapa, y releva a altos mandos",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONTdiSWtCcC1KQW1uUXhjTklsZWZ3Y0VSdG1BREpENEZCVlI3Z0piTk1YaExreERxS2NRTHdYVndpR2FlVUo0ZU56RVdPVDNvSERkTzRjbVRoQm5xdEthUHRBNjYxMTdZRUlQbGpBa2VwbjhGNEF3NXJINWt0T1NodFhHM3lzYVRuS1FLMVpsUGdpSEZIeENmWHlXMHViRF9kdF9JRmhhb0Y1V25XVDNoX3Q4eGR3N2F2WWFWTVJZalV0QkN0bXVkQjJSZl9paEJDR3JaZlotbW5XcFVLVUlyUzhiRQ?oc=5",
+          "pubDate": "2026-10-08T20:11:25.000Z",
+          "snippet": null,
+          "_priority": "ALTA",
+          "title_en": "The Ministry of Defense Hands Over 107 Military Personnel to the Public Prosecutor's Office Following the Massacre in Huité, Zacapa, and Relieves Senior Commanders of Their Duties"
+        },
+        {
           "title": "CC anula nombramiento de Jonathan Menkos como presidente del Banguat",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSTRoTUtoMDRZckJKS1ZUUGJPMHFsaWZTMHJLcmxlZm10NHVSZF83WFVTQlE4VUtqOVJkZnB6cFVLRlZ3bUVVS0U5MlBuOXFzbVB1ZFo2TVVSeExpWGlsWU1YTjVQWmd5aHo5Yl9FRFQwMG5qS1dEMDdCLWM3SS1HaGV1U0tiUDZnc1N6clVJMEhPWGVDdjBHOXgyRXJ2NFdFLXZmNUJ3bjE0Yy1URzdoUWRPTXhGeXp2MjItNmVUcTdhTkE?oc=5",
           "pubDate": "2026-10-08T18:18:06.000Z",
           "snippet": null,
           "_priority": "ALTA",
           "title_en": "CC Overturns Jonathan Menkos' Appointment as President of Banguat"
-        },
-        {
-          "title": "Manifestantes interrumpen a Trump: Tensión y enfrentamientos durante el mitin en San Antonio",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2xTVzZVd21MOUxmbmZCRWt2SVJWeEJrTXZNb3JERExtbXZLS2MycjFCZFkzdDVTMkprc082X09VOGJoWC1IX0hTTzUxYmdOOWZZNFNSVzE4clN0TzdDZ1BNQWZtWmRaRDZwZjk5eGREeHdRQ0IzcG9ZdTB1NDNISXBYcC1wc2UzWWF6Sk1ZR0hiRTNHdUYyaGFkNVhlWmlNZUZTZU00Y3Rzd1cyakxiOVU5WDZEMHc3cXlRSWFia01pb1dGUzgzVzhfdzVQVUU?oc=5",
-          "pubDate": "2026-10-08T14:28:38.000Z",
-          "snippet": null,
-          "_priority": "ALTA",
-          "title_en": "Protesters Interrupt Trump: Tension and Clashes During the Rally in San Antonio"
         },
         {
           "title": "Defensa ampliará información sobre Huité mientras denuncia señala a altos mandos militares",
