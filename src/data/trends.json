@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
+      "#SeguridadColombia",
+      "#AtaquePolicial",
+      "#AeropuertoRiad",
       "#CrisisSeguridad",
-      "#VerónicaAlcocer",
-      "#DisidenciasFarc",
-      "#ProtestaSocial14Oct",
-      "#TerremotoPanamá"
+      "#Minería"
     ],
     "mundo": [
-      "#AtaqueRiad",
-      "#HouthisSaudita",
-      "#TiroteoPensilvania",
-      "#TrumpUcrania",
-      "#MedioOrienteEnCrisis"
+      "#AeropuertoRiad",
+      "#AtaqueHutí",
+      "#TreguaRusiaUcrania",
+      "#MedioOriente",
+      "#CrisisGeopolítica"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#ChicheroCapturado",
-      "#NoMásViolencia",
-      "#VerónicaAlcocerEscándalo",
-      "#14DeOctubre",
-      "#TerremotoAlerta"
+      "#AtentatoINPEC",
+      "#SeguridadYA",
+      "#CrisisColombia",
+      "#JusticiaColombia",
+      "#AlertaNacional"
     ],
     "mundo": [
-      "#AeropuertoAtacado",
-      "#TiroteoDesdichado",
-      "#TrumpPutin",
-      "#RiadBajoAtaque",
-      "#CrisisGlobal"
+      "#AtaqueRiad",
+      "#GuerraUcrania",
+      "#CrisisMundial",
+      "#MedioOriente",
+      "#Urgente"
     ]
   },
-  "generatedAt": "2026-10-11T10:02:11.673Z"
+  "generatedAt": "2026-10-11T16:11:41.264Z"
 }
