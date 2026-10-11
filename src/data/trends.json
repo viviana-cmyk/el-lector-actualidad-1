@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
+      "#CrisisSeguridad",
       "#VerónicaAlcocer",
-      "#CrisisGobiernoCol",
-      "#BomberosInvestigación",
-      "#CasoUngrd",
-      "#CatatumboAtaque"
+      "#DisidenciasFarc",
+      "#ProtestaSocial14Oct",
+      "#TerremotoPanamá"
     ],
     "mundo": [
-      "#UcraniaTrump",
-      "#Zelensky",
-      "#PanamáSismo",
-      "#TrumpSanciona",
-      "#CrisisEnEuropa"
+      "#AtaqueRiad",
+      "#HouthisSaudita",
+      "#TiroteoPensilvania",
+      "#TrumpUcrania",
+      "#MedioOrienteEnCrisis"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#VerónicaAlcocerTráfico",
-      "#SismosColombia",
-      "#CatastrofeCatatumbo",
-      "#GobiernoEnCrisis",
-      "#JusticiaColombia"
+      "#ChicheroCapturado",
+      "#NoMásViolencia",
+      "#VerónicaAlcocerEscándalo",
+      "#14DeOctubre",
+      "#TerremotoAlerta"
     ],
     "mundo": [
-      "#TrumpVsPutin",
-      "#UcraniaAtacaRusia",
-      "#ZelenkskyEnojado",
-      "#SismoEnPanamá",
-      "#IndiaProtestaPolicia"
+      "#AeropuertoAtacado",
+      "#TiroteoDesdichado",
+      "#TrumpPutin",
+      "#RiadBajoAtaque",
+      "#CrisisGlobal"
     ]
   },
-  "generatedAt": "2026-10-10T15:46:46.903Z"
+  "generatedAt": "2026-10-11T10:02:11.673Z"
 }
