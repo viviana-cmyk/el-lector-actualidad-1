@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T16:11:41.264Z",
+  "generatedAt": "2026-10-12T10:01:54.772Z",
   "dia": {
-    "nombre": "Día Internacional de la Niña",
-    "descripción": "Conmemoración de la ONU (11 de octubre) para promover los derechos, la educación y el empoderamiento de las niñas en todo el mundo."
+    "nombre": "Día Internacional para la Erradicación de la Pobreza",
+    "descripcion": "Conmemoración de la ONU establecida para sensibilizar sobre la necesidad de erradicar la pobreza extrema, promoviendo acciones globales hacia la dignidad y los derechos humanos."
   },
   "dia_en": {
-    "nombre": "International Day of the Girl",
-    "descripcion": "UN commemoration (October 11) to promote the rights, education, and empowerment of girls worldwide."
+    "nombre": "International Day for the Eradication of Poverty",
+    "descripcion": "UN commemoration established to raise awareness about the need to eradicate extreme poverty, promoting global actions towards dignity and human rights."
   }
 }
