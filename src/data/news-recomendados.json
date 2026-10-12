@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-12T10:01:49.731Z",
+  "generatedAt": "2026-10-12T19:40:28.093Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "El líder de los Tiguerones, alias “Willy”, vive en libertad en España",
+          "link": "https://insightcrime.org/es/noticias/lider-de-tiguerones-alias-willy-vive-libertad-espana/",
+          "pubDate": "2026-10-12T18:19:10.000Z",
+          "snippet": "El líder de los Tiguerones, alias “Willy”, vive en libertad en España William Joffre Alcívar Bautista, alias “Willy”, presunto líder de los Tiguerones, una de las bandas criminales más poderosas de Ecuador designada por Estados Unidos como Organización Terrorista Extranjera (Fore…"
+        },
         {
           "title": "The InSight Take | Dos años después, la guerra del Cartel de Sinaloa cambia de forma",
           "link": "https://insightcrime.org/es/noticias/the-insight-take-dos-anos-guerra-cartel-sinaloa/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/comandos-de-la-frontera/",
           "pubDate": "2026-10-01T21:04:57.000Z",
           "snippet": "Comandos de la Frontera Comandos de la Frontera: quiénes son, dónde operan, quién los lidera y cómo participan en el narcotráfico en Colombia. Perfil completo actualizado. The post Comandos de la Frontera appeared first on InSight Crime."
-        },
-        {
-          "title": "On the Radar: Esposa e hija de Fito capturadas en Colombia",
-          "link": "https://insightcrime.org/es/noticias/esposa-hija-de-fito-capturadas-colombia-on-the-radar/",
-          "pubDate": "2026-09-30T15:01:37.000Z",
-          "snippet": "On the Radar: Esposa e hija de Fito capturadas en Colombia Autoridades de Ecuador y Colombia capturaron a la esposa e hija del exlíder de Los Choneros, alias “Fito”, en Santander, Colombia, en el más reciente golpe contra su red familiar. Además en On the Radar: la policía chilen…"
         }
       ]
     },

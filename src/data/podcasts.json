@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:01:49.731Z",
+  "generatedAt": "2026-10-12T19:40:28.093Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
     },
     {
+      "title": "Up First from NPR",
+      "host": "NPR",
+      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
+    },
+    {
       "title": "Pod Save America",
       "host": "Pod Save America",
       "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
-    },
-    {
-      "title": "Dateline NBC",
-      "host": "NBC News",
-      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     }
   ]
 }
