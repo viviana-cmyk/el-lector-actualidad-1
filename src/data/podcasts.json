@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T17:25:11.774Z",
+  "generatedAt": "2026-10-14T10:01:48.232Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -12,19 +12,19 @@
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
-      "title": "365 con Dios",
-      "host": "Wenddy Neciosup | Genuina Media",
-      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
-    },
-    {
       "title": "Estoicismo Filosofia",
       "host": "Estoicismo Filosofia",
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Despertando",
+      "title": "365 con Dios",
+      "host": "Wenddy Neciosup | Genuina Media",
+      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
+    },
+    {
+      "title": "Durmiendo",
       "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/despertando/id1504753252"
+      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
     }
   ],
   "mundo": [
@@ -44,14 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
     },
     {
-      "title": "Up First from NPR",
-      "host": "NPR",
-      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
-    },
-    {
       "title": "Dateline NBC",
       "host": "NBC News",
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "Pod Save America",
+      "host": "Pod Save America",
+      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
     }
   ]
 }
