@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-10-15T14:43:35.102Z",
+  "generatedAt": "2026-10-16T10:01:51.072Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "The InSight Take | Designaciones de carteles como organizaciones terroristas extranjeras: qué implica para las empresas",
+          "link": "https://insightcrime.org/es/noticias/the-insight-take-designaciones-carteles-organizaciones-terroristas-extranjeras-que-implica-para-empresas/",
+          "pubDate": "2026-10-15T17:54:17.000Z",
+          "snippet": "The InSight Take | Designaciones de carteles como organizaciones terroristas extranjeras: qué implica para las empresas ¿Cómo afectan a las empresas las recientes designaciones de grupos criminales de América Latina y el Caribe como organizaciones terroristas extranjeras (Foreign…"
+        },
+        {
+          "title": "Por qué Ecuador está perdiendo la batalla contra el crimen organizado",
+          "link": "https://insightcrime.org/es/noticias/por-que-ecuador-esta-perdiendo-batalla-contra-crimen-organizado/",
+          "pubDate": "2026-10-15T15:09:57.000Z",
+          "snippet": "Por qué Ecuador está perdiendo la batalla contra el crimen organizado La estrategia militarizada de Ecuador contra el crimen organizado no ha logrado una reducción sostenida de la violencia. Tres años después, el gobierno del presidente Daniel Noboa comienza a dar sus primeros pa…"
+        },
         {
           "title": "El líder de los Tiguerones, alias “Willy”, vive en libertad en España",
           "link": "https://insightcrime.org/es/noticias/lider-de-tiguerones-alias-willy-vive-libertad-espana/",
@@ -28,18 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/captura-de-r1-expone-red-comandantes-vinculados-a-r-del-cjng/",
           "pubDate": "2026-10-05T18:05:09.000Z",
           "snippet": "La captura de “R1” expone la red de comandantes vinculados a la “R” del CJNG Tras los asesinatos del alcalde Carlos Manzo y de la influencer Valeria Márquez, las autoridades mexicanas afirman tener bajo custodia a uno de sus principales sospechosos: Ramón Álvarez Ayala, alias […]…"
-        },
-        {
-          "title": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras",
-          "link": "https://insightcrime.org/es/noticias/lucha-tierras-garifunas-corredor-narcotrafico-honduras/",
-          "pubDate": "2026-10-02T20:03:20.000Z",
-          "snippet": "La lucha por las tierras garífunas en un corredor del narcotráfico en Honduras La presencia conjunta del narcotráfico y de poderosos intereses económicos sigue siendo uno de los principales obstáculos para la implementación de las sentencias de la Corte IDH en Punta Piedra y en o…"
-        },
-        {
-          "title": "Comandos de la Frontera",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/comandos-de-la-frontera/",
-          "pubDate": "2026-10-01T21:04:57.000Z",
-          "snippet": "Comandos de la Frontera Comandos de la Frontera: quiénes son, dónde operan, quién los lidera y cómo participan en el narcotráfico en Colombia. Perfil completo actualizado. The post Comandos de la Frontera appeared first on InSight Crime."
         }
       ]
     },
