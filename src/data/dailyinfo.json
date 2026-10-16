@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T10:01:57.758Z",
+  "generatedAt": "2026-10-16T14:36:42.742Z",
   "dia": {
     "nombre": "Día Mundial de la Alimentación",
-    "descripcion": "Se conmemora la fundación de la FAO en 1945 para combatir el hambre y mejorar la nutrición a nivel mundial, promoviendo seguridad alimentaria en todos los países."
+    "descripcion": "Se conmemora la fundación de la FAO en 1945 y busca visibilizar el hambre y la malnutrición mundial, promoviendo la seguridad alimentaria."
   },
   "dia_en": {
     "nombre": "World Food Day",
-    "descripcion": "It commemorates the founding of the FAO in 1945 to combat hunger and improve nutrition worldwide, promoting food security in all countries."
+    "descripcion": "Commemorates the founding of the FAO in 1945 and seeks to raise awareness of world hunger and malnutrition, promoting food security."
   }
 }
