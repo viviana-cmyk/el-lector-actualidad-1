@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:01:46.422Z",
+  "generatedAt": "2026-10-17T13:30:15.996Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -34,14 +34,14 @@
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "Crime Junkie",
-      "host": "Audiochuck",
-      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
-    },
-    {
       "title": "The Joe Rogan Experience",
       "host": "Joe Rogan",
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
+    },
+    {
+      "title": "Crime Junkie",
+      "host": "Audiochuck",
+      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
       "title": "Dateline NBC",
@@ -49,9 +49,9 @@
       "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     },
     {
-      "title": "In The Dark",
-      "host": "The New Yorker",
-      "url": "https://podcasts.apple.com/us/podcast/in-the-dark/id1148175292"
+      "title": "REAL AF with Andy Frisella",
+      "host": "Andy Frisella",
+      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
     }
   ]
 }
