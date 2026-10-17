@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T14:36:42.742Z",
+  "generatedAt": "2026-10-17T10:02:10.140Z",
   "dia": {
-    "nombre": "Día Mundial de la Alimentación",
-    "descripcion": "Se conmemora la fundación de la FAO en 1945 y busca visibilizar el hambre y la malnutrición mundial, promoviendo la seguridad alimentaria."
+    "nombre": "Día Internacional para la Erradicación de la Pobreza",
+    "descripcion": "Día proclamado por la ONU para concienciar sobre la necesidad de erradicar la pobreza y la exclusión social en el mundo, celebrado cada 17 de octubre desde 1992."
   },
   "dia_en": {
-    "nombre": "World Food Day",
-    "descripcion": "Commemorates the founding of the FAO in 1945 and seeks to raise awareness of world hunger and malnutrition, promoting food security."
+    "nombre": "International Day for the Eradication of Poverty",
+    "descripcion": "Day proclaimed by the UN to raise awareness about the need to eradicate poverty and social exclusion in the world, celebrated every October 17 since 1992."
   }
 }
