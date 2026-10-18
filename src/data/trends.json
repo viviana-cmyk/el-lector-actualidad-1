@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
+      "#MuseoNacionalColombia",
       "#CrisisSeguridad",
-      "#ELNyGolfo",
-      "#NarcotraficoEuropa",
-      "#CorrupciónCarceles",
-      "#EleccionesCol2027"
+      "#SalarioMínimo2027",
+      "#DeficitFiscalCO",
+      "#VolcánCerroMachín"
     ],
     "mundo": [
-      "#UcraniaTrump",
-      "#ConflictoMedioBis",
-      "#EconomiaGlobal",
+      "#TrumpRusia",
+      "#UcraniaVsRusia",
       "#ProtestasFrancia",
-      "#GeopolíticaMundial"
+      "#GeopolíticaMundial",
+      "#SancionesInternacionales"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#SecurityAlertCol",
-      "#NarcosCaptured",
-      "#CorrupcionInside",
-      "#Elections2027",
-      "#CrisisSeguridad"
+      "#MuseoNacional",
+      "#JamundíAtentado",
+      "#SalarioMínimo",
+      "#CrisisEconomía",
+      "#AlertaVolcán"
     ],
     "mundo": [
-      "#UkraineWar",
       "#TrumpPutin",
-      "#GlobalCrisis",
-      "#FranceProtests",
-      "#WorldNews"
+      "#UcraniaResiste",
+      "#ProtestasEnFrancia",
+      "#GuertaMundial",
+      "#NoticiasMundo"
     ]
   },
-  "generatedAt": "2026-10-17T13:30:37.956Z"
+  "generatedAt": "2026-10-18T10:02:09.613Z"
 }
