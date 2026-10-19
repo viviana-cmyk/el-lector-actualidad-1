@@ -1,14 +1,28 @@
 {
-  "generatedAt": "2026-10-19T10:01:46.929Z",
+  "generatedAt": "2026-10-19T16:50:39.732Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "Las 5 cosas que debes saber este 19 de octubre: tensión entre Ucrania y EE.UU., protestas en Francia y más",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Zd2FERU53RkZ4ejluM3RUaFYtTE5FWnVscllNVjJTU2tWeHpzNGdoWDdlR2lsMWZWbXlqS1hLMVhLVWdJME1Qa2thaDludnd2Mm9BNzlYUjVqbTBaNlBaSzdBZVRSczUyZ0NMZjJwRjV4eVJjMzVmOE9RMmk?oc=5",
-          "pubDate": "2026-10-19T09:48:00.000Z",
+          "title": "Trump arremete contra Zelensky después de que Ucrania desafiara al presidente de EE.UU. con un gran ataque contra Rusia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS041UnhyRlF4S0c3ckxOWkYzcXVuOFlqd0h3WFRvdEdpa19Pa2xvSTVYaU9SRjRKSlhpVWZidllyYmZ2VU9icW13SkRMV01YWExHeTlwaEpmbHdyRTgxbUJuVWg4T0Z2bkhmVkpiLU15SE0tYUJFWmVjRjVmbTZRUDYwMW5Xc0VEVWc?oc=5",
+          "pubDate": "2026-10-19T11:58:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "El plan de Bukele para liberar reclusos genera desconfianza en familiares que exigen justicia",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0dqR0lYY1Fna3hHNzcxZ2ZKUnY5eFR3MU4yTnk5QzByT1l4cUMxT3dXdVhJUjJ4WGNyaFFLVzhiSjN5b2V2MzlzMFNzbVdObjZSZVA2NjZlZE0tZjhaU2Jmc3F1TTljZXVWTHhOYy1pR1ZtMkNhaFQ0Ul9XUUpKWUNZTWtycmVud1Q5UDhjS3A0VEdTTTJ2MU41M2hJS19ZVXlkcGx3?oc=5",
+          "pubDate": "2026-10-19T16:24:55.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Lula y Flávio Bolsonaro se acusan en debate de tener \"bandas criminales\" en su entorno",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM3BXMFZRRlhKczBpVW1Ld2x0ZDhjXzdWaktHd1kyaC1xMmV1Qk5Da1FMVE9LZVdYZjdYVnJoazJCbkN3MTNQN2t1cjZzOFpfa0MwTGI4Z25mYkhRYnplTUlEOThJcE1MVXFRdHV3WXpPaXZiVUVBcFRkTlZYTERHNDNwVW5Wdw?oc=5",
+          "pubDate": "2026-10-19T12:20:11.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -20,30 +34,16 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Columnas de humo en San Petersburgo tras uno de los mayores ataques con drones de Ucrania en lo que va de año",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3U0LXZUV1VnSjFZWjBGZzJ4eUo0LXJQa1pfR0xnSnZ1ZmU5VFRJNWdLcTd1VXBuRUNCYUtEU0xDWWYwUHJfWnVUWll1clZnSHhuZjc4Q1ZaeVdkQ1dkR1ZFSk5NcWtPclRBZFc3WHpTUG1nQ0VOTkhmNFRDQUk3SF9IdjRmc2NC?oc=5",
-          "pubDate": "2026-10-19T00:34:07.000Z",
+          "title": "“Llamen a los paramédicos”: video muestra cómo fue la detención de ICE a un hombre en Long Beach",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcThQYVY1TFg4WV83RzE0NU40bi00RVJJMjNjWU5zWUV1RmpJakpnQ0ZpTWhUSi0zUXZDVGNCaUtpTDlMR2p4VjZPb0hhRnRvbERmaS1vZ045djh4Sm05WXgzRXkxMndMT0dNcHRtT2hWVDNycXoycC1ZMnA0WHZzcG5uX044U29yaTNvWmlJcDJvX0kyU2U0?oc=5",
+          "pubDate": "2026-10-19T14:13:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS041UnhyRlF4S0c3ckxOWkYzcXVuOFlqd0h3WFRvdEdpa19Pa2xvSTVYaU9SRjRKSlhpVWZidllyYmZ2VU9icW13SkRMV01YWExHeTlwaEpmbHdyRTgxbUJuVWg4T0Z2bkhmVkpiLU15SE0tYUJFWmVjRjVmbTZRUDYwMW5Xc0VEVWc?oc=5",
-          "pubDate": "2026-10-18T22:58:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Violencia y caos: manifestantes en Milán se enfrentan a la Policía debido al aumento del costo de vida",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEZBa3BVYzhnVGhxV3VKcThwZkItQ05UZnUwV2wtYmpwRkZQWFM3eFRlODR3M1hUTE9Td2J1Qm1tNjMzb2huYUliVmpudmhNSHVzOFdwd2pWRU1KS2Z4SlRTN3pxS01qZVMxc2hqem1xQWxRSUNGRkEwbXJHajhERjc3V0dOLWZXeG9PX0NabHIyeW1GUkVlcjlWS2MwN1JnSUJZbA?oc=5",
-          "pubDate": "2026-10-19T07:01:22.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "\"Quienes destruyeron deben pagar\", exige Macron tras las protestas en Francia",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGt4ZzhTdGNpZndDU3dSbmFONkNibWV6SmQxWlFxQmVGVkhjaFR0Tm84NjNGRWdXaC1BQ0FYeTZ6d1YwQTE1d2xvOUlXVW53YjlqS3BRcGJ5M2RfcDVSR3prekoxVXdRSm01aWlKNS1DYVJCU1J0cXBxckdyRFpVSnljT2NIYzAtVG1ES2VHQjF6WlNlXzFkdA?oc=5",
-          "pubDate": "2026-10-18T22:56:39.000Z",
+          "title": "La caída en picado del apoyo latino a los republicanos podría inclinar la balanza en las elecciones intermedias",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFg5eWdGSk4zS3RyQmhNRU00dGRpMER4RVJpR2dPc2tQa2Ztblp3ZG1MeW4zVEt3aThCdlZUSlkyTF84QmRoUklvMlJXdUdFVHpNeUJKcGNDczRxUmlqZ0JOb2ZHdmdOUDhqOU4wUGltcFdDMzJ5Q2M4T25mcExYcmZKSXUxSGxkRzFxd0dYQnNQTHFt?oc=5",
+          "pubDate": "2026-10-19T11:03:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -54,45 +54,45 @@
       "color": "sky",
       "items": [
         {
-          "title": "Última hora del temporal en España, en directo | Rescates en lancha y helicóptero en las zonas de la Comunidad Valenciana más castigadas por la dana ‘Adam’",
-          "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
-          "pubDate": "2026-10-19T09:56:21.000Z",
-          "snippet": "Más de 100.000 alumnos sin clases presenciales por la dana ‘Adam’ | Sánchez pide precaución e insta a que se eviten los desplazamientos",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "‘Adam’ mantiene a Comunidad Valenciana, Andalucía, Cataluña, Baleares y Murcia bajo aviso naranja",
-          "link": "https://elpais.com/el-tiempo/2026-10-19/la-comunidad-valenciana-y-baleares-continuan-bajo-aviso-rojo-en-la-fase-mas-adversa-de-la-dana-adam.html",
-          "pubDate": "2026-10-19T09:40:56.000Z",
-          "snippet": "Esta dana está dejando “precipitaciones extraordinarias e históricas” de más de 700 litros en Alicante y de casi 600 en Valencia",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "La Generalitat manda a la población de las comarcas de Gandia y Dénia que se confine en casa por las lluvias torrenciales e inundaciones",
-          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
-          "pubDate": "2026-10-19T09:01:15.000Z",
-          "snippet": "Hay personas atrapadas con difícil acceso para rescatarlas. Las localidades de Pego y Oliva se encuentran en una situación crítica. El río Girona se desborda a su paso por Els Poblets",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Un grupo de 200 profesores corta la autovía A-3 en el inicio del cuarto día de huelga educativa de Madrid",
-          "link": "https://elpais.com/espana/madrid/2026-10-19/un-grupo-de-200-profesores-corta-la-autovia-a-3-en-el-inicio-del-cuarto-dia-de-huelga-educativa-de-madrid.html",
-          "pubDate": "2026-10-19T08:17:57.000Z",
-          "snippet": "Los docentes han realizado una acción en señal de protesta en Moratalaz, a la altura de Plaza Conde de Covatillas",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "El Constitucional pone en manos del Pleno la decisión sobre la admisión del recurso del Defensor del Pueblo sobre la ‘ley de nietos’",
-          "link": "https://elpais.com/espana/2026-10-19/el-pleno-del-constitucional-decidira-sobre-la-admision-del-recurso-del-defensor-del-pueblo-sobre-la-ley-de-nietos.html",
-          "pubDate": "2026-10-19T09:14:48.000Z",
-          "snippet": "Los doce magistrados discutirán si entran ya en el fondo del asunto, el derecho al voto suspendido de 160.000 españoles, o si aún debe agotarse la vía ordinaria en el Supremo",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Macron rechaza la dimisión del ministro del Interior tras los disturbios del fin de semana",
+          "title": "Francia implanta toques de queda parciales en algunas ciudades para frenar los disturbios",
           "link": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html",
-          "pubDate": "2026-10-19T06:42:26.000Z",
-          "snippet": "El presidente de Francia pide a Laurent Nuñez que despliegue nuevos métodos de intervención policial contra los grupos violentos mientras los estudiantes bloquean la entrada del Louvre",
+          "pubDate": "2026-10-19T16:38:36.000Z",
+          "snippet": "Macron rechaza la dimisión del ministro del Interior y el Gobierno se prepara para una nueva gran manifestación el próximo sábado",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Última hora del temporal en España, en directo | Cuatro muertos por la dana que provoca inundaciones en Valencia y Alicante",
+          "link": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html",
+          "pubDate": "2026-10-19T16:01:41.000Z",
+          "snippet": "Tres municipios valencianos de los ocho confinados siguen impracticables en vehículo | Los servicios de emergencias efectúan rescates en lanchas y helicópteros",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "La Generalitat mantiene el confinamiento en ocho municipios de Valencia y Alicante por las lluvias torrenciales e inundaciones",
+          "link": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
+          "pubDate": "2026-10-19T15:58:57.000Z",
+          "snippet": "Una mujer de 79 años y un hombre de 64 han fallecido en Oliva. Hay personas atrapadas con difícil acceso para rescatarlas",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Dimite el alcalde de Algeciras tras ser imputado por acoso sexual",
+          "link": "https://elpais.com/espana/2026-10-19/dimite-el-alcalde-de-algeciras-tras-ser-imputado-por-acoso-sexual.html",
+          "pubDate": "2026-10-19T15:56:04.000Z",
+          "snippet": "José Ignacio Landaluce elige el 25 de octubre para hacer efectiva su renuncia, tres días antes de la moción de censura propuesta por el PSOE y Vox",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "México presenta una nueva denuncia en Estados Unidos por la muerte de otro migrante a manos del ICE",
+          "link": "https://elpais.com/mexico/2026-10-19/mexico-presenta-una-nueva-denuncia-en-estados-unidos-por-la-muerte-de-otro-migrante-a-manos-del-ice.html",
+          "pubDate": "2026-10-19T15:55:52.000Z",
+          "snippet": "La presidenta Sheinbaum indica que el mexicano estaba detenido en Laredo, Texas, y que no recibió sus medicamentos para diabetes e hipertensión. El Gobierno denuncia que 18 personas han muertos bajo custodia del ICE",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "La policía carga contra un grupo de profesores de Madrid que bloqueaba la entrada a un acto de Ayuso",
+          "link": "https://elpais.com/espana/madrid/2026-10-19/cancelado-el-acto-de-la-consejera-de-educacion-de-madrid-mercedes-zarzalejo-en-un-centro-de-fp-por-la-presencia-de-manifestantes.html",
+          "pubDate": "2026-10-19T15:53:30.000Z",
+          "snippet": "Cancelado un acto de la consejera de Educación de Madrid, Mercedes Zarzalejo, en un centro de FP por la presencia de manifestantes",
           "_priority": "ALTA"
         }
       ]
@@ -102,45 +102,45 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-          "pubDate": "2026-10-19T09:37:47.000Z",
-          "snippet": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France in Rome Italian prime minister Giorgia Meloni will hold a crisis meeting with top securi…",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Trump to head to Kansas to show support for embattled Marshall – US politics live",
+          "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
           "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-          "pubDate": "2026-10-19T09:44:42.000Z",
-          "snippet": "Incumbent Republican senator is facing strong challenge from Democrat Adam Hamilton in state that has been red for almost a century Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving co…",
+          "pubDate": "2026-10-19T16:34:36.000Z",
+          "snippet": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low – 33%…",
           "_priority": "ALTA"
         },
         {
-          "title": "Helen Haines live updates: Victorian premier ‘deeply appalled’ after Helen Haines injured in alleged attack; Angus Taylor calls incident ‘shocking day for our nation’",
-          "link": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
-          "pubDate": "2026-10-19T09:41:27.000Z",
-          "snippet": "Independent MP injured in an incident involving a vehicle outside her electorate office in Wangaratta, in regional Victoria. Follow updates Independent MP Helen Haines fighting for life after incident outside Wangaratta office in regional Victoria ‘No ongoing threat to community’…",
+          "title": "Ferocious criticism from all sides underlines Macron’s isolation",
+          "link": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france",
+          "pubDate": "2026-10-19T16:33:23.000Z",
+          "snippet": "French president has compounded impression of arrogance with strategic errors – and consequences could be profound Europe live – latest updates The near-universal chorus of condemnation that greeted Emmanuel Macron’s address to the nation on Sunday, after one of the most violent…",
           "_priority": "ALTA"
         },
         {
-          "title": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
-          "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
-          "pubDate": "2026-10-19T09:15:25.000Z",
-          "snippet": "Anthony Albanese says his thoughts remain with Indi MP after arrest of driver at the scene on Monday afternoon Helen Haines updates: PM says person in custody after alleged attack on Helen Haines – follow live The independent MP Helen Haines has been critically injured in an alle…",
+          "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
+          "link": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
+          "pubDate": "2026-10-19T16:14:47.000Z",
+          "snippet": "Neso control room staff accused senior executives of covering up extent of blackout risks during June heatwave Independent investigators have found significant and concerning “cultural issues” at Great Britain’s grid operator after control room staff accused senior executives of…",
           "_priority": "ALTA"
         },
         {
-          "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-          "link": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
-          "pubDate": "2026-10-19T09:03:55.000Z",
-          "snippet": "Ukrainian president accuses Washington of ‘denial of reality’ in ongoing row with Trump over apparent support for Moscow Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that…",
+          "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+          "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+          "pubDate": "2026-10-19T16:13:21.000Z",
+          "snippet": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop furthe…",
           "_priority": "ALTA"
         },
         {
-          "title": "France hit by debt sell-off as protests unnerve investors",
-          "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-          "pubDate": "2026-10-19T07:32:59.000Z",
-          "snippet": "Difference between French and German 10-year borrowing costs widens after violence breaks out Business live – latest updates France was hit by a fresh wave of selling in its bond and stock markets on Monday after violent protests over the weekend left public buildings burned, hun…",
+          "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+          "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+          "pubDate": "2026-10-19T16:08:14.000Z",
+          "snippet": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one…",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "France protests escalate with riots, looting and 2,400 arrests – The Latest",
+          "link": "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest",
+          "pubDate": "2026-10-19T16:05:31.000Z",
+          "snippet": "Last weekend there were mass protests across France, with more than half a million people estimated to have been involved. The unrest included rioting, looting and violent clashes with outnumbered police in cities including Paris, Marseille and Limoges. The interior minister conc…",
           "_priority": "ALTA"
         }
       ]
@@ -150,45 +150,45 @@
       "color": "mint",
       "items": [
         {
-          "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
-          "link": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-          "pubDate": "2026-10-19T09:13:49.000Z",
-          "snippet": "The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.",
+          "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
+          "link": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
+          "pubDate": "2026-10-19T16:11:03.000Z",
+          "snippet": "Paul Nthenge Mackenzie told his doomsday followers in a remote forest to fast for salvation. He faced trial after hundreds of bodies were exhumed.",
           "_priority": "ALTA"
         },
         {
-          "title": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
-          "link": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
-          "pubDate": "2026-10-19T09:15:28.000Z",
-          "snippet": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
+          "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+          "link": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+          "pubDate": "2026-10-19T15:48:05.000Z",
+          "snippet": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
           "_priority": "ALTA"
         },
         {
-          "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
-          "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
-          "pubDate": "2026-10-19T09:04:09.000Z",
-          "snippet": "Blocked from entering her country, Venezuela’s opposition leader spoke with The Times about her efforts to return and her relationship with the Trump administration.",
+          "title": "France Officials Acknowledge ‘Failure’ Around Riots",
+          "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+          "pubDate": "2026-10-19T15:29:08.000Z",
+          "snippet": "Prime Minister Sébastien Lecornu defended police efforts and pledged to restore order as government ministers acknowledged failures.",
           "_priority": "ALTA"
         },
         {
-          "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
-          "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
-          "pubDate": "2026-10-19T09:02:39.000Z",
-          "snippet": "By hedging her position on secession, Premier Danielle Smith risks a backlash from both her conservative base and from pro-Canada voters.",
+          "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+          "link": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
+          "pubDate": "2026-10-19T15:26:44.000Z",
+          "snippet": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
           "_priority": "ALTA"
         },
         {
           "title": "Can This International Force Stop Haiti’s Gangs?",
           "link": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
-          "pubDate": "2026-10-19T09:01:56.000Z",
-          "snippet": "A new U.N. military force is fighting to wrest control of the Haitian capital from violent gangs. Previous efforts by international troops failed to restore security. Can this one succeed?",
+          "pubDate": "2026-10-19T15:01:40.000Z",
+          "snippet": "A new U.N.-backed military force is fighting to wrest control of the Haitian capital from violent gangs. Previous efforts by international troops failed to restore security. Can this one succeed?",
           "_priority": "ALTA"
         },
         {
-          "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
-          "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
-          "pubDate": "2026-10-19T06:43:58.000Z",
-          "snippet": "A U.N.-backed force sent to combat gang violence said it was looking for the soldiers, who were in a gang-controlled area when they were attacked.",
+          "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+          "link": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+          "pubDate": "2026-10-19T14:22:13.000Z",
+          "snippet": "Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.",
           "_priority": "ALTA"
         }
       ]
@@ -198,44 +198,44 @@
       "color": "green",
       "items": [
         {
+          "title": "Group fighting to block Waymo in D.C. has mysterious origin, backers",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObklaZXNlZllaZ2xGNXVzTmNKbHpWRTNnWlVqalkzX1A5WVh5Nkt6enFmZWp6U0tkTHhyWTBMZm42ZnpqQ1BvZ2E2RXZ3WTQ0MzdyeVBrS0FiUGdNQXZEUzZfYkh5a0ZDLWY5aTFNVlFSZGpvTHprMjFmcl9rTFRmRUFVMVhiWXpsVGhZRUozS1FWbzY3czVyaDI5NEd1OVJiOU9Cag?oc=5",
+          "pubDate": "2026-10-19T16:47:29.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Trump officials soften approach to key immigration policy ahead of midterms",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTEp1a1drcHNDbEhReEdEcm04cVZKeGp4MVZYY2szbnJyZEtTb01rbUIxQmh3dnVqTUxEXzA0UDZfdHNTLUFiQ3Zxeks4YlRVUTBtM2lCNURWXzJmTHhCVjZkRHBVRDFnWW1Ybko5SE5Ib1Q2ckZqT3FfaGt4TnhVXzRKa1puQWpyWWdGUURHdVN2Qk5odTB2c1FzR1dWUnVfbVFVQXBVenNTWTQ0YVFqbWZibWR3MUxTWWNoeGd3?oc=5",
+          "pubDate": "2026-10-19T16:31:29.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "State officials offered to store nuclear waste. Then residents found out.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkJ1d09kcjd5SE9iblR6dkVybWJDQmF6b0hlZTRNV3pYUHJIMHl0dmlHdktNRVM3NFNTb0l2bm9PMWlHRlpNQ1lleG82QWo4OWhZZzA3cE42cWU0di1OUjJVNnNzbTdGU05qcDE1WWxGWnVjOHFiZHZRT1l4eXpDb2Zwejd2YlJTS0MtajlNTVlFS0Z5aUFGX1NpamNHUEtiaEgwSmVwblRZT1poOUpJWk0zMWh1S2s?oc=5",
+          "pubDate": "2026-10-19T16:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Analysis | Republicans’ grip on state power is also at risk in elections",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1RhRVJabVl4YktMMG9zSnBEOXlqLW5YbV95MUFma2hYcDkxdWw1Y1NqTExiOXBmdzllX3dZVEFFSjNQeFNfNXkwY2ZuSDVMQ3VIZEhPdkd0c0o5eWI3UzZReEJqM1BMaFZVejkyNFd1S082TEN4NklDa0tQbWszODJUUlNZRkdzNzlZUUZFOUVUendESUQ0NHpCYmt4MlNhWTl4U0hR?oc=5",
-          "pubDate": "2026-10-19T09:02:53.000Z",
+          "pubDate": "2026-10-19T16:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "El-Sayed’s exchange over Muslim Brotherhood stirs inspiration, condemnation",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG5ELXJWdm5NVk1VRmctM1U1cmZvUnd1NHlkMzFEU1VwS01XcXhYbjBPanNHbnQ2T0xROVNEakZ0UkdEenpyMkZWVmN6TDNDaGMwbUg5VkY1ZGhyQ0M4Q3h5b3ZQN1dQMG1oS3dHMDJVcF94a3BvUEZsTk9yQU9DZ21HSWdtcUZSN2pVd2k1TUdQaUNjb0hLaXZuc0tGOVdpb3RYQklua1dEZFpqX2JlTUVhSWdNUFFSeDdEcw?oc=5",
-          "pubDate": "2026-10-19T03:15:05.000Z",
+          "title": "Opinion | Zelensky has figured out why Trump loves Putin",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVExFQUJTU2RfZFpwbEtBSXFoeWNBTDFzb2ZpN2lJdlFYS1Z3QTl3QmFqeHZoaTVxYy1yVXlteTMzUHZRM0R5NnFKS0NZbEQ5bHQzLUc1RmRmT1Z2VkdMZW9iU0tXNkZYX1hnQV94SERMUUthcUhmRFZiMld2clZDc0hWU0hMOEpnUEJ6Zkh0eVlZZHdRdDRnelByX2ZYSldyTlkzZA?oc=5",
+          "pubDate": "2026-10-19T15:47:19.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Obama says Trump officials’ pursuit of Rep. Omar should ‘outrage all Americans’",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVI5WXYxeGxhX3lWS1pMVkpNaGZrWmNMUGlvamZkMVN3eFRNQ1dCSUp2bnY4MUJrS3Q4Ymd4ZEdnV2ItaGtCMDZMVDZqcmhvX01ZUlk5bVB0WWVzODFUa25FSmJ1VzQ3ZFBTWFRZWW5FWHlHOVZzTmJPdF9wY0RacGpaYW8ySm04TmdudXowc2lkVC0xVFh4RlFfbmZHRUZYc0hEcWdBTlRyRDdWMnF3UHYwRHg3YnByaFZCckJhSTRjQQ?oc=5",
-          "pubDate": "2026-10-19T01:55:21.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Trump backs Netanyahu as Israeli leader fights for survival in tight election",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGh3R0ZfZE50Wkt5UnFjY25RcmhsME1pZWdHcWJFMUM3dkE0cFY5d1BtOWJUUEVZMEgwalNrdFlMeHRZQU9BaXl6M0RLU3o0UjcxT1RDX1FEeGNaWlFZbzhGRjNNREpxYTBqWWEzSHI2cjR6aHI1dmVrRVA4TWhSN2tZN2xMeUNtSXB0cWhqYTdKRXMyYWM2UVdHMGNndE9Pd3NRdHA1cmltY1IwRDBFNzVhV0pnYW8?oc=5",
-          "pubDate": "2026-10-19T00:39:03.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Trump approval hits record low, handing Democrats a clear midterm edge",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5",
-          "pubDate": "2026-10-18T21:08:56.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Meet the small DOJ unit approving some of Trump’s most controversial policies",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWpya25lX28tcGJpZ0MxbzZHWXFUNko5a1puYi1lZTFvOXBET1NjTHRoR0xKaVJYN0JJd0tCOWJ2U3pWR0lNVGpmbFBRRW8xUFluaWhoUnM5Qm56dlM5dWVTQVdXZzZiNlFod0oxQk1Bb1RIZjhmaWJFaFBvdzh1TWdlenBNcGxfWlVKLTNZa3JYUVhnUXhoU1N3bDJXeURoSmpBLVc1ZFNNc3VscnV4Vk51aVhmaXdncjAyV3B3emwyczJmejQxZC13?oc=5",
-          "pubDate": "2026-10-18T17:00:00.000Z",
+          "title": "Trump shares plan to overhaul East Potomac golf course amid court fight over land",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjdfRmFtX2xmZ241Z0RHMWdRdW1TbjgtN1hGUmljRnVYaFRGVWdscExsZlItMDJGa0NZYXhpU1VnSEJTbjJzSHlrU2phNFlxWEgwNlowRDd6TEZZX3c3UlM0akRVaDNXNjdFWnJ0UDc5ZzFheFE1YUt6LUJlUW1PUzBnQnBnbE04NlBka3ZrSFp2NTVXZjlqdmtjYXA3emhI?oc=5",
+          "pubDate": "2026-10-19T11:02:39.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -245,6 +245,27 @@
       "name": "The Economist",
       "color": "lilac",
       "items": [
+        {
+          "title": "Ignore the doomsayers. American democracy is in good shape",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWxYZlRKbnNZeGV2T1Q1ZXlQdmkxUElzZVZha1k4N214Q2RSZWxINnJQR2dsbmttaWN1aXV2SDVzTG9ueVYwYnAyOFNMUzVRLUZaOVQwS3JtQWU1NVladkZyUlFQWGdaclQzNWlUWV95WVE1eG56Z0FLWkpqcjFwUFZfV3dhTkhKeUROOTdmVDU0OVlvYlB6S2ZQYVpuOVVVQllvZmJTNHRBMWow?oc=5",
+          "pubDate": "2026-10-19T09:14:53.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Independence eh? Canada’s referendum",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdWp1djU3Q1ZKd1dMTmhzUFJtOHpGck9HcXE0c0J6dUYwZDlnY2pJanZVNlFCSUxPVHYwLVZYNnRxQ1IzakZsRUthSVdWVC03aWZ1QXV2dTA0cDdSMjd0RXFNZEdTWlg2RF9tdXdDdl9tYkM2QjdmUXpTVlJxaXhFT0hoLXY1UVk?oc=5",
+          "pubDate": "2026-10-19T09:08:04.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Europe’s voice in the Middle East",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWlkaU1BdXNkU21TdjB0aTFDUnREOFZfSVJZUXJXUlBWYXFmY1B5RHRVMThteXR1Qk1DNmhSRnZmMmlmUmk3OWNQYjFLdUdrRFR5LUdPX2Z2TkVBUDQ4WkNPM3NtOU5qcVBQNlhHNmNVdlBsMGY4LXNDVEtRSElteHJrMWllaWpEYjZhWXJzZHFRM3lKSFow?oc=5",
+          "pubDate": "2026-10-19T00:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
         {
           "title": "The AI industry’s gigantic debts are making investors nervous",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBPZ04tUnFocVdZQlM2dkF6N3hkVk9wTDB3SWVfbHo2ZFNvcnQtanBIX2JIVVg5UXpEZGVlRDIycFFmZmlUMHdjaFlwUzNOclNlUEdzaUtQMHNPY3FkdFZQUFIyclZCQURIN09YZHlWUUdmYkhYY3B6WDlEQ2ZqbEdaai1BNUQzX3VwNC02a01abVRPWmZwdWQyMUdjbzZiaHNDVmFuMWJhZw?oc=5",
@@ -265,27 +286,6 @@
           "pubDate": "2026-10-18T18:54:06.000Z",
           "snippet": null,
           "_priority": "ALTA"
-        },
-        {
-          "title": "Republicans’ identity crisis in Texas",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGxPSkt0djBGcDZmLS1ud281V0lZLXlTVGtibGFSV2tyMTBnWnQwSml2Z25jdzhyQ0xrSUM1REpEV1hqMk1JSzdrRVhkTkdQVHY1MkpITGdNTmRmd3pQQlZrXzFrb2JaM0tOajdZWVNoLXhZcG4zU2t2Y09GRHpHSFFsbGVhUEJsOGtrQTdJN3M?oc=5",
-          "pubDate": "2026-10-18T15:00:06.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "World in Brief: Protests flare up in France; Another settler attack in the West Bank",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkxQOThzQWZmU25GbVoyR1hGYTV6NG1IWDd3cXdpY3ZDU2doVkJleHhsbmlJazVscmJLU3FHRTM2NDl0OEVwb1NfV21OZ1pQRTVSMWl5LVNHRTBOUnZYcU95TFVQM25rX1NCc0hzOW1xRGVkNFZHY1FWeFBSMXVyamF3VUhfczVCSEpwZkdaUXdFcVVrMjNr?oc=5",
-          "pubDate": "2026-10-18T14:51:48.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Indians’ rights have been chipped away for decades",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUhmU1p6eC0yaTRpTU5lbGhKSGhGeUNLSkNkM3laRmZsMXBsdXRUbVZ4VFo3dXZrX05BekozS2M3cGVQSWlIT2w0QU5BMUNRY2RYTXpWU2VKNUl0QXdYdzlZaEhNeUROUFh0TGxnVThQZExrbW9hdWZNaWdTMXFyN3VOUGdMVTFhNC16UTJsY28yeEdvTmc?oc=5",
-          "pubDate": "2026-10-18T13:42:20.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
         }
       ]
     },
@@ -294,6 +294,34 @@
       "color": "peach",
       "items": [
         {
+          "title": "Sheinbaum descarta salida de Zoé Robledo del IMSS tras protestas de trabajadores",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdVh2b0s4TGhfdWFnX3loaUp4UDBlWUo5RkMzbEtwZzdtQlg4c0dJN09sdGZQODZIOUNRU1JmU0R3VmRfRGJPV0RSR1BjZG1qVXNOcDcwQjYyQTlwUFdsLWFURWJBdjQ0TmhpTDRVWkUyY1NrSzZ5UW01OWVCblNRQUFLV205ZzZHSjFCX05uS3kzanhyc0s1em9mQTItTUlaTVQ2MHEzMEVNbnFvQTY3YVcwMm5aeVpUQU11R3R1QVJzRkVmZFhNN2JheUZCUEN3aUNFTXBPQnczeDUzSWdzcmlTX0ZkT3g4REpN0gH_AUFVX3lxTFA0cmVMdk5QWkFfREtYa3ptOE1Md3I3OHBYOEJjOV9KcHR4WkhrYmhaLVBXRTRmVlRPTGR2TTFTaTRWVXkxRkJyemlzWExPX1N4c24tb2sySmJhQnNMQzBqUDZGVUV0WFFqR3R4Y29GVEEwdS0yWXQ4MTZjeFFObUpoRFVsV1h1LWd2M2VIQ1o3N0R0TTNneUFxWDVkN0xKVXpyak9iLU12dWlhTi1teFBQc3ZCLUtmUXk0c1FQeTlBU3lBMV8wMmVwdHNuR0taYlYtalNSQVlkd3lxc0Y5bE4xMkEyU0RKRmY0eVlHZnhCcVhjQUZGWldsNndNN08zQQ?oc=5",
+          "pubDate": "2026-10-19T15:44:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Lluvias desbordan ríos en el sur de Veracruz; evacúan habitantes de zonas bajas",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2x5aG9PWXNiWTE2QXcwMGdTanJ0c3U2ay1NbmJ2YnJrcVBpaHNaVnpod1FQdFJmZ2hFaWY1UnhYR2czRkNhb0hSOEFoV0pCQjVUS3p5SUc1MndiZTJvVjZhU2ZDYmhnbW5aeFp1ekFwQ25qbGJJamUyR0FnRmdDVDdpZ1ctQlJyZkhkRVE0MnEzSUk3QW9DZW5kcXVPb3FzX2hKejFEWUphX1d0Sk9uNnNjUHlNeW16WkE?oc=5",
+          "pubDate": "2026-10-19T14:30:04.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Situación de exfiscal se define el jueves",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb2pQVEJjZ0gzbUVzWUowUG00U3oxRUVTdTBkLVVSSGFUeEVNTGZlMG9HaXpoMHZXNkloeEx2U2I0cGNUZDZ4djhPS0V0d2FCclhpeUlGMHlYMDhTb1QxQ1BrRjVpWEdFc3kydGFXN1Y4cUxPeGxTcHFKN1pNSFdiNHYzbXZfNGPSAZsBQVVfeXFMT3Vibktxbzc3UG5KQm5kYTJYYUtRMWl5Y05MbnR2ZDI2cG9HWGpIVjRwN2xYRzRoSjg3V1lmamlvUEk5OWZVMnUyaUFxeXRMM2xNY29VRUZzeVJIZ2NTUHlOSjl2cTZ6bDM1Y1hydG9yblUzdjdnSVctUEtISWdZTFcxckZzcXRPUTZ1cm8wbWpzWklaU0xOX1pFa0k?oc=5",
+          "pubDate": "2026-10-19T10:22:21.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Sindicatos, bajo la mira del SAT para 2027; fiscalistas prevén mayor vigilancia contra evasión",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNclhTWGlJUncxSUFCMFl3QUctR2JSd3ppaXN6ODZsSTBObUZ2cUZNZm9qUWdpcG1EUHhQXzg3S0Q3WWtuTFl2N3JaM0NpVlRLd1ptcFQ2ZXZCbU9RTEZsbnNObklEeFZlTmtYaEpabEVPeUtadVZvYkxWcW9icTZGTXFTcUZDbW1BckFhcjJXV2JMbXVsOVRBOTJkbzR3UmE1RVdNR0dKVV9pR1pHODVNUjhRcUZHbVdtbXBCeHltTjZuZ0xiMEF1Z0txQ0TSAeABQVVfeXFMT3VSb3JpUTRTWUtyRTBjZlI5MWkwTHZocjJpdm5ZR2tZcXY2ZW8yWEJ0UnljQm10VnRadFFqTnAySXg5ZDJXRXE3dnVkTWRLYkx2Mm95OTdTQXVTSGpuaUJod2JDSlVVUlVYeDV1U3hkWEgxSkhrQ0NfS3phc3QxOEtoVWJBUS0zbUpXLW0tckhCd0ZmMGp0ZTJKV1dlQk81STBkb2NBMWtaczNPbWRkeDRPU1J5UzJJVmlNTkg3RnV6RjU4TkNjNHBNNGt0SWU5aUJuY3l3U0pVNWtLQ3FzckQ?oc=5",
+          "pubDate": "2026-10-19T09:27:10.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Extorsión, un delito que no se logra disminuir",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGQxZ2x1VFVsS2NLOUthTHpkRi1oejVoclEyLURpMTZRcDZuWDRzRHlSc0tEUzhYLUlGY1Y1WGZJdnBBdDFISENEUHlBRXdpbWpYMEtNSEV4eHAtYmowdG5tWW1uZFlxZW1ISFh1OXRlWnpOaUZldGJhWWNmZi1Sclc1R0ZCTy1IOUJSei1BYXFJSThIRDFjTm1kZmNKdVN6RmlPVkdYdTIwemZnVTlpN2FDaEN5M0hmakZ5MktkejVXMWtIVWxrQ1d6U0g4M0Q2b0wzYtIB6AFBVV95cUxNbExuQTJOeEtxcGY1aEFDaGdTeUxKMGZPOUNiV0Zqd0dQMkF6TnAtSVJUdW0xN1BLT0l5cm1mY1JCdWZJeHozRGJSeUJpeWx1S2syaUd2dDNPSnFIaEhFbkthbkdldjFLTnV0c3Z5TzVobFlsWVlGZkhiVlBvV0VaWVB3QlBkdkE3TTZIQ2tFb01uYVB3OFI4OW9YZzZXQ1ZsalVMdnA0OEQ0b3N5RlVGQjYzR21hTGRIQVFJUUxNejNtVzFXWUcyZkpONkh1X1RXWXFWSlpwWko4VEJDTVFnNlVFRW1Bb2o4?oc=5",
           "pubDate": "2026-10-19T07:00:00.000Z",
@@ -301,37 +329,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Huracán Trudy se debilita a categoría 1 frente al Pacífico mexicano; mantiene riesgo de lluvias fuertes en 3 estados",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTZ1czd5cnppd0NPeF9pZW1oTnNDRll1ZzJYUlc2bGMxenlGNkhfdlh1bXhEbE1PQVlhaW00ZGplcXY5YmRCeS1hcGhFQUZnSDdGYm84OEJ2X1Y4ZEpseXNYTVJKWnZPZlpIMjdPb2JSNTBTazBRZk84aTNIVEdwOVhndE1FZW5kUlBERGZQd2ZhY282YnJiLWt5WE5rRHlFY1BqTFU1dkVRVmtucHlwcFktMUZJdmZ1SWJ5X1BNWjdJY0JxOXhIZUpzSmdrUVNhZVdKMllQTFdSNC1vRW1sZjQ2SnBDUnVWUGVN0gH_AUFVX3lxTE5RRUM5cERRSkdFOEpENGZ5RUhTMnVibVBKRGhqYW91X002S0x6b1pNNFNFM2kxRG1lR1NMMU1OWWRkbU9ldGMyeGk5V2RSTzhoYWtUeEVkQkZKblJ1bk8tUWo1eEZBTXpfQWI5eFhGZmhPaDAzLUZrRkhhTTEwMS0zNWdYLThOSWFybkZEb1YxV3R5amhseGdtNnUzUHNKMlc2Z1pCVlRkdl82cEdwb1RLZlJmZjNkaHY1WmdrYkNTTFdsel96YkZwM1dUOGR0SWQ0dVdSdkpUeGRJLWdWX2NPeGR2MUg5el90OWpfQmpkbVRyY1poai1aUHhrSlBFNA?oc=5",
-          "pubDate": "2026-10-19T05:56:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "PAN convoca a “megamarcha” contra el “narcogobierno” de Morena; busca movilizar a ciudadanos rumbo a 2027",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWJBZkNhS1ZWYkRxTktFb0FGQ0lmYzhKeEpEYmFzbW1ydDVWR0EzRW9qOGQwMXJTTWxWUW1udzdLWWJHSU1yRS14VzZkSHdudVI0LS1hMXFfY2p3X0luTFA3bDF1ekV3SGRMRWNxUjlJcE9OUVBad1M1TDJ1ZzdwOU9reVdLQWZFN0R3RVhWdUtsNE5vUUF2Rl9ObWItbUF6VS1fd1lpTjR0b3ozWUFwYTNzR3VtZjNaTkRlRTAxZ0NzX1ZTcVlLcGt0Q2NlaGllVEc0WXBR0gHqAUFVX3lxTFBvcV9Td2wtSGhkUFlZRFpGRnp0UDNBbExoWnU4V1UzYlNSamV3dXF1dC1HbzF4d2VUSFBsVHVXc3NoNEpCejJQY2JsYlNVeFh3dGV2YWk3NWRzd3otTy14Um9MQXJrUkgwVnhxLTE5Q3R2Sl9lSFZuWWJIaDl4SzdZZndqRTFLUGVlNE9fMG9fVFJ6U1FYTXFqM1Fobi1XQ1kydEs2T2dZQWhoZWl6Y2tlajlybEVKbTBkeUJRcC1jMTlUdV8tRkJRYjVkRmhhN3FhY21PN3ViMUc3eU9SMWFKcHhqT2hwN0g2Zw?oc=5",
-          "pubDate": "2026-10-19T02:49:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "PAN asegura que tenía razón sobre riesgos del Programa de Ordenación Metropolitana; documento será modificado",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYkkxdl9ZckFlcW9RYWdnNTdleW1Fc3R4LWFOWDJiUTJXSC1sdVl4RXlOYVRaX19rVVBCWjVaTWFmSlRWN1hjZ0wzSjVCTGd2dVZ0aVc4TG5jQTduSGotVTZLLTRTcEl4NmdTdnN2cUNrYXVqcGplWkpReXFlaWZrbmYxbEt0aktNWHAwb0xieTUxVGxjd0pBYTRIQmVNVUUtcGtnbmo4Q0FjU0pFaXNEa0lZbTFON2JQY3hER1JqNDVwWmtTdHZmTURnMXpWczgySjZXXzRVVVpyeHE1SDVUa1RkR2o?oc=5",
-          "pubDate": "2026-10-18T22:48:30.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Sedatu revisará instrumentos polémicos del POZMVM",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeWNiMjNYbDZNMkFBenJYTkdwaWNLX01KVjZyUzFDbUV4WTRtZU5xcE9vVnVuMkRkR1NmZjUyRFVYR0Rvclg5SmRYbUhvSHZpN1diODhoN1BoZnMtSHVoeEFGRU13eXpRQ0Vtemw1V0JJRkFYSEFJX2x1dldTaFd5VEFHZkxIbnBSY1RFclRObThsOHdSdzJ3c05XRXhjWDFpclhrMXA0QmVsTHB2cVNmdV9GdnB0SHgxR1pOY2tYMTBMVklSQVMwZTBJOWltMEdESl9SYzR0VG9oMmV0OE1CMkd1NGVod2d4RW0tcEl3?oc=5",
-          "pubDate": "2026-10-18T20:56:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "MC propone avalar transporte público gratuito para menores de edad",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVzdDeDg1d1UteDZDRzhDdnlkeXFYdzVIOWJObXRVbUFvZnF1aEdIZEtZc0dOVm11UkdRVHd6UWVac0xJZk5ZY2JPRDVpcy1pUHBxUWtCRmIyemNnRXI5dWVHWTdFVmdBUmlTSEd5VXNwVDVic2dPX0JQTDdqQ1JkeDBaNUpWTXQzLWpwUF90clY5NmlBRTJ0bWN5YmkyWm9WS3VyUnRXU0pEWVdjMndEWV9DMmtIbjNQV0FCSUFqTDdYa1pvb19oczZfOEk0cTJsTjFScTZ3S3hPLW800gHwAUFVX3lxTE5fdnpPV3NseXlzclFJZ0pmdEkyMzlPcnVueFZVZXZBWGJGczROM0JUVGwwbzVndVlzal8wSkx5UVhMdVFKTWFycC1lZmI5eHFxb1RFZTJRaDR4M0g0U0p0T3g5cHptSVRoM2FHNDVNa3p0V1dsRW9rRWFXVjdOeUVxLUZMU0hac29BWWowLWJuS0taY0hQTDFkQ3Y2TTUwajQ4OVdRa1ZMSkpTQWdIOGVrX01EdEg5M1ZJdjBDSHkzaks3V3BRZm82eXR1QjAtbDV4bVdicVV1RFEyOUpqZGE5dUdULWNrVGxWVUtpaUpXYQ?oc=5",
-          "pubDate": "2026-10-18T20:44:02.000Z",
+          "title": "Agentes de la CIA “operaron armados en Chihuahua”",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1IyN3pTb3hZQ3NqUlRjUjZYWFJnRUdmUGpLU2hxancyazgxU09fWnRyU0JVbkpXQXRBQkxHMnhONmd4NkhDVVhhV2hYbVItMC1TcHdtbENZbVpJbER6UjdWRlROOU5SdFhHY3E5dHpoZ2d0U3RyTHJRSXJTLU45SDdHTFlXSkZPQWpzY0JfRWg0YlRIQmp1b0xHN08yS0JsMzNhTkRaS0tLVnNhWVBKY0pYemg4WllRYkxVTndJakhQanNmc0Y1UGJxTWIzUGJMd09xaklpbFk2cTTSAe8BQVVfeXFMT3BMZTZCLVJweFNBc2w0QmJRMXhxM29zVzhRQ2o0cm5DbHlIUnFJeWxsVkVVWjh2TUczenYtSzNEYWpnbkxiZ1ZmVjRTenVpRzNrM1VEMlY4cl8xRmhFZ01EakY3TzJVQ2N6NG50VFVTUEF2ZE9nNEFGZlJqX0ZtZWRkSUlJYlZTakVvZld2MHQ3S3V2OUcybXJKZTNKT3JOQXU1dDdLRVdFZ0g5UHhhV3RpUnZzTmNNQ0RxU2VPcVdCazFHMGw4LWdYQ25RcmZ0OTJUQ0tzNHpaWEoxZmp4R0tOZTNzZ0ZSNDVGSWRtSjQ?oc=5",
+          "pubDate": "2026-10-19T07:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -342,11 +342,32 @@
       "color": "blue",
       "items": [
         {
+          "title": "Bernie Sanders respalda a Angie Nixon en Florida antes de elecciones al Senado",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmQtYkRuYUdkaXFUQV9rLUZTSXN2RmRfUmtRTFY2Qy1HZlBqV1JZVmx6STRueFFLLUJhRHNLbE9rdGpSRHJRMm1xTnZLX1BjNl81ZGgtakc3Q2FEcF9WMnFUalhhZFZ5UkRtTWl2TE5UMUpxTWlSN0pXbE4wRGpkOGJHZnVhYldaN0NRTkNsOUdDdXY5V1ZlbnJ3WWhyVlJ5R3hnakRfbTY2RXF4bmV5NTdPLWR5c3psX05XVnJB0gHDAUFVX3lxTE0tZzZkeVVMYnR2M1VaNjQ4OGNXM295aDRVVnd2N1A0U2J1RGtBX0VKSGNzRmNyOFFwd0RfLTlRWjJqSFFOUkFqekRQcjhmc3VyVDhEUUdPWkx3bVRnVWhrWjFadlIzM0l5ZnZUQ09mYkxibWNZVkJHbElnS2VlRC1Fbm1MempvemFqRGVJa0RKX1FDQzRrekZfdnduclFNV0xEVzVWR0xQU0Vna09HeFBVVjM0NVZ0RU9jb1NwdFcxV2NUMA?oc=5",
+          "pubDate": "2026-10-19T15:11:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Violentas protestas en Francia dejan un saldo de 2.400 detenidos, 1.000 policías heridos y destrucción",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjc3U05HaGVJTUFHeERvZjVRWHNhRlJsTjhFcFQxV1ZiQ0hCTmoxRXJlZ0lzc2dsOHNIb1lxdDlOR1pNNm1NTWtXR21JNDV5Q19HdTIycW1GanRNX0Eyck93MkpsWFloaWxKNUlDT3E5MHJKUjFIMGNiMWR6WlRJQXc5QVg0eXVkWWIwZ2Zsa3hIRmZ2R191eEJYS0wzVmlTWHNBd2dwdDYtTzlnNlFpNlYyX1UzQ25PQVFua2pxcTgtWFlycFHSAcsBQVVfeXFMTW5oTENWdExzdTNxWGdNRl85Z3pYb0xZQ29UbUtXdzhPZGlxTlRRaWF2bXV1ZUZSLXNhN2o4NTlyT1doVUVPLXo3TzZwbjF6QWhKX3RNV1BKUktjSmEta3dlNjNadjg0aUQzb1UyYnV1Si1Hd19KYmd4bnpDZy1hbGtjbzV5eUxFSmRRaGo4NWNCVVB5RTRmV1NlZ3FoUkxXN0FlcDNJMUplbFhHcDc3NGs2aDF6NG1od0RmdjRVRk04WGxNSFZ5V211YVU?oc=5",
+          "pubDate": "2026-10-18T17:40:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Nicolás Maduro no tiene inmunidad en EEUU, podría encarar cadena perpetua",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWTZqeTNzRDFycVRPbE9jMkhPUVE2ZHgycGlCcjVQcTFJM2FqSFlkS2dkODJ1dTZFYWJDdnp3SXdMeXU1NE9zdUFhOElXWFNkT0ZPY0kzRFA0STBKcnR3ZXJsY1A5dF83ZDRLcXVhbTlfQzhLamJrOFpqZTFmXzRjNzhhbUtWT0hjOXBFQTF1ekFyQzZqbkpyMTNaV0IwTE9GS0ZucmZlb1FGZGIyNlh2ZG9pRzc2N3gteWt2VVNKN19hWTBNVmfSAcsBQVVfeXFMUFVvNHBxZFpibl9xcjl0aWR4VlNTZUVOM2tTYW84bHdMYmt1bDFidkoxckMyNExLZzVka1hyb01mS0o2VUZJdmZUVlRYS3gwVl9Ca21FWFgzNk1qUG9hTHdQR2NRSS1GbUZ1UDc2VUowcXppT245cGRwOUhKNHlRODNaa2I4OWZhNTZLSEg2aTkyQVRRTE9HY3N3akdrblh6dzkxb3JiNDVqM3R0Q2N2MXVmX0dfcTc3cDA0SHVvbXloZWl5WGFkOU9sYUU?oc=5",
+          "pubDate": "2026-10-17T21:48:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Trump acusa a demócratas de provocar invasión migratoria, pide votar republicano",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEFyODNGTTRFbGE3SDloTW40cGkwZ0FvRUUzWDBwdXowY19TWm5oSVo5TDdCblhUVWNnbjNxXzU0VmdoWWpUTXhGcGNvcXhYRzNSVUNsZUlTVU1oS3RmcTZscXZGN0VtZTItQ0x0eWdoNkJGZjRkd2ZHc3lmUU5LUjg5dWNmb19SdkVISUJzbktGOXYtbjJESFdSVTVOdGNVSHNXcFhuUGhuM0Y2MEx2Z242VlhqaVJrZ1FiLVlLRdIBxAFBVV95cUxOLXpIQW01Z2dNejRvZ0dMQXJYZ2xwQnVwcURsc0xRYlNpNWN6aHNrVy1OcXdPSDhKaDZycEo3U3o5ZndUZUhzcmpKNlFSRHhvOVlkdlVyNnB0ampDVGtNd19ObGMtX01MSEtDMDMxQXE5VVBHZExQc3ZWN1FJa29sZ3hIM3JQNzdGYUhZYXRIM3E4Wlc4dEgzZnFVLU9WMmJhMTNXZzBQZ0ZfRXNiSTFUazZsaU1KN21PWGloVjloQ3lWcXZl?oc=5",
           "pubDate": "2026-10-17T21:47:00.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         },
         {
           "title": "El negocio del oro en Nicaragua se mueve en un esquema de opacidad",
@@ -356,23 +377,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Oposición venezolana en el diálogo evalúa con abogados la transformación del sistema judicial",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYUM1bVVQY2hjdWN5ZVY2T3RXQmRES2RTNXJXWUstUXRxQTBTVkhjajVidEVOZUM5TWtpZHMzcW5OZzl4MDY2NDc0TzN4V2swYlZiM0JZUi16WDBodHVKTl9VMll2MVJabXExOXRsN2o0Z180TThpUE9fb3FCT3l3VmZfRnVVc0h6cXRHUElSRTl1UkphS0M5MGFFVGJZRVRXRHItTjVsX0FVOG00aTF6NjNubm5GNHR6ZERseXpfX1lxbHlLVjlXZWVHOUZwYTNDdDBDWDlfQXJockhfWUtITmx30gHiAUFVX3lxTE5hQzVtVVBjaGN1Y3llVjZPdFdCZERLZFM1cldZSy1RdHFBMFNWSGNqNWJ0RU5lQzlNa2lkczNxbk5nOXgwNjY0NzRPM3hXazBiVmIzQllSLXpYMGh0dUpOX1UyWXYxUlptcTE5dGw3ajRnXzRNOGlQT19vcUJPeXdWZl9GdVVzSHpxdEdQSVJFOXVSSmFLQzkwYUVUYllFVFdEci1ONWxfQVU4bTRpMXo2M25ubkY0dHpkRGx5el9fWXFseUtWOVdlZUc5RnBhM0N0MENYOV9BcmhySF9ZS0hObHc?oc=5",
-          "pubDate": "2026-10-17T18:45:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "El pacto táctico entre el islamismo radical y la extrema izquierda",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXRUcUFTLXdRTU5vYTFEWTVGZXB5aENydVNxU29jZi02NVFpQURxWFQzVTdaOVJMS1ZTWTcwTEExMy1kd244Y2w4MUlXaFF6dGNOZDFxbnR1SWJpdmc5WXdnbTA2NWRqR1o2ZXR0Znpaa1d1RU15UmNJZnFZR1Y3M2dkSWt1ZzM0QS1UZG1WRGNxQlpJTU5wbjZLVktDaEFTbDlrcjNLX2FkWjV3NFFNUdIBtgFBVV95cUxPbFY4eVpIdVpJVkxQTkhEQ2toWlBjdmFmM1VfT084TU1OMm5iQmVlY0FXQkxQUjJHZTVXN0g5TzRKeGg3NUJiY1dfYTdKTjdjVHRlMnY3S2pldkFkLVY1bFNiMlZPTHdjZ3VFZEVUQTVURHBRWFpzYjNFLXJhMXBnY1dJdTVtTUdJUzB6YzY0UUl4SVplN0wxOHo4WWttN3R0cEN5dmVsLVV6ZUdRT1MtTC1JcnZhUQ?oc=5",
-          "pubDate": "2026-10-17T17:07:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Investigan a Ilhan Omar por presunto fraude migratorio y un inusual incremento patrimonial",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmlSaHVfVHFxXzdHNXRlZGVqVFBTREZIU2V0VGxTVld6UmFEaGxYVGNnd0pzajBNY3Y2OUlJWXdaZU1nazRWNV9Hbm5TR05YRlJ5VGRYNmNhUUdGeWktRTU3bU1yQnQxa09uTTk2MUVlNUkyUjJ2cUlLZmpXRVRNWjNCNzN5ZFBObEZEandGeFM0TTVxVXBLaWk5bXFUSFY2UlN1bUxEZkNWZkpRYnZlcmNXLTNrbHhCd2VHVTlWbFJzQmQwSndBSlYxc3jSAdIBQVVfeXFMUF84TkliUUpibmhhX2NHYlNibFh2aXFTdmlqeXpZMTNDM3J1RUQtOUVScWhueEtPUzFBNTdhaC1kMzZfajFGNGF5aFlya0NUZVVxcnc0NjJ0RDZVUW1jMGdrdmF3cElmcFZSaGtuajYwVTVkR1R1cHlaNmxpRmJ6enhJZ1c3amZoSkItcVQ3UjdnWlAyemlXc3dSSFZuRVBrNlhwWkV4aDA3ZjFFcVI5TzdlVktXY3pmY2lxT3RndHAxQWVhZmtlTHFmVEpPd2hMYk1B?oc=5",
-          "pubDate": "2026-10-17T14:12:00.000Z",
+          "title": "Nueva serie documental de ViX reconstruye la fuga y recaptura del Chapo Guzmán",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ01NRGtHeW1mRW93T1A3cDVjR0hKbE0xeFRBR0ZmRkRJYXAwWkpYemNGd2lRNTdKR0tCN1pxV2tHaFRuYnRHSmRfZUhEZGFNVEx5NzRkTUszUEwzaHZtVTZxYk5qbmhPajZ1QXBQZndCQWJuanVtSTE0OVJoRE9YNDB5NTZMcUEycndlRWxQMnBRUFE5Nkh6bVlVMWxvVXU1eHhIa096R0ZpTmxMV2pnZVZFOHc3ZkxLblYzd0RyUWx1TDRq0gHKAUFVX3lxTFBUNkdOQWpHcTR1emxFdjIyMDEtSFBHek1iaHR4WkxsSHIwUEF6MjNaNUxSOEo3Nk8zZlR5U0JJeGVhcmFYQlRvaVNNUndGNGJINjJVei05TFd4bkpKMnNwWFUzQmpPTGZXUXNTVFVZODcxUVQ4cmYwc2xkbUR2R1I2RHNwY3BPZ0RYQ1BKcXZGZ3FFWVo4OHoyS2t4OHozQjlMc2tWSUtRUWpIVGo2YlJjUnVXUXdHT19jVjY0bmVJRU1Eano1aUpUWnc?oc=5",
+          "pubDate": "2026-10-17T19:09:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
