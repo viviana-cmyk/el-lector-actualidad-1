@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T10:02:06.923Z",
+  "generatedAt": "2026-10-20T14:45:54.140Z",
   "dia": {
     "nombre": "Día Internacional de la Estadística",
-    "descripcion": "Se conmemora el nacimiento de Florence Nightingale (20 de octubre de 1820), pionera en estadística y visualización de datos para mejorar políticas públicas en salud."
+    "descripcion": "Se conmemora el nacimiento de Florence Nightingale (20 de octubre de 1820), pionera en visualización de datos y estadística aplicada a la salud pública."
   },
   "dia_en": {
     "nombre": "International Day of Statistics",
-    "descripcion": "It commemorates the birth of Florence Nightingale (October 20, 1820), a pioneer in statistics and data visualization for improving public health policies."
+    "descripcion": "Commemorates the birth of Florence Nightingale (October 20, 1820), a pioneer in data visualization and statistics applied to public health."
   }
 }
