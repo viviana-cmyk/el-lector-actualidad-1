@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:02:05.348Z",
+  "generatedAt": "2026-10-22T14:55:22.321Z",
   "outlets": [
     {
       "name": "InSight Crime",
@@ -90,6 +90,12 @@
       "color": "yellow",
       "items": [
         {
+          "title": "¿Cómo podemos garantizar que la tecnología aporte beneficios más amplios?",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzZCeXZqeDJkejlGTktrZEpral9DYUxnMnNuZzNReXR3YlNqVjByb0hsM0xENXR5SVdNcXphUzV3UU1MblFTVlNQbGE2SXhKWGZjVU1CMlJDZDhfVVVwTkI3Qm5EMnh2emEzX2poSjZNQUJRVS1vQnFrYlR6U0U1ZHc2N2w5ZHdFNUJ2NjhwRWpOQ1ZtVTdQZW5lTXBSVGZzVjROa19mMA?oc=5",
+          "pubDate": "2026-10-22T09:05:29.000Z",
+          "snippet": null
+        },
+        {
           "title": "Por qué la economía de Egipto es cada vez más difícil de ignorar | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVRSd1BtRGdoc3puMFgyUWZ1QXlZd1FGaDZ4Mlg4NDluZVdVcFZqczVCMzZvMUREbEZhWURDcUJKTmF2dEw3MjdSVl85eVFTZmZTX01SdGY5aXFSQ3BVOGQ3c2VzRVJyTEQwUzFENHVUcDA5S1JGWXdQN3ItZlgwRFZNQWxOVFZqSmpyaC1UTmNGaWJqSGkzM2ZGdjV0VkZMV0Fj?oc=5",
           "pubDate": "2026-10-22T05:13:26.000Z",
@@ -108,21 +114,15 @@
           "snippet": null
         },
         {
-          "title": "Áreas protegidas almacenan carbono de un año | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOenB5OXpTdlZ4Yl9XNmZoUWVjTHZ1aVZlVEhaQ21EaWdwVHMyTlBtc24wV2Z0NWpnbzk1bnhZeFF4Y0hTOUdWNV9BaFdJVW9GWk5XZmZRUzZsU1d1M0tKWVNHYU1MZWlNdVFzMFplODJQNUJuRm1MS3pld2JxRVJ5cUxsc0J3NmcxaFNZRWwzOVpGemJIX1M3VllaeGxPdDJYMkg3YW12WEFyblVOTUpleEFHN2gzTXZ2eWFCVzgyZ1NOQjc2YURoTnN4UFBOMHJEd250bzJVU3BRbFVEOXNaTTFPQ2NMRUhtS3FCWmtEaTdJSGVnaDhLNW1naVdoT1VObnIw?oc=5",
-          "pubDate": "2026-10-21T18:10:19.000Z",
-          "snippet": null
-        },
-        {
           "title": "Más opciones vegetales para comer menos carne | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2xHR3FqeExXanBIdjl2WTQyV0tidVpLNnBKOXo3NVM1MmxRanktR0RkcUhHWmFqYkMxRnh1T0FBb25mTkFwMHRHWDVPalhNRmhNNTNfb2dJUVNncE9zd0RZWjBRenNka29CWS1FVUZvdWg2YmlJcllYNG9USUpwMGl1Z1NCWXlSOG5kWnQ2WVJYMnRRYm9vMmdNOXllZmJPSS11VUVMcTJUSEphaW1aVFJVa0U1NzN0SXR2OWt3?oc=5",
           "pubDate": "2026-10-21T17:58:08.000Z",
           "snippet": null
         },
         {
-          "title": "Phishing del Black Friday y noticias de ciberseguridad | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1BRTi1haGxJS3RhNElZR0lKcXhreDE3VDViVGZmRWNoeDlJOUZwN3JwMDRJYWxUQjFoVFVUakVlWDA2MUo3UXN2ZlJWcmEwVmUyVWhTaXBodTgzOGhmdlBHM0hDOV9wTTlUcEIyNG1OcTRXNGJXM2t1QjM2aUVpQ2xhQjd2SnJtT3hSbjFyM3JUMnllVllMcXdnZFo0RF9GRUdGVHNhTHl4NkNiTE5VX2xfOWFral93WnJNUlZKTWV1c05ldFE?oc=5",
-          "pubDate": "2026-10-21T17:56:55.000Z",
+          "title": "Divulgaciones de ciberseguridad bajo escrutinio: noticias del mes | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPczVVc0N1aXhYaWg5LVVZNE12UGphRW9LSmpJU3l1Mm9qRk5VMWVOdnMtaFRiUldGa0Y2X3dmb21vX3BMdzMyYjlIX2pwZHVaY0swaDBHVlNnbkxJMG5ETHNrYnNlMmR4RzJTdHNGX29PaXZBTnNsekJBbEd5aVlQZUVsRDlIT25JNmVCSjRRZGhRbVUwLXdwcXFvdDl1QjRTSkdjVHo0dkRaTU1Xcy1UR1ZITWtEaXNRX1Z3TE95ZVRaWEJhWGVDd1A3N1hoSVpycFpZME13LTdxSjJYcVkyYVRaREZHc3hHZGJzRkpn?oc=5",
+          "pubDate": "2026-10-21T17:52:51.000Z",
           "snippet": null
         }
       ]
