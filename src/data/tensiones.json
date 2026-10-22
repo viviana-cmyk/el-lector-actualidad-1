@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-08T17:15:32.110Z",
+  "generatedAt": "2026-10-22T10:02:11.518Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Guerra Rusia-Ucrania: Intensificación de ataques contra civiles",
-      "titulo_en": "Russia-Ukraine War: Escalation of Attacks Against Civilians",
+      "titulo": "Guerra de Rusia-Ucrania y negociaciones con Washington",
+      "titulo_en": "Russia-Ukraine War and Negotiations with Washington",
       "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Rusia mata al menos a 30 personas en la ciudad de Kramatorsk en su segundo día de ataques masivos contra civiles",
-        "link": "https://elpais.com/internacional/2026-10-08/rusia-mata-a-decenas-de-personas-en-un-ataque-contra-la-ciudad-ucrania-de-kramatorsk.html",
+        "titulo": "Rusia golpea Kiev con varias oleadas de misiles balísticos horas después de la propuesta ucrania de negociación",
+        "link": "https://elpais.com/internacional/2026-10-22/rusia-golpea-kiev-con-varias-oleadas-de-misiles-balisticos-unas-horas-despues-de-la-propuesta-ucrania-de-negociacion.html",
         "fuente": "El País"
       },
-      "analisis": "Los ataques masivos coordinados contra infraestructura civil en ciudades ucranianas marcan una escalada en la estrategia de desgaste de Rusia, buscando maximizar bajas civiles y colapso psicológico. Esta intensificación ocurre en un contexto de negociaciones diplomáticas estancadas y presiones estadounidenses sobre ambas partes, complejizando cualquier salida negociada del conflicto.",
-      "analisis_en": "Russia's coordinated mass attacks on Ukrainian civilian infrastructure mark an escalation in its attrition strategy, seeking to maximize civilian casualties and psychological collapse. This intensification occurs amid stalled diplomatic negotiations and U.S. pressure on both sides, complicating any negotiated exit from the conflict."
+      "analisis": "Rusia intensifica ataques militares sobre Kiev simultáneamente a gestos de apertura diplomática hacia Washington, evidenciando una estrategia de coerción mientras busca condiciones favorables en futuras negociaciones. La designación de Putin como 'humanitario' por enviado estadounidense y la liberación de civiles estadounidenses sugieren una realineación de posiciones que podría cristalizarse en acuerdos que marginalicen los intereses de Ucrania.",
+      "analisis_en": "Russia intensifies military attacks on Kyiv simultaneously with diplomatic overtures to Washington, evidencing a coercion strategy while seeking favorable terms in future negotiations. The designation of Putin as 'humanitarian' by the U.S. envoy and release of American civilians suggest a realignment of positions that could materialize in agreements marginalizing Ukrainian interests."
     },
     {
       "rank": 2,
-      "titulo": "Conflicto fronterizo Etiopía-Eritrea: Riesgo de reapertura de hostilidades",
-      "titulo_en": "Ethiopia-Eritrea Border Conflict: Risk of Renewed Hostilities",
-      "region": "Cuerno de África",
+      "titulo": "Crisis humanitaria y violencia de pandillas en Haití",
+      "titulo_en": "Humanitarian Crisis and Gang Violence in Haiti",
+      "region": "América Central y el Caribe",
       "noticia": {
-        "titulo": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-        "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-        "fuente": "The Guardian"
+        "titulo": "Secuestran a cuatro soldados salvadoreños en Haití; Bukele amenaza con represalias",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVEg1TmhhdHQ5NWNqVjYtb0I2LTdNSmVobEg2OVg1LVVvXzZHXzE5UkU1LXdxM0h3eDVUTlFSaHdGdktZSVlkYk9jS3VDaGpWRi0xVjMtZVAxX3MyS3ZEbzlzem9nQjhYSVVLcS1IczlGWXpJTjdVS0NPc2p2NDJtdEZibFlHdHpJN3h1YzFpV0U",
+        "fuente": "CNN en Español"
       },
-      "analisis": "Los ataques con drones etíopes contra tropas eritreas que cruzan hacia Tigray señalan el resurgimiento de tensiones en una región donde un conflicto anterior dejó cientos de miles de muertos. La penetración territorial y respuesta armada directa sugiere que los mecanismos de contención post-acuerdo están fallando, con riesgo de escalada a un nuevo enfrentamiento bilateral.",
-      "analisis_en": "Ethiopian drone attacks against Eritrean troops crossing into Tigray signal the resurgence of tensions in a region where a previous conflict killed hundreds of thousands. Territorial penetration and direct armed response suggest that post-agreement containment mechanisms are failing, with risk of escalation into renewed bilateral confrontation."
+      "analisis": "El secuestro de soldados salvadoreños por pandillas haitianas marca una escalada en la disputa territorial y una amenaza directa a las operaciones militares regionales, provocando que El Salvador considere represalias que podrían expandir el conflicto. La fragilidad institucional de Haití y la porosidad de fronteras centroamericanas crean un espacio donde actores no estatales desafían la autoridad estatal con impunidad, con potencial de desestabilización regional.",
+      "analisis_en": "The abduction of Salvadoran soldiers by Haitian gangs marks an escalation in territorial disputes and a direct threat to regional military operations, prompting El Salvador to consider reprisals that could expand the conflict. Haiti's institutional fragility and the porosity of Central American borders create a space where non-state actors challenge state authority with impunity, with potential for regional destabilization."
     },
     {
       "rank": 3,
-      "titulo": "Injerencia electoral estadounidense en Balkanes: Apoyo a actores pro-rusos",
-      "titulo_en": "U.S. Electoral Interference in Balkans: Support for Pro-Russian Actors",
-      "region": "Europa Sudoriental",
+      "titulo": "Tensión militar entre Corea del Norte y Corea del Sur",
+      "titulo_en": "Military Tensions between North Korea and South Korea",
+      "region": "Asia del Este",
       "noticia": {
-        "titulo": "Dos asesores de Trump viajaron a Bosnia-Herzegovina para ayudar al partido del prorruso Milorad Dodik a ganar las elecciones",
-        "link": "https://elpais.com/internacional/2026-10-08/dos-asesores-de-trump-viajaron-a-bosnia-herzegovina-para-ayudar-al-partido-del-prorruso-milorad-dodik-a-ganar-las-elecciones.html",
-        "fuente": "El País"
+        "titulo": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+        "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+        "fuente": "The Guardian"
       },
-      "analisis": "La participación de asesores de Trump en apoyo a Milorad Dodik, conocido separatista bosnio con vínculos con Moscú, revela una reconfiguración de alineamientos geopolíticos en los Balkanes contraria a la política OTAN-EU tradicional. Este movimiento debilita la cohesión occidental en una región históricamente volátil y crea un precedente peligroso de coordinación electoral transnacional que favorece a actores desestabilizadores.",
-      "analisis_en": "Trump advisors' support for Milorad Dodik, a known Bosnian separatist with Moscow ties, reveals a reconfiguration of geopolitical alignments in the Balkans contrary to traditional NATO-EU policy. This move weakens Western cohesion in a historically volatile region and sets a dangerous precedent for transnational electoral coordination favoring destabilizing actors."
+      "analisis": "Corea del Norte reactiva su aparato de propaganda con reanudación de altavoces fronterizos, acción simbólica que refleja deterioro de relaciones bilaterales y escala retórica de confrontación en la península. Este movimiento coincide con refuerzos de alianzas Washington-Seúl y posibles pruebas armamentísticas, creando una dinámica de acción-reacción que incrementa riesgos de confrontación directa.",
+      "analisis_en": "North Korea reactivates its propaganda apparatus with resumption of border loudspeakers, a symbolic action reflecting deteriorating bilateral relations and escalating rhetorical confrontation on the peninsula. This move coincides with reinforcements of Washington-Seoul alliances and possible weapons tests, creating an action-reaction dynamic that increases risks of direct confrontation."
     }
   ]
 }
