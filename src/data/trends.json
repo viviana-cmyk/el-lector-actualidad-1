@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
-      "#RodrigoLaraRenuncia",
-      "#CrisisSeguridad",
-      "#NarcotráficoEnColombia",
-      "#ExtradicionesDeSpriella",
-      "#DesplazamientoCatatumbo"
+      "#CasoUribe",
+      "#CorrupciónEnGobierno",
+      "#CarroBombaEnCasanare",
+      "#ExtradicionesDelaEspriella",
+      "#PactodeValledupar"
     ],
     "mundo": [
+      "#NetanyahuCisjordania",
+      "#IsraelPalestina",
       "#TerremotoTíbet",
-      "#RusiaUcrania",
-      "#CoreadelNorte",
-      "#Elecciones2024",
-      "#CrisisMigratoria"
+      "#CrisisVenezuela",
+      "#IránAtentado"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#MinisterioInterior",
-      "#ViolenciaEnColombia",
-      "#SeguridadYa",
-      "#CambioDeGabinete",
-      "#ColombiaEnCrisis"
+      "#CarroBomba",
+      "#JusticiaColombia",
+      "#Seguridad",
+      "#CorrupciónPública",
+      "#NoticiasHoy"
     ],
     "mundo": [
+      "#Israel",
       "#Terremoto",
-      "#Ucrania",
-      "#ElSalvador",
-      "#MundoEnCrisis",
-      "#Geopolítica"
+      "#Venezuela",
+      "#CrisisGlobal",
+      "#NoticiasDelMundo"
     ]
   },
-  "generatedAt": "2026-10-23T10:02:10.672Z"
+  "generatedAt": "2026-10-23T14:43:15.210Z"
 }
