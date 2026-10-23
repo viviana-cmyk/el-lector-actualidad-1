@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-22T14:55:22.321Z",
+  "generatedAt": "2026-10-23T10:01:52.133Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "The InSight Take | Por qué las elecciones en Haití son imposibles en este momento",
+          "link": "https://insightcrime.org/es/noticias/the-insight-take-crimen-organizado-pospuso-democracia-haiti-una-vez-mas/",
+          "pubDate": "2026-10-22T19:17:01.000Z",
+          "snippet": "The InSight Take | Por qué las elecciones en Haití son imposibles en este momento A medida que la gobernanza criminal se consolida, la pregunta sobre el retorno de Haití a la democracia no es cuándo, sino cómo. En un informe del 19 de octubre, el máximo delegado de las Naciones U…"
+        },
         {
           "title": "Jorge Luis Zambrano, alias ‘Rasquiña’ o ‘JL’",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/jorge-luis-zambrano-alias-rasquina-o-jl/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/lider-de-tiguerones-alias-willy-vive-libertad-espana/",
           "pubDate": "2026-10-12T18:19:10.000Z",
           "snippet": "El líder de los Tiguerones, alias “Willy”, vive en libertad en España William Joffre Alcívar Bautista, alias “Willy”, presunto líder de los Tiguerones, una de las bandas criminales más poderosas de Ecuador designada por Estados Unidos como Organización Terrorista Extranjera (Fore…"
-        },
-        {
-          "title": "The InSight Take | Dos años después, la guerra del Cartel de Sinaloa cambia de forma",
-          "link": "https://insightcrime.org/es/noticias/the-insight-take-dos-anos-guerra-cartel-sinaloa/",
-          "pubDate": "2026-10-08T16:36:22.000Z",
-          "snippet": "The InSight Take | Dos años después, la guerra del Cartel de Sinaloa cambia de forma Dos años después de que Ismael Zambada García, alias “El Mayo”, fuera entregado a las autoridades estadounidenses, la guerra entre las facciones de los Chapitos y La Mayiza del Cartel de Sinaloa…"
         }
       ]
     },
@@ -90,39 +90,39 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Jóvenes líderes por el clima y la naturaleza en Davos | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMFNDTFh4emJBdFhQbFVZWEoybmtTazgtaWVBaS13aTNWUFlRQk9FLXNrdWdDcHJQZ3FzZUU0X0tBOTRoaG81VXZtdU1yalpyMWM1Z2hLVjZXbkJnMDJQUEFJdUlwQXlkMk94ZmFWSmNEUG9LM1dwNmJNaTZkWEdwM08xZkU1ZFF6dzk2M1pEc0lGWm11MnF3TFZRYjFLQjJQR3FDZ1pJSTE0MzREM21JX2MwcU03MGJlQ3VuVUpsNGJ2a0sxS2NNRVptNGdCSTM0YkU0Z1kwRzVGUzMtUnhoU05pRXE5SkhpZFRxdlJ2RXp4dw?oc=5",
+          "pubDate": "2026-10-22T21:29:22.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Por qué necesitamos un sistema de informes de sostenibilidad más conectado | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaklhM0ZSMVRXQ1B2ZUM2UUIwZVZvdGNOSU5YQjVMNlEwcHpIUHE0UnJyTjdQOTlvZUwyVlhNbVBHNHRvUm5yc1gzU0V1NEtqaFZ1am5RUWlLRklhdjFXcFBYNmxiUG5sSFoyQlhIRU0xYWM4aW1MQjgwX3pld2hWdm45S0RsNWNNdXlJYThBdGh1bTMzSk9EWVYtUFRaVVU?oc=5",
+          "pubDate": "2026-10-22T11:18:55.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Materiales sostenibles de construcción con ceniza volcánica | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTVVpd0hOcnc5MWVVU1pOZV9CZllqRkZnUjRmS1VmUWxOUjRqN2tuTHd2ZkszdGc1Y04tQ0pKZ3prTF9taVBGWDlzN1R5MmRpRWlUckhBbHRvZG5lRXo2MW1WRzdfM1FkVENGQzd2bm9fdGVfSmdObW9JNUJtN2NJSmNvY0V6amlpbE9aaDFnQ1B3bnJLYm5McFVpUHhJcmw4WnZWX2tmZklEQ0N4S2hfRGJ5ZjNUQ1VCanpIZnpBSlNaM25sc2RIT2hqQk5lUi0zdUpqS2RXaWc0RmtMWGw1VTBBSGQ1Qk43QWphR2phdy0?oc=5",
+          "pubDate": "2026-10-22T10:32:23.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Países ricos “exportan extinción”: noticias de la semana | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTkRMZzJ0TVlDYTlBUUtPNmRsVW9YLVd1ZlBLenZfOU9LUi14dk5mNXdxU21XcVRGTkZmV1RJR1JSbHVLWWZQMnVaZUs0NGNndllVbFBnZUZRMUU0dm5oeGlkdGQxbEdQYXdQVmRibTNMcVVLRWtHLUpaYkItcFNMa24wLTh5TkQxNEgyZ1cySFdFZ2s1TFZEWlpsTWlIdUNtLTY4UFpUdU01bjlqMWs5MVdWenFCR3ozTWNwTm92NWF4WV9wSTBKSjJQeG1VMmN1SWhxUExkRWtXTW9kVVl1ZTVMbjZOMUhwd284WGI0M2FEREZBVFJqRk9NX2ZpQQ?oc=5",
+          "pubDate": "2026-10-22T09:33:45.000Z",
+          "snippet": null
+        },
+        {
           "title": "¿Cómo podemos garantizar que la tecnología aporte beneficios más amplios?",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzZCeXZqeDJkejlGTktrZEpral9DYUxnMnNuZzNReXR3YlNqVjByb0hsM0xENXR5SVdNcXphUzV3UU1MblFTVlNQbGE2SXhKWGZjVU1CMlJDZDhfVVVwTkI3Qm5EMnh2emEzX2poSjZNQUJRVS1vQnFrYlR6U0U1ZHc2N2w5ZHdFNUJ2NjhwRWpOQ1ZtVTdQZW5lTXBSVGZzVjROa19mMA?oc=5",
           "pubDate": "2026-10-22T09:05:29.000Z",
           "snippet": null
         },
         {
-          "title": "Por qué la economía de Egipto es cada vez más difícil de ignorar | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVRSd1BtRGdoc3puMFgyUWZ1QXlZd1FGaDZ4Mlg4NDluZVdVcFZqczVCMzZvMUREbEZhWURDcUJKTmF2dEw3MjdSVl85eVFTZmZTX01SdGY5aXFSQ3BVOGQ3c2VzRVJyTEQwUzFENHVUcDA5S1JGWXdQN3ItZlgwRFZNQWxOVFZqSmpyaC1UTmNGaWJqSGkzM2ZGdjV0VkZMV0Fj?oc=5",
-          "pubDate": "2026-10-22T05:13:26.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Seguridad alimentaria mundial: 3 prioridades para un futuro resiliente | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWE45UEZwbUtLcC1TUHFCNEhQMFRYdkZxOHdvTV9MZjhuNWlfQnpUQmRNUnNScXNVSjRUa0RZSVN6Q2xDN2tDRS1FMGdzSVp3WFBxTDg3THlUc3I3VGJlLVkteXF2ZVV3Z2piaUNUcWRuV3RjNElUcDFtQnh3MkVkbjFLZEVMV0FvWGExZlZHbUMtb1VhSnZwTXYtYU1UdEVsR20xZVBWV3ZKcXZBQ29UbWNFTVFicVk?oc=5",
-          "pubDate": "2026-10-21T21:00:00.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Acero con cero emisiones netas: qué es y cómo lograrlo | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYzlvVEh6cG12UXJJbWtSUWFMcW5pczJOZDV1MFZXMjUzSXZnR2dLV1RjdlpSQkhQckVzNGw5d2d0cW9qOXVjN0xpbU01YVNzVTNxS0JLR19MMDZqdUZFRWpYanF2aVZPU3lOcjI5TjhjWXQ5V29EclM4Y0NWMjg0NVVmbV81RExOOVFUcDVPbTRFR3VJMHg5VTlRMGU3RUdDbHlOMWRYQ2tFdXduNTZwTVlpRWp4M3k5YmJzZHlGbkNHSG5hdVh0S21YOFQtZ1dvaUFZcnBVWnZlb1FENWpCSXJkS2RWNE9VYmtZ?oc=5",
-          "pubDate": "2026-10-21T18:14:28.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Más opciones vegetales para comer menos carne | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2xHR3FqeExXanBIdjl2WTQyV0tidVpLNnBKOXo3NVM1MmxRanktR0RkcUhHWmFqYkMxRnh1T0FBb25mTkFwMHRHWDVPalhNRmhNNTNfb2dJUVNncE9zd0RZWjBRenNka29CWS1FVUZvdWg2YmlJcllYNG9USUpwMGl1Z1NCWXlSOG5kWnQ2WVJYMnRRYm9vMmdNOXllZmJPSS11VUVMcTJUSEphaW1aVFJVa0U1NzN0SXR2OWt3?oc=5",
-          "pubDate": "2026-10-21T17:58:08.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Divulgaciones de ciberseguridad bajo escrutinio: noticias del mes | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPczVVc0N1aXhYaWg5LVVZNE12UGphRW9LSmpJU3l1Mm9qRk5VMWVOdnMtaFRiUldGa0Y2X3dmb21vX3BMdzMyYjlIX2pwZHVaY0swaDBHVlNnbkxJMG5ETHNrYnNlMmR4RzJTdHNGX29PaXZBTnNsekJBbEd5aVlQZUVsRDlIT25JNmVCSjRRZGhRbVUwLXdwcXFvdDl1QjRTSkdjVHo0dkRaTU1Xcy1UR1ZITWtEaXNRX1Z3TE95ZVRaWEJhWGVDd1A3N1hoSVpycFpZME13LTdxSjJYcVkyYVRaREZHc3hHZGJzRkpn?oc=5",
-          "pubDate": "2026-10-21T17:52:51.000Z",
+          "title": "Cambio climático: la mitad de los niños, en alto riesgo | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkFEeVJfYV9xaWJhamgzaVM0akFmNzh3OFN3MzVCX20tVVB4UWtIeUVIMHRZc3NYWFRwV0lQelBsNEdCekU4dFNfaUotZHprVlI5bEZzakdwdk9JaTBna3lxVkU3dEstaGd6RUNQMkV6Z21ScFlFeUh4djZEem1kUGM4Q3V4WmZLVnIyZXVHUU9jbG5FSjdGS3VXQ1E0aXkyakE4N1pMbFgzZG9FcXh2QmlEMFJ3VlFLT2czX2M1ZGJ2eTdiOV8yMFFHWVBFWldaNUNIdVN0dXRfZ1Y1bVdZYjlSVWhOSjdTUWc?oc=5",
+          "pubDate": "2026-10-22T08:49:50.000Z",
           "snippet": null
         }
       ]
