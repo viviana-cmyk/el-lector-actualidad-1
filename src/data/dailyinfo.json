@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T14:43:15.210Z",
+  "generatedAt": "2026-10-24T10:01:57.154Z",
   "dia": {
-    "nombre": "Día Internacional de la Lucha contra la Pobreza",
-    "descripcion": "Conmemoración establecida por la ONU para visibilizar la pobreza extrema y promover acciones para erradicarla, reconociendo los derechos de los más vulnerables."
+    "nombre": "Día de las Naciones Unidas",
+    "descripcion": "Se conmemora la entrada en vigor de la Carta de las Naciones Unidas en 1945, documento fundacional que establece los principios de paz y cooperación internacional."
   },
   "dia_en": {
-    "nombre": "International Day for the Eradication of Poverty",
-    "descripcion": "A commemoration established by the UN to make extreme poverty visible and promote actions to eradicate it, recognizing the rights of the most vulnerable."
+    "nombre": "United Nations Day",
+    "descripcion": "It commemorates the entry into force of the United Nations Charter in 1945, a foundational document that establishes the principles of peace and international cooperation."
   }
 }

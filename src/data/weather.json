@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T14:43:09.286Z",
+  "generatedAt": "2026-10-24T10:01:50.108Z",
   "colombia": [
     {
       "city": "Bogotá",
       "city_en": "Bogotá",
-      "temp": 17,
+      "temp": 11,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
@@ -12,41 +12,41 @@
     {
       "city": "Medellín",
       "city_en": "Medellín",
-      "temp": 26,
-      "description": "Nublado",
-      "description_en": "Overcast",
-      "icon": "☁️"
+      "temp": 17,
+      "description": "Niebla",
+      "description_en": "Foggy",
+      "icon": "🌫️"
     },
     {
       "city": "Cali",
       "city_en": "Cali",
-      "temp": 27,
-      "description": "Mayormente despejado",
-      "description_en": "Mostly clear",
-      "icon": "🌤️"
-    },
-    {
-      "city": "Cartagena",
-      "city_en": "Cartagena",
-      "temp": 31,
+      "temp": 20,
       "description": "Nublado",
       "description_en": "Overcast",
       "icon": "☁️"
     },
     {
+      "city": "Cartagena",
+      "city_en": "Cartagena",
+      "temp": 25,
+      "description": "Tormenta",
+      "description_en": "Thunderstorm",
+      "icon": "⛈️"
+    },
+    {
       "city": "Barranquilla",
       "city_en": "Barranquilla",
-      "temp": 32,
-      "description": "Despejado",
-      "description_en": "Clear sky",
-      "icon": "☀️"
+      "temp": 26,
+      "description": "Tormenta",
+      "description_en": "Thunderstorm",
+      "icon": "⛈️"
     }
   ],
   "mundo": [
     {
       "city": "Nueva York",
       "city_en": "New York",
-      "temp": 13,
+      "temp": 4,
       "description": "Despejado",
       "description_en": "Clear sky",
       "icon": "☀️"
@@ -54,34 +54,34 @@
     {
       "city": "Londres",
       "city_en": "London",
-      "temp": 9,
-      "description": "Llovizna ligera",
-      "description_en": "Light drizzle",
-      "icon": "🌦️"
+      "temp": 10,
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     },
     {
       "city": "Madrid",
       "city_en": "Madrid",
-      "temp": 19,
-      "description": "Despejado",
-      "description_en": "Clear sky",
-      "icon": "☀️"
+      "temp": 12,
+      "description": "Parcialmente nublado",
+      "description_en": "Partly cloudy",
+      "icon": "⛅"
     },
     {
       "city": "Tokio",
       "city_en": "Tokyo",
-      "temp": 16,
-      "description": "Parcialmente nublado",
-      "description_en": "Partly cloudy",
-      "icon": "⛅"
+      "temp": 15,
+      "description": "Lluvia",
+      "description_en": "Rain",
+      "icon": "🌧️"
     },
     {
       "city": "Ciudad de México",
       "city_en": "Mexico City",
       "temp": 12,
-      "description": "Parcialmente nublado",
-      "description_en": "Partly cloudy",
-      "icon": "⛅"
+      "description": "Nublado",
+      "description_en": "Overcast",
+      "icon": "☁️"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-23T14:43:09.286Z",
+  "generatedAt": "2026-10-24T10:01:50.108Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "El crimen organizado pospuso la democracia en Haití, una vez más",
+          "link": "https://insightcrime.org/es/noticias/pospuesta-democracia-haiti-por-crimen-organizado/",
+          "pubDate": "2026-10-23T17:10:09.000Z",
+          "snippet": "El crimen organizado pospuso la democracia en Haití, una vez más A medida que la gobernanza criminal se consolida, la pregunta sobre el retorno de Haití a la democracia no es cuándo, sino cómo. En un informe del 19 de octubre, el máximo delegado de las Naciones Unidas en Haití, C…"
+        },
         {
           "title": "The InSight Take | Por qué las elecciones en Haití son imposibles en este momento",
           "link": "https://insightcrime.org/es/noticias/the-insight-take-crimen-organizado-pospuso-democracia-haiti-una-vez-mas/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/por-que-ecuador-esta-perdiendo-batalla-contra-crimen-organizado/",
           "pubDate": "2026-10-15T15:09:57.000Z",
           "snippet": "Por qué Ecuador está perdiendo la batalla contra el crimen organizado La estrategia militarizada de Ecuador contra el crimen organizado no ha logrado una reducción sostenida de la violencia. Tres años después, el gobierno del presidente Daniel Noboa comienza a dar sus primeros pa…"
-        },
-        {
-          "title": "El líder de los Tiguerones, alias “Willy”, vive en libertad en España",
-          "link": "https://insightcrime.org/es/noticias/lider-de-tiguerones-alias-willy-vive-libertad-espana/",
-          "pubDate": "2026-10-12T18:19:10.000Z",
-          "snippet": "El líder de los Tiguerones, alias “Willy”, vive en libertad en España William Joffre Alcívar Bautista, alias “Willy”, presunto líder de los Tiguerones, una de las bandas criminales más poderosas de Ecuador designada por Estados Unidos como Organización Terrorista Extranjera (Fore…"
         }
       ]
     },
@@ -90,15 +90,21 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Jóvenes líderes por el clima y la naturaleza en Davos | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMFNDTFh4emJBdFhQbFVZWEoybmtTazgtaWVBaS13aTNWUFlRQk9FLXNrdWdDcHJQZ3FzZUU0X0tBOTRoaG81VXZtdU1yalpyMWM1Z2hLVjZXbkJnMDJQUEFJdUlwQXlkMk94ZmFWSmNEUG9LM1dwNmJNaTZkWEdwM08xZkU1ZFF6dzk2M1pEc0lGWm11MnF3TFZRYjFLQjJQR3FDZ1pJSTE0MzREM21JX2MwcU03MGJlQ3VuVUpsNGJ2a0sxS2NNRVptNGdCSTM0YkU0Z1kwRzVGUzMtUnhoU05pRXE5SkhpZFRxdlJ2RXp4dw?oc=5",
-          "pubDate": "2026-10-22T21:29:22.000Z",
+          "title": "Terrorismo, liderazgo y otras noticias de la semana | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFVrZ2RmZEhBNFBDZ3IyRkZZSnFwT0NTOG1POW1DNUVibW04ZGZkQk1YM0oxbHBQZTg0V0twc1hWcFFkNlNJbEhjdHlycm50a1lQTjNGLU1RMDhDNUt6RENwU1RmTEJyN0EzYkQ5aXY5T05ZVl9NU0d1WlAzT0ZaSkxNV3dHV0Q2T1lTaGVTc2l5SHRzT1RjcHlZSTh3OG5WeW1tZ2F1WUQ2cFUyZzEtUXdmeFhEZkt5VGJGM0JmM1RqaktT?oc=5",
+          "pubDate": "2026-10-23T14:06:21.000Z",
           "snippet": null
         },
         {
-          "title": "Por qué necesitamos un sistema de informes de sostenibilidad más conectado | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaklhM0ZSMVRXQ1B2ZUM2UUIwZVZvdGNOSU5YQjVMNlEwcHpIUHE0UnJyTjdQOTlvZUwyVlhNbVBHNHRvUm5yc1gzU0V1NEtqaFZ1am5RUWlLRklhdjFXcFBYNmxiUG5sSFoyQlhIRU0xYWM4aW1MQjgwX3pld2hWdm45S0RsNWNNdXlJYThBdGh1bTMzSk9EWVYtUFRaVVU?oc=5",
-          "pubDate": "2026-10-22T11:18:55.000Z",
+          "title": "Por qué aún importa el crecimiento de la productividad | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPem9ha2lpMjZkeUVjRzZQQ24xNXpjVV90QUZ5TjFEak5Bb283RGRkUzFvVDZWTTZ2RkJ5UGFNeWpTQVpuelFVMTB6NEMxOG1RZVg3VlJOUjgwSlZfMXZ6eUxJOHh5V1Y0TmswV0FMX0pKc2dPZVBVdld3bHJoZ2NkclA0UWpmU21Zd2VuSzR0aFhJS1RMSGhwUEg4SnpVSTJOSkZ5TnJtaHBxOXVIT2tNMEw0Y2RYNXBlWmM1X3c1YkFYUi1wRHRMNDFJeEdEUUZwbDVvYU1wbzI5Tm84ejluRi1sV1Z5MkRSMU5TT3VFWEcyd1V0NjN4OXRNX28?oc=5",
+          "pubDate": "2026-10-23T01:31:45.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Jóvenes líderes por el clima y la naturaleza en Davos | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMFNDTFh4emJBdFhQbFVZWEoybmtTazgtaWVBaS13aTNWUFlRQk9FLXNrdWdDcHJQZ3FzZUU0X0tBOTRoaG81VXZtdU1yalpyMWM1Z2hLVjZXbkJnMDJQUEFJdUlwQXlkMk94ZmFWSmNEUG9LM1dwNmJNaTZkWEdwM08xZkU1ZFF6dzk2M1pEc0lGWm11MnF3TFZRYjFLQjJQR3FDZ1pJSTE0MzREM21JX2MwcU03MGJlQ3VuVUpsNGJ2a0sxS2NNRVptNGdCSTM0YkU0Z1kwRzVGUzMtUnhoU05pRXE5SkhpZFRxdlJ2RXp4dw?oc=5",
+          "pubDate": "2026-10-22T21:29:22.000Z",
           "snippet": null
         },
         {
@@ -108,21 +114,15 @@
           "snippet": null
         },
         {
+          "title": "Cómo podrían ayudar los perros a detectar el coronavirus | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3ViSXBjNnVHSl9iN2VJRVhMeW5lRUxER1ltcV9EN0NrR01WWTdycEZfSkt5elJlUGp5ZVVoUksxU25fSERDZmMzWlk3Z0lBVVRiQ1ZyRmE3Z1labVRpRExjSWpuRkl3WUgyNlNscVBuVFNId3NDMF9aczQ3b0t2a3Vaamh0bU8yM0pQN2ZkV1pYQmIxSWNLbFV2MlFSazk2WDBFZ1E2MVJabXJCR211NXdpOVJJWkt1YWx1SVRiczhXSklIOTcxZ3VJaHRsT1lx?oc=5",
+          "pubDate": "2026-10-22T09:44:10.000Z",
+          "snippet": null
+        },
+        {
           "title": "Países ricos “exportan extinción”: noticias de la semana | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTkRMZzJ0TVlDYTlBUUtPNmRsVW9YLVd1ZlBLenZfOU9LUi14dk5mNXdxU21XcVRGTkZmV1RJR1JSbHVLWWZQMnVaZUs0NGNndllVbFBnZUZRMUU0dm5oeGlkdGQxbEdQYXdQVmRibTNMcVVLRWtHLUpaYkItcFNMa24wLTh5TkQxNEgyZ1cySFdFZ2s1TFZEWlpsTWlIdUNtLTY4UFpUdU01bjlqMWs5MVdWenFCR3ozTWNwTm92NWF4WV9wSTBKSjJQeG1VMmN1SWhxUExkRWtXTW9kVVl1ZTVMbjZOMUhwd284WGI0M2FEREZBVFJqRk9NX2ZpQQ?oc=5",
           "pubDate": "2026-10-22T09:33:45.000Z",
-          "snippet": null
-        },
-        {
-          "title": "¿Cómo podemos garantizar que la tecnología aporte beneficios más amplios?",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzZCeXZqeDJkejlGTktrZEpral9DYUxnMnNuZzNReXR3YlNqVjByb0hsM0xENXR5SVdNcXphUzV3UU1MblFTVlNQbGE2SXhKWGZjVU1CMlJDZDhfVVVwTkI3Qm5EMnh2emEzX2poSjZNQUJRVS1vQnFrYlR6U0U1ZHc2N2w5ZHdFNUJ2NjhwRWpOQ1ZtVTdQZW5lTXBSVGZzVjROa19mMA?oc=5",
-          "pubDate": "2026-10-22T09:05:29.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Cambio climático: la mitad de los niños, en alto riesgo | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkFEeVJfYV9xaWJhamgzaVM0akFmNzh3OFN3MzVCX20tVVB4UWtIeUVIMHRZc3NYWFRwV0lQelBsNEdCekU4dFNfaUotZHprVlI5bEZzakdwdk9JaTBna3lxVkU3dEstaGd6RUNQMkV6Z21ScFlFeUh4djZEem1kUGM4Q3V4WmZLVnIyZXVHUU9jbG5FSjdGS3VXQ1E0aXkyakE4N1pMbFgzZG9FcXh2QmlEMFJ3VlFLT2czX2M1ZGJ2eTdiOV8yMFFHWVBFWldaNUNIdVN0dXRfZ1Y1bVdZYjlSVWhOSjdTUWc?oc=5",
-          "pubDate": "2026-10-22T08:49:50.000Z",
           "snippet": null
         }
       ]
