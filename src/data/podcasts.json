@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:52:31.854Z",
+  "generatedAt": "2026-10-25T10:01:54.932Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -34,11 +34,6 @@
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "Dateline NBC",
-      "host": "NBC News",
-      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
-    },
-    {
       "title": "Crime Junkie",
       "host": "Audiochuck",
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
@@ -49,9 +44,14 @@
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
-      "title": "Pod Save America",
-      "host": "Pod Save America",
-      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
+      "title": "Dateline NBC",
+      "host": "NBC News",
+      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "The Builders",
+      "host": "iHeartPodcasts and Kaleidoscope",
+      "url": "https://podcasts.apple.com/us/podcast/the-builders/id6820674378"
     }
   ]
 }
