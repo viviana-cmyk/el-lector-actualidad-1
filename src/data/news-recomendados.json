@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-27T10:01:47.217Z",
+  "generatedAt": "2026-10-27T15:46:38.849Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "De federación criminal a guerras entre bandas: el legado de ‘Rasquiña’ en Ecuador",
+          "link": "https://insightcrime.org/es/noticias/federacion-criminal-guerras-entre-bandas-legado-rasquina-ecuador/",
+          "pubDate": "2026-10-27T12:23:23.000Z",
+          "snippet": "De federación criminal a guerras entre bandas: el legado de ‘Rasquiña’ en Ecuador El mundo criminal, cada vez más fragmentado, ha convertido a Ecuador en un campo de batalla, con bandas rivales que han llevado la violencia a niveles récord en los últimos años. Si bien múltiples f…"
+        },
         {
           "title": "Pandillas, fintechs y Amazonía: la agenda criminal que espera al próximo presidente de Brasil",
           "link": "https://insightcrime.org/es/noticias/pandillas-fintechs-amazonia-agenda-criminal-que-espera-proximo-presidente-brasil/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/dentro-campamento-corazon-lucha-garifuna-tierra-honduras/",
           "pubDate": "2026-10-20T16:39:08.000Z",
           "snippet": "Dentro del campamento que es el corazón de la lucha garífuna por la tierra en Honduras En un terreno en forma de pétalo en la curva de una salida de autopista, frente a la Corte Suprema de Justicia en Tegucigalpa, se encuentra el campamento. Es un cuerpo vivo. En la cocina comuni…"
-        },
-        {
-          "title": "The InSight Take | Designaciones de carteles como organizaciones terroristas extranjeras: qué implica para las empresas",
-          "link": "https://insightcrime.org/es/noticias/the-insight-take-designaciones-carteles-organizaciones-terroristas-extranjeras-que-implica-para-empresas/",
-          "pubDate": "2026-10-15T17:54:17.000Z",
-          "snippet": "The InSight Take | Designaciones de carteles como organizaciones terroristas extranjeras: qué implica para las empresas ¿Cómo afectan a las empresas las recientes designaciones de grupos criminales de América Latina y el Caribe como organizaciones terroristas extranjeras (Foreign…"
         }
       ]
     },
@@ -90,39 +90,39 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Public Art Power: French Artist JR's Impact & Vision | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50WVRvbW1aeGlocVhrakZaUE82NkRRam1lSUEwYmQybmRBaU1YN1E2Vm85UGtCTlFQejktd0k3eTFIVDVDcW5PbFhTS19IOEhCZEtqaUNhRVlXZ1VCcERNVEVjWnZmSEcyaTRua0hicXNKOVZNQi1GeHBn?oc=5",
-          "pubDate": "2026-10-27T08:58:57.000Z",
+          "title": "Vulnerabilidades de PHP: Explicación de la respuesta global en materia de ciberseguridad. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDdrN1JTbDFoaER5T21QTXkzWHFBQWRJUkZPQVNTSl9tblY1WTdyMm0yMkhySm1qYTdNNnprTk1TLWRWdkJhaGhzTmVPSHlIV0RJN25aZWM0N1B1NlQwdGlmY3hpYjl3aHg2dUJQRnZFX0ZNajNkTzRGU3oySXM4WEF6MlU2NjlkZWt5YTVCUzU?oc=5",
+          "pubDate": "2026-10-27T15:21:00.000Z",
           "snippet": null
         },
         {
-          "title": "Ideas en movimiento: Bhumi Pednekkar",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51dWRnTWRjbjJpQlMwSGVyb2YwZzA3WENYVHBtX3NfTGE5Qy0zd1F1MnpJR2hMUmppQ01IdlE5eUczY3NxWkhEZmp2Q0dxZERMZHV4UHBWU0V2WERGM21uOS04bk9mVFJtTHV0SmJONG0?oc=5",
-          "pubDate": "2026-10-27T08:37:28.000Z",
+          "title": "Por qué la toma de decisiones es clave para una ciberresiliencia eficaz | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2RaOWE2YUNxRGtIeXBhdHFBS3VYNDBEYm9kNktDZWF6UmRiQnhfY3RlMm11R2pvTkJ4dHo0Ql9UX2lGQ2ItZjVwQVBEZTFzS2NjcjhKWG9GMGlCanE5LWlLYTQyNXJOS1BMakYyNnk5TUtZZWticEZ2bG9PQkkyNGZKZFlpYnMxOWszQ3Y5R3Y?oc=5",
+          "pubDate": "2026-10-27T12:15:23.000Z",
           "snippet": null
         },
         {
-          "title": "Ideas en movimiento: Mathieu Flamini",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lQk9CU1ppeUJGSEU4aGkxSUtWajJ1QjV1b19DTVBrYV9NV3JjYTRBVGV0ZFFud2ZQbWFZMVc4eFltNFNCLUhPQ0xLSjY5V3pDblpjXzBDdnlJd2QwdktDdlYxMFRxVXhGTnFWNW82Rzg?oc=5",
-          "pubDate": "2026-10-27T08:37:28.000Z",
+          "title": "Más allá del hombre fuerte",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zTVBya2plazNZRF9taldsemFHc3o5VWUxVUh3NVVYTmp2N0thZ2g2NGhTT250aFNJTkN5MzNNM041VTNCeEZNQnpoN2tMM1JJT191NktHbURKNkZQRG1vNlkyNEk1T3g3RnVHME9wZw?oc=5",
+          "pubDate": "2026-10-27T12:15:23.000Z",
           "snippet": null
         },
         {
-          "title": "Estas 5 afecciones de salud son las que causan más muertes.",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWJVakQtUkt4MlBCNFpod1pkM0tNQ3BQQ2h1aElEQ0U0S0RnZjBWRFU0VVVoQjJ0ZmdxSGFza2dCNjRnRTJNcVlkX1lYczZzVEtodUZhNDF3LWVvbEphZXZPXzg2ZW5OTGc0YzhtMmVFLXQ0OXJZVjhsWjNwdTFNYkdjWQ?oc=5",
-          "pubDate": "2026-10-27T08:26:01.000Z",
+          "title": "China impulsa la energía limpia para descarbonizar la industria | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUVOUHlNWXlXeVdXVmhHZnBvNUdWemdUbHpiT2tKSXJnUEpFaUxtY2JuNDVQYm1XcmFldEYzRzZ1dEl3VVNEa0MzTW1zdDVZbm9HNEUtbDhfakJtNnBFT05GUEhNM1dRam1rc2t2aHpablNXQjQ5UEVKY2k4bUpYdjVYMHVpRUJiQXJrV3pCUndCYk1HVDJTQkVWY0VhRnZnSjlUV3VUeTVaSzR0dWc?oc=5",
+          "pubDate": "2026-10-27T11:43:08.000Z",
           "snippet": null
         },
         {
-          "title": "Ideas en movimiento: Alicia Chong Rodríguez",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FWmpvZHBkT18yLTVMSTRmUDBqcjEwM0Niei01SE8ydm1CV2lzRDhrejN3MUEtQ0lRWUFRd3gtNFhXRExqUGs2d1BMWGtpdzhpVVdyNGFDU1VPT1Zuek9MVGV3T1ZoV0g0QVVPa3RUak51bV9mUkViLVVn?oc=5",
-          "pubDate": "2026-10-27T08:25:58.000Z",
+          "title": "Economía de EE. UU., PIB de China y más noticias económicas | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVFMa2ZHWEo3UUdoeXN6TkVkelBMU21qTjVYbVplUENkNFpPbE4xRlA2aTlPSVRGOV9fRXZrU29rRnRFTmJOcmNsX0FHX1RGM3J0VE5DSkZHYlIzbjh3Nm5odXZ2OXlmd19heHNwcVduWDZXR2pRLTJFWG1obUdHUkhTOG5SMEs5SVU0THRrSENHVDZ0NE5Xb3RrMXc3OGgt?oc=5",
+          "pubDate": "2026-10-27T11:40:31.000Z",
           "snippet": null
         },
         {
-          "title": "La 25ª edición de los Premios Crystal 2019",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WbjZXVGd1TGlxOEF0NXlscS1zT0JRR3ozWE1JR2J0Y2QtTjJoZklKOGc1V2JXZjU0REM2bmdLNmc2MkdNUFhHU0o5LWFjdXN3Q21PQmNVYTZQWXV1RlNadk9BcjNKTHU1SHc?oc=5",
-          "pubDate": "2026-10-27T08:18:02.000Z",
+          "title": "Let's Fix It: pódcast sobre emprendedores sociales | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjJYSHB5OFFVaWdQRnhla1FQQ29fZGlqZDM1RXdxTHhYdXREcDJGMDBGeFppaERjLXBfQTh3YWNYcGhEYmRjRHN1SFlVdnBTWHBrcVpJYkZyTHJpZkRSaVFiYXBXdjI3VFBvenAzQklXVWxlYk1fYVJIcHBNaHFtYTMwREp2TWFWMGlza1hXNDdfTnoycGZ2bWZBRUtnMExLX3hfQWxUZU9MWG8?oc=5",
+          "pubDate": "2026-10-27T11:32:02.000Z",
           "snippet": null
         }
       ]
