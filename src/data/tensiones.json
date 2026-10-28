@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-23T14:43:15.210Z",
+  "generatedAt": "2026-10-28T10:01:59.838Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada israelí-palestina en Cisjordania",
-      "titulo_en": "Israeli-Palestinian escalation in the West Bank",
+      "titulo": "Crisis política e institucional en Israel post-electoral",
+      "titulo_en": "Israel's Post-Electoral Political and Institutional Crisis",
       "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Netanyahu ordena una gran operación en Cisjordania tras la muerte de dos soldados en un ataque palestino",
-        "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html",
-        "fuente": "El País"
+        "titulo": "Israel election results live: vote count continues as exit polls suggest no clear winner",
+        "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+        "fuente": "The Guardian"
       },
-      "analisis": "Netanyahu ha ordenado operaciones extensas en Cisjordania como represalia a un tiroteo que dejó dos soldados israelíes muertos, marcando una intensificación de la violencia cíclica en la región. Esta escalada reaviva tensiones que podrían expandirse más allá del territorio palestino y afectar la estabilidad regional en Oriente Medio.",
-      "analisis_en": "Netanyahu has ordered extensive operations in the West Bank in retaliation for a shooting that killed two Israeli soldiers, marking an intensification of cyclical violence in the region. This escalation revives tensions that could expand beyond Palestinian territory and affect regional stability in the Middle East."
+      "analisis": "Las elecciones israelíes de hoy no producen un ganador claro, debilitando potencialmente el liderazgo de Netanyahu y complicando la formación de coaliciones en un contexto de conflicto regional persistente. Esta fragmentación política podría afectar la capacidad de Israel para mantener coherencia estratégica frente a tensiones en Gaza, Líbano e Irán, mientras intensifica debates internos sobre políticas de seguridad y negociación.",
+      "analisis_en": "Today's Israeli elections produce no clear winner, potentially weakening Netanyahu's leadership and complicating coalition formation amid persistent regional conflict. This political fragmentation could affect Israel's capacity to maintain strategic coherence against tensions in Gaza, Lebanon, and Iran, while intensifying internal debates over security and negotiation policies."
     },
     {
       "rank": 2,
-      "titulo": "Posicionamiento estadounidense sobre el Sáhara Occidental",
-      "titulo_en": "US positioning on Western Sahara sovereignty",
-      "region": "África del Norte / Magreb",
+      "titulo": "Inestabilidad política en Brasil y fuga de élites de oposición",
+      "titulo_en": "Political Instability in Brazil and Opposition Elites' Flight",
+      "region": "América Latina",
       "noticia": {
-        "titulo": "EE UU lanza un órdago en la ONU al Frente Polisario para que acepte la soberanía de Marruecos en el Sáhara",
-        "link": "https://elpais.com/internacional/2026-10-23/ee-uu-lanza-un-ordago-en-la-onu-al-frente-polisario-para-que-acepte-la-soberania-de-marruecos-en-el-sahara.html",
-        "fuente": "El País"
+        "titulo": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+        "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Estados Unidos ha presionado públicamente en la ONU al Frente Polisario para aceptar la soberanía marroquí sobre el Sáhara Occidental, evidenciando un cambio en la diplomacia estadounidense hacia el Magreb. Esta maniobra tiene implicaciones profundas para el conflicto de larga duración y podría alterar el equilibrio de poder regional en África del Norte.",
-      "analisis_en": "The United States has publicly pressured the UN-backed Polisario Front to accept Moroccan sovereignty over Western Sahara, evidencing a shift in US diplomacy toward the Maghreb. This maneuver has profound implications for the long-standing conflict and could alter the regional power balance in North Africa."
+      "analisis": "La fuga de Flávio Bolsonaro hacia EE.UU. tras la derrota electoral evidencia polarización extrema y potencial desestabilización institucional en Brasil, con ramificaciones para la gobernanza democrática regional. El incidente vinculado a investigaciones sobre redes de donantes estadounidenses sugiere interferencia transnacional y debilitamiento de las instituciones electorales brasileñas en un momento crítico.",
+      "analisis_en": "Flávio Bolsonaro's flight to the U.S. following electoral defeat evidences extreme polarization and potential institutional destabilization in Brazil, with ramifications for regional democratic governance. The incident linked to investigations into U.S. donor networks suggests transnational interference and weakening of Brazilian electoral institutions at a critical moment."
     },
     {
       "rank": 3,
-      "titulo": "Investigación iraní por intento de asesinato en territorio europeo",
-      "titulo_en": "Iranian investigation for assassination attempt on European territory",
-      "region": "Europa / Irán",
+      "titulo": "Escalada de tensión geopolítica EE.UU.-Irán y amenaza a infraestructura de defensa occidental",
+      "titulo_en": "U.S.-Iran Geopolitical Escalation and Western Defense Infrastructure Threat",
+      "region": "Europa y Oriente Medio",
       "noticia": {
-        "titulo": "La Fiscalía concluye que Irán se encuentra tras el intento de asesinato de Vidal-Quadras en 2023",
-        "link": "https://elpais.com/espana/2026-10-23/la-fiscalia-concluye-que-iran-se-encuentra-tras-el-intento-de-asesinato-de-vidal-quadras-en-2023.html",
-        "fuente": "El País"
+        "titulo": "RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say",
+        "link": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "La Fiscalía española ha concluido que Irán orquestó el intento de asesinato del eurodiputado Vidal-Quadras en 2023, evidenciando la proyección de operaciones coercitivas iraníes en territorio europeo. Este hallazgo refuerza las preocupaciones sobre actividades clandestinas iranís en Europa y podría intensificar tensiones diplomáticas entre Irán y la UE.",
-      "analisis_en": "Spanish prosecutors have concluded that Iran orchestrated the assassination attempt on MEP Vidal-Quadras in 2023, evidencing Iranian coercive operations on European soil. This finding reinforces concerns about clandestine Iranian activities in Europe and could intensify diplomatic tensions between Iran and the EU."
+      "analisis": "La coordinación iraní de incidentes contra bases aéreas de la OTAN (RAF Fairford) marca una escalada de operaciones encubiertas asimétricas que desafía la seguridad de la infraestructura occidental europea. Esta estrategia de Irán refleja su capacidad para proyectar poder mediante actores no estatales y subraya la vulnerabilidad de alianzas occidentales frente a amenazas híbridas en un contexto de tensión EE.UU.-Irán no resuelta.",
+      "analisis_en": "Iran's coordination of incidents against NATO air bases (RAF Fairford) marks an escalation of covert asymmetric operations challenging Western European infrastructure security. Iran's strategy reflects its capacity to project power through non-state actors and underscores Western alliances' vulnerability to hybrid threats amid unresolved U.S.-Iran tensions."
     }
   ]
 }
