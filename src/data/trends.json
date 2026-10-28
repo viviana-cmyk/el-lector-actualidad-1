@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
-      "#CrisisFiscalColombia",
-      "#SexocontratosCorte",
-      "#InseguridadFronteriza",
-      "#JusticiaPetro",
-      "#InformalidadLaboral"
+      "#CrisisSeguridadColombia",
+      "#MegaoperativoBogotá",
+      "#Minería Ilegal",
+      "#CorteSupremaInvestiga",
+      "#ProcuradorEljach"
     ],
     "mundo": [
-      "#ChoqueToledoEspaña",
+      "#CatástrofeTrenEspaña",
       "#EleccionesIsrael",
-      "#BolsonaroFugitivo",
-      "#TrumpInmigracion",
-      "#CrisisGeopolítica"
+      "#BolsonaroEnEEUU",
+      "#EleccionesEE.UU.",
+      "#CrisisTransporte"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#ColombiaEnCrisis",
-      "#Sexocontratos",
-      "#ViolenciaFrontera",
-      "#TrabajoFormal",
-      "#AjusteFiscal"
+      "#OperativosDeLaEspriella",
+      "#MinaIlegalAprehenso",
+      "#SeguidadYCaos",
+      "#JusticiaPendiente",
+      "#GolpealMinería"
     ],
     "mundo": [
-      "#TrainCrashSpain",
-      "#IsraelElections",
-      "#BolsonaroHuye",
-      "#TrumpDeporta",
-      "#MundoEnAlerta"
+      "#CatástrófeTrenEspaña",
+      "#VotoEnIsrael",
+      "#BolsonaroHuyó",
+      "#TrumpVsElecciones",
+      "#CrisisGlobal"
     ]
   },
-  "generatedAt": "2026-10-28T10:01:59.838Z"
+  "generatedAt": "2026-10-28T16:29:24.208Z"
 }

@@ -1,21 +1,28 @@
 {
-  "generatedAt": "2026-10-28T10:01:53.041Z",
+  "generatedAt": "2026-10-28T16:29:03.940Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1ZsXzR4OV9LdGxwNElkbWVvbE0wUWFhS1ZGS05DZUdzZjN3OXhXd3p2bzJhTGtfbDRmNUZOTHJScU8yUm45NUR0R2k5Q25nUG51bWRhZk9jb2xzTGJleUZUdzdRRFYwUFlFZkNZdVZWUHhxX3o3V0FBWFdoWlNDTmhDUV9rZlI2dktaUlNwTmZ1ZHdFMnR3?oc=5",
-          "pubDate": "2026-10-28T09:14:44.000Z",
+          "title": "Para esta camionera de Pensilvania, el precio del diésel es un problema. También lo es para los candidatos que buscan su voto",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFZCcWFVZnhsV2cxWFVnb2xWYWs5NU1SYXlRSUNZeDlDRmNqbncwUXdDNXlGM3NwbVRnS2lwNXJCb1pTN1JIX042eXRyalFEUE0tS0JFUjJBMmpQamtLQ2xvUUJ0Z2NlWUlrbHd4eHJaZWNpR0p6bGNSRHVRWm1tdjZhQ2c2MnJXLURXaVY4dzdsSGpCekU0RDFSQ0kyYWV1WTA0NVZYc1lLdw?oc=5",
+          "pubDate": "2026-10-28T15:26:41.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Israel acaba de celebrar unas elecciones cruciales. Pero el resultado final tardará en conocerse",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbWN0WUhyb1MyWU9Fd2ptTkRxU2JtXy10RW1zQXA5d1JzdXRFbTBEaDRFOHFtcDVtZXRuUVJWbElQcmU4blFWTHA2d0RjUnJ5VlpzZ1p0QVRINEtsZFNkWXpid25Dc3prdUhDcWVQd0o1UkwyOUMyRHhyQ2Jvc0Z2VEdLMUhXWnM1SE5EcTdiaw?oc=5",
-          "pubDate": "2026-10-28T08:31:00.000Z",
+          "title": "Flávio Bolsonaro llega a EE.UU. tras la derrota en las elecciones de Brasil",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnFRUnRoWE1RMzBGVkdfZXR5cW5CamFMQm01eVZza05iMHlZdXRYWXBBNk41ZkYxX01BcG5YTm1OSzcxMW5JcHBhc0VncjZwY19EamV2VVNaV0xfTDlzSl9ZRVZ4OWVicU9fcEY0Q2dUeTE2SFBSSHNMaDNhRk91YndFMzVPRnRhaUNlelJxODE?oc=5",
+          "pubDate": "2026-10-28T14:32:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "El rey Felipe VI lamenta el \"terrible accidente\" de Urda y expresa su apoyo en \"un momento tan duro\"",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWg0cXR4amxNdE0zZzlsem9QVUdFU2NzZTdwd2dEWkJrbnd2OFJsLUhxa2FuN181NE9ZNXFNajdWcGJfejEwRkNtZTd0Q2k3QmlHbVZycUUtTE5BTTVCR1VoMVBNbGh6bGpEam55QWthcG9abGJlS0cwMFZnd2lBTUltTjd0QQ?oc=5",
+          "pubDate": "2026-10-28T12:29:31.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -27,13 +34,6 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Trump arremete contra Talarico en Texas: \"Abriría las compuertas\" a la inmigración ilegal",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMV9JLS14Z3ZnRFI4dDJjeUZQUVpuSFRMVVdCX0FOTmpJVEdoZlZBTTZMcWFHYlpJelE0RFJPenhXV3lodkR2eUFVOW9EbHVQT1BWSU1yaG5xTDU0MnlSRzlmenNmcWpqMjlXUEdXWnVsUDdOY1hxUHBhdjNuLURBbndLQ3NES05RQmhkQUlqNmxBQ2N2NG9tM0tsTWd3Zw?oc=5",
-          "pubDate": "2026-10-28T01:07:02.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "El gobierno de Ecuador niega que el caso contra Luisa González sea persecución política",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXRlS1l2WVBVSnQxVDV0OE5FMmtiUDZEQ0xyRGI5WGpWS1cwNGRZWEdFRThGeDdwR1pobVpZS2swVDlHNE9yX2dkX3RBNHFabzgtcy1Eb3h5S2ZJek0zdHhOTjlMei1XVThORnduV25RT1QwUDhTVlFQSlhZRktFZHdOb3ZtVHZWcmxyZnpkWUhESGU2Z0xZM2pZVXRRYWFzZk16OWhzRlhjeVhwOUdnb2Y1S3poazRfTEdqQUNZNFdGZ0R4SmdGT0t4NkM2TFE?oc=5",
           "pubDate": "2026-10-28T04:45:47.000Z",
@@ -41,9 +41,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "“¡Esto es Estados Unidos!”: altercado entre funcionarios de EE.UU. y Cuba en la ONU",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXgtSWtrc2xoT1pIWlJwQVR2SG45cmV1N3dPNTdMMjM3NTM1YjBjMHgxTVlwT25od2RuUGk4Q1AwUkJmTEhMY051Mm1uODRYeXowSzRXRUVlOE50MWxGOVdDZi0tcVlvdGNWQmo1T0ZCR205VF8tZkJWNElRZGs2NWNjS1dIOXZqWFdkN3pQenlaZDgzY0FWWl95YVNLZzQ0Smc?oc=5",
-          "pubDate": "2026-10-28T03:10:13.000Z",
+          "title": "Condenan a cada uno de los hermanos Alexander a 30 años en una prisión federal por tráfico sexual",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnZLU2lxS2ZGMXZlUWVjY3I4ejZzT3JNWFo2Y3F3MklRYl8tVnlVcVdZUGdtMEtVU3Y3Zk5LWFJqaGVmeGdTLURLNWRoSmpVSGJrSk5sOElVdUg0RDcxb2RSYktDOEVNc1BpRlhkYzdFTGFaMHVVV0E0eEhwdUVSLXNwRko3TjVTeHFRX0VR?oc=5",
+          "pubDate": "2026-10-28T10:53:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -54,45 +54,45 @@
       "color": "sky",
       "items": [
         {
-          "title": "Al menos 10 muertos tras un choque entre un AVE de Renfe y un tren de Iryo a la altura de Los Yébenes, en Toledo",
-          "link": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
-          "pubDate": "2026-10-28T09:54:16.000Z",
-          "snippet": "Fuentes del Gobierno aseguran que el accidente, que se ha producido pasadas las 9.00, ha sido “muy grave” y que “puede ser peor que Adamuz”",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 10 muertos en el choque de trenes en Urda",
+          "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
           "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
-          "pubDate": "2026-10-28T09:57:56.000Z",
-          "snippet": "El Gobierno teme que haya más victimas y apunta a un error humano en el centro de control de Atocha | Un AVE ha embestido un tren Iryo que estaba detenido en la vía",
+          "pubDate": "2026-10-28T16:23:56.000Z",
+          "snippet": "Hay 77 heridos hospitalizados, 15 de ellos muy graves | Sánchez: “No es asumible para un país como España dos accidentes de alta velocidad en menos de un año” | Feijóo: “España tiene derecho a saber el estado de sus infraestructuras” | Puente considera “inexplicable” que el centr…",
           "_priority": "ALTA"
         },
         {
-          "title": "¿Por qué han chocado dos trenes en Toledo? La investigación apunta a una orden errónea al AVE de Renfe que le hizo alcanzar un Iryo detenido",
+          "title": "Los 17 minutos en los que nadie en el centro de control vio que el AVE se dirigía a un choque brutal con el Iryo",
           "link": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
-          "pubDate": "2026-10-28T09:44:28.000Z",
-          "snippet": "Un operario del centro de control de Atocha dio la orden al tren de Renfe de continuar la marcha, según los primeros análisis",
+          "pubDate": "2026-10-28T15:33:19.000Z",
+          "snippet": "Tras el fallo del sistema informático, según Puente, un operador ordenó seguir “con normalidad” al AVE pese a que el Iryo le había avisado de que estaba detenido y veía en su pantalla que iban camino de un choque",
           "_priority": "ALTA"
         },
         {
-          "title": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
-          "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
-          "pubDate": "2026-10-28T08:07:52.000Z",
-          "snippet": "Las autoridades argentinas confirman el itinerario del excandidato ultra brasileño, que ha salido de su país para evitar una investigación por blanqueo de capitales. Trump dice que le parecería bien acogerlo en EE UU",
+          "title": "La Guardia Civil interroga al operador del centro de control que autorizó al AVE a seguir el recorrido, pese a que el Iryo seguía parado",
+          "link": "https://elpais.com/espana/2026-10-28/la-guardia-civil-activa-un-protocolo-de-investigacion-identico-al-que-se-siguio-en-el-accidente-de-adamuz.html",
+          "pubDate": "2026-10-28T15:07:44.000Z",
+          "snippet": "El instituto armado activa un protocolo de investigación idéntico al que se siguió en el accidente de Adamuz",
           "_priority": "ALTA"
         },
         {
-          "title": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
-          "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
-          "pubDate": "2026-10-28T07:41:30.000Z",
-          "snippet": "El bloque favorable al primer ministro lograría 56 escaños sobre 120, y la oposición judía, 48, una vez contabilizados más del 66% de los votos. Los partidos árabes serán claves en las negociaciones",
+          "title": "Pedro Sánchez promete llegar “hasta el final” para esclarecer el accidente de tren: “No es asumible para España sufrir dos el mismo año”",
+          "link": "https://elpais.com/espana/2026-10-28/pedro-sanchez-promete-llegar-hasta-el-final-para-esclarecer-el-accidente-de-tren-no-es-asumible-para-espana-sufrir-dos-el-mismo-ano.html",
+          "pubDate": "2026-10-28T15:06:55.000Z",
+          "snippet": "El jefe del Ejecutivo asegura que todo el país “está de luto” y destaca la coordinación entre las Administraciones",
           "_priority": "ALTA"
         },
         {
-          "title": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
-          "link": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
-          "pubDate": "2026-10-28T08:34:31.000Z",
-          "snippet": "La esposa del presidente acusa a los populares de “suplantar” su identidad para “humillarla”",
+          "title": "Puente califica de “inexplicable” que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
+          "link": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
+          "pubDate": "2026-10-28T13:59:06.000Z",
+          "snippet": "Un maquinista no involucrado en el accidente advirtió de que los trenes no podían reanudar la marcha con normalidad tras el fallo de seguridad",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Feijóo, sobre el accidente ferroviario: “España tiene derecho a saber qué está pasando con sus infraestructuras”",
+          "link": "https://elpais.com/espana/2026-10-28/feijoo-sobre-el-accidente-ferroviario-espana-tiene-derecho-a-saber-que-esta-pasando-con-sus-infraestructuras.html",
+          "pubDate": "2026-10-28T15:26:47.000Z",
+          "snippet": "El líder del PP reclama una investigación gubernamental y judicial “inmediata” y “sin interferencias” y una “revisión completa e independiente de toda la red ferroviaria”",
           "_priority": "ALTA"
         }
       ]
@@ -102,45 +102,45 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Ten reported dead after two trains collide in Spain – latest updates",
+          "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
           "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-          "pubDate": "2026-10-28T09:48:35.000Z",
-          "snippet": "Spain’s rail system operator ADIF said the crash occurred Wednesday morning in the province of Toledo Local government spokesperson told TVE that the death toll “will almost certainly rise.” Esther Padilla told the broadcaster the situation “is going to worsen.” Continue reading.…",
+          "pubDate": "2026-10-28T16:10:23.000Z",
+          "snippet": "Pedro Sánchez says the government will act with urgency to ‘clarify what has happened, why this tragedy occurred’ Full report from Spain At least 30 people are believed to have died after two high-speed trains collided in the province of Toledo in Spain, with concerns the death t…",
           "_priority": "ALTA"
         },
         {
-          "title": "Spain train crash: at least 10 feared dead after collision in Toledo province",
-          "link": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-          "pubDate": "2026-10-28T09:31:19.000Z",
-          "snippet": "High-speed service reportedly runs into back of another train, knocking two carriages off track At least 10 people are feared dead and many more injured after two high-speed trains collided in Toledo province in central Spain. Spain’s state rail infrastructure authority said serv…",
+          "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+          "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+          "pubDate": "2026-10-28T14:29:34.000Z",
+          "snippet": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Deadly Spanish rail collision – latest updates Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long rank…",
           "_priority": "ALTA"
         },
         {
-          "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
+          "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
           "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-          "pubDate": "2026-10-28T09:46:38.000Z",
-          "snippet": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied Analysis: Rise of Palestinian pa…",
+          "pubDate": "2026-10-28T15:51:02.000Z",
+          "snippet": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Israel election…",
           "_priority": "ALTA"
         },
         {
-          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-          "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-          "pubDate": "2026-10-28T06:36:14.000Z",
-          "snippet": "Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirms The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential electi…",
+          "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+          "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+          "pubDate": "2026-10-28T16:04:10.000Z",
+          "snippet": "Projections show votes for Palestinian parties surged in a tight contest that saw the highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s…",
           "_priority": "ALTA"
         },
         {
-          "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-          "pubDate": "2026-10-28T09:37:49.000Z",
-          "snippet": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s…",
+          "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+          "pubDate": "2026-10-28T14:16:24.000Z",
+          "snippet": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities…",
           "_priority": "ALTA"
         },
         {
-          "title": "John Healey to end standing charges on gas bills for 23m homes",
-          "link": "https://www.theguardian.com/money/2026/oct/28/john-healey-to-end-standing-charges-on-gas-bills-ofgem-budget",
-          "pubDate": "2026-10-28T07:32:30.000Z",
-          "snippet": "On budget day chancellor says he will ask Ofgem to remove ‘unfair and outdated’ fixed daily fee in 2027 or soon after Business live – latest updates What to expect from the budget: who wins, who pays? John Healey is abolishing standing charges on gas bills for 23m homes in a move…",
+          "title": "Budget 2026 live: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards",
+          "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+          "pubDate": "2026-10-28T16:16:16.000Z",
+          "snippet": "OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decade Budget 2026: key points at a glance Martin Lewis said that, when he met John Healey this morning, the chancellor said that, having removed standing charges from gas bills, he would als…",
           "_priority": "ALTA"
         }
       ]
@@ -150,45 +150,45 @@
       "color": "mint",
       "items": [
         {
-          "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-          "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-          "pubDate": "2026-10-28T09:55:24.000Z",
-          "snippet": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+          "title": "What We Know About the Deadly Train Crash in Spain",
+          "link": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
+          "pubDate": "2026-10-28T16:23:15.000Z",
+          "snippet": "A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history.",
           "_priority": "ALTA"
         },
         {
-          "title": "What to Expect Now That Polls Are Closed in Israel",
-          "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
-          "pubDate": "2026-10-28T02:00:13.000Z",
-          "snippet": "Polls have closed across the country. Exit polls may offer clues about the direction of the voting but not necessarily a clear winner.",
+          "title": "Spain’s transportation minister described what led to the crash.",
+          "link": "https://www.nytimes.com/2026/10/28/world/europe/spains-transportation-minister-described-what-led-to-the-crash.html",
+          "pubDate": "2026-10-28T16:17:53.000Z",
+          "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
-          "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-          "pubDate": "2026-10-28T00:26:51.000Z",
-          "snippet": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.",
+          "title": "Netanyahu Didn’t Win Israel’s Election. But He’s Far From Out.",
+          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
+          "pubDate": "2026-10-28T16:24:07.000Z",
+          "snippet": "Prime Minister Benjamin Netanyahu lost some support from voters, but preliminary results suggest he has multiple ways to remain in power given the country’s fractured politics.",
           "_priority": "ALTA"
         },
         {
-          "title": "RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say",
-          "link": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
-          "pubDate": "2026-10-28T02:39:46.000Z",
-          "snippet": "Two British men were charged Tuesday over a suspected plot targeting a base used by the United States. Prosecutors believe they were directed by a man working for Iran.",
+          "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
+          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+          "pubDate": "2026-10-28T15:35:10.000Z",
+          "snippet": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
           "_priority": "ALTA"
         },
         {
-          "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
-          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
-          "pubDate": "2026-10-28T05:18:10.000Z",
-          "snippet": "The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister.",
+          "title": "Eisenkot, Netanyahu’s Main Rival in Israel’s Election, Faces a Dilemma",
+          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
+          "pubDate": "2026-10-28T15:20:24.000Z",
+          "snippet": "To form a government, Israeli opposition leader Gadi Eisenkot needs to either join forces with Arab parties — anathema to many Israelis — or with members of Benjamin Netanyahu’s alliance.",
           "_priority": "ALTA"
         },
         {
-          "title": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
-          "link": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
-          "pubDate": "2026-10-28T06:04:27.000Z",
-          "snippet": "A heated disagreement over recent land mine explosions is part of the legacy of the truce that halted the Korean War 73 years ago.",
+          "title": "4 Takeaways From Israel’s Election",
+          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
+          "pubDate": "2026-10-28T14:10:53.000Z",
+          "snippet": "Votes are still being counted, and much is in flux. But as the stage was set for bitter talks over forming a government, nearly all sides could face disappointment.",
           "_priority": "ALTA"
         }
       ]
@@ -197,13 +197,6 @@
       "name": "The Washington Post",
       "color": "green",
       "items": [
-        {
-          "title": "No clear winner in Israeli vote, exit polls indicate",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5",
-          "pubDate": "2026-10-28T09:00:23.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
         {
           "title": "Brazilian judge orders investigation into JD Vance donor network",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXNScXBLQWxqeDlrNEF6a1dLU0VjcGNkNEpmRml4Xzh0LTRHSW9qTVRacy1SS2pnYUtISWgwMUdjZldlYVFWOUpZNm9Ock5lNUs2MFdJVmZuZkNPZnZXUTF0VzlxaXBGT0pWVmVGbUlZRnl6aWdWWGNpUGU2S1hyS3Z1QTdBOE9lQTJMNUpXdkNGWkJ0bTRRYVJCbGp1R245V0tta3U2LUUwb1I4a3hPS01fNA?oc=5",
@@ -214,28 +207,21 @@
         {
           "title": "Trump declines to unconditionally accept midterm results",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVczQnFqQUtkb0lZQnNNX0hOZjRIQ09waV9fZlA5TUhGcjhsRVVSZXRwNGwzLUZTckgyWlM4bFlqcTVtRndCempyRTJBRm1ZU1ZMdGNueFBRYVcxYTdNZ3dNWkdaeHZUMnlXcTRodU9aWVlHY3d0bDJIVWpqNUlmeTYxZzVCbEE3dWhLRzhwWm9VWVR6ZTFkTWFoUUs0MUZaNTRiMnJ1SHdYZw?oc=5",
-          "pubDate": "2026-10-28T05:10:00.000Z",
+          "pubDate": "2026-10-28T03:24:32.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Trump administration can block immigration judges from closing deportation cases",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkRoOEw1UVdTNFEtMUE5SWtiUE1Oc3ZDX01Xdl9jZVlLTFhmNlBIUGdXMDdmMVJVVm9SSS1GVDJVbTk2bEptdmZoMVpaTUxHWEtHWDAzbG9BM2toV0xlV0l6eWdNMmpsWmpFS29FcS1wd2h5VW9EbVNvajJFYVN1XzFuRDBoamFtbmx2amlwODFxUEFqZGFVekJDWFFlNXVObnYwTUkySVJ5VEJ5Ti01UmpXMi1JSl9fclBoOGR5TXpNUlotenc?oc=5",
-          "pubDate": "2026-10-27T23:25:01.000Z",
+          "title": "White House enlists veterans groups to help Trump’s arch plan",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk04R3VlbzlKbHE3NGpZZWFReHF2UWRkUnZENzVsYlNBQjhzZ3oxVWcxVkE4RktCRFNMbmxMa2FncU9XU2k4Y3NhMG5lOTc2UFJzeC1YZEs0dm9Eczc5dGM0Ykx2REJ5VjZpSjhINnh0SFV0SG93MnYzODNmVFBBWUxjNXJ3WldQcm1aV19RdzU1TFRwSHRDUG5HV2ZvRDZ0Y0x5UUlB?oc=5",
+          "pubDate": "2026-10-28T16:15:32.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "These superbugs pose the biggest threat to Americans, CDC says",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWhEZEZZdTlVY2xtRGJ6eTJ3TTVvRDY0TmpsSVBrTmNrWFBTaC1KZ1lqRjk1ZHR2T1dCVjYxbm1FSEVYWXBLV1dXQUFWSHgzOERvMWFsRzFVSEhJTWRDcnByVnkteEdUNjh6NjFMaFN6dERxblBTNmhFRVVvd0t5TUxHaGU0VWItT3RGLTdGMUZpTGNwSHljcTVENk03azdPcVNFY3d3bw?oc=5",
-          "pubDate": "2026-10-28T00:00:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Grand jury declines to indict Cassidy Hutchinson over Jan. 6 testimony",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTZ6MVVDcjRBSkRkVmk3blpYOGNFb2IyMlNQWE1paEdrT1FHcVdHUGxodXhfTUlOTGs5SkRXVXhSdjh6RlNIZHllNXdGREp1b2g0NDhNWUdIUzhXVEJ6MVhKZGp3YlZZdkNpWjFvLXhTeFFiWG93UXNLTC1GUDhkMEJMRVlhYjRfQk9uNWZHeEZaZEZHUEk0Q1ZjUGJ2YVZWSldIWDhrb1YxTWZ4Z1dLNVBkTmRuajlydHVxUzlGZUUta1dvQ1E?oc=5",
-          "pubDate": "2026-10-28T04:25:58.000Z",
+          "title": "Trump to greet Venezuelan oil shipment, calling it a ‘gift.’ The U.S. paid for it.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWpkTGctM09hUGpnVG1la0F6NXl5VmRRczl3aUJFeUtiMnh0T0c0ZmhhZEtDMWlreWtBeWdxel9FN1ROZXk5dUVReFlHUUxaLWQxX09oUHF1cmJ5LXZ6elAwMDdGVlY1VlpJT09hdVBuQnFvNzRZNzRjdzRJUkMySTZGbkVXSUI2R19fNE4zWkg2ZGh4cjdGWl9YVWd3NE1WTDJIeWNpYUpsejR5UlpxdQ?oc=5",
+          "pubDate": "2026-10-28T04:19:11.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -246,13 +232,6 @@
       "color": "lilac",
       "items": [
         {
-          "title": "Israel’s voters deny Binyamin Netanyahu a majority",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmgzOUVENDc1YjhqTUxLcWt5azlwXzBFZFJwQlhLUmJJdWRPcWt4TDlpQ2VFd0N1SnZNUGVGY0RiNW9xR1BsTmtGUk50bVU2RnhCWUFKS0JBaUQ2Ql9vV3VxZTRUbW1lTzBTMmhxSlBYQ0FaQmhOM0ZVb2lncFppQ1pSM3BzejVHa0dtN0VFbUZROWRRSmFyVVBubkFHcmwzZjVqY0dNTEpNMmIwN0E?oc=5",
-          "pubDate": "2026-10-28T00:12:42.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "Flávio Bolsonaro appears to have fled Brazil",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2FWTHJGWGpiRFRTMmdCMVNJenBHbTB6WHBDS2F4aTg2RmZrd2dsTWtzMHk0YUhwU2xiaUVESTR0ZGo0alV5eWUyXzVsUDVQMEpraHEwNnMzcFhQaWEtWTdLWXZzR0kxVjYwSGxsVDF1SHhJdS1CVUJENTRBYzZnclZPd2g1WENva1NoWHkxaHVYTHVYanpJU0RB?oc=5",
           "pubDate": "2026-10-28T03:23:51.000Z",
@@ -260,16 +239,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Donald Trump may love the Middle East to death",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWY0aUxlYW9FNkxOUjNmUWVrWHRTOFNwbHhYNEVndHVKY1N5RERsWFVGWUk0RFJZTVVDVnNUZUtWa3pfTXZTN0JHeFFFOTJjMWZHeFpQeC1SdVFqcWp4UWhaekY5WUlLcWdYcFMwdUlmTGlxaXl3V0QwZ1B2Y2RpOTFBM3hhUVltNFcxOGp3RFp4MGNjVmpMMWF5Yjg2Zw?oc=5",
-          "pubDate": "2026-10-27T20:38:56.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Kim Jong Un’s curious visit to China",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemNJaGxMR0YtdTlrVjVYR1NRVHl5QkFLdmVvNkNacHZTbTJOUnVsdmVkZ0lXbWxIUkFVN1ItandrYXBybDRSUWVGZDBSQzVtM3RHNkZjRlY1RWxubmhNelk4MHZ1SEJvU05sSW5jYkhObHdvV3NVTDdLd25BTnFLOHhMQkY?oc=5",
-          "pubDate": "2026-10-27T16:17:18.000Z",
+          "title": "Israel’s voters deny Binyamin Netanyahu a majority",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmgzOUVENDc1YjhqTUxLcWt5azlwXzBFZFJwQlhLUmJJdWRPcWt4TDlpQ2VFd0N1SnZNUGVGY0RiNW9xR1BsTmtGUk50bVU2RnhCWUFKS0JBaUQ2Ql9vV3VxZTRUbW1lTzBTMmhxSlBYQ0FaQmhOM0ZVb2lncFppQ1pSM3BzejVHa0dtN0VFbUZROWRRSmFyVVBubkFHcmwzZjVqY0dNTEpNMmIwN0E?oc=5",
+          "pubDate": "2026-10-28T00:12:42.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -281,9 +253,23 @@
           "_priority": "ALTA"
         },
         {
-          "title": "A shot in the arm for China’s economy",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWE5aFo0eVpFTXZuS3lubHk1cmtiNTltSEhLWTZibzlhMjl2SHA1eG9kb0NNZDUwRFpJT2FDM1VoMncwTE1ub1dyNVBJMi1seVp3ZVNIb1ljX2gwcExVT0g0ME4tUS1aQmpFZ3VzZUJSRzZBekNrZUYzTmpMbHFXQnVXcWFSNGZsd0E?oc=5",
-          "pubDate": "2026-10-27T16:23:32.000Z",
+          "title": "World in Brief: Israelis vote in record numbers; Nordic leaders speak with Putin",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVNRVDBDNjJFSm1OSEFtX1JBQVZNMkROWjF0VmRDNHlwQTBoUU4ybW1id3R1bjR5QjhoemhnRGY3OUZ6eXExWXhBSWp0S3ZSZExlcFNLai1ISlBPYndWRnlBTlE0OHRRQTd6ZkY3aWdsVEFQcndQT2ZfRmRWeU5zRWNMMTlaQ2ZZU19wYVJ0REFDVDJoV2Nr?oc=5",
+          "pubDate": "2026-10-27T18:25:44.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Donald Trump may love the Middle East to death",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWY0aUxlYW9FNkxOUjNmUWVrWHRTOFNwbHhYNEVndHVKY1N5RERsWFVGWUk0RFJZTVVDVnNUZUtWa3pfTXZTN0JHeFFFOTJjMWZHeFpQeC1SdVFqcWp4UWhaekY5WUlLcWdYcFMwdUlmTGlxaXl3V0QwZ1B2Y2RpOTFBM3hhUVltNFcxOGp3RFp4MGNjVmpMMWF5Yjg2Zw?oc=5",
+          "pubDate": "2026-10-27T20:38:56.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "France is rioting. The rest of Europe is surprisingly peaceful",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZkZfXzVSdWdzX0luS3pjUHZuakpHWEp5MFd4ZFhpZEd3cVMxUHNOdGVBWGY0MkxCNXc3X2FjaTFCVTFOZUc3WUF5RmRpX3pYc0JRYzV4WjlqcDlHMTNCTWl3MHR4V0dnaVBhNXMxdzd6YVJCMkhjTGlWQlJXekZ2b0ltREJBMHY0MnViMWtsVmwzcUk1ckxmajhaMURuakNpS0g3MEgwTjRVaWlqeElsRUtqaw?oc=5",
+          "pubDate": "2026-10-27T16:50:52.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -294,44 +280,23 @@
       "color": "peach",
       "items": [
         {
-          "title": "Encuentran con vida a sacerdote en Sinaloa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3phT1NQamhtOG1pM2ZvTFU0czlJYXJnZnNITnNLTGtpLU1YczF4b0dlODZZLTVYcmdmWk41WjVxSDNudC00V2tSRzcxTGxWcE84MUIyaDQ1TmhLMS1tUEtnekpUWHZfRkE1SlotajROR1VjbnhaMVdkZ19HVHlkcmR0bk9Ja0l6VXfSAZ4BQVVfeXFMTkFWbzg1V1pQbjdpU2ZtMGQwNHktUE9jMnBkQ3V3UTRsZWxrMmcyNG5kOF9ta1ZfNkotU1M2MElKcXN3TzhJT0J0Qjh6aWxaWFVjdTlzNkVWOUQxNjI3a0p3NlpMNnhtNTJGUkFFUXVzZEFhdnlzYmkxYlFGNVBPLWgyeklHRi1ZSUVoWTdNSm1DSTM2Mko1endXM1lYVHc?oc=5",
-          "pubDate": "2026-10-28T07:35:14.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Violencia en Culiacán y Mazatlán deja 9 muertos",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamk4TjJTLWhRVW1MZzZfVUE1ZFMwWUVKd0pFZmxlVnRjMjFmTXJ2clVJalVrc3dvS0dDMDhDZG5ESVZpWU82cEl4OG1CUXU0UWpEN1YwandzR3QzVDJ6WUE3QXA1RzRxNUh3dHJFTks1RkJtVVhud1VyZTJWQ0NzNW1PekFnZ1p3eWVnSmRSei3SAaQBQVVfeXFMUEcwZWJCSllBTmRXMDJwOVZLLTZRWnd2eUY5Szd4TUJRVmdMVExzd3VWa2gxbjVvYTEwNDh0c09kV1hoY3VWOHFhbEZFRnJpa0ltRmQ4QUVIRHNoZHBJZUYxTHNvczMxZ2FCNWxyUGgxQ3R3RmhvWHFpdWhOVFFXcE4tUjlMa1AtS25qd256eENBS0NsX29iUUxmLXBzOHRwMEFHREQ?oc=5",
-          "pubDate": "2026-10-28T07:27:26.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Contralor del INE comparecerá este viernes ante diputados",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazhSbXFwVUJSMEF1Ri1ERUZ2WXR4VWM3bzBHVWJGWnZwRkdYb1hqZWo4c2k1TDJhWmlFNjVwREIzQ2YySjFOTHh6NXJxX0NFWVgxYVBscnlFNHhNN0FubmQ3c1ZMalRoYXBjNFFNTGlDdW5YVjJIckNENHZOdnVEZGtMVTZFQU9Dc0I3dVRzN2tJQmllY0Z3RE1KWlljRTlSbTg2R24xVnh5TlpCWUJ0SlZEUmgxM0xUYl9WZjh2cHJtQW9Cd0lNLURUekxNVFdKQVd3VU55bWlhcWdlSkIzYS1mdktHblRXQ1HSAf4BQVVfeXFMTXpOSUZGMWN2a3JpRjFEZlVKNUNiZEM5UDZvek41SW16QzN2SDBrRU1oSTI2Yl9iWXlJeHFVaERfMG51ck5QYTZZdXhIVnVlQjdsM2dwY2VxZWI4WWN6Zk1VUDdnMi0wc2psV1RNLTFWNnlfcVFSOVpVRVY3ZmVWOEJyOXZ1S3ZJbWtsSTZrc0xZMmk3WHlJbk5PMDR3Q1F4T1Vyc1Q4bFF2azlOVWdBSkVVQXdNaXZKbnpVOTdoR0wyMGdxQU9UcUpVckJtbmlrMTZuWDlfWUQ0SnBuVWZ4b1p1Uy1ITWhSOHlKU01pTnFFM2RGeTJJdDdFQ1JjaWc?oc=5",
-          "pubDate": "2026-10-28T06:10:53.000Z",
+          "title": "Recibe San Lázaro nombramiento de Presidenta interina del INE",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0xyeGwweFFIaTNEVG1waExWY1JxU081N3BvSDlsV3NaUlVCa2lMbWw2TjlyUTRDcTA2VTNFMmZFNmJKV2lTUmQtR0FNY3FzZWxzZ3RlSUd3aEVVQ1dwbE4taWVFZXg0clNVOVJHcGtfbFFhOE94LVhyUFl5dHFOclN0UWwyb0VVNjBfbk9CMlMwdDNrZEJjUmRpOWJfYk9feHpKd3VHbG5MM0RGaDc3ZmlTZWZ3b0dJNlM3RXZfS0pkdVR4SFkxdVdRb9IB3wFBVV95cUxNTU9JTEhZWGxzUkNhMFJnVkJnRmxDclFCVDhKQ2FLNUdCOG8ydmt4Nk1aV3c3cjFzS3MtQTVMUFZMRlA5OVdZX2V1bjhrajFqelZjZkh1QUd6Sm1GbmstSGt6YXp6cjZ1ai1idUdOUVowSEx0c21IbWxSRURfeXFFWWgzNWRuYTBzbjZrUVR4Z1lmYzZuVzBZV05xVWFTNjB1VzRDanpEMDlTTWFvTzh1ZU1URFpKM280Q1YxTk1Ta2N0RHVzVU9EZHZ2VUFoUUFxazlTOGpYVDE4OXdlX0NJ?oc=5",
+          "pubDate": "2026-10-28T14:07:37.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
           "title": "Blanca Cruz García rinde protesta como presidenta interina del INE; usa la silla vacía que dejó Taddei",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWtoVGR6ckV6bTlWZ191NF80YlgyWmsta0RqVm1uZHJabERXMjk3SzJxZHJjN0ZRRW01bWNzbEN0bXdNSzBDai1LdFdJdkNJWC10cG9hZ2kxUlNpWGM5LW12VmhUSnVvOXhfdDJvR2V4RGZ6UTBwQ1VOR0lxaTkwa3o4Y2hqcVUweEszX0hHYXF0akFXSEttUWhiRWdYOWl2bkg3bkFiSExfVkdvV3JTSnpZWU5FTkhvaHNaUEMzUWlhNFlEclZYT2xDcnF5UUN10gHkAUFVX3lxTE51M3h2MGFvVXBEVzk3RG1oVTJlTzJpTThlYXhKYzRNaGlrSmloTk1UZUpiaHhTNVRJQmdzVFlQUVlCSmItSnBXTTMxUFpqZUc1Z0hwTzJvaWJFbDRvd21nX1NmY09UZjdTYjJtY0lrQ2ZicEk1aEdXLVdlYjVZU0tfUjVJbnZmUkxXYUN0eHhDTUNPVFh4SUx6ZXRhTC0wRXZvaUZQdHIzNTZEM2xJWWFRcnZPOUVTVzk3ZkdyRDlBUE03LTdjS2ZDWXIxckhqTG5VRmdOYWJ5d2ZyNUhyV3RkSnpYbA?oc=5",
-          "pubDate": "2026-10-28T05:04:00.000Z",
+          "pubDate": "2026-10-28T11:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Comité de Ética de Diputados revisa denuncia contra Gutiérrez Mancilla; increpó a Máynez",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTNRc2JxUEJoT3RkOF9kWTZhSEh6MTd1b2V2S09QeU9mcm5iLURjU3VJalh2M0huQ1ZtNC1ydDFiOE94RXBjVXBHQXp4RnJ4RTItMHFTZ2pOZm1Gb1dSaVAxRXJCbVFtNXlPQ3NsUlp3dThZaGdHYnhaaUZnSGRZWmMtZmxZVmxXYU0tX0dVTlFrZGlNTlpEWWdkQ3ZXamc2cy05NkdFeE91T3dwck9CbkJYLUZndnpEMkhzRno0bmI0Skp2Ti01YnlDOW1UUE0?oc=5",
-          "pubDate": "2026-10-28T03:09:57.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Subsecretaria de Hacienda comparece en Diputados",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3c5QmVIbllWRG5ULWlEWUlzZ0VEMm5oajMwd2hQX0MxTndia09CSHc0QXh1cjJMT2pBQkg2VGlRN3FURlZNTnZPSDNmdXgwR0F6UF9PY1AtZkx6cnlGMlpZc2hUTUZ6Szg3aVA2Z0txOEp0TV9NM3o4Y3ZVTExYMmZzQTFmM21YUF9aaHFkMnU1dzdTTDkxWlladHdQaDAyQWZOb2tBbF9tYU8weHZxR19PeXlYd19SaGQ2YWVkVnBNVWp2TkFGNkFYVjNNb2pyV1VYUVRha2hhZ2ZDNXdoZXNHQVBLMFlGMHfSAf4BQVVfeXFMTVBPTzNIS3k0ajVCdEtrNnhaTWI4cEpQdG1DZW1Ua3NvVklFVkFuRG9zYnJwVnIxT28tVm5tTjAySXByYV9tQ1VTa1ZTcUJxbDVNZEhESm5YUkp2VzdRZDZPd09TZmptSjhaSEE2UGcwMktndFhVcklrYWdKTXpGNnFZZFpVc0dETVBBa0RPYV8zNE5YWVA2MnM0OG4zM1pBWTlRVFlZUm56NDRuMjhra0xNVXhHYWcxblg5cm9wUG9YVl9HQnQ1MUNPTDhWQnpONXRMbEdZcU1XY0s0YkFnd0IwSWRJUXNETDRlRFBLMHRDZGFmdmlYOW9mamQ2LXc?oc=5",
-          "pubDate": "2026-10-28T02:43:58.000Z",
+          "title": "Contralor del INE comparecerá este viernes ante diputados",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazhSbXFwVUJSMEF1Ri1ERUZ2WXR4VWM3bzBHVWJGWnZwRkdYb1hqZWo4c2k1TDJhWmlFNjVwREIzQ2YySjFOTHh6NXJxX0NFWVgxYVBscnlFNHhNN0FubmQ3c1ZMalRoYXBjNFFNTGlDdW5YVjJIckNENHZOdnVEZGtMVTZFQU9Dc0I3dVRzN2tJQmllY0Z3RE1KWlljRTlSbTg2R24xVnh5TlpCWUJ0SlZEUmgxM0xUYl9WZjh2cHJtQW9Cd0lNLURUekxNVFdKQVd3VU55bWlhcWdlSkIzYS1mdktHblRXQ1HSAf4BQVVfeXFMTXpOSUZGMWN2a3JpRjFEZlVKNUNiZEM5UDZvek41SW16QzN2SDBrRU1oSTI2Yl9iWXlJeHFVaERfMG51ck5QYTZZdXhIVnVlQjdsM2dwY2VxZWI4WWN6Zk1VUDdnMi0wc2psV1RNLTFWNnlfcVFSOVpVRVY3ZmVWOEJyOXZ1S3ZJbWtsSTZrc0xZMmk3WHlJbk5PMDR3Q1F4T1Vyc1Q4bFF2azlOVWdBSkVVQXdNaXZKbnpVOTdoR0wyMGdxQU9UcUpVckJtbmlrMTZuWDlfWUQ0SnBuVWZ4b1p1Uy1ITWhSOHlKU01pTnFFM2RGeTJJdDdFQ1JjaWc?oc=5",
+          "pubDate": "2026-10-28T10:43:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -342,6 +307,13 @@
       "color": "blue",
       "items": [
         {
+          "title": "Primer cargamento de petróleo venezolano del acuerdo entre EEUU y NABEP llega a Texas",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3U1UVFveklSbWZLSnVoY1o5Vkp3YTE0aXo5dENORVJxQVp2WjVLeHFiYU93cU1mUjZTdEVQcmpKd3VxQldZWXBvRlV0dmVaa1o3QjhXckRJNGZkaHgwaWlNc0lvZkFwOFFkcFo4V2pNRlp1NXg0ejVnSkp1X0QyYWxvRlZzUllCcjhoeDNUQzczSVFIYW4xd3h5cU1GT19BZUZaRXp1TmtVLTNlUDEwODBMVWpob2tWWHNoTHFRNNIBxAFBVV95cUxOZGV2ZnJLdUhMN3MzUThxV1Q3UlhPR2dzSXM1a2pLTllVekszZ2hHLUpKMTNuZS1VblZhRTRHcElGUDlHXzh3ZkppWXBWQWwwYlNmT1RtZGFHQ1hEUnVINl9fYXpxdzFqZ3FOQ1ZJd1E0Wmhmc05RcGZiNTRla2l4aUNOR0RuU2xXYlBualFtMGJqNk1zbl9QYTVyY3IzdjRNV1F4VG5uOUV5ZVFNYkVsdlRPYldybjJ0Z1gta2RheTN1VkJY?oc=5",
+          "pubDate": "2026-10-28T11:24:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Tribunal Supremo respalda a Trump y bloquea la suspensión de ciertos procesos de deportación",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmgxODJlbmhfYi0zRHhxVjliMk9zYVB2ZS1HQzhvU1JjT2JkUUc1SUFxRUpuXy1qd1VyRklVWWpRZnltR0JlTFdSZHVrMUxIZTBINVNGa09yMVVhWnNFNmxPME4tYXlzN2c0QWsxMTEtVDd5YlN0UmZiNFlrVnliTVAwLS15dVFBNkI5Z2txSEhocUhZMHo3dUxRTGMyd1E4MjJZanFzTEljUTM1NEFZejFsbzVGYXozbDhvQ2x6WlotUXdRaHozb3RWUVHSAdIBQVVfeXFMT1EyX29nbmFYOGRpRTRzM1I2TzFwU3RSWHdJbWs5YVdtMGxnWHM4NWtfQ09kZEdlUlB6Q1RGNG9xek9hQ01KWnJBM3pPd0JqaFNsOUVma3FuQWNHSkh1blpmQ001TEVhb2ZUelZIekVjMW5kWUN3dkVnTHVnMWlaMk9QY3NtU21XZl9IbTdGUWZ1dVd6YnUxNU1DTXlTbWY4cHhORkNmaUo3Y19JblZKTTJHQzQ3RlozNndicURkanl2Sl9oZW9SU3ZEc0N1bzk0amRn?oc=5",
           "pubDate": "2026-10-28T00:37:00.000Z",
@@ -349,37 +321,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Los primeros datos del escrutinio en Israel dan la victoria al Likud, seguido del opositor Yashar",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzhLTnpYd3pZeE1ZaDVqVUZGNTNfeU0xVVhSMy1XN2ZKSXJNR1lWSlVmeE5YLTk3RDBtQk1jRmt0ZG5jR3NwUzBVTEpLREx1RExVYmktWFZsUzIySzAyb2FWWjlkMEVldmdNWTMxR1V6WDhrLUxENEhwZEVicnRGQkhGQ1BWWUhIQXRmWi1HdGllU3FDNmQzLUE1UXhhTGpRdVBWeGoyVXEzNHMtY3Q2OWcyUFl5b0VpbWNSdDllQUlDa1Zvc19LanZicmJTNkVmOTl3VHRYM2FuZ0hGaml3Y9IB5gFBVV95cUxNZ3J5V0FzWWlDeFA1U1ZrQ1VlV2NIRUg2UW9NZUk2a25peVp5azFHYWEtZGJROGlaUDdrSkpOV2U4UEtIYlFRei1mUGFHU3l6ZThGSGhuT0hsR1hNNTQ4X3Z3cjk0XzhMM3FUekxRRHZVbDJnamtaekNnNmJKNllLclRxRjFkc2k5MmNheUltYWpQYUI1LU9GenRqZ0J2WDBybzRPdzJqVC1WTnlqaG5KTHdCRk4zdXhycjllSW9La0N2dDU3MEFUZmJkM1JMVTlRMlZEUzlua0xmc3ppTTRIQjJidzFyUQ?oc=5",
-          "pubDate": "2026-10-27T23:26:05.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Elecciones en Israel: Las participación supera el 31% a mediodía, la mayor a esta hora desde 1977",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDh3UUpsOVQxUFo0MVZXeXo1VnJhS3gxYVhrM183LUJHaXRXQnpDMGN4RW1qa3B3TUxrS3RBbVB6M3hyN0hzWjFnNmc3SVRYQkoxNDZxNmE4Z3lEUk5ja2R1N3BtQUJKTDA1V2FzQWlCU2o5UzZxb0Zxa2lET2w5cDl0MjZrY2Z4UWl2S05TR3hBNFlnZ3lTdjc0VDJzY21oRFVQWkpQejE2U1hWUmZGNWtaTnU0dlN3WVJTbTFCUGdFOWRWSzZ5U0lR0gHPAUFVX3lxTE91Y0hIb1MtcUFrMVU4Vzd1MThKSDJHWUpFbkhfMWFrU1VrdHZNdWtKZkswVFJiUjctMjBScGc4cVp4bzRvVlRZajNFRVBkUUZBZlZla2xVZkZlZmozeXNHdEhtNkNCRDVxMk0xVTdRQkhqMlpmVkpVSHlNZ3FNUE9ZVTF3MzYtdms5TXE2dXhmWmxvSVpUdXJxdDNvV0huVnJfaWZSSElsS1dOVUYxdGh5UXlyMVo1M2lTTDVsX2RkWWJNM0JDQVhUR1Y4NWxVNA?oc=5",
-          "pubDate": "2026-10-27T12:47:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "El Diario en 90 segundos: Exigen a Venezuela proteger a María Corina Machado y garantizar su actividad política",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORFJQYndlU3gxNnBHZ1NicF9wVTgyMENTNERYQTRMUDFEcmxPYndwZEx4cm1nTDBESTU0dV9hajBOcmlVbmtCSW9YT0J6cDA3U0plUHlWVVlKN3AxOWZqSVRqbUVjNFMwU2RCUktLVXJ1Q0g1NzNkeFZ5bGVoZ0dfNTVwVmUxTUpQdzZzbE1GS09PSnZuUmdaZUdKNWRjLWF0YmZ1d2xfM0kzakotU3FZajdyV1lKY0lWMW1ZM0JxSGR0YUhPaUh3dlpacW03Z2Q3dERUSGZQMkIzU2hKczQ00gHkAUFVX3lxTFB3X3lhWjg4RVlXVDkxZDFYWmVCVHNRWlVTd1I1S0JDVFZLNktUZ0JYRnpDVDd5YUZqWWU3U19INl9RYnB0aFFVd3ZiR1lIMDNsc01rREdhT3FJa0FNVkk3dlFHWHdYbDVycUtjbHBtTmZ2Y19SN1dDZHowN1VLeEphRjI4bFNfR3FKamlyTGthWHlQMXNubnJqa05jWmF5NVlwUlNfOVRiVVFBUFV0T2JGcjVqcU03bDl3dnpaVmNLZXRNVDVGY3Atbm5qcUkzUVhGRXhXZ0ZwSm1Kenh6SEF5WXJwMA?oc=5",
-          "pubDate": "2026-10-27T17:49:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "EEUU concede asilo a periodista nicaragüense Luis Galeano, que estuvo detenido por el ICE",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFV4X1psUGljbDRNUEg1Q1Joa3lWM3RMTlQ2VFBhQzA1WWxCR0x6QVE1TjA3bl9wZEVBUlhhRkV0ODNiN01tdmVhV2JyUk14WVllYU82LWpqZUdMU1lYUTlPWWFIVGFqR3RpNzIybTlkZ09tWWt4STNaWmpWdUQzNzhsaFZZczI5S2VERVFpb1ZLUDVCenZhOWp6NzdpeUx2S19wcGZwTTc4WjdlbDljdkM0UlM4Tk5Sa25ROUxaWUU1TURfZHA2NlQ2N0NwbU1PZjA1Q1M1YkdpaTlt0gHcAUFVX3lxTE9oVXhfWmxQaWNsNE1QSDVDUmhreVYzdExOVDZUUGFDMDVZbEJHTHpBUTVOMDduX3BkRUFSWGFGRXQ4M2I3TW12ZWFXYnJSTXhZWWVhTzYtamplR0xTWVhROU9ZYUhUYWpHdGk3MjJtOWRnT21Za3hJM1paalZ1RDM3OGxoVllzMjlLZURFUWlvVktQNUJ6dmE5ano3N2l5THZLX3BwZnBNNzhaN2VsOWN2QzRSUzhOTlJrblE5TFpZRTVNRF9kcDY2VDY3Q3BtTU9mMDVDUzViR2lpOW0?oc=5",
-          "pubDate": "2026-10-27T00:47:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Florida demanda a First Street sus puntajes engañosos de riesgo climático en real estate",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeUFUdTFwb2J4aUhQWFRvaTNZTzRjaXNoMUt6TEQ3Q1U3OHZHLU5zTFdRYkZKNXVlNEhVeXJCdmxlREYwcFFoTERvUnhXc1VlelBCRkVHUDZsZzZaalpma0t1b0Q3TzlRdloyZTFMUUxhYUtsODFkMHNYMEFJUFZ2bzE0MTJRampJMFNJb3g4aHpvVkJ5b0YzVVU3dHd4UndndmUxVS1WaFVvQ2MtcDVaUDJEMFluNWVsck1CQ2E4aUd0X2JOWGZ4R2Nja9IB0AFBVV95cUxNQTBxZG5yQXFjNk5VOHZNd2pQLVZOcGdpWHRDOGlOZTFsYVQwWXFHck9uZ1FaeGtFcXZfZ0M5VDhfaEZrdWpBR3ExWm42NFJCdDZlRmxubmZrMDc5QldGQXRGc0R1b0UxRFF2ZG51eGYtOUt6UjhiTEdsZmszQnVfUmlkem9INFI4a0tBSEROV2VwT0ozS19hdlAyVXJLaTNNbHdTVUNSejhuQUc3S2RkenVHdUx5Ym96OHBRLW9RX1pTc3EyX2RYaER0NjdNLVlC?oc=5",
-          "pubDate": "2026-10-27T14:14:00.000Z",
+          "title": "Rusia interesada en continuar la cooperación energética con Venezuela, según Putin",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTnVqQUJuREw2X3NNVlpKM1ZwVHlMaXdEWWV5VWRmSU9RZzVfVTZFZWYtRy1SdTB3d2VMYThuOTQ3VVFnSHMxZmZBR3J4VDQ4dk4wWmlFdVdEWmFBX0tlOWhBSldSaHVNdjM1eThUeVpGMWlsR2pObGZpQldzQS1STC1pNWg4NjZHbXNvdFVGbWJicnNERnNmRjFIUm5MT0lmWWVJNUNYcDc0dU5iYjB6WkxrNjdtc09zZ1RPemE2ampGQmk4VzJHM3V1ZXnSAdIBQVVfeXFMT1pnNkY3NE1uYm9mYnJxVXlKSEk0a2FCdGJjWkJSS0NHelQ1dkdkM0FyVTd2T1hZbTdwSTdyd0NuVEkwVy1mZ2liQ2RjeG5ncnZHU09BRFZLQWxtWUJPQlJ6VzkzVHNqMlIxN3ZjdXQ3aXBrcVV1MWN5TVhhN1JRS3JPQWVWR2hHOWlUeTlPZWJiRzFQYUF4eU12eVdxelQyOWRUZEpRX05QS1M1NXR3dUZ4bU0wOFhMcXgyNXQ2a0VoOXBHR3pxU0NoWEYwOWw4UEFR?oc=5",
+          "pubDate": "2026-10-27T16:07:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }

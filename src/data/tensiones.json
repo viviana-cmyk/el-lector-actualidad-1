@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-28T10:01:59.838Z",
+  "generatedAt": "2026-10-28T16:29:24.208Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Crisis política e institucional en Israel post-electoral",
-      "titulo_en": "Israel's Post-Electoral Political and Institutional Crisis",
-      "region": "Oriente Medio",
+      "titulo": "Crisis política y persecución judicial en Brasil",
+      "titulo_en": "Political Crisis and Judicial Persecution in Brazil",
+      "region": "América del Sur",
       "noticia": {
-        "titulo": "Israel election results live: vote count continues as exit polls suggest no clear winner",
-        "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-        "fuente": "The Guardian"
+        "titulo": "Flávio Bolsonaro appears to have fled Brazil",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2FWTHJGWGpiRFRTMmdCMVNJenBHbTB6WHBDS2F4aTg2RmZrd2dsTWtzMHk0YUhwU2xiaUVESTR0ZGo0alV5eWUyXzVsUDVQMEpraHEwNnMzcFhQaWEtWTdLWXZzR0kxVjYwSGxsVDF1SHhJdS1CVUJENTRBYzZnclZPd2g1WENva1NoWHkxaHVYTHVYanpJU0RB",
+        "fuente": "The Economist"
       },
-      "analisis": "Las elecciones israelíes de hoy no producen un ganador claro, debilitando potencialmente el liderazgo de Netanyahu y complicando la formación de coaliciones en un contexto de conflicto regional persistente. Esta fragmentación política podría afectar la capacidad de Israel para mantener coherencia estratégica frente a tensiones en Gaza, Líbano e Irán, mientras intensifica debates internos sobre políticas de seguridad y negociación.",
-      "analisis_en": "Today's Israeli elections produce no clear winner, potentially weakening Netanyahu's leadership and complicating coalition formation amid persistent regional conflict. This political fragmentation could affect Israel's capacity to maintain strategic coherence against tensions in Gaza, Lebanon, and Iran, while intensifying internal debates over security and negotiation policies."
+      "analisis": "La fuga del senador Flávio Bolsonaro a Estados Unidos tras la derrota electoral de su bloque señala una profundización de la crisis institucional brasileña, donde la polarización entre el Poder Judicial y sectores bolsonaristas amenaza la estabilidad democrática. Este evento abre interrogantes sobre la investigación del juez Moraes contra la red de donantes de JD Vance y acelera un posible conflicto diplomático entre Brasil y Estados Unidos si hay petición formal de extradición.",
+      "analisis_en": "Senator Flávio Bolsonaro's flight to the United States following his political bloc's electoral defeat signals a deepening of Brazil's institutional crisis, where polarization between the Judiciary and Bolsonist sectors threatens democratic stability. This event raises questions about Judge Moraes' investigation into JD Vance's donor network and accelerates a potential diplomatic conflict between Brazil and the United States if formal extradition is requested."
     },
     {
       "rank": 2,
-      "titulo": "Inestabilidad política en Brasil y fuga de élites de oposición",
-      "titulo_en": "Political Instability in Brazil and Opposition Elites' Flight",
-      "region": "América Latina",
+      "titulo": "Impasse político en Israel tras elecciones sin mayoría clara",
+      "titulo_en": "Political Deadlock in Israel Following Election Without Clear Majority",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
-        "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
-        "fuente": "The New York Times"
+        "titulo": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+        "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+        "fuente": "The Guardian"
       },
-      "analisis": "La fuga de Flávio Bolsonaro hacia EE.UU. tras la derrota electoral evidencia polarización extrema y potencial desestabilización institucional en Brasil, con ramificaciones para la gobernanza democrática regional. El incidente vinculado a investigaciones sobre redes de donantes estadounidenses sugiere interferencia transnacional y debilitamiento de las instituciones electorales brasileñas en un momento crítico.",
-      "analisis_en": "Flávio Bolsonaro's flight to the U.S. following electoral defeat evidences extreme polarization and potential institutional destabilization in Brazil, with ramifications for regional democratic governance. The incident linked to investigations into U.S. donor networks suggests transnational interference and weakening of Brazilian electoral institutions at a critical moment."
+      "analisis": "La incapacidad de Netanyahu para asegurar mayoría parlamentaria fuerza negociaciones de coalición complejas que podrían redefinir el rumbo de la política israelí y su estrategia en el conflicto palestino-israelí. Para los vecinos de Israel en Oriente Medio, el resultado electoral ofrece poco espacio para un reset diplomático y perpetúa la incertidumbre sobre el futuro de los acuerdos regionales.",
+      "analisis_en": "Netanyahu's inability to secure a parliamentary majority forces complex coalition negotiations that could reshape Israeli politics and its strategy in the Israeli-Palestinian conflict. For Israel's neighbors in the Middle East, the electoral result offers little room for a diplomatic reset and perpetuates uncertainty about the future of regional agreements."
     },
     {
       "rank": 3,
-      "titulo": "Escalada de tensión geopolítica EE.UU.-Irán y amenaza a infraestructura de defensa occidental",
-      "titulo_en": "U.S.-Iran Geopolitical Escalation and Western Defense Infrastructure Threat",
-      "region": "Europa y Oriente Medio",
+      "titulo": "Deterioro de la seguridad ferroviaria española y crisis institucional del INE en México",
+      "titulo_en": "Deterioration of Spanish Rail Safety and Institutional Crisis of Mexico's INE",
+      "region": "Europa / América del Norte",
       "noticia": {
-        "titulo": "RAF Fairford Incident Was Coordinated By Man Acting for Iran, UK Prosecutors Say",
-        "link": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
-        "fuente": "The New York Times"
+        "titulo": "Second fatal train collision this year casts doubt over Spain's high-speed rail network",
+        "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+        "fuente": "The Guardian"
       },
-      "analisis": "La coordinación iraní de incidentes contra bases aéreas de la OTAN (RAF Fairford) marca una escalada de operaciones encubiertas asimétricas que desafía la seguridad de la infraestructura occidental europea. Esta estrategia de Irán refleja su capacidad para proyectar poder mediante actores no estatales y subraya la vulnerabilidad de alianzas occidentales frente a amenazas híbridas en un contexto de tensión EE.UU.-Irán no resuelta.",
-      "analisis_en": "Iran's coordination of incidents against NATO air bases (RAF Fairford) marks an escalation of covert asymmetric operations challenging Western European infrastructure security. Iran's strategy reflects its capacity to project power through non-state actors and underscores Western alliances' vulnerability to hybrid threats amid unresolved U.S.-Iran tensions."
+      "analisis": "El segundo accidente ferroviario mortal en España este año (68 muertos en Toledo) expone fallas críticas en los protocolos de control y supervisión que comprometen la reputación de su infraestructura de transporte de clase mundial. Paralelamente, la renuencia de Trump a aceptar resultados electorales y la turbulencia política en el INE mexicano revelan erosión simultánea de instituciones de seguridad y electorales en el hemisferio occidental.",
+      "analisis_en": "Spain's second fatal train accident this year (68 dead in Toledo) exposes critical failures in control and oversight protocols that undermine the reputation of its world-class transport infrastructure. Simultaneously, Trump's reluctance to accept electoral results and political turbulence at Mexico's INE reveal simultaneous erosion of security and electoral institutions in the Western Hemisphere."
     }
   ]
 }

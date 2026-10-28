@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-10-28T10:01:53.041Z",
+  "generatedAt": "2026-10-28T16:29:03.940Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Piratas de carretera: cómo operan las bandas dedicadas al robo de carga en Costa Rica",
+          "link": "https://insightcrime.org/es/noticias/piratas-carretera-crisis-del-robo-carga-costa-rica/",
+          "pubDate": "2026-10-28T13:26:36.000Z",
+          "snippet": "Piratas de carretera: cómo operan las bandas dedicadas al robo de carga en Costa Rica Bandas dedicadas al robo de carga asaltan camiones en las carreteras de Costa Rica, valiéndose de datos aduaneros filtrados e inhibidores de señal. InSight Crime acompañó a un camionero panameño…"
+        },
         {
           "title": "De federación criminal a guerras entre bandas: el legado de ‘Rasquiña’ en Ecuador",
           "link": "https://insightcrime.org/es/noticias/federacion-criminal-guerras-entre-bandas-legado-rasquina-ecuador/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/jorge-luis-zambrano-alias-rasquina-o-jl/",
           "pubDate": "2026-10-21T17:49:35.000Z",
           "snippet": "Jorge Luis Zambrano, alias ‘Rasquiña’ o ‘JL’ Jorge Luis Zambrano, alias “Rasquiña” o “JL”, lideró Los Choneros en Ecuador hasta su asesinato en 2020. Su historia, poder y legado criminal. Perfil completo y actualizado de 2026. The post Jorge Luis Zambrano, alias ‘Rasquiña’ o ‘JL’…"
-        },
-        {
-          "title": "Dentro del campamento que es el corazón de la lucha garífuna por la tierra en Honduras",
-          "link": "https://insightcrime.org/es/noticias/dentro-campamento-corazon-lucha-garifuna-tierra-honduras/",
-          "pubDate": "2026-10-20T16:39:08.000Z",
-          "snippet": "Dentro del campamento que es el corazón de la lucha garífuna por la tierra en Honduras En un terreno en forma de pétalo en la curva de una salida de autopista, frente a la Corte Suprema de Justicia en Tegucigalpa, se encuentra el campamento. Es un cuerpo vivo. En la cocina comuni…"
         }
       ]
     },
@@ -90,39 +90,39 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Estos 3 expertos afirman que el Gran Reinicio del Capitalismo solo funcionará si incluye a todos.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVRaVjVPLVdQaERSNmdQTjNLM0cyOGk5ajFROTE2dExaYTNNT2V5MVVyclRDYjVSX3RWT0hac2tPdGFXMzdXTk94TlZHVmFNa2o2bGxZZzBYWjltYW84YmhNQ1BwVFNKTDY0T0JWeFQ4aXZxNVFMa1hSVkk5TDAzeFJUalFXOWNpV2pXdGl5TmNFU2xyMWMwdGtUbGh0SWVoUkdhakdDaG1JdG1ubllPQzUzdkxEcGd4LWc?oc=5",
+          "pubDate": "2026-10-27T20:49:46.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Este emprendedor de IA explica por qué los bots como ChatGPT no nos quitarán el trabajo.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkJFaUhJbWlqd05FRkVsNkt4clRicXBFWFhLNGZRdjBQLVVzYTI2aVA4T1RYbzZqV0pVYUtQLXBPckNxQ3dVVFYyVDQxdmROOTA3dEVQclhmWG1SZ2ljOTVYN0RmSjJKby0tcWhXclIwZEdTU2ctQ1dzN2FfaDlnbUsxWVFHTHY3b3c2TEpwUThSYmZUbTRncWNtZkRodTZ2Wk9B?oc=5",
+          "pubDate": "2026-10-27T20:45:58.000Z",
+          "snippet": null
+        },
+        {
           "title": "Campeones tecnológicos europeos: Construyendo una ventaja competitiva para la UE | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE0tYk9XWEdBZENpb3JkVkg0Vk1UcUdxUmxiLWcyalQwS3I1V05GTWNHbHZQRDhkcjNiNGE0TmI3cjBDU3VCREJ1RjBya1ZOTnVSRlRScE01RkhzWlhpbHJmbzhvLWp0ZUIxbzUtOFpYUFB2c0NuRE80bTFvNEFsbEl0QnV5VjJsUFJVbkhwTEMwZnFMdjRZN3QxUGkyMGQxVDlMWWliblJFTl9NMWtNbUZocm1KUXNj?oc=5",
           "pubDate": "2026-10-27T20:35:11.000Z",
           "snippet": null
         },
         {
+          "title": "¿Qué novedades hay en el ámbito de la salud femenina? | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekZxdzhUSHgwampIUmVEZmN0WnhnMThwaGVfaHM0UlJ4OUxWVTh1MTF1WHVfblMxcm5fNVVsRUNvel9Pc2UtZGhBQ0ZkTzFPVl81ZXZBMGpjVEdrWk1zQWozUHlQM3p3QVJWUHdUclhWMF9JWjBTZHBZMTV5MEZOUXpvRU9UallNRUZ6U2kwTGhSbFlyRlRadg?oc=5",
+          "pubDate": "2026-10-27T19:57:30.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Todavía no hemos visto nada.",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oVDhzcG0yQTU4UkZOSzdGSGZKR1gtNUVldVE4cUlzRTFlWDNQR3NoTkdfRWRCWl9odFNla2JseUJ3cVNyelBPdGdEQ2p1aDAxMTNLMEd4MkU2bUt5ODFRSUNtNzJkQQ?oc=5",
+          "pubDate": "2026-10-27T19:52:49.000Z",
+          "snippet": null
+        },
+        {
           "title": "Aranceles, proteccionismo y auge del Sur Global | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1dZbHRYZE9JRWllWHR1SkVCbGVBYktlVWx0bHpGeXhwTUkxNFBiVGd5aUlDU0liWXpZZy1mS25TLXN1OGZkT2JjTHZ4bTVtNEdaTEdQM0hKaGxXWU5weW1JZkdNMjhrYVoxOE9aWDJvQ3F0WGxRZklTRXhrUF9Fbmp2T3lycDI5U1ZaUE9kUldXUWQwSkhLOEFWbllfejloeHdvUy1rVE43amVtTW1YMVZtcjE?oc=5",
           "pubDate": "2026-10-27T19:37:22.000Z",
-          "snippet": null
-        },
-        {
-          "title": "¿Por qué los pueblos indígenas siguen recibiendo financiación insuficiente? | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2tfejhGUHBwR0hIOXNZY3BBQWNoVHZjQkFWeTZ1eFFCZ0tlbFF2ZkNxZDJBTTkxMjFlQVBFRVBpa3VxTnk3Vm5JYUZUeFNGbGhCZE9lMHBDWXNTTHdlTWtvMlloOTRLd2lTel9SOE1sQnJGdmphV2FYSzJ3OXduQktLdFIycDFPRFc3S09ZZlA3aWVzSUZRd0laV0JjaWly?oc=5",
-          "pubDate": "2026-10-27T18:41:49.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Competitividad turística mundial: España encabeza la clasificación de 2015. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNejdUUG5VQ2w5bW9FLXM0SDAzNlQ3QU9YZ09ZYjNadGpfdEV5dnd6VUJHNFNzQS1yZHB5R21RcFl1Q1RSaTFlTEVDZ2d5S1QyTG5QRFljaGRNdmZ2VHIzaUduZjQ3VlFnUXlmVkdQT2JGWWlaQmQ0WXdUcl9PZHVPdnlNaG9lQTQ2TWNFcENFRVBNMEpsNHFmRG1hcjVBb3NnRjFPUHg5aVZMVGQ0M0N2d3FxcEJ1R3RKMERjcjNCVlFxVlBpTUhVUjZZaEdtTC1SUVZ5LUo1NlZXTGdQcGdGSDB6eUdrRF9NelFUZ1hLbzVhSEgtY2d4SnRLcDJpUTZoZ0w2LWRqRm5XTVdiaHVUMFg3NExPUk1feFMxS1FLLVQ4ZUw3NXVDU2xQTFdhUkRVTEZrb05iTTVvbjVwWjZaOUJsUUh5MHJFcEVWQ2JB?oc=5",
-          "pubDate": "2026-10-27T15:51:11.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Vulnerabilidades de PHP: Explicación de la respuesta global en materia de ciberseguridad. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDdrN1JTbDFoaER5T21QTXkzWHFBQWRJUkZPQVNTSl9tblY1WTdyMm0yMkhySm1qYTdNNnprTk1TLWRWdkJhaGhzTmVPSHlIV0RJN25aZWM0N1B1NlQwdGlmY3hpYjl3aHg2dUJQRnZFX0ZNajNkTzRGU3oySXM4WEF6MlU2NjlkZWt5YTVCUzU?oc=5",
-          "pubDate": "2026-10-27T15:21:00.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Por qué la toma de decisiones es clave para una ciberresiliencia eficaz | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2RaOWE2YUNxRGtIeXBhdHFBS3VYNDBEYm9kNktDZWF6UmRiQnhfY3RlMm11R2pvTkJ4dHo0Ql9UX2lGQ2ItZjVwQVBEZTFzS2NjcjhKWG9GMGlCanE5LWlLYTQyNXJOS1BMakYyNnk5TUtZZWticEZ2bG9PQkkyNGZKZFlpYnMxOWszQ3Y5R3Y?oc=5",
-          "pubDate": "2026-10-27T12:15:23.000Z",
           "snippet": null
         }
       ]
