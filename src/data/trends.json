@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
-      "#CrisisSeguridad",
-      "#DelaEspriella",
-      "#JEPenCierre",
+      "#CorrupciónUNGRD",
       "#ReformaPensional",
-      "#NorteSantander"
+      "#PetroBarranquilla",
+      "#CrisisDeuda",
+      "#GaticoCapturado"
     ],
     "mundo": [
-      "#IsraelElecciones",
-      "#Netanyahu",
-      "#TrenEspaña",
-      "#TensionesIrán",
-      "#SenateRace2026"
+      "#RusiaUcrania",
+      "#CoreaDelNorte",
+      "#TragediaEnEspaña",
+      "#EleccionesEEUU",
+      "#CrisisHaití"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#OperativosBogotá",
-      "#CrisisPensiones",
-      "#MilitarizaciónBogotá",
-      "#SeguridadColombia",
-      "#DesaparicionesCali"
+      "#LaIzquierdaSeMueve",
+      "#CartelContratación",
+      "#LimpiezaSocial",
+      "#PolicíasBogotá",
+      "#DeudaDelGobierno"
     ],
     "mundo": [
-      "#CatástrofeTren",
-      "#Netanyahu",
-      "#EleccionesIsrael",
-      "#TensionesEEUU",
-      "#GuérraOrienteMedio"
+      "#AtaqueTren",
+      "#TensiónCoreana",
+      "#AccidenteEspaña",
+      "#BosonarodEnEEUU",
+      "#GuerraIrán"
     ]
   },
-  "generatedAt": "2026-10-29T10:02:03.801Z"
+  "generatedAt": "2026-10-29T16:40:47.683Z"
 }

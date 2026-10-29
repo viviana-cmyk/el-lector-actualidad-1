@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-28T16:29:24.208Z",
+  "generatedAt": "2026-10-29T16:40:47.683Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Crisis política y persecución judicial en Brasil",
-      "titulo_en": "Political Crisis and Judicial Persecution in Brazil",
-      "region": "América del Sur",
+      "titulo": "Escalada militar en la Península de Corea",
+      "titulo_en": "Military escalation on the Korean Peninsula",
+      "region": "Asia Oriental",
       "noticia": {
-        "titulo": "Flávio Bolsonaro appears to have fled Brazil",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2FWTHJGWGpiRFRTMmdCMVNJenBHbTB6WHBDS2F4aTg2RmZrd2dsTWtzMHk0YUhwU2xiaUVESTR0ZGo0alV5eWUyXzVsUDVQMEpraHEwNnMzcFhQaWEtWTdLWXZzR0kxVjYwSGxsVDF1SHhJdS1CVUJENTRBYzZnclZPd2g1WENva1NoWHkxaHVYTHVYanpJU0RB",
-        "fuente": "The Economist"
+        "titulo": "Corea del Norte lanza más de diez misiles balísticos en plena escalada de tensión con Corea del Sur",
+        "link": "https://elpais.com/internacional/2026-10-29/corea-del-norte-lanza-mas-de-diez-misiles-balisticos-en-plena-escalada-de-tension-con-corea-del-sur.html",
+        "fuente": "El País"
       },
-      "analisis": "La fuga del senador Flávio Bolsonaro a Estados Unidos tras la derrota electoral de su bloque señala una profundización de la crisis institucional brasileña, donde la polarización entre el Poder Judicial y sectores bolsonaristas amenaza la estabilidad democrática. Este evento abre interrogantes sobre la investigación del juez Moraes contra la red de donantes de JD Vance y acelera un posible conflicto diplomático entre Brasil y Estados Unidos si hay petición formal de extradición.",
-      "analisis_en": "Senator Flávio Bolsonaro's flight to the United States following his political bloc's electoral defeat signals a deepening of Brazil's institutional crisis, where polarization between the Judiciary and Bolsonist sectors threatens democratic stability. This event raises questions about Judge Moraes' investigation into JD Vance's donor network and accelerates a potential diplomatic conflict between Brazil and the United States if formal extradition is requested."
+      "analisis": "El lanzamiento de más de diez misiles balísticos por Corea del Norte representa una demostración de fuerza en medio de tensiones crecientes con Corea del Sur, potencialmente vinculada a cambios en la administración estadounidense y su política exterior hacia la región. Este acto podría catalizar una carrera armamentística acelerada y reposicionar los equilibrios de poder en Asia Oriental, con implicaciones directas para Japón, Taiwán y las alianzas estratégicas estadounidenses.",
+      "analisis_en": "North Korea's launch of more than ten ballistic missiles represents a show of force amid escalating tensions with South Korea, potentially tied to shifts in US administration and its foreign policy toward the region. This action could catalyze an accelerated arms race and reposition power balances in East Asia, with direct implications for Japan, Taiwan, and US strategic alliances."
     },
     {
       "rank": 2,
-      "titulo": "Impasse político en Israel tras elecciones sin mayoría clara",
-      "titulo_en": "Political Deadlock in Israel Following Election Without Clear Majority",
-      "region": "Oriente Medio",
+      "titulo": "Guerra de Ucrania: continuidad de ataques rusos contra infraestructura civil",
+      "titulo_en": "Ukraine War: Continuation of Russian attacks on civilian infrastructure",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-        "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-        "fuente": "The Guardian"
+        "titulo": "Al menos 13 muertos en un ataque ruso contra una estación de tren de la ciudad ucrania de Dnipró",
+        "link": "https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html",
+        "fuente": "El País"
       },
-      "analisis": "La incapacidad de Netanyahu para asegurar mayoría parlamentaria fuerza negociaciones de coalición complejas que podrían redefinir el rumbo de la política israelí y su estrategia en el conflicto palestino-israelí. Para los vecinos de Israel en Oriente Medio, el resultado electoral ofrece poco espacio para un reset diplomático y perpetúa la incertidumbre sobre el futuro de los acuerdos regionales.",
-      "analisis_en": "Netanyahu's inability to secure a parliamentary majority forces complex coalition negotiations that could reshape Israeli politics and its strategy in the Israeli-Palestinian conflict. For Israel's neighbors in the Middle East, the electoral result offers little room for a diplomatic reset and perpetuates uncertainty about the future of regional agreements."
+      "analisis": "El ataque a la estación de tren de Dnipró evidencia la estrategia rusa de golpear infraestructura civil y de transporte para desmoralizar la población ucraniana y afectar su capacidad logística, mientras persisten los debates sobre el suministro de armas occidentales y el alcance de las sanciones económicas. La persistencia de estas operaciones plantea interrogantes sobre la sostenibilidad del conflicto y los posibles escenarios de negociación en contextos de cambios políticos en Occidente.",
+      "analisis_en": "The attack on Dnipro's train station evidences Russia's strategy of striking civilian and transport infrastructure to demoralize the Ukrainian population and affect its logistical capacity, while debates persist over Western weapon supplies and the scope of economic sanctions. The persistence of these operations raises questions about the conflict's sustainability and possible negotiation scenarios amid political shifts in the West."
     },
     {
       "rank": 3,
-      "titulo": "Deterioro de la seguridad ferroviaria española y crisis institucional del INE en México",
-      "titulo_en": "Deterioration of Spanish Rail Safety and Institutional Crisis of Mexico's INE",
-      "region": "Europa / América del Norte",
+      "titulo": "Crisis política y violencia en Haití con aplazamiento de elecciones",
+      "titulo_en": "Political crisis and violence in Haiti with election postponement",
+      "region": "América Latina y el Caribe",
       "noticia": {
-        "titulo": "Second fatal train collision this year casts doubt over Spain's high-speed rail network",
-        "link": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-        "fuente": "The Guardian"
+        "titulo": "Haiti Postpones Elections as Gang Violence Runs Rampant",
+        "link": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "El segundo accidente ferroviario mortal en España este año (68 muertos en Toledo) expone fallas críticas en los protocolos de control y supervisión que comprometen la reputación de su infraestructura de transporte de clase mundial. Paralelamente, la renuencia de Trump a aceptar resultados electorales y la turbulencia política en el INE mexicano revelan erosión simultánea de instituciones de seguridad y electorales en el hemisferio occidental.",
-      "analisis_en": "Spain's second fatal train accident this year (68 dead in Toledo) exposes critical failures in control and oversight protocols that undermine the reputation of its world-class transport infrastructure. Simultaneously, Trump's reluctance to accept electoral results and political turbulence at Mexico's INE reveal simultaneous erosion of security and electoral institutions in the Western Hemisphere."
+      "analisis": "El aplazamiento de elecciones en Haití debido a la violencia de pandillas refleja el colapso institucional acelerado en el país y la incapacidad del estado para ejercer control territorial, generando un vacío que alimenta la migración irregular y la inestabilidad regional. Este escenario complica los esfuerzos de mediación internacional y plantea riesgos de fragmentación política duradera que podría afectar la seguridad en el Caribe y la política migratoria estadounidense.",
+      "analisis_en": "Haiti's election postponement due to gang violence reflects accelerated institutional collapse in the country and the state's inability to exercise territorial control, creating a vacuum that fuels irregular migration and regional instability. This scenario complicates international mediation efforts and poses risks of lasting political fragmentation that could affect Caribbean security and US migration policy."
     }
   ]
 }
