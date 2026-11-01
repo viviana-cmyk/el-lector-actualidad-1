@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-01T10:01:48.241Z",
+  "generatedAt": "2026-11-01T16:37:59.379Z",
   "dia": {
-    "nombre": "Día de Muertos",
-    "descripcion": "Conmemoración cultural latinoamericana que honra a los difuntos con tradiciones ancestrales, especialmente en México y Centroamérica, fusionando elementos prehispánicos y católicos."
+    "nombre": "Día de Muertos / Día de Difuntos",
+    "descripcion": "Conmemoración de tradición prehispánica y católica en Latinoamérica donde se honra a los difuntos, reconocida por UNESCO como Patrimonio Cultural Inmaterial de la Humanidad."
   },
   "dia_en": {
-    "nombre": "Day of the Dead",
-    "descripcion": "Latin American cultural commemoration that honors the deceased with ancestral traditions, especially in Mexico and Central America, fusing pre-Hispanic and Catholic elements."
+    "nombre": "Day of the Dead / All Souls' Day",
+    "descripcion": "Commemoration of pre-Hispanic and Catholic tradition in Latin America where the deceased are honored, recognized by UNESCO as Intangible Cultural Heritage of Humanity."
   }
 }
