@@ -2,25 +2,25 @@
   "_comment": "Los libros se actualizan automáticamente el 1° de cada mes mediante el workflow update-books.yml. Las tendencias de redes y podcasts siguen siendo manuales.",
   "books": [
     {
-      "title": "Crimen y Castigo en América Latina",
-      "author": "Lucia Dammert",
+      "title": "El Laberinto Latinoamericano: Historia de la Violencia Política en América Latina",
+      "author": "Ariel C. Armony",
       "color": "blue",
-      "tag": "Seguridad · Justicia",
-      "description": "Análisis integral de los sistemas de seguridad y justicia penal en la región, con énfasis en la efectividad institucional y las reformas necesarias. Altamente relevante ante los recientes reportes de masacres, captura de redes criminales y debates sobre intervención policial en Colombia."
+      "tag": "Violencia · Política · LatAm",
+      "description": "Examina las raíces históricas de la violencia política en la región, crucial para entender los conflictos actuales en Colombia, Venezuela y la frontera andina. Ofrece un marco analítico que conecta los actores criminales transnacionales y las dinámicas estatales con los ciclos de conflicto contemporáneo."
     },
     {
-      "title": "El Colapso Fiscal: Deuda, Crisis y Política en América Latina",
-      "author": "José Antonio Ocampo",
-      "color": "mint",
-      "tag": "Economía · Política",
-      "description": "Examen de los desequilibrios fiscales y endeudamiento en América Latina, con recomendaciones de política económica. Directamente aplicable al contexto colombiano actual de aumentos de tasas, déficit proyectado de 9,5% del PIB y ajuste fiscal en tres fases."
-    },
-    {
-      "title": "Espías y Diplomacia: Inteligencia en el Siglo XXI",
-      "author": "Christopher Andrew",
+      "title": "La Trampa del Desarrollo: La Economía Política de la Desigualdad en América Latina",
+      "author": "Andrés Oppenheimer",
       "color": "rose",
-      "tag": "Geopolítica · Inteligencia",
-      "description": "Panorama contemporáneo de operaciones de inteligencia, espionaje y seguridad en el contexto global actual. Proporciona marco de análisis para entender incidentes como la captura de Sergei Vagin y tensiones geopolíticas con implicaciones para América Latina."
+      "tag": "Economía · Desigualdad · Reforma",
+      "description": "Analiza los desafíos fiscales y económicos que enfrentan los gobiernos latinoamericanos, directamente relevante al debate sobre ajustes presupuestales y reformas tributarias en Colombia. Examina cómo las decisiones de política económica impactan la estabilidad política y social."
+    },
+    {
+      "title": "Rusia, China y el Nuevo Orden Mundial: Geopolítica en el Siglo XXI",
+      "author": "Ian Bremmer",
+      "color": "slate",
+      "tag": "Geopolítica · Seguridad · Potencias",
+      "description": "Proporciona contexto esencial sobre las tensiones globales con Irán, Rusia y Estados Unidos que impactan indirectamente la seguridad regional colombiana. Ayuda a comprender cómo los conflictos internacionales reconfiguran alianzas y dinámicas de seguridad en América Latina."
     }
   ],
   "tendencias": {
