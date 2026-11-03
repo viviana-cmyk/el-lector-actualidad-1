@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-02T20:00:44.349Z",
+  "generatedAt": "2026-11-03T10:01:47.183Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Vigías, inhibidores y asaltantes: así funciona el robo de carga en Costa Rica",
+          "link": "https://insightcrime.org/es/noticias/vigias-inhibidores-y-asaltantes-asi-funciona-el-robo-de-carga-en-costa-rica/",
+          "pubDate": "2026-11-02T20:48:20.000Z",
+          "snippet": "Vigías, inhibidores y asaltantes: así funciona el robo de carga en Costa Rica El robo de carga es un lucrativo negocio ilícito en Costa Rica que involucra un alto nivel de organización y planificación, como lo expone un reciente reportaje de InSight Crime. A continuación explicam…"
+        },
         {
           "title": "Cronología de los ataques de EE. UU. contra presuntas embarcaciones de narcotráfico",
           "link": "https://insightcrime.org/es/noticias/cronologia-los-ataques-ee-uu-contra-presuntas-embarcaciones-narcotrafico/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/pospuesta-democracia-haiti-por-crimen-organizado/",
           "pubDate": "2026-10-23T17:10:09.000Z",
           "snippet": "El crimen organizado pospuso la democracia en Haití, una vez más A medida que la gobernanza criminal se consolida, la pregunta sobre el retorno de Haití a la democracia no es cuándo, sino cómo. En un informe del 19 de octubre, el máximo delegado de las Naciones Unidas en Haití, C…"
-        },
-        {
-          "title": "The InSight Take | Por qué las elecciones en Haití son imposibles en este momento",
-          "link": "https://insightcrime.org/es/noticias/the-insight-take-crimen-organizado-pospuso-democracia-haiti-una-vez-mas/",
-          "pubDate": "2026-10-22T19:17:01.000Z",
-          "snippet": "The InSight Take | Por qué las elecciones en Haití son imposibles en este momento A medida que la gobernanza criminal se consolida, la pregunta sobre el retorno de Haití a la democracia no es cuándo, sino cómo. En un informe del 19 de octubre, el máximo delegado de las Naciones U…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "color": "teal",
       "items": [
         {
-          "title": "Will Trump Help Putin Win in Ukraine?",
-          "link": "https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine",
-          "pubDate": "2026-10-23T16:13:23.000Z",
-          "snippet": "Will Trump Help Putin Win in Ukraine? hschaub Fri, 10/23/2026 - 18:13 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Europe 23 October 2026 1 minute This week on H…"
+          "title": "The View from Eritrea",
+          "link": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
+          "pubDate": "2026-10-30T15:29:06.000Z",
+          "snippet": "The View from Eritrea hschaub Fri, 10/30/2026 - 16:29 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Africa 30 October 2026 1 minutes This week on The Horn, Alan s…"
         },
         {
-          "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
-          "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region",
-          "pubDate": "2026-10-23T08:58:43.000Z",
-          "snippet": "How Algeria’s Rupture with the UAE Could Roil the Region mloukili Fri, 10/23/2026 - 10:58 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Algeria's President Abdelmadjid Tebb…"
+          "title": "October Trends and November Alerts 2026",
+          "link": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
+          "pubDate": "2026-10-30T14:08:18.000Z",
+          "snippet": "October Trends and November Alerts 2026 oolofsson Fri, 10/30/2026 - 15:08 Loading Map Resolution Opportunity Risk Alert Improved Situation Deteriorated Situation Unchanged Situation Standby monitoring Not monitored Scroll down to read trends & outlook Share Facebook Twitter Email…"
         },
         {
-          "title": "A Trigger in Jammu and Kashmir:  Militant Violence under Indian Central Rule",
-          "link": "https://www.crisisgroup.org/rpt/asia-pacific/india-pakistan/360-trigger-jammu-and-kashmir-militant-violence-under-indian-central-rule",
-          "pubDate": "2026-10-22T22:00:00.000Z",
-          "snippet": "A Trigger in Jammu and Kashmir: Militant Violence under Indian Central Rule mloukili Fri, 10/23/2026 - 00:00 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Indian security f…"
+          "title": "After Serbia’s Election, Foreign Policy Takes a Back Seat, and That’s OK",
+          "link": "https://www.crisisgroup.org/anb/europe/serbia/after-serbias-election-foreign-policy-takes-back-seat-and-thats-ok",
+          "pubDate": "2026-10-29T16:58:19.000Z",
+          "snippet": "After Serbia’s Election, Foreign Policy Takes a Back Seat, and That’s OK cmoore Thu, 10/29/2026 - 17:58 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Analyst's Notebook / E…"
         },
         {
-          "title": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis",
-          "link": "https://www.crisisgroup.org/vid/africa/sudan/zeinab-badawi-sudans-forgotten-humanitarian-crisis",
-          "pubDate": "2026-10-22T20:03:14.000Z",
-          "snippet": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis saureli Thu, 10/22/2026 - 22:03 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Video / Africa 22 October 2026 1 minute I…"
+          "title": "Don’t Go Backward on China Policy",
+          "link": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
+          "pubDate": "2026-10-29T14:33:59.000Z",
+          "snippet": "Don’t Go Backward on China Policy mloukili Thu, 10/29/2026 - 15:33 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Op-Ed / United States 29 October 2026 1 minutes Originally…"
         },
         {
-          "title": "The Dilemmas Facing Palestinian Citizens in Israel’s Elections",
-          "link": "https://www.crisisgroup.org/opd/middle-east-north-africa/israelpalestine/dilemmas-facing-palestinian-citizens-israels-elections",
-          "pubDate": "2026-10-22T14:47:05.000Z",
-          "snippet": "The Dilemmas Facing Palestinian Citizens in Israel’s Elections mloukili Thu, 10/22/2026 - 16:47 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Op-Ed / Middle East & North Af…"
+          "title": "A Political Shake-up in Serbia, Business as Usual in Bosnia?",
+          "link": "https://www.crisisgroup.org/pod/europe/serbia/political-shake-serbia-business-usual-bosnia",
+          "pubDate": "2026-10-29T12:58:37.000Z",
+          "snippet": "A Political Shake-up in Serbia, Business as Usual in Bosnia? hschaub Thu, 10/29/2026 - 13:58 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Europe 29 October 2026…"
         },
         {
-          "title": "A Fateful Choice: Will This Election Change Israel?",
-          "link": "https://www.crisisgroup.org/evt/middle-east-north-africa/israelpalestine/fateful-choice-will-election-change-israel",
-          "pubDate": "2026-10-20T11:33:18.000Z",
-          "snippet": "A Fateful Choice: Will This Election Change Israel? eschelhaas Tue, 10/20/2026 - 13:33 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Event Recording / Middle East & North A…"
+          "title": "Centrafrique : contenir les effets de la guerre au Soudan",
+          "link": "https://www.crisisgroup.org/fr/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan",
+          "pubDate": "2026-10-29T10:01:08.000Z",
+          "snippet": "Central African Republic: Containing the Fallout from Sudan’s War mloukili Thu, 10/29/2026 - 11:34 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List A soldier with the Zambian…"
         }
       ]
     },
@@ -102,9 +102,9 @@
           "snippet": null
         },
         {
-          "title": "El camino hacia la sostenibilidad corporativa de una empresa de telecomunicaciones del CCG | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzJvb1dQbXYyZ3NSSEFGTWdabGpVcVVkY2pPRkxqUGZ6dHlKZ1pBZnRfMS1JMWVlZzJIYVF3c245a1daY2JXaGtpOWN0bkhNcDNUZWJzQUpOS19Wbjd3c3VwX1JmWWpiNmpQVXhaa2tzNGNjZzBERVJtNFE1SHQxRkNDUWhnTHFiTUxUMHM1aUdZM0p6Y0JERVRXbnE?oc=5",
-          "pubDate": "2026-10-29T11:38:41.000Z",
+          "title": "Más allá de los datos: por qué la cultura y el juicio humano son importantes para las instituciones en la era de la IA.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2JWcDQ5ZTFPbjRsWjdFQUlBbWhHa1gwZTBPOXllTzRMUER3VTlDOHhKelc3dGJuck02c2twRXJpQm1kSkVPSy1MQ2hPblRfWjY0TGE5OU9KU1U4eTB0cEpiNlF2TVpoTmM4Z1FiOTRGUWxVTlhERFRSTVhnamlfVEdaOFhMcFdYZnlPS2RBRTE5TndnZHFFVFlWN3BRMlc2dzhMZ0ZsNnlQUQ?oc=5",
+          "pubDate": "2026-10-30T07:00:00.000Z",
           "snippet": null
         },
         {
