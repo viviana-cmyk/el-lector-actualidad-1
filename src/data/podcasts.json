@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T10:01:47.183Z",
+  "generatedAt": "2026-11-03T17:36:43.994Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -29,19 +29,9 @@
   ],
   "mundo": [
     {
-      "title": "Pod Save America",
-      "host": "Pod Save America",
-      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
-    },
-    {
       "title": "The Daily",
       "host": "The New York Times",
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
-    },
-    {
-      "title": "The Joe Rogan Experience",
-      "host": "Joe Rogan",
-      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
       "title": "Crime Junkie",
@@ -49,9 +39,19 @@
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "SmartLess",
-      "host": "Jason Bateman, Sean Hayes, Will Arnett",
-      "url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868"
+      "title": "Up First from NPR",
+      "host": "NPR",
+      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
+    },
+    {
+      "title": "Pod Save America",
+      "host": "Pod Save America",
+      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
+    },
+    {
+      "title": "REAL AF with Andy Frisella",
+      "host": "Andy Frisella",
+      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
     }
   ]
 }

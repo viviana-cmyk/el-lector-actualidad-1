@@ -1,35 +1,35 @@
 {
   "x": {
     "colombia": [
-      "#PlandasTolima",
-      "#LeyDeRescateFiscal",
-      "#TerrorismoEnColombia",
-      "#SismoEnColombia",
-      "#ReformaFiscalDelaEspriella"
+      "#LeyDeSometimiento",
+      "#AtentadosTolimaCauca",
+      "#TraficoDePersonasCartagena",
+      "#RescateEconómico",
+      "#ViolenciaEnAtlántico"
     ],
     "mundo": [
-      "#AtaqueUSAIrán",
-      "#Qeshm",
-      "#EleccionesEEUU2026",
-      "#CrisisUcrania",
-      "#HackerosNortecorea"
+      "#Midterms2026",
+      "#RusiaUcrania",
+      "#TrumpIsrael",
+      "#IránEstrecho",
+      "#CaravanasMigrantes"
     ]
   },
   "tiktok": {
     "colombia": [
-      "#PlandasTolima",
-      "#Temblor",
-      "#LeySometimiento",
-      "#CanstaFamiliar",
-      "#AlertaRoja"
+      "#AtaquesEnColombia",
+      "#LeyDeSometimiento",
+      "#ViolenciaAlerta",
+      "#TraficoDePersonas",
+      "#CrisisSeguridad"
     ],
     "mundo": [
-      "#AtaqueIrán",
       "#EleccionesUSA",
-      "#CrisisUcrania",
-      "#HackersCiberataques",
-      "#IsraelElecciones"
+      "#GuerraUcrania",
+      "#TrumpNoticias",
+      "#CrisisIrán",
+      "#Migrantes"
     ]
   },
-  "generatedAt": "2026-11-03T10:02:07.131Z"
+  "generatedAt": "2026-11-03T17:37:06.238Z"
 }
