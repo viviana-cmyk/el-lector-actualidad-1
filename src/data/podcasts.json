@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:36:43.994Z",
+  "generatedAt": "2026-11-04T17:48:51.097Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,24 +7,24 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "DianaUribe.fm",
-      "host": "Diana Uribe",
-      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
-    },
-    {
       "title": "Estoicismo Filosofia",
       "host": "Estoicismo Filosofia",
       "url": "https://podcasts.apple.com/co/podcast/estoicismo-filosofia/id1740616448"
     },
     {
-      "title": "Durmiendo",
-      "host": "Dudas Media",
-      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+      "title": "DianaUribe.fm",
+      "host": "Diana Uribe",
+      "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
       "title": "365 con Dios",
       "host": "Wenddy Neciosup | Genuina Media",
       "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
+    },
+    {
+      "title": "Durmiendo",
+      "host": "Dudas Media",
+      "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
     }
   ],
   "mundo": [
@@ -39,19 +39,19 @@
       "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
     },
     {
-      "title": "Up First from NPR",
-      "host": "NPR",
-      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
-    },
-    {
       "title": "Pod Save America",
       "host": "Pod Save America",
       "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
     },
     {
-      "title": "REAL AF with Andy Frisella",
-      "host": "Andy Frisella",
-      "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406"
+      "title": "Dateline NBC",
+      "host": "NBC News",
+      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
+    },
+    {
+      "title": "The Joe Rogan Experience",
+      "host": "Joe Rogan",
+      "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     }
   ]
 }

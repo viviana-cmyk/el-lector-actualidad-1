@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-03T17:36:43.994Z",
+  "generatedAt": "2026-11-04T17:48:51.097Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Las vidas detrás de los titulares | Temporada 2 del pódcast de InSight Crime",
+          "link": "https://insightcrime.org/es/noticias/las-vidas-detras-titulares-segunda-temporada-podcast-insight-crime/",
+          "pubDate": "2026-11-03T18:58:23.000Z",
+          "snippet": "Las vidas detrás de los titulares | Temporada 2 del pódcast de InSight Crime Detrás de las historias que conocemos a través de las noticias están las vidas reales de personas y comunidades afectadas por el crimen organizado. La segunda temporada del pódcast de InSight Crime, ya d…"
+        },
         {
           "title": "Vigías, inhibidores y asaltantes: así funciona el robo de carga en Costa Rica",
           "link": "https://insightcrime.org/es/noticias/vigias-inhibidores-y-asaltantes-asi-funciona-el-robo-de-carga-en-costa-rica/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/federacion-criminal-guerras-entre-bandas-legado-rasquina-ecuador/",
           "pubDate": "2026-10-27T12:23:23.000Z",
           "snippet": "De federación criminal a guerras entre bandas: el legado de ‘Rasquiña’ en Ecuador El mundo criminal, cada vez más fragmentado, ha convertido a Ecuador en un campo de batalla, con bandas rivales que han llevado la violencia a niveles récord en los últimos años. Si bien múltiples f…"
-        },
-        {
-          "title": "Pandillas, fintechs y Amazonía: la agenda criminal que espera al próximo presidente de Brasil",
-          "link": "https://insightcrime.org/es/noticias/pandillas-fintechs-amazonia-agenda-criminal-que-espera-proximo-presidente-brasil/",
-          "pubDate": "2026-10-26T14:29:50.000Z",
-          "snippet": "Pandillas, fintechs y Amazonía: la agenda criminal que espera al próximo presidente de Brasil Luiz Inácio Lula da Silva, el presidente de Brasil de 80 años, protagonizó una sorprendente remontada para ganar un cuarto mandato presidencial. Sin embargo, ante el avance de la crimina…"
         }
       ]
     },
@@ -90,39 +90,39 @@
       "color": "yellow",
       "items": [
         {
-          "title": "La inversión en IA impulsa las perspectivas de exportación y otras noticias comerciales que debe conocer.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPODF3Q3pkdk55YlE1SU1EeXN5TWpYRkNzV3JNRDJrZ29PcWdkeFhmWENwNnRlNF8zT0lVSlU0UFdyMVFiSHM2QkRhOHBqOHRfMlZoRmlldV93SjVlX082UnBHQ1haYWo0bEJ6eW8xektHY29tSnRSYXlGdktacmYzbU5mc05JX2pwaXR0eUlQcXpLU0FaMjV5cndMUW4tQVpmTUdfcFlqQmIxalpPOGpyWEhVTFdfNTYyR2dhUnJqMA?oc=5",
-          "pubDate": "2026-11-02T22:07:59.000Z",
+          "title": "5 beneficios de las áreas marinas protegidas | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajlfTlB2b1JreFVXZWVhX2lEZlFFSllDUF80blJIbHc4cUY0ampZcUxwblhMU01yOUFFbFJZRkYxNDBGMl85WHZRd2VmNjBoQnZsbkVPSnZhNFV6dW1pUWFNa1Z4XzVzZExkMkJXbmU0dXdIWTFPWTNmQlV6TXVVeTA1dlFVSmpYajBmQWxXTU1RZlc5?oc=5",
+          "pubDate": "2026-11-04T08:36:47.000Z",
           "snippet": null
         },
         {
-          "title": "International Financial Reporting Standards Foundation (IFRS Foundation)",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTlMekRqUmNGVmotS24wdkNZZEt2VUo1WTJUbHNQYW1WZUNoaHlCM3g0R21maXoyS3Z1V1RORTJial9UXy0zRkRYcF9ZQ1hPUFlFdkVya2NGQllKdkFVenFpV1ZKdlRDUDFMTy1JdjJTaGJtSmVIV1lnNHpSbV9kdEdjVDVzMWYwWklfM1BnRUFXTTNhUWZwNlcwek5oMXJnV1JIaFZtcXc3ckE?oc=5",
-          "pubDate": "2026-11-02T18:06:48.000Z",
+          "title": "Verificación de pruebas digitales: por qué los bancos deben actuar de forma independiente. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGF2a0F2UzhNRGJRT0N0ZTNSNi1pMVV1bE4zSnl1MmhydDhQYjB1WW5FZnZldUE3QXYyQ05ZbTZhQk9SQkIxRmxmM2lZTnVrZXUtOFpTU19uMXNjMVhReVdzNGlwQncwWlNiUFVFaVBaVzhFd1RsT0dWa2RWYjR2cjZ1YUJEMmF6RHA0cXFBUmFmNm9ucEE?oc=5",
+          "pubDate": "2026-11-03T22:36:05.000Z",
           "snippet": null
         },
         {
-          "title": "National Natural Science Foundation of China (NSFC)",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjF6Z1ctU05pM09ZWm4zV2lELTNqR3pEaUVPNEl0ZXl2ZE9samtlNmdwNzhkdEg2TWQzQ3VRejJaUDNZREY0Mkt2NHIzVEtGajZCYWgwUks4SFhtcWRVQmc5cUNSYUN4LTJFdkRxa2NaeVdnMGM1c2xmZ3dfcUlDeW9aZVpSNjFUalhlWjFsRQ?oc=5",
-          "pubDate": "2026-11-02T17:37:07.000Z",
+          "title": "Sir Elton John: 5 lecciones de liderazgo de mis horas más oscuras",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJ2d3hBZGxfLTE5NmhCVENSVVF1Y0FVejhpeEt2TnVKTmI2VllnTHVndGMwTmVOTk15ai1HeXRDbzlveGNEYjdaX3FjcDNDUzVLMml1WUdra0locjdZdHNTYmJ2NGs3dU8tRHp6QjExTzdWZlUzNF9tUzVrYXJ1MUF2amlDcnVndjYtSkUzWkpMZXI4djkzeVhLTG9Xazlh?oc=5",
+          "pubDate": "2026-11-02T20:27:50.000Z",
           "snippet": null
         },
         {
-          "title": "Sostenibilidad corporativa: El camino de las telecomunicaciones hacia la calificación ESG AA | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldYNTRNazlEeTk2U2NyYlhlSVFCSzI1amFjWUcwcDhlb0tpTk5jV25YYmd5ZjhIOXpGT3hvNk4xSWhES1hEOGJ4WkNuWlJnWFNDRlVVY0o4NlhKek9TRk1mUU9qdEZmSmFKeThLQWZIQ2t6ZjVVVEZmeHNYTnVIdXlzY0NUeGdhUmd4THNrX1hmdGsyaks0dDAwZkVXMWhkb1EwOGZHQ3hjeG9WRVE?oc=5",
-          "pubDate": "2026-11-02T13:56:38.000Z",
+          "title": "Capitalismo de las partes interesadas: futuro global | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM1d1eVZBSi1MX3lsSkFnSkxyVDJJQ3ItNUU1dm1Pb1RDckVVaF94cUJBc3BpOTVic2oxQ3JFNnhXSlhReDhCYXhsUFVvcjZxZHR3eHVNb2o1WXI4cXZQUl9WV0lLZzFBNUE2NGFBOE1oYy1zNjRIb2dlYlE2Q016MDlkY01VU2xNNzNnRXV2R3VyRXc?oc=5",
+          "pubDate": "2026-11-02T07:05:03.000Z",
           "snippet": null
         },
         {
-          "title": "Medidas de seguridad para la IA: Cómo adoptar agentes de IA de forma segura en 2026 | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVhjVGpEeHhWbHdDUkhsc1lFbUF2T2xUN0tvSzBGWHFkSV8zRWNwQXNreUxnMkRWUWx5dnZFWDhCSlNvcmtrbm5XLWZDYXM2eGFIRWQ1VFZkTFBud3FRZGdTdjNzMld2elFtQ1hMd1pBOGV2cE40SG5xWk9MZktqajR1OTZPSG02NE5LbS0xdXgySkZKMUE?oc=5",
-          "pubDate": "2026-11-02T13:54:20.000Z",
+          "title": "Formación de profesores en IA: la estrategia de Mongolia para la enseñanza de la IA. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXJJb0JZTFFiV05WNm13U3ZDX2VfRHFnaWsyTWZrNXFHUkpBc3dfYXM5NjhYU0ViZmp6RVpRcm16bnV3VkhJNXNOYWdnU1FSYlN5T1N2OW5Ua1RhNkt3Z29aeGlyczFYMENINEd0M294dGE5dnp3aHNZWVhyU0VpdDNmbVBTN0YxZ0ZLN1g0dVU3SUVrMWRGQU5rbjZRcVZl?oc=5",
+          "pubDate": "2026-10-30T14:13:37.000Z",
           "snippet": null
         },
         {
-          "title": "Event Details - Ahmedabad Hub",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdnpuYjZ4bHJsZ1BCZ2FvMXFNR01kWHJsXzdrT3NXeFA4cko0My1JU3BnNDZQWm5iRFlaYWRkaGUxaGl1a3YwY29xOWZhWDJKUlYyd013ODBpTnBLQWZrWjgtMlZzSkUzS3I3c19QYmxoeDhVdGpBNk5Ya1pMTlpRcTUzc1R2N2ZEblo3b2podmNyTEJUU1l4MEhJbjJabUdkSWRESDgwMElQclkxRkQzRFgzMGtIMWphejF5ejllVjZfSWM3SkpvODgzcThQc29Ub0tTS1l1UEJsbnFhdVJwcGFiWmwzZW8?oc=5",
-          "pubDate": "2026-11-02T12:39:47.000Z",
+          "title": "Cómo las finanzas azules catalizadoras pueden ayudar a desbloquear la economía oceánica | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONVhRUDhNUS1zRExSZ29jb0NSYUdJWHNKOXdzSVh6SG8wbVJ6bmFkVnRqYnhzLWYweUhOSGloT3BySXVCWGRxV2UxbTVHYlRRZVU1ckg5VW50UndlVHRCLTFFaXg2X1JQTFZEWFFBYktNSW9fLVFkc3NtZHNJTDZGZjBvVGhiT2VfZjgwMHd2aHg1eGJxRGI1bm54SmJnbHVWelY1VDNzVzZEOXdWTjhmOEcwN21uRVpQeGdlSg?oc=5",
+          "pubDate": "2026-10-30T09:35:44.000Z",
           "snippet": null
         }
       ]

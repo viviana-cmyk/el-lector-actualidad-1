@@ -1,11 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:37:06.238Z",
-  "dia": {
-    "nombre": "Día Internacional de la Prevención de la Explotación del Medio Ambiente en la Guerra y los Conflictos Armados",
-    "descripcion": "Conmemoración de la ONU que busca concienciar sobre el daño ambiental causado por guerras y conflictos, promoviendo la protección del ecosistema durante situaciones de conflicto armado."
-  },
-  "dia_en": {
-    "nombre": "International Day for the Prevention of the Exploitation of the Environment in War and Armed Conflict",
-    "descripcion": "UN commemoration that seeks to raise awareness about environmental damage caused by wars and conflicts, promoting ecosystem protection during armed conflict situations."
-  }
+  "generatedAt": "2026-11-04T17:49:01.928Z",
+  "dia": null,
+  "dia_en": null
 }
