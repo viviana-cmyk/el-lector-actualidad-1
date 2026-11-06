@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-10-29T16:40:47.683Z",
+  "generatedAt": "2026-11-06T10:01:58.018Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada militar en la Península de Corea",
-      "titulo_en": "Military escalation on the Korean Peninsula",
-      "region": "Asia Oriental",
+      "titulo": "Escalada del conflicto en Ucrania y colapso demográfico",
+      "titulo_en": "Escalation of Ukraine conflict and demographic collapse",
+      "region": "Europa Oriental / Ucrania",
       "noticia": {
-        "titulo": "Corea del Norte lanza más de diez misiles balísticos en plena escalada de tensión con Corea del Sur",
-        "link": "https://elpais.com/internacional/2026-10-29/corea-del-norte-lanza-mas-de-diez-misiles-balisticos-en-plena-escalada-de-tension-con-corea-del-sur.html",
+        "titulo": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 50 víctimas mortales",
+        "link": "https://elpais.com/internacional/2026-11-05/el-ataque-a-un-centro-de-ayuda-en-la-provincia-ucrania-de-zaporiyia-suma-ya-43-victimas-mortales.html",
         "fuente": "El País"
       },
-      "analisis": "El lanzamiento de más de diez misiles balísticos por Corea del Norte representa una demostración de fuerza en medio de tensiones crecientes con Corea del Sur, potencialmente vinculada a cambios en la administración estadounidense y su política exterior hacia la región. Este acto podría catalizar una carrera armamentística acelerada y reposicionar los equilibrios de poder en Asia Oriental, con implicaciones directas para Japón, Taiwán y las alianzas estratégicas estadounidenses.",
-      "analisis_en": "North Korea's launch of more than ten ballistic missiles represents a show of force amid escalating tensions with South Korea, potentially tied to shifts in US administration and its foreign policy toward the region. This action could catalyze an accelerated arms race and reposition power balances in East Asia, with direct implications for Japan, Taiwan, and US strategic alliances."
+      "analisis": "Los ataques continuos contra infraestructura civil en Zaporiyia evidencian la intensificación de operaciones rusas contra objetivos no militares, mientras Ucrania enfrenta una crisis demográfica sin precedentes por la guerra prolongada. Las implicaciones geopolíticas incluyen el riesgo de colapso institucional ucraniano a largo plazo y la presión sobre la OTAN para escalamiento o negociación.",
+      "analisis_en": "Continuous attacks on civilian infrastructure in Zaporizhia demonstrate the intensification of Russian operations against non-military targets, while Ukraine faces an unprecedented demographic crisis due to the prolonged war. Geopolitical implications include the risk of long-term Ukrainian institutional collapse and pressure on NATO for escalation or negotiation."
     },
     {
       "rank": 2,
-      "titulo": "Guerra de Ucrania: continuidad de ataques rusos contra infraestructura civil",
-      "titulo_en": "Ukraine War: Continuation of Russian attacks on civilian infrastructure",
-      "region": "Europa Oriental",
+      "titulo": "Crisis institucional en Paraguay y vacuum de poder",
+      "titulo_en": "Institutional crisis in Paraguay and power vacuum",
+      "region": "América Latina / Paraguay",
       "noticia": {
-        "titulo": "Al menos 13 muertos en un ataque ruso contra una estación de tren de la ciudad ucrania de Dnipró",
-        "link": "https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html",
-        "fuente": "El País"
+        "titulo": "Paraguay's President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+        "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "El ataque a la estación de tren de Dnipró evidencia la estrategia rusa de golpear infraestructura civil y de transporte para desmoralizar la población ucraniana y afectar su capacidad logística, mientras persisten los debates sobre el suministro de armas occidentales y el alcance de las sanciones económicas. La persistencia de estas operaciones plantea interrogantes sobre la sostenibilidad del conflicto y los posibles escenarios de negociación en contextos de cambios políticos en Occidente.",
-      "analisis_en": "The attack on Dnipro's train station evidences Russia's strategy of striking civilian and transport infrastructure to demoralize the Ukrainian population and affect its logistical capacity, while debates persist over Western weapon supplies and the scope of economic sanctions. The persistence of these operations raises questions about the conflict's sustainability and possible negotiation scenarios amid political shifts in the West."
+      "analisis": "La renuncia de Santiago Peña por el escándalo bancario genera un vacuum político en Paraguay que pone en riesgo la estabilidad institucional de la región y abre oportunidades para actores no estatales y corrupción de mayor envergadura. La falta de gobernanza efectiva en un país fronterizo con Brasil y Argentina multiplica los riesgos de contagio hacia la seguridad regional.",
+      "analisis_en": "Santiago Peña's resignation over the banking scandal creates a political vacuum in Paraguay that threatens institutional stability in the region and opens opportunities for non-state actors and larger-scale corruption. The lack of effective governance in a country bordering Brazil and Argentina multiplies risks of contagion toward regional security."
     },
     {
       "rank": 3,
-      "titulo": "Crisis política y violencia en Haití con aplazamiento de elecciones",
-      "titulo_en": "Political crisis and violence in Haiti with election postponement",
-      "region": "América Latina y el Caribe",
+      "titulo": "Incertidumbre geopolítica estadounidense y reposicionamiento de potencias",
+      "titulo_en": "U.S. geopolitical uncertainty and repositioning of powers",
+      "region": "Global / Estados Unidos",
       "noticia": {
-        "titulo": "Haiti Postpones Elections as Gang Violence Runs Rampant",
-        "link": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
+        "titulo": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+        "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
         "fuente": "The New York Times"
       },
-      "analisis": "El aplazamiento de elecciones en Haití debido a la violencia de pandillas refleja el colapso institucional acelerado en el país y la incapacidad del estado para ejercer control territorial, generando un vacío que alimenta la migración irregular y la inestabilidad regional. Este escenario complica los esfuerzos de mediación internacional y plantea riesgos de fragmentación política duradera que podría afectar la seguridad en el Caribe y la política migratoria estadounidense.",
-      "analisis_en": "Haiti's election postponement due to gang violence reflects accelerated institutional collapse in the country and the state's inability to exercise territorial control, creating a vacuum that fuels irregular migration and regional instability. This scenario complicates international mediation efforts and poses risks of lasting political fragmentation that could affect Caribbean security and US migration policy."
+      "analisis": "Los especulativos encuentros trilaterales entre China, Estados Unidos y Rusia reflejan una reconfiguración global donde los aliados europeos temen quedar fuera de negociaciones estratégicas clave, particularmente sobre Ucrania y Asia-Pacífico. La volatilidad política estadounidense post-electorales genera incertidumbre sobre compromisos en defensa y comercio, incentivando a potencias medianas a buscar alianzas alternativas.",
+      "analisis_en": "Speculative trilateral meetings between China, the United States, and Russia reflect a global reconfiguration where European allies fear being excluded from key strategic negotiations, particularly over Ukraine and the Asia-Pacific. U.S. political volatility post-elections generates uncertainty about defense and trade commitments, incentivizing mid-sized powers to seek alternative alliances."
     }
   ]
 }

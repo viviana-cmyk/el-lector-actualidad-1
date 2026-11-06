@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-11-05T17:53:50.046Z",
+  "generatedAt": "2026-11-06T10:01:52.900Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "El bombardeo venezolano contra el ELN sacude 2 décadas de tolerancia chavista",
+          "link": "https://insightcrime.org/es/noticias/bombardeo-venezolano-contra-eln-sacude-dos-decadas-tolerancia-chavista/",
+          "pubDate": "2026-11-05T20:12:59.000Z",
+          "snippet": "El bombardeo venezolano contra el ELN sacude 2 décadas de tolerancia chavista Ante la creciente presión de Estados Unidos, el gobierno de Delcy Rodríguez bombardeó un campamento del Ejército de Liberación Nacional (ELN), que por años ha usado a Venezuela como un santuario crimina…"
+        },
+        {
+          "title": "The InSight Take | ¿Venezuela le declaró la guerra a la guerrilla colombiana del ELN?",
+          "link": "https://insightcrime.org/es/noticias/insight-take-venezuela-declaro-la-guerra-al-eln/",
+          "pubDate": "2026-11-05T18:25:46.000Z",
+          "snippet": "The InSight Take | ¿Venezuela le declaró la guerra a la guerrilla colombiana del ELN? Venezuela lanzó ataques contra el ELN en medio de la presión de Estados Unidos para que el gobierno de Delcy Rodríguez tome medidas contra la guerrilla colombiana, que durante años ha contado co…"
+        },
         {
           "title": "Las vidas detrás de los titulares | Temporada 2 del pódcast de InSight Crime",
           "link": "https://insightcrime.org/es/noticias/las-vidas-detras-titulares-segunda-temporada-podcast-insight-crime/",
@@ -28,18 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/negocio-de-robos-en-carreteras-de-costa-rica-the-insight-take/",
           "pubDate": "2026-10-29T15:31:42.000Z",
           "snippet": "The InSight Take | El negocio de los robos en las carreteras de Costa Rica ¿Cómo opera el robo de carga en el principal corredor comercial de Centroamérica? La editora general Deborah Bonello y el periodista Owen Alfonso conversan sobre el trabajo de investigación detrás del repo…"
-        },
-        {
-          "title": "Piratas de carretera: cómo operan las bandas dedicadas al robo de carga en Costa Rica",
-          "link": "https://insightcrime.org/es/noticias/piratas-carretera-crisis-del-robo-carga-costa-rica/",
-          "pubDate": "2026-10-28T13:26:36.000Z",
-          "snippet": "Piratas de carretera: cómo operan las bandas dedicadas al robo de carga en Costa Rica Bandas dedicadas al robo de carga asaltan camiones en las carreteras de Costa Rica, valiéndose de datos aduaneros filtrados e inhibidores de señal. InSight Crime acompañó a un camionero panameño…"
-        },
-        {
-          "title": "De federación criminal a guerras entre bandas: el legado de ‘Rasquiña’ en Ecuador",
-          "link": "https://insightcrime.org/es/noticias/federacion-criminal-guerras-entre-bandas-legado-rasquina-ecuador/",
-          "pubDate": "2026-10-27T12:23:23.000Z",
-          "snippet": "De federación criminal a guerras entre bandas: el legado de ‘Rasquiña’ en Ecuador El mundo criminal, cada vez más fragmentado, ha convertido a Ecuador en un campo de batalla, con bandas rivales que han llevado la violencia a niveles récord en los últimos años. Si bien múltiples f…"
         }
       ]
     },
@@ -90,39 +90,39 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Por qué debemos valorar los bosques como infraestructura crítica. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWRoa0pGbXJmdk1ZWU9mQm8xSjBOYWlicHJyLXFPeTFneFpwQ2RGaW9UcXZzdW5KQWdkMkRkcEs1WlJkc1cyazhlZFRTeFluQ1JSWlRQUGFkalJ0Z2tlWlZWSk9UdjNWYmpnUENMcE1rWnJvci1kV21mMkxqck1YVDlKdWd1ZTBiUDFWT1dPY2VJTW13dW8wYXk0Y3dxOGVv?oc=5",
+          "pubDate": "2026-11-05T19:21:24.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Noticias geopolíticas que debes conocer este mes. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNm0zcGpwc1ZpM016NjlvdVp4clVpRmV2WFJndjZpRHRRVHdBY2FXUVVWUTNyLXV5Z1dra1Roek1nWVpNNmdpVG5Ib2J2bFpZRVU3S1ktTlpSSWdIbXNIZ2tyNXNjbUViUzNFSEpHTWFVRkVkR0VESnRUZHBUb1dXb1ExTXFNMUNRTXkxclhTamhZUVQ5V3pwZU5aT1g1Yl9teDR2M1p0M1otVGVUVlRCZWM4X1VyRGl6bm56OTB0Yms?oc=5",
+          "pubDate": "2026-11-05T19:09:54.000Z",
+          "snippet": null
+        },
+        {
+          "title": "\"Gran Transferencia de Riqueza\": ¿Qué es y cómo pueden las mujeres sacarle el máximo partido?",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZFlSeldtZUxvTFJqZFlxNTZ5V2NkUlk2UFlkeEprdlFuQThCU3hlRWo3Y1EtQXpvRGYwblFDbEZXT205RVR3SlZqc1J1eWk2VnNTUW5QcW5idVg1SlBORDFxSmdZZzBsdkpZOXI3V21SaU82MWhGeFR1bllDU0xFWVNoczJfWXNvTlB2ZFRuc2UxekVTS0lBQ2tPUmZUTEJsNXZzUEhxcjBUaWNGTDFzTktTekc3WWoxSWlNdkdJREItaVFZWWxGWldXZURZblhCcUlJMWU4ckJvTFRyTFNtOUtmMDM?oc=5",
+          "pubDate": "2026-11-05T16:38:16.000Z",
+          "snippet": null
+        },
+        {
           "title": "Diversificación económica de Azerbaiyán: estrategias de crecimiento | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGNjdHhEaFN5dzQzb25xZWxVd012X3owSUZnRndzYkw5WE1yZVYycEhRekdOZWZkb1ZMZ1IxZmNRRUFlYTRPUkItS0VmU2RvRVJiaXdZQVpTTGtWLXlUN19BWkJSYl9kR3Q2dkRKTzB5ZzlYN3ZVQnVWeFBxNEZpcVJmR2dxQUZScnNPR2IzSWpYYmgzblJ0YXZ0ZDhCZzBJaUVsb0ZJX3EwenVsWUthVUR6V3paYndvTFRyXzFMdDNWOU0?oc=5",
           "pubDate": "2026-11-05T13:55:44.000Z",
           "snippet": null
         },
         {
-          "title": "Inteligencia natural: El sistema de conocimiento infravalorado de la naturaleza | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkpnMWFkMXNLY2RnU1loblVTb3hsRHNFYzBZVTA5Y2NNQW95emExQWZSMjVoSDZ2OVNsWWFRV3FNMHFvTTFLclROc0IyZXFSS2V0bzVfTVhIQndVb2c5UVdmbWdMdGZ3bklfSkVBRHRZbldqTVdCSVc0cWc2aFA3YU9hYzdwUklkR1pteXp6R2xTY2RBMmdYYjgyeXlMMUdzZUNfcHJDT2JxOXRZdFNOLQ?oc=5",
-          "pubDate": "2026-11-05T10:45:27.000Z",
+          "title": "¿Inflación al 3%? Puro espejismo temporal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1R3aGh2UHFrSU0xNHA2ejAyckhMc2ZxQmNkVjFQd1poUk8yQl9fN2NYZ1ZuMndXSGMxbjk0bU9ablRGY29BemlxaGgwcC13Z0dzcnBUdkpyRkttei1ING5FY3o2THpOcXEwdUZOc3NmZGtmSmtHdHBMTkdqVk1tVWY2Z1gwVDJ3QUJTSmUtZjNFdzNPMmc?oc=5",
+          "pubDate": "2026-11-04T22:47:44.000Z",
           "snippet": null
         },
         {
-          "title": "Infografías | Índice de Desarrollo de Viajes y Turismo 2026 | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzYyYWd0SmdfTjdfZmpVbWdJNUo5YjluY0NLTXk1OUtWbHFyNkQxSmw1T0hSWDRIM2VnYjZVaWVRZ2xLQjNtVUdqN2J3aHpWYkZfLU5TVXcyYU1HcHhrRE4yakQzbEgxMVpoOFRyTG10OThfcF9ZT1V6NlVqM2h2bDhwM1U5MVRLMUZTSTFTUURzczdsV1JmRnMtNUpfeWExVGdZNmMyZUdpX2JUTEl2Z3pLZ2hnUQ?oc=5",
-          "pubDate": "2026-11-04T09:31:25.000Z",
-          "snippet": null
-        },
-        {
-          "title": "5 beneficios de las áreas marinas protegidas | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajlfTlB2b1JreFVXZWVhX2lEZlFFSllDUF80blJIbHc4cUY0ampZcUxwblhMU01yOUFFbFJZRkYxNDBGMl85WHZRd2VmNjBoQnZsbkVPSnZhNFV6dW1pUWFNa1Z4XzVzZExkMkJXbmU0dXdIWTFPWTNmQlV6TXVVeTA1dlFVSmpYajBmQWxXTU1RZlc5?oc=5",
-          "pubDate": "2026-11-04T08:36:47.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Capitalismo de las partes interesadas: futuro global | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM1d1eVZBSi1MX3lsSkFnSkxyVDJJQ3ItNUU1dm1Pb1RDckVVaF94cUJBc3BpOTVic2oxQ3JFNnhXSlhReDhCYXhsUFVvcjZxZHR3eHVNb2o1WXI4cXZQUl9WV0lLZzFBNUE2NGFBOE1oYy1zNjRIb2dlYlE2Q016MDlkY01VU2xNNzNnRXV2R3VyRXc?oc=5",
-          "pubDate": "2026-11-04T08:36:41.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Verificación de pruebas digitales: por qué los bancos deben actuar de forma independiente. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGF2a0F2UzhNRGJRT0N0ZTNSNi1pMVV1bE4zSnl1MmhydDhQYjB1WW5FZnZldUE3QXYyQ05ZbTZhQk9SQkIxRmxmM2lZTnVrZXUtOFpTU19uMXNjMVhReVdzNGlwQncwWlNiUFVFaVBaVzhFd1RsT0dWa2RWYjR2cjZ1YUJEMmF6RHA0cXFBUmFmNm9ucEE?oc=5",
-          "pubDate": "2026-11-03T22:36:05.000Z",
+          "title": "Esta semana en el Foro Económico Mundial: 13 de junio | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0staHBQNWdDQkNZS19ZUW5qcGhiczhYRVd6SEJtWDZyWkhOd25uNkJJejg0MkdwZ21iS3REc2xiWUw4SU90SUJJQS13MklCTGlDZFppeTFhTnN3RzZJcU5HTFN3WWdUQjQ2cnhCYTFHVFNPR05pdDRTSW16b0dEQ0xyd2IxUVBOUm1JTg?oc=5",
+          "pubDate": "2026-11-04T16:29:46.000Z",
           "snippet": null
         }
       ]
