@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:01:49.892Z",
+  "generatedAt": "2026-11-08T16:32:18.474Z",
   "colombia": [
     {
       "title": "LA DOSIS DIARIA ROKA",
@@ -7,24 +7,24 @@
       "url": "https://podcasts.apple.com/co/podcast/la-dosis-diaria-roka/id1405708885"
     },
     {
-      "title": "365 con Dios",
-      "host": "Wenddy Neciosup | Genuina Media",
-      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
-    },
-    {
-      "title": "Huevos Revueltos con Política",
-      "host": "La Silla Vacía",
-      "url": "https://podcasts.apple.com/co/podcast/huevos-revueltos-con-pol%C3%ADtica/id1607193381"
-    },
-    {
       "title": "DianaUribe.fm",
       "host": "Diana Uribe",
       "url": "https://podcasts.apple.com/co/podcast/dianauribe-fm/id1440323217"
     },
     {
+      "title": "365 con Dios",
+      "host": "Wenddy Neciosup | Genuina Media",
+      "url": "https://podcasts.apple.com/co/podcast/365-con-dios/id1546917854"
+    },
+    {
       "title": "Durmiendo",
       "host": "Dudas Media",
       "url": "https://podcasts.apple.com/co/podcast/durmiendo/id1565189361"
+    },
+    {
+      "title": "El Pulso del Fútbol",
+      "host": "Caracol Pódcast",
+      "url": "https://podcasts.apple.com/co/podcast/el-pulso-del-f%C3%BAtbol/id868214427"
     }
   ],
   "mundo": [
@@ -34,24 +34,24 @@
       "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736"
     },
     {
-      "title": "Dateline NBC",
-      "host": "NBC News",
-      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
-    },
-    {
       "title": "The Joe Rogan Experience",
       "host": "Joe Rogan",
       "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272"
     },
     {
-      "title": "Up First from NPR",
-      "host": "NPR",
-      "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325"
+      "title": "The Ezra Klein Show",
+      "host": "New York Times Opinion",
+      "url": "https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447"
     },
     {
-      "title": "Pod Save America",
-      "host": "Pod Save America",
-      "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536"
+      "title": "Crime Junkie",
+      "host": "Audiochuck",
+      "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189"
+    },
+    {
+      "title": "Dateline NBC",
+      "host": "NBC News",
+      "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521"
     }
   ]
 }
