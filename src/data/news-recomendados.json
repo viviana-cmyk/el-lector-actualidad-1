@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-09T10:01:48.269Z",
+  "generatedAt": "2026-11-09T20:29:18.264Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "El Tusi no es lo que usted cree",
+          "link": "https://insightcrime.org/es/noticias/tusi-no-es-lo-que-usted-cree/",
+          "pubDate": "2026-11-09T17:05:06.000Z",
+          "snippet": "El Tusi no es lo que usted cree El tusi se ha convertido en una droga sintética cada vez más popular; sin embargo, sus consumidores rara vez saben qué sustancias están ingiriendo. The post El Tusi no es lo que usted cree appeared first on InSight Crime."
+        },
         {
           "title": "El bombardeo venezolano contra el ELN sacude 2 décadas de tolerancia chavista",
           "link": "https://insightcrime.org/es/noticias/bombardeo-venezolano-contra-eln-sacude-dos-decadas-tolerancia-chavista/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/cronologia-los-ataques-ee-uu-contra-presuntas-embarcaciones-narcotrafico/",
           "pubDate": "2026-11-02T16:34:12.000Z",
           "snippet": "Cronología de los ataques de EE. UU. contra presuntas embarcaciones de narcotráfico En la última semana, EE. UU. lanzó cinco ataques contra presuntas embarcaciones dedicadas al tráfico de drogas en igual número de días, lo que la convierte en una de las semanas más letales desde…"
-        },
-        {
-          "title": "The InSight Take | El negocio de los robos en las carreteras de Costa Rica",
-          "link": "https://insightcrime.org/es/noticias/negocio-de-robos-en-carreteras-de-costa-rica-the-insight-take/",
-          "pubDate": "2026-10-29T15:31:42.000Z",
-          "snippet": "The InSight Take | El negocio de los robos en las carreteras de Costa Rica ¿Cómo opera el robo de carga en el principal corredor comercial de Centroamérica? La editora general Deborah Bonello y el periodista Owen Alfonso conversan sobre el trabajo de investigación detrás del repo…"
         }
       ]
     },
@@ -90,6 +90,18 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Electricity Era Solutions: Proven Execution at Scale | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREFGRWNBQnRvQ0lGeEJLYnR2dWc3WHZ0Zkk3aGJjcGI5aE9yMVVxT0c3c2U5QjVFRjg5blZEYndVTEVwX01uVGtyR0ZtUVVHbVZTdEJrbXptX2Y4b3J2aFU3MnprS3VtbklVYVVsbzRSSWRmZlBQNW9lSnUtU2pNNmlXOEwwNG9lblVNR2d3TXNQX05rcThiYjRXWldfaHpaWkp0eXcxWEFIaU5w?oc=5",
+          "pubDate": "2026-11-09T13:12:18.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Foro Económico de Egipto: Reunión del FEM con el presidente El-Sisi | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSm9BcmZYUlpxRGM1em9KdkV5eVE3U25pcm9rRjh5LTh4M0hENFQxS0dBb1BJVDA4dXZfVDVwMnBTbkg2NnhaZ0x3eFRkMDc5SlVObF9jSldlQW95ZldETmFpejZZclZrN24zTUt6dGpFWjJGamVMYXEzaHdiQU91X1lvQWhJQQ?oc=5",
+          "pubDate": "2026-11-09T10:29:40.000Z",
+          "snippet": null
+        },
+        {
           "title": "Por qué el rendimiento de los edificios debería tenerse en cuenta para la resiliencia. | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2tiUExBRGdfTkVOb2FXNmJUcXBNQUhNMkw2dU5kaU9aTXVxMVoxMXlrZE5mbHpnQW14b2JJb0t1WEVhZ01TUzROWkIzdFBTYllSejBUUzExVHVnZ2Z1S1VpelJrTzZtT1NtcnJ2Ynd5MFdzbDBvS1Rya0padDBTZWpZZnhWcF9UZlhFSXZhVnVXcy1mZTV3dTVrZFhQdWJiZFZoU29vbXN6MVE?oc=5",
           "pubDate": "2026-11-09T08:04:10.000Z",
@@ -111,18 +123,6 @@
           "title": "Impactos del cambio climático en la salud: Las naciones del Pacífico lideran la COP31 | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjF2QXpoWUVTZzNpVUVQekhtSnRBUUNZcG5kUXJNVWZJSXczdXNQYkRnNnRUTGJScjItZHpkRDZYZjZiVmhEUWZkeU9ITkotVmtyRndCbXFwWUZlOTFTRFg1NW90ZThwbDU3UDhwekJpNnVCSU5NdURjcExvRFpkeDJFNlJ3QTBoMnA3b083QTVUdXRLZ2t1UXZQdFZvYmdsTDBQejBFRElFamJjaGFtU1ItbEZVMnJn?oc=5",
           "pubDate": "2026-11-06T19:11:18.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Qué hay que saber sobre la reunión de estrategia nacional sobre Egipto.",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTVTYmpWTDViVEkzSVNLbUZURjNwVmdiYmxIODBYc3VKakZmOEtQMHd3NEJtdlBFbGJkbk9oRGozR19RUVF4RlRtUDV5LWdKVy1rbW44WUhUdE9zNkJBb05xeTdjSU1PZThORng3UDF4dGpzeHJVZld0Vk1YSEFKcTJHZ0tBei10QWM2S1VKM0J4NTA?oc=5",
-          "pubDate": "2026-11-06T13:22:08.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Cómo el diseño de puestos de trabajo dará forma al futuro del trabajo. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEJhU1dDR1RTMzRDRkZnVlg5YVYyR211WTJfemhldUd3eHJrTjZ0RzhIekpIOUlsWXk1aWFvQW80SjZacWU0Q1BJRFM5ZHRHVWNCN0F2Z1lRa0xUVnM4UTYwb0UzOXJCUHdjdHdVbThrSzBhSWRScUpoUHdHeVQydlp2UU5ySWZfY3FwYnE3bGM3bUE5czA0MnIxMFQ3Y3dlYUMtNUVrNms?oc=5",
-          "pubDate": "2026-11-05T21:46:31.000Z",
           "snippet": null
         }
       ]

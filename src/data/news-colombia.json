@@ -1,28 +1,27 @@
 {
-  "generatedAt": "2026-11-09T10:01:48.269Z",
+  "generatedAt": "2026-11-09T20:29:18.264Z",
   "outlets": [
     {
       "name": "Semana",
       "color": "blue",
       "items": [
         {
-          "title": "De La Espriella ordena despliegue militar inmediato en el Cauca tras atentado con drones en el peaje de Villa Rica",
-          "link": "https://www.semana.com/politica/articulo/de-la-espriella-ordena-despliegue-militar-inmediato-en-el-cauca-tras-atentado-con-drones-en-el-peaje-de-villa-rica/202649/",
-          "pubDate": "2026-11-09T02:48:49.000Z",
+          "title": "Medellín aprueba la revisión de su POT: así cambia el panorama para la construcción y la inversión",
+          "link": "https://www.semana.com/mejor-colombia/articulo/medellin-aprueba-la-revision-de-su-pot-asi-cambia-el-panorama-para-la-construccion-y-la-inversion/202620/",
+          "pubDate": "2026-11-09T20:00:20.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Atacan con drones explosivos a la población de Tibú, Norte de Santander",
-          "link": "https://www.semana.com/nacion/cucuta/articulo/atacan-con-drones-explosivos-a-la-poblacion-de-tibu-norte-de-santander/202600/",
-          "pubDate": "2026-11-09T01:56:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
+          "title": "“Hay que replantear las fuentes de financiación”",
+          "link": "https://www.semana.com/foros-semana/articulo/hay-que-replantear-las-fuentes-de-financiacion/202643/",
+          "pubDate": "2026-11-09T20:14:43.000Z",
+          "snippet": null
         },
         {
-          "title": "Crónicas de Rock: Opeth en el Royal Center, o la balada gastrointestinal del concierto que no fue",
-          "link": "https://www.semana.com/cultura/musica/articulo/cronicas-de-rock-opeth-en-el-royal-center-o-la-balada-gastrointestinal-del-concierto-que-no-fue/202603/",
-          "pubDate": "2026-11-09T05:26:03.000Z",
+          "title": "Más de 500 personas recibirán atención médica gratuita tras el terremoto de Cali: artistas y empresarios lideran jornada solidaria",
+          "link": "https://www.semana.com/nacion/cali/articulo/mas-de-500-personas-recibiran-atencion-medica-gratuita-tras-el-terremoto-de-cali-artistas-y-empresarios-lideran-jornada-solidaria/202606/",
+          "pubDate": "2026-11-09T20:08:06.000Z",
           "snippet": null
         }
       ]
@@ -32,46 +31,32 @@
       "color": "peach",
       "items": [
         {
-          "title": "Alcalde de Santa Rosa asegura que ataque con drones deja tres muertos y más de 35 heridos",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUh1UTdRS3R1Q2RZQ2FUWGRtZ2hNRXNITlVscWFDRXFVSGcxMFdJV21JX25aTDRUUkdaN2pvM1hsNGp0ald5OUNMX0VtMmVwRU9WNDVrTkJDUDctNEhiWTZCaldydEkxWkhYbXdLM1o4RnVxM2ZfdDlMMngwTHY0Tkh1Z1pScHdWNVl4Mk9MQ3JKWGJtY0tLOEhKWURqb0I0NXdCRUpKZTgzYnhRd3g1aWxUNmZtUWdIMW1IX1V0NNIB0wFBVV95cUxNbG9qbnlsZ0psU2VCN2Fhd3ZLRWhiR2RJc0JKVzlQbU5YencxYlptQTFNTzFUUVNhNmRFX0habzlNQXZzSExvemQ1dGJvMktoZldySlJwa0RmNVNJbFpsOHFqV0lHcWt4dlM1RlI5WTRQc2U2Z2pwZ29NTFViTkd2WlFwUF9ZVTd0TUZueUhmRzhoX09QcWltTzBFTkNYc0lYZ3FsWXFtRC1fTFU2LXFKRjNzSmZ3Mk1yMGJpcnl0NzQ3bVFlZ1JrX1ZsWW95MFo3WDRr?oc=5",
-          "pubDate": "2026-11-07T19:06:50.000Z",
+          "title": "El Congreso entra en su recta final: estos son los proyectos que el Gobierno busca impulsar",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUVfM1pyejdVekY3MThLQ1NKUmU0TW5JS296N2NBMnJPMVFVdTQyTlRIRGR3M2JoVC1CNHdwX1A2d045UEZjTUpiWTduSngxT013Si1kY3g5STBjMkEzVzdCS2I2SkZtV3g1RVVFc3R1Ny1pdmJGM19VUDlaeHFwVnVBdDZLMU16RDlXc1N4NTk1ZUxGaUFSMTJOT0lKUXAxOXZTZzJDNTFZNUZKOTJZakJqZFJESjcwazFiWm1paW1VakZrODcxNlpR0gHeAUFVX3lxTFB3UGxadFlOUVplRXpjRnFJdU9lNXZBQTJHMkQybXFsUW9CclJ3NDZWTFNXUlAxdTJjS3oxbFJKWHJncjlJbzdjVUNGNVNXSlQxNHZnSHItUUlIN19sck1SS1RjeGJmRzZGTjNCNXBXZ1FVYTV2ZnNDQkU0Q0ZxdEZ1STFoaDNxazVnZ2Y5Q2c3dDRDZXh0M2tWY2o2dUZwd1dpQURGaWFMckhFazk4YzJfVWRNNHJkanZtak94REJJLWhtT0RkcWhHX3lYOWxtM3NrNGwzcVk5WFBUZFd3UQ?oc=5",
+          "pubDate": "2026-11-09T18:58:46.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Presidente De la Espriella ordena reforzar seguridad de medios ante amenazas",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd2RscWhWQzNNYzc0cU9Pb3BPQWdUcjZ0Z09KbnFoaTh4N3hGRVl4YjVXREsxTkZkWHFWZnpqS1VZeUYyQ01tWEt6bno2VzJoY25fN01ya0JUSlNZZVdSUUNqaDJhbWxaUWhPYlczVTN1S1NHanNOYXVZYWtoWFRtTllLTkg3VjJZdGFRRnFMSkJTZTRuUWFMMFhldHBMekUyOXQxZXNQcmRRLXRBRlNFUFROVERzX0tKb21OaVFPZ281TEZSVTBudmNHSTI4T2tOcG94NmFhUWROSV9NeUh3TlBrTmw2MGdC0gHoAUFVX3lxTE53ZGxxaFZDM01jNzRxT09vcE9BZ1RyNnRnT0pucWhpOHg3eEZFWXhiNVdESzFORmRYcVZmempLVVl5RjJDTW1YS3puejZXMmhjbl83TXJrQlRKU1llV1JRQ2poMmFtbFpRaE9iVzNVM3VLU0dqc05hdVlha2hYVG1OWUtOSDdWMll0YVFGcUxKQlNlNG5RYUwwWGV0cEx6RTI5dDFlc1ByZFEtdEFGU0VQVE5URHNfS0pvbU5pUU9nbzVMRlJVMG52Y0dJMjhPa05wb3g2YWFRZE5JX015SHdOUGtObDYwZ0I?oc=5",
-          "pubDate": "2026-11-08T14:59:01.000Z",
+          "title": "Gobierno De la Espriella pide investigar presuntas irregularidades en DNI: Pacto responde",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1QzV1pJSGFacHFyaWw5Y1N3S0NsS1JVcnE4REFGbS1aM1JRX1FhUlhCbTdGaXlNSzRGM18yZnRSQ1docHJpQWNwN1BkTnltMHhwR3ExWUdEdWxvSlFveTV4STM0M1J1V0JYMWI0Y3I5NXNFSGRtMWZZUlFzYndpMlJJVjE5Y245M0gzaG82R244TjRsdGRhRmtNbm9WaVNhUmk4SnN1eS02aU5XR1hocVVQdUxWS2duM3ZwaTNUcm9FaGcwTFJYZUlQc181ZlROaEdjQXF3M0NCd9IB2gFBVV95cUxQX1QzV1pJSGFacHFyaWw5Y1N3S0NsS1JVcnE4REFGbS1aM1JRX1FhUlhCbTdGaXlNSzRGM18yZnRSQ1docHJpQWNwN1BkTnltMHhwR3ExWUdEdWxvSlFveTV4STM0M1J1V0JYMWI0Y3I5NXNFSGRtMWZZUlFzYndpMlJJVjE5Y245M0gzaG82R244TjRsdGRhRmtNbm9WaVNhUmk4SnN1eS02aU5XR1hocVVQdUxWS2duM3ZwaTNUcm9FaGcwTFJYZUlQc181ZlROaEdjQXF3M0NCdw?oc=5",
+          "pubDate": "2026-11-09T17:28:06.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Noticias Caracol y Caracol Radio denunciaron amenaza de posible atentado",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnk0SF9lX0RNR0lDbnViNE1fVmFNS0dGR1VMYk5rc1JDa3IyMTN6eW8zc0RpUTM4cjRZdV9GTGc0RWU5SVVXOUE0QzRzbUdENGhTbmZ3Zm9UU1hzdDlfejBqQXFJeGc2S1FsMFJzdWJqUlJpaExZM0tBczdRclRVZWRyWllxRy0yVVVSb3p1dnoyUHBPaTl3Tk1HVDgyWVl2SFHSAbYBQVVfeXFMT0JTLWVzemdfejZ6Tm4wNld0RkM5V3ROeVY0S1psbnBTMW53MmsxWnl2RHd6ZkJVdmFiby04ZHI2OVdzcTY3VnNCLWk2V3czbDRoemNMaC1hY0tTRTdMbmFmQTN3bXFWcTQ2dDFQY3FBeG50NmJ4UE1DbjdOUEFsajFaNmplX041eHoxbjdlcWxsSXJtZTBOZVprSlVyOGt6ejdnTGhLZXRlRnhsSTFpOVloR0g2VlE?oc=5",
-          "pubDate": "2026-11-08T02:19:21.000Z",
+          "title": "El Pacto Histórico se reorganiza en medio de polémicas del expresidente Petro",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcEo4UDZueHpGY0s2N3VmWWVCSXdqRGR2cWVqa1RhX0pOZzlsX1BTLUlqYnNyaTRCM3R0dWMxYktPTzRoM05DRFJoRjI4VEE2MVVyVTJZYW9Vd1NQVVhJU3B0MnVXVUFpY3JQUGt0b05OVC1OVlY4VnoxbjdiaVgxQTNPay01TnJ6LUNoVGQxclRwaTltMkVkZHZGZFZMeU9NamVnSHBDOXlUWlFnaVMwX0N5QXRuSnJTYS1lQzBCcF9SR3I2NkJLNzNhb9IBywFBVV95cUxPcEo4UDZueHpGY0s2N3VmWWVCSXdqRGR2cWVqa1RhX0pOZzlsX1BTLUlqYnNyaTRCM3R0dWMxYktPTzRoM05DRFJoRjI4VEE2MVVyVTJZYW9Vd1NQVVhJU3B0MnVXVUFpY3JQUGt0b05OVC1OVlY4VnoxbjdiaVgxQTNPay01TnJ6LUNoVGQxclRwaTltMkVkZHZGZFZMeU9NamVnSHBDOXlUWlFnaVMwX0N5QXRuSnJTYS1lQzBCcF9SR3I2NkJLNzNhbw?oc=5",
+          "pubDate": "2026-11-09T15:28:46.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Centro Democrático propone ley fiscal alternativa con menos impuestos y más recortes",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGY4R295WDhXQ2R4amFNRFlrdWM0SU0yTHhqSlJKXzljRmRqN3ZkXzFuNGJGUElZdE1UWHAzQ3pJYW1CTzdzeExVTmRVcm9LSHQwT3Rxck1GT1p2YnIwbTdDRW9jXzJuSHdQVVQwaWt0a2ROdHBLTDRpS1NhOGwxd09SbmVlajZzdFluN3lFLXltclhyLWJXQk0tRkNjbmN5dDFjOV83R2QzTVJjQXk4THllVjFhMFplOUFZRlZkRVIzcDJXMWlQRVBYaFBTdkJTbFdRUVR0X251OFFqZWtMdTZB0gHiAUFVX3lxTE5EZjhHb3lYOFdDZHhqYU1EWWt1YzRJTTJMeGpKUkpfOWNGZGo3dmRfMW40YkZQSVl0TVRYcDNDeklhbUJPN3N4TFVOZFVyb0tIdDBPdHFyTUZPWnZicjBtN0NFb2NfMm5Id1BVVDBpa3RrZE50cEtMNGlLU2E4bDF3T1JuZWVqNnN0WW43eUUteW1yWHItYldCTS1GQ2NuY3l0MWM5XzdHZDNNUmNBeThMeWVWMWEwWmU5QVlGVmRFUjNwMlcxaVBFUFhoUFN2QlNsV1FRVHRfbnU4UWpla0x1NkE?oc=5",
-          "pubDate": "2026-11-07T19:09:55.000Z",
+          "title": "¡Atención! Colombia ganó oro en los Olímpicos de la Juventud gracias a Ilsa Córdoba",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjU2aDdONDJHeWZzREl4SWdwbExGUVp4LWo3Z19QVVpHTmYyOGNHUWV0aU4wU2Jyc003aWdHLWxPZUNqWGRRRzJTN1M4dlF3X0lZSkplQlFuTW9ZZ0hlSmd3VlBZUGtVejA5bjNRR1hmRklFV0lxWTVoYzN6VDZlSzk1NC0zZmVYc1ZOYkRqNzF1QVZpckJkQW1fX3VWZGdVaDJVWkUyMnB0aThJU3l0d3JBMNIBxwFBVV95cUxOWEdRWFU1cEp6dUpzd0FMVHd3YUxBY0EtckZRMjZ0RFpXNEZZNEduazQ3bWhET1BqdExjeGh3YWpSR214MkRZZVU4NzVQbDYxY0w1Rk5ER0htWlBhOEpSWm9fcHR4SmpSZmxrbXIyWDZ2cmlCWGpWZXU5Y2hxQ0h2ajVHQTh1OWxaSDRIU20xYU5rX095OWRDdlpWZlBfYzV5bW9vbHhKamtJNlpZczE4WGc3SFNYUWVXSW4yc3FxWFJ2cDdsRzZB?oc=5",
+          "pubDate": "2026-11-09T17:33:06.000Z",
           "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Magistrados del CNE visitan EE. UU. y departamentos de Colombia con miras a elección de 2027",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXhkWU9vdXBabXRIOEhwMS1pNDN6dmRNMkk4cWYtQW5ZakhTU3g0b3ltekhhTDhZWlEteXJ4eC1BdVRqQzI5Y3NHVXVOM0pGWlJsQWtzQkY2eV9HSmdPUDM5d0g2b0dpWXRJczFUYWRjb09wMkVjWGZaZVM4dC1OYWdTRHpsSnZ4TFJGNndEOUp1TVg0UVhwc1dxaTRscnRHZ05VYWljTnY4SEZWNnNQVFBXaXFkUk1RdlExSHBXWWlRNTh1ZG5GMC1qT1dDX01mVkxXOUdKbVpnNXNI0gHcAUFVX3lxTE9JeGRZT291cFptdEg4SHAxLWk0M3p2ZE0ySThxZi1BbllqSFNTeDRveW16SGFMOFlaUS15cnh4LUF1VGpDMjljc0dVdU4zSkZaUmxBa3NCRjZ5X0dKZ09QMzl3SDZvR2lZdElzMVRhZGNvT3AyRWNYZlplUzh0LU5hZ1NEemxKdnhMUkY2d0Q5SnVNWDRRWHBzV3FpNGxydEdnTlVhaWNOdjhIRlY2c1BUUFdpcWRSTVF2UTFIcFdZaVE1OHVkbkYwLWpPV0NfTWZWTFc5R0ptWmc1c0g?oc=5",
-          "pubDate": "2026-11-08T19:06:03.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Esto cambiará en la relación entre Colombia y EE.UU. con el nuevo Congreso | La Mesa Redonda",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONjhLbWVrb0NSVGpmRjIzTFBKVU9LLTEzNzlabkI4enR5TjBKS1I2cHB0MHJOSmhrWUNWQno2dVdmaHJxeGpLbzc5WXFBZ0llQU5WY2JWN1laMmhSTVBTUFdGRjlXajByMFlCaldBalkxSXpUMDAxMV9zUjZaQXpWaHhBS3VuNWZVUWVEbWp2cXJuUGxMM0lFSkZ3TzdRcmY5OERBbVBSWlVOZ1Y5TXRNMjBIY3lINzJxNFNFVjBRZkNDZEN1eUFOclZZU2F2YXFHalducDYzak1hLTTSAdsBQVVfeXFMTjY4S21la29DUlRqZkYyM0xQSlVPSy0xMzc5Wm5COHp0eU4wSktSNnBwdDByTkpoa1lDVkJ6NnVXZmhycXhqS283OVlxQWdJZUFOVmNiVjdZWjJoUk1QU1BXRkY5V2owcjBZQmpXQWpZMUl6VDAwMTFfc1I2WkF6Vmh4QUt1bjVmVVFlRG1qdnFyblBsTDNJRUpGd083UXJmOThEQW1QUlpVTmdWOU10TTIwSGN5SDcycTRTRVYwUWZDQ2RDdXlBTnJWWVNhdmFxR2pXbnA2M2pNYS00?oc=5",
-          "pubDate": "2026-11-08T16:46:04.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
+          "_priority": "DEPORTES"
         }
       ]
     },
@@ -80,31 +65,31 @@
       "color": "rose",
       "items": [
         {
-          "title": "Presidente Abelardo de la Espriella anuncia despliegue de la Fuerza Pública tras ataque con explosivos en Cauca: '¡No nos van a intimidar!'",
-          "link": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-anuncia-despliegue-de-la-fuerza-publica-tras-ataque-con-explosivos-en-cauca-no-nos-van-a-intimidar-3599463",
-          "pubDate": "2026-11-09T02:06:49.000Z",
-          "snippet": "El presidente condenó el atentado en el norte del Cauca, que provocó el cierre preventivo de la vía Panamericana entre Popayán y Cali.",
+          "title": "Las peticiones que le tienen los boyacenses al presidente Abelardo De La Espriella hoy en su visita a Tunja: seguridad, infraestructura, vías y agro",
+          "link": "https://www.eltiempo.com/colombia/otras-ciudades/las-peticiones-que-le-tienen-los-boyacenses-al-presidente-abelardo-de-la-espriella-hoy-en-su-visita-a-tunja-seguridad-infraestructura-vias-y-agro-3599679",
+          "pubDate": "2026-11-09T20:09:34.000Z",
+          "snippet": "El mandatario fue recibido por una protesta estudiantil en la capital boyacense.",
           "_priority": "ALTA"
         },
         {
-          "title": "Ataque con explosivos en peaje de Villa Rica, Cauca: cierran la vía Panamericana entre Popayán y Cali",
-          "link": "https://www.eltiempo.com/colombia/cali/ataque-con-explosivos-en-peaje-de-villa-rica-cauca-cierran-la-via-panamericana-entre-popayan-y-cali-3599448",
-          "pubDate": "2026-11-09T00:34:28.000Z",
-          "snippet": "La carretera fue cerrada preventivamente mientras las autoridades verifican las condiciones de seguridad.",
+          "title": "Ferrocarril de Antioquia: Asamblea aprueba recursos de más de $5.200 millones para avanzar en el tren que conectaría a Bello con Puerto Berrío",
+          "link": "https://www.eltiempo.com/colombia/medellin/ferrocarril-de-antioquia-asamblea-aprueba-recursos-de-mas-de-5-200-millones-para-avanzar-en-el-tren-que-conectaria-a-bello-con-puerto-berrio-3599561",
+          "pubDate": "2026-11-09T19:02:52.000Z",
+          "snippet": "La decisión permitirá financiar nuevas etapas de estudios y estructuración del corredor ferroviario de 182,1 kilómetros.",
           "_priority": "ALTA"
         },
         {
-          "title": "Alarma en Atlántico por 72 mujeres asesinadas en 2026: el crimen de una madre y su hija de 14 años en Soledad aumenta la preocupación",
-          "link": "https://www.eltiempo.com/colombia/barranquilla/alarma-en-atlantico-por-72-mujeres-asesinadas-en-2026-el-crimen-de-una-madre-y-su-hija-de-14-anos-en-soledad-aumenta-la-preocupacion-3599418",
-          "pubDate": "2026-11-08T21:21:14.000Z",
-          "snippet": "Los crímenes ocurrieron la madrugada de este domingo. Organizaciones de mujeres alertan por el aumento de homicidios en el departamento.",
+          "title": "La conquistó, se la llevó a vivir a Santa Marta, no la dejaba salir y envenenó su desayuno para que muriera: la historia de una mujer que pidió ayuda",
+          "link": "https://www.eltiempo.com/colombia/santander/la-conquisto-se-la-llevo-a-vivir-a-santa-marta-no-la-dejaba-salir-y-enveneno-su-desayuno-para-que-muriera-la-historia-de-una-mujer-que-pidio-ayuda-3599666",
+          "pubDate": "2026-11-09T19:09:15.000Z",
+          "snippet": "Los hechos iniciaron en el 2019 cuando inició la relación, pero todo se convirtió en una historia de terror que acabó con su vida.",
           "_priority": "ALTA"
         },
         {
-          "title": "La condena contra la Nación por una inyección mal aplicada en la Clínica de la Policía de Envigado que lisió de por vida a un niño de cuatro años",
-          "link": "https://www.eltiempo.com/colombia/medellin/la-condena-contra-la-nacion-por-una-inyeccion-mal-aplicada-en-la-clinica-de-la-policia-de-envigado-que-lisio-de-por-vida-a-un-nino-de-cuatro-anos-3599474",
-          "pubDate": "2026-11-09T06:07:47.000Z",
-          "snippet": "En 2008, los padres de un menor de edad lo llevaron a urgencias por una infección respiratoria. Una enfermera incurrió en mala praxis.",
+          "title": "Barranquilla | Investigan ataque sicarial que dejó dos muertos en Villate: una de las víctimas habría sido alcanzada por una bala perdida",
+          "link": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-investigan-ataque-sicarial-que-dejo-dos-muertos-en-villate-una-de-las-victimas-habria-sido-alcanzada-por-una-bala-perdida-3599670",
+          "pubDate": "2026-11-09T19:01:00.000Z",
+          "snippet": "La principal hipótesis de las autoridades relaciona los hechos con el control de rentas ilícitas en este sector del suroccidente de Barranquilla.",
           "_priority": "ALTA"
         }
       ]
@@ -114,46 +99,46 @@
       "color": "slate",
       "items": [
         {
-          "title": "La salud cuesta, ¿quién está dispuesto a financiarla?",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGhNa2ZDeXVHZ0VMazRsbGRYcG9mVWFWVHQzVzUyRlVPd3p4anBaam9kcEpydjQyS3dKeVJmaFFpQVpfSS0yNW5ITjMyZnZNVHcxZlkteUIyZmZISUdhd0M2YXVTSV9jQmpISWY1bU42ZzNMZzdUNVg4RURZNUVOcklFSkxjcXhwejM5WXJQRkU2Zk50YzlPaGExYmZiWS1aR0M2TnRFZ3FjS1RvSW1WeGVTS3pUQXZ3Q2Q5WWt3UmRBU3NFRlNpWVBDdw?oc=5",
-          "pubDate": "2026-11-09T05:34:02.000Z",
+          "title": "DNI: así habrían sido los ciberataques a la Registraduría y el plan de interferencia electoral | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVVhxNUNUdTFmQktJNlZuUFVPOWxHLWlYcmxTUUpjSkozcDFkVHBrTUVXSnMwUFNSUmdWcHB1eDdZUDRuZkRKZ1JKWEJMRzBrdGFodDJfNmNfbUZJY3dxUnk2YUFfbnFkc1lDYnZSdnJmVGVybWkxM25DUGMyMDE2dVBFUzYyOTlFRC1XV1k1ZlZQejUzUHhiQWZBdlpzNHN2Z3hWQ2JsYWFPZ0Jj0gGyAUFVX3lxTE9VZGlveS1EOEhiWW1uR1ZpOVUyRmlwT2NsYkhRZG9wNVBVVXBkYTdRX3J6M3dIOFJuUDZFaER2S1hJMGt2M3VfS2swRGZEWXBMOF9tYkFCNGVKX2dxTERlV0tOcGZXOEptX01ieDBYZzhuMXI4aVZ4bmpQb1lNeVA1Z19nX2M1bWp1WUo1MGctVFRNOVlaUVlUR2RJOTcxeU9HTDRzSnZlNVpLbkswLWJ6akE?oc=5",
+          "pubDate": "2026-11-09T19:58:05.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "¿Trump se echa para atrás? Admite que su política migratoria ha sido “demasiado dura” | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGo0YjQ1TFQxdjdyTW9qazdGTHN3ZzZEWFY5QXpjNmJMNmhjUk8zSjJnZWh2M1RXV3hLeEVPS2xQLUlUUXhiQnBINVVscjFNV3JxQUNoV09sRVFvWGFaeE9wUVYtZ0xQUU1vR0Rla2RQT2tjVC1KSEY5Nzk5LWV4M0JqR3JMeXdQbm1EeDg0eUo0WFpZOVVjMU5ZcEVZWElKeGtONnJyMFFKa1dnQ1JvVmJINmxqWU1ZX3I4NFBOSnFXMjR5eVHSAcsBQVVfeXFMTktFT2RrSC0wa25LNTB2Qm5hV2ZlWm9ZT2hLbUI2THJyQnVHLUlxSG9KX0ZIOFhYQXNrdWZEV0N3ZHhuOUlCOWdZYXdlaW04a2NWWHRoLVhlX1p2V1hfNzRqMW52MV9CalE5TUFtTG9xRzVTLU0zZlE4dHJINXllbWRPY3FYY3RzYVEweFEybF9nMG00MVVGcW96eWhOV2F4QXc4LXdnOW80TGhLc3V0dkpwcU9jWUVvdWs0SW43SFR1TnJ6M1ltMzF2UE0?oc=5",
-          "pubDate": "2026-11-09T00:07:09.000Z",
+          "title": "Vicepresidente José Manuel Restrepo exigió investigar denuncias de espionaje y presuntas irregularidades en la DNI: “Es más preocupante” | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbGFjQldJOHA5bzVPbnVtRFh6MXA3NkN3T2tRSlN2Si13YWpXcjFJM1ZMQkg3RnZJSDlZSGJvS3RRRlFaOGhWWHVSRkxvd0pmVWtZSnpqa0x4Mm5RTVAwSzNab1dhX2JuVmlhcllZUUhaLThFWUQyNExVeXlKMTM1VmYwZVJzTlR1cEwtVFcxa1NoR1RLdmxJQk1jYUp5T2FlcDlrd2xRZjFWN3pRMU5ORGQ5SXRrWl9veHNuUEN2LUZtX1BoeG5qRnZYZTU4YjBxM1dRVnBEUGPSAd4BQVVfeXFMUGlKUHhPNzFjSnJBU0tUdTBnb04zMFBqN3BZdWpnOUN1aUsxWENRdkJoWWQwcGR3d2ltTEdabXpCaFpGMFVzTVIzOXNNRXctY2pCbzgxOEY4akwyRXY2ZzhJNHR3cF85d00wdkotLW45N25LZFh5RDBTVEkwZFJIUG1qUVJxdjk0OUprZGxicGZCcThEbWJlRVZBWlp1d3gtbE9DSHRwWkVDUGtkb3N2MzBhbGxHZTBXamUtOWphcVBVOWcwekl6SVhFV0gxNkxfdFUySS0yY2plcVl2OHBn?oc=5",
+          "pubDate": "2026-11-09T19:58:05.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Dos mulas cargadas con explosivos fueron incautadas por las autoridades en Anorí, Antioquia | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQy14cGZnaFdXVWVFaWU4emRkcTVIeEtrM1FQUGdNLWlvamRESzBUNjlVZzUyM0FsbjRpeTZqOVZxVmdNWU82WU1DZ3c4ZDJzSEdmazlHckpoeFVDR3JrYmMwU3NKMnp3bHdidElXYVRfYUJHQWtONjZVSWNpcG5BOUZ2b0w5NUJ1TUF1WlVBeXktQmdvX0QzbE1pLTZBZmdhWHh30gGoAUFVX3lxTE04YkRTS2YxYmNsU3FIaHhkRVdia3ZnVUxNX3R4cUV3Ti1pcC1PSnZpbnpWVFowOHVkaXk1VUZYeXBReGRFQnpONWlOcEZwWVFFVlAxT2RCOXhQZDdUQWtRMUZENHFhNjVsOU83ZlRPWEVpdkZkaDFOeTNra3FSd0p3YnZuYTVtOVBmV1o0NUJydjE2T0VuWkVObjhtTEpsY09uZ0V2WGFtUA?oc=5",
-          "pubDate": "2026-11-08T23:07:10.000Z",
+          "title": "Corte define si proceso a Uribe por masacres en Antioquia pasa a la Comisión de Acusación | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQenBEcy15UWtHellRVHhMNGVDZHY0VEsyOGUxT0pscjRpY1d0ZnZHUWRYOHBmQXVxX2MyLXVvbm9KTTU2a3QxeEpQZ1ppMlR5NlM1ZTdXOS1ZN2xuZUhyTXluNGh6NzlFM2dTYlVUeDFoZmRJRUpPcW1LYnprb3F5bkc3emdOTWJrZlIyRmFwTG1vck9RWlBDaFY1Qk9BQmlQdkdvZEtTMlNqTzdvM1YwTWpYaV93QdIBuwFBVV95cUxPY3NPSVhvS0FreGJ3V2RscXctVm10dGU0MUdyd1ZOUmpjWFFUT0xpYWZDOFpXVDQtMThNdGdnSWwxSVVHSnRiMXNPNUw5SUZmUW8xVzlxYVZmclJWTXhYSDZPNUxYZElwYndEdGNKMHNETGhzSkp5M2FRR1pxZENLb0lNcTQyOG13bmxJOTl3SHdmU2NLMnFKakU5NnpWekI3WGxPbjEtR0lqYWFDeWF2YV9FT0Zqa0dndTU0?oc=5",
+          "pubDate": "2026-11-09T17:02:08.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Destinar a la salud parte de los aportes hechos a las cajas de compensación",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaUNFUFZ3Rl9EaU1lVHBFa2s2SGNFbnV2WnU0Z000SDVxRGlvdTBSLVlxVVlEUWI1MGt6STVHNzVQbmZBOEJFSTFfS3BpRUhyUU56VVpqSWVYamZ2S0lPdGsyX0h5alJyVzRKRmpzbkFlOUQ0MENMWVhWNFZtYzYwM1NSdjd6UFFkQndGcjdBbHBkSDBPem5iVUhNNGdtNkQ1LVlDclN5emVuc2xLT1EyeWlXTGxwUkpKbUh5QWRVY2RfT0FKTExaUnVhQzMwQ2EwZmM3NHIwLTkxNnM?oc=5",
-          "pubDate": "2026-11-09T05:04:45.000Z",
+          "title": "Interventora de Hospital de San Andrés dice que no hay plata para pagar equipos básicos de salud de Petro | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0lpSEtlTi0yME1xRWFiVUlSejR1eFp0TVpTcFgzMG9EQ19ZdW1KUTVkdXVudW8yei1xUzRPdDdZUC1yUGoxT0x2WFdhc0pOaFc4VVN1TjJCb2xITzhmQm80VE51YzlGemxIOWY0N29iajhoUFdaVW8yNGw5MG9LUzdmWlJfNk02bzlMWUFKckNFNTdhalZaUW9Jc1dkaXdnSm9BNnhFOUg4RXZtczhHM3llT1lwVmtfSlFxaNIBwgFBVV95cUxOcWRlNEpOUjlhOUpnWVQ3ekdPekZFOXROYlhwSjJhVUVuR0piZTFqZEtzSmFqMmZMNDBhZTBQQi1OT2dZZncxeGhTRzRBQ0h5N20xMjdtR0p0SlNPZHVodjRIVTc5b25DRG1lTzV4UWJCcVNkdV9yVG1KeEtoUVJwZXNxU1dDT0ZxUTA1ZENZZ0FyYUY3X0Jsa2Q0a05zWmZxemgwUUt0bDg2ZFFuUlZpWVZKOTJUZDZIUm1QZU9jbGJPZw?oc=5",
+          "pubDate": "2026-11-09T19:50:50.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Nacional y DIM serán jueces en la última fecha: quedan dos cupos disponibles entre los ocho y así está la pelea | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcEFKT1NfbFdJeHZBemRVUjdRN3VYNmtBRmJOOTdHdkRPMjB1Ui1OUndOenpHZHkxeHhnRUktU1gtNmw1RWx2bDRNS0xqcDJLWEs4NVlwOEZXT1JUMXJJaWNvSm1MeHEycENpeWJXWWd0dl9Sb1pDdl9nQncxQmtTYnVJaDZJcU9tTXdUSTU3aC1mY1hwWjE0SnJPQkJZZGozdThYUGY4SnVxZHFfWGlOdjVsanVKaTRXZ21FOVFn0gHDAUFVX3lxTE54VG9NSGpNVUZOaWpYVjZzR01rR3c3ZDVJRF82RnEzTUxjSzJ3aUJCTnBpY0JtYlBvOXVkOHprbEVqMFpSTGUtUmhDQnVHaGttWm1HYkRVNHMtOHJLUERoQ2ZWMFppOXd0aGZwb1ZrVVRCbm1vZW5PdzAtQXVqZzlnRDU1b0U4eU5wZy1LUS11OWRIQVU1cmlsbHQwNmN0Y3NEeXg1djRHU0pCaUV4SmZZdG5sdXdBdUNxbzRIOU5hOENrbw?oc=5",
-          "pubDate": "2026-11-09T01:57:11.000Z",
+          "title": "Uribe rechazó alianza electoral propuesta por Petro: “Ese tema no va” | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3NoQkZlc1hieU9McHVVTFY5cEl2ZEJ2UWRaTzVITG1wVDZmb1VkNnZJRjUtZHZJVWd3NkxfbG95QVhFNmVBdTR4bmVJdlBlY0NpdnpFNGg5dWFpd2s1d3ZwenZWY0JZQlN3SUZHVXpkc1pKUVhLdUFRRkxlSklFNEEzeWdoTTVRSy1sVkRFUW44VmVtMGdfMzAzVnMtWnM1enlmajIzcHNrRVZGVnRrVEpTQ0pqYUxoZl9jZlVCbHFpY19EMHfSAcsBQVVfeXFMTTk4bWRkaGZQdFJrWFhsZXlDVm5xNE11dXc1V1pMQ2xxWnB3U3RQNmRnckZwa2FGYVp5VUw3cGR0SE9Jb19mRUExbW0xTThkbTRoTnFGS01sMW5PVUdvaE1EZ3NjeFFiMzNOZlA0dERwWjlVYjd5ZGQ1OHcxd0lQU0ZpUi05VGFGbjF3dE9peDBtb240RVltcG5EaUV6S1VkV3dJaWdtU3hCeHBMTTZCUk1KZF81VzlCQ3JrVU9MOHBsTjI4YkpDNUluR1E?oc=5",
+          "pubDate": "2026-11-09T17:19:01.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         },
         {
-          "title": "Paisas, a sellar su paso a la final de la Liga Profesional este domingo en el Iván de Bedout | El Colombiano",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXV5aXA3Z2VUZTVaQ09Ec1lKZ2l6WlNvelVfVGtZaVc2NmpndnVaUGhWd1AtWlNOYVJadXdkOFVoR0FCV2Z5b2hJS0lDcmdPeXFKNUxxcUw4dmM0RlN5RVpzQUFucVNMQ0pTSlljZ3F4Snh5RWxhZzVnaTBYZDFJMWZRendPR2dPcG1JN0pZYTJhUG16NU1wZW5ZYXVGdEpyV29sWnQtTVJtVWNWNUZwWXZJcGhrWV82UFdEQzBqZUpqbEROaE1SMVFGNlJURmfSAdQBQVVfeXFMTzYybklOQmsxLVYydVh6YnRxaW1MVnVKQ3NBUUotOTZHcy1BMWJjT1N2bmlkZlBKVWNUMmVuV0FDWW9UWUJIenA5THNSZEVKS3d1aE4yTjhvTTFhX3J4aHF2QnlEaHlWRHNPRWlFN0dyOW1maHNNMHMtX3cteUJaMmZSbTRTa2pNVGM5Y2FSclp3YTJLRUVTLVU5WjhOaHlZWTEwSkNRWnJzT01YR0hhOE5UWmZYLXluYTJzZjBkVmp0dUpDRk52ZEhZOVRxMUdUdDB6UVE?oc=5",
-          "pubDate": "2026-11-09T01:33:02.000Z",
+          "title": "Salario mínimo 2027: ¿cuánto costaría la hora laboral con propuestas de empresarios y sindicatos? | El Colombiano",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQThlR3VvNUswVDFtTzh2RlpOWExSZU03UDFMbUdwWUluZmthZlJiTVdidUlfajhHbUNudzNPbGZDZVlwcEtLZHp6SkV3Zk9FOUVWZXY5aHdhMGdJRkNkZkZuY2RCbHFZWlRxTXBsVHBwS0stN3EwSVVUQnRiNW1ZR3B2UTluR25iRURpY014N3dpLV9FcFpVYmE1QlfSAaIBQVVfeXFMUEVzWFZJQlc1T293Tkg1Z2lPVmtKTVFNWHhROEZjemxyUkRWUUJJZHRNQ09HWk5oYmMzUV9RcndQNnVla0dSUE9JZURBN2o3T3RrVWczeGN4YjZLM3lwWFMyOU1CM2ZZRWpoVHRfb2QtVVU1cGFaY2pIWndQaGZSNEJDSVRSN3M0RHR1Wm12dHB6Sl9saFpCVENnWlBTWEpjenJB?oc=5",
+          "pubDate": "2026-11-09T15:44:10.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         }
       ]
     },
@@ -162,44 +147,44 @@
       "color": "cream",
       "items": [
         {
-          "title": "ELN fue responsable de atentado terrorista con drones en Bolívar: Mindefensa",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVIzUm42YklhQ0ZwUGtuZHZQM3lGRnllWThtQmhOZTVLNEl2SmhEUFNIc21WaEVQM1FVR2pVMlJSMi1rbDY1T2kxV2dndnF0MTBIOHlDVWJ5OWpRcTl0a090Z1p1bHIxQ1NmRGtQYWRXdEV6ZjlNU3ZuaF9yOWpUSW5VaGZYOTBxdmFXTjV0SVp1WWFOSFBNalFOS2lIb3Bld0MxbWZqZFBqMDJnRUpRSTBn0gG_AUFVX3lxTE5UOEp1aVk1a2FuMGpoYTMwY0hHUDdXUHBUWklqS2g4UTc4cGZyc2hzNU0wZU5zRC12R25WNV94dEo1d1V5Y0JYOWZpYkp3UXlCcVlOcVRSYkx1UDNncWhtZGhyel9hUHBOYWU5NGZmd0owY2ZFNzlFb3RkTnc4WjhYX05MYVNpS0NsbkVST2pNcThpdXk0dkZhN25KSFFPakJ4TXF2RFRMMUtHYzJoTUxxTUszZ3Z3V1FiZkcya3Fj?oc=5",
-          "pubDate": "2026-11-07T22:15:41.000Z",
+          "title": "Fiscalía seguirá investigando a Uribe: Corte se abstuvo de pronunciarse sobre lío de competencias",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUFpvalowdEk2TTlFZkh0MV8zRF93ZlNCWkxfNW5ha3BuMENWUXB5UlJBSGR0czA5VmF2RENRdHFHWDFIU0t0NzhNQWJGZEthWXh4UVozVjh1cnJ5Nm9FaHZKcE9TMWllcV9sVC04VXd2RzI0cUR2NHZpaFg1RlM5eExTWGNXaFVEWEVwU05MbjRaN2xkdmRmQmdGUmJqYnJhazJIUDN2c2x3c2FEbDVZVERuQWpsSHlNR3JBWnNRdllkZDBBaUpKeHh4YlhGZnIt0gHeAUFVX3lxTE9FY0FBR2R2NU1tLUZkMjJ3cFAtRGp1R3ViVWJKMk85TU5qZHljR1p0bEtQa0UyQS1UQm1PaS02YndVaklQVmt5Rl85bV81R01nSDUwOEtHT0tFaURsQ0U3bzhTSnA5RkhtYW96ZURBUW0wTmZTbndMS0ZINmRHS1VUWEZBeUxVZ09yeHY0dFpRVllGUjA3WlAwZ09RT3FwNjVyanFYWk5EX21zMGs3MmhfWkJVVVlJWUdGTnVsb1hLa0FOMEUwR1E3UXhJMUtLbFAwamdGYTFlbjVPZGd4QQ?oc=5",
+          "pubDate": "2026-11-09T19:19:23.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Peaje de Villa Rica en el norte del Cauca fue blanco de un nuevo ataque con drones",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcThTUEpCLTR5bFJwOFZ6NUpEWkh2dFIxb2YxUHNRaDR5VUxJLXJaYWlYaklfeldURFhEZTY0MmFpcGMzaDg2Wlk0QklxT3Vfb2tTODhyLUMwWkpiLVZqQnItQ2F2S012Tkg1Nm9ha21NUHBxLVBVRTRJNUZ0aFh6NVRCUE5lMTJ4cXZqSzZEbFYtUWlOMlE0V0h1UmJ3NERWM1REN3c1NW9zYXlWMUZYVUJ5dThsa0xVcVZMNGdOQmdsTHRJaWZaOGZwVkHSAdoBQVVfeXFMTWNLcTZIWFUySTZjNDQyOWRVTk9Lbkxxbk5qemVycUpPdHNVTDBtczNwLXBEVlctcnFSNXVrQUl5LVpySWtNWEJNMDVhWW5xZDdEbnJMcThBYWJ2MUxqaHVuVnZzR25tdjZVeXVSVHFhNXE3MGcySGpZdlVPQzZielZDZnM4MDVlMnByNjdqSlI4dWc3U3VNYlJkRlVqcDlyZ1dYbzVCb2tjOHNMQ3A5ZXpYVmpVdGU1WGhYcV9aY2ZXdUswUG1hcEYtMjR0SzZXMGNCcTltbC1PWVE?oc=5",
-          "pubDate": "2026-11-09T00:02:21.000Z",
+          "title": "Las cinco fases previas a la captura del hacker Carlos Oyola, exfuncionario de la DNI",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3Z0dG1ESHBfUk1xelludEI2bEdWZloyaEhkX0xlZzI2LWZLXzVZS25wOWlMSHd0anhxOXlzaU5UT3VjTWVCcVdBeHpwdnlOb0JSWFd5TWQ0RndIQXV0c20tb1BxZlVnZFozTk5uWHhvckVqWUpIdWl5azJoT3FJT3ZzNlY5b25SeXlKTlpNcHNrQXhrdU5XQ3A1NlJFaFd2NlhhWVVRUVJVOE9naGt3a3prTXBTTWl5aTlKdV9HZDPSAc4BQVVfeXFMUFBfU0E4WnpnUm16QXpKa0ppSURKaTk3RWZrUUZNNm5aLW83QTZDZk8zdGQ3RXcxUVNYRTdtTThvSFl2MVR6R1V3Ykk2R2VGLThfcGRHVWtac2Q4eFZiUmYwUnl3ZmxQdjd2eGtJbElTMWFXZ3hLenY3M1ZEMHFpQk9xeE9NZFI3NFlWT1NnX19xTzUtS1lfMmtUY1pFV2JsYmNNTDUyUlVqaUdJVVNGNnZRVVNjak5WWVpHbTVCZ3dRTEZ5MVI1RUViY21YMUE?oc=5",
+          "pubDate": "2026-11-09T17:14:06.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "“Ningún grupo narcoterrorista silenciará a medios”: De La Espriella tras amenazas a Caracol TV y RCN",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN21yaFJDWnpmSC14aS1IbHFPUGJybXdwcS1oNGhqMVY5R0pjS0c1N0VxcFZlU1pKSHpKYW44a3BVZzZYNU5KaDhZUnY0ZU40emgydXhWZ01Id3ZMWGFydUllbmt6Nnc3MlhUd2xXaGF1OW1QSUhkb1lsWEJnS3RaYnVpbG5FdUlMSFgybFVydThmWnlldzhVNzgtVHFTRVpKWWZ2cW1qemFhNlphaDVPUWtWYXdnSW5sODhhOEVqRFBoVDdQRUU2MVdtazRjZmfSAdwBQVVfeXFMT3FRSU5jbDJUb0xRWjVSbmdySnZZczV6a0lOS1hqRVczeDNBQk52MW5keEVkcExFb2p1aUZUZzFldE5jU1dZdDB2cDQzOU8tVmUtc0xtcGRIZVQ5ZDZXeHJMZGZoeE1Ec2J2M1RCZzdrRXZvZFkwUTcxbVYwbFUxMmR6NEloSWVaWjQtYlh6UkVPc2ZYNVVpbG0yM1pJNTdlR0dPWDRxSUZKSmRzMjlqZDNSdkNRM0d5b0NHTnFrekZQZ2I2Q3dSaTZETmVzN1Jkc25pRWt1UXozOEFEZQ?oc=5",
-          "pubDate": "2026-11-08T13:15:29.000Z",
+          "title": "Crisis humanitaria en Nuquí: más de 300 personas desplazadas necesitan ayuda urgente",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV1VPS1RjZkg0anJWNjlIYTgwNUNURDRQdTZIdC0yV3QzM0Z5YWRhWFF1bTNYV1ZMTFV5cExFMVFzTnNnOXR1dm83Vms5WS16SGtXRXY2eVhHb0J1OVV3endMdFRFQXJJU05CQ1RwNnJJYlotcW9yY1d2QVJOcnY5UWZaOVg5VXdnaGh6ajNleTUyNld0aG5fWU5jdG1CZnZSVEpOOENCcWxNSkVxdl9STkR5QVdqYlFoa3hObTdUUkRpbC1TaWFjZXhYMNIB2AFBVV95cUxPMlpzekVMWU9CZ1E5b216V05JcEhuaXhoTmdHYlBVeWladW5pbml6YmVkU2JwajVYbUhQWjNCYkZVUlJDT2FuRlJNMnhsOWstRDZ2ZGkzck5wNmhpSmx3NzlHRDZkbmxZcFRZVFhVNTRySGl1ZjNjNGdnTWFQa0xxa2Y3cDZZX3lkUUVCVklYZU5nX3JRV3F2V3ZqR1hHYTdHRF9RX1gxb0RiUm1QOEtoRUpjZ3E0ZHFMMkZCZ1NlVGs1aEg1eDRaTE50cENNdDBlRlNqNFd6WEQ?oc=5",
+          "pubDate": "2026-11-09T18:24:43.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Evacúan instalaciones de Caracol Televisión tras recibir información sobre un posible atentado",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGhTSVFac1FLZDNZcmlOdzczVkREZWVTMU9fMHRkVzhRdktfODR1TVE5azhtUWVJY1JMcHVlTkFwckstYTNWbWJPZjhJMlF4eFBfTVZ4bmVyTVJyOVlhR2NUOWl6MThqaHZaam5tQkwwTDZyc2l4YWZPWkJNTVlueXROanFQSjg3TTVmRjJXT01MMmczblVfM1lxOXpkVHFWVEVzNW5ZZDYxeWdoMmUzM1pIX3JEOHlfcVlicmVXTGFJdXQ4WHQ0RGc1T0ptbXFEbkhqMU9FNm5uLUZ1TkRJ0gHsAUFVX3lxTE1FX0FGbVExaVBtZ2ZFRThkVGR6LXNwQ3k0cU1PejZJNkN3blpDel9TcXlUSnNIYURwYUlSQmZPNkJzeGhkb3RfbGtsTkNpRnl0cGhOSDJMNXJfSlBrLXV2ZVNwN05FaUZaYlg0YmlfYVhPNzNBUEVBbXdhMzEwR2FYckFKdkM3XzhnMmpsTDNocU9kQ2wzZjF1Nmw0T3ZSZFM4MFJSSnY2cENOOUdkTDdHa3F0cXlsNDRZb0FfU2dTNlMxcTRTODRlbGJ3a0lfYnRVVXhpMUdXSlRZM2pzUWpuN0JLMWJTbTZZdjdE?oc=5",
-          "pubDate": "2026-11-08T03:08:00.000Z",
+          "title": "Lluvias mantienen incomunicadas a comunidades indígenas de la Alta Guajira",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEhJam5xbTdZbndlWmVOWFRyVkZVWGNpVVc2ODhERl9nTHVkTUw0WnZBNDkzT2wwR3VlSEJ2REF4Q01hbml3TmxhbEZLdURFZURGc0dCX3MtMjFpUndWY29jeVAzbF96RExad1V0d25GcElvNU4xZFA4SUI5WlZENWxONEUyUU4yMGlBZmFVbmVHVHhJblI3eTFJS0Z5UWlselNPT08wOWhiOS15Q0FqNmN6bGVxWF9FbVA2MtIBygFBVV95cUxNQ2QtMDhycGpvdWhjS1ZPLVZpdmkxSkRGbjczRzNBTU15ZGxteV9OMnNYY3hJVzNwWEc2SXlrWmp5U3ZvN1dOR3NvLW16dGgzN0Y1X3hwU3FfRTIxYU9BMmFGOGNfd0ozRVVVWllaRGNHanJCMmVkRk5Nb0dLVUY0UW5ud1dPaUdDWnNmMlZPYmxxVW9Td3RTTTVwNXg2czltWlJwOHQ0ZjN0TEdZZ3RfZE5QbUUwWmpxVzJUOThqUEhBMWxuOHNKbGxn?oc=5",
+          "pubDate": "2026-11-09T17:37:30.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Donald Trump reconoce que su política de deportaciones fue \"demasiado dura\"",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmdJLXJab2NLQjN5eXpWVlRiWF9qZ2g5TW1VZkhwQmxkU2tDbzQ4YzRHR3M2T2VpX20wNkJRWHlFYmh4YVJkX0RCTHU0bEFWT25GWWgtZlVWQ1RSeFRuVHVQV1BuYTZNT2pOaHRlU055bnUybF82dkRrQWNIRW1vZkV6TlFnS1JYUXNwcElBOVhCTUctNER4dmdmM3lVWDVIYnJWdmJxN3FtU2doYkHSAbsBQVVfeXFMTVhTbk1DREZpNnRILWo4LUVMNmdYWnE2TmowYV9JMGRCT1NyekZiUzV6UmtqNUhuWXg3bTQyMmhIQ25kZW9memVmVHFkR280cTFnR05XSDFmUE0wUldMRVJyTWNNY0dqc21DZHlmV1loZ2h1aUlRb2tyT3prc3Y5WU03TnliUGJOU0dfU21OazFUY2J5Sk9hS3VPWElDdnNwQlBOYUNmeXFfUFd1WWNXek5mbGd1ek1teFNWcw?oc=5",
-          "pubDate": "2026-11-09T02:19:38.000Z",
+          "title": "De La Espriella anuncia captura de presuntos responsables de ataque en Medellín que dejó 3 muertos",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSnN3RHpiVk5PQzBoaWxwS0FSZUd6MU5pUk1ETHhsdjIzZmV0QlZoWkV6alBKUUVtMkdCU3J5WFBvclV0TzBWY2o5UksxRTZ3V3RrX0pEcXE3UDc5LUVkU1Z3OGJRV2xEUTVkMkpBMjZGekZsVFo5d0djQmZ2T3BvRG9HZHh1dGVEVDhjd1I0MW9qVzBiMXZneWZiaG0xcFBwbGQ5dGd1cUwyc3pXNFc2eEx4TkxPS3dIbjhmVFp6bnlXazdSWnJCMkNRc0pGVmVvaEt4RVlyMjZfMGw0ZTZUX9IB7gFBVV95cUxQZF9ZaTNpdWlCNExRV0J1NmF1REY1MnI2ZjkybFp5LThEakEzNDNvQzNwMWlvUlQ0ZWY5eW9aNU9GS2FLV1k3amJ2V3dYTGlOVkhEVkxwZ0FMcHV3T2lOZ0dJVUdaSnRiT0RweFYwcDM5cjFsaTJsa3JwNHlkQmZXcnVmOEJPQWRXRGozeXpSSVlkeGFzTV9TbkFGdjAyc1FyMG03OFkyTzVsTlFlQ0QzaEd6U0dLUVRFRkVqenVvS2N1NGY5NGRmTmFDUW1YWGQxbFlmSjlKaE1YSlYwWk5kai11dkxGRm1veGxhN3Nn?oc=5",
+          "pubDate": "2026-11-09T16:38:56.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Corte Constitucional definirá en sesión extraordinaria quién investigará al expresidente Uribe",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWdhUDB0UGtBZmpaNDNyTUxtVTNEcy1qXzB3TEFaVUpRemN2YWVmZVBSOGJWRXVCbXI1My1rWWw2OFoyOEUwMWFWM21EdzJDTVdQYzZManYwZEVzbHhDUVdwekpmN1hRWmZQX2dIc3kwa0k5YXdXbEtqUnptNllWZW5UQWdLUF9faVBXbjRMazBXT1VoZFdmcXQxUW9nc3hzbWd0enExNjA2ajlrN0VESkdaWWIweFNTNmpUNTFsMGVrTUEycEdneXE0UdIB2AFBVV95cUxNNFJSQ0t0Z3JzZm9NRTlmN3hVY29WdjhuYUFyNG1QakNKRWpjd0dpR2Q2X2IyeHBheDIyNGE2ak1Vb2Z1TlZEaW1MLXJyNWpmMzdtLXgtanBya21oYjJfZjNIUTNucXF1YzlfZVJqTWpBMVc3V0lMVnJJSTBjd2NUemdvNmYtUmptMmc2RGFiT0xnVWhuSUZPaEZRbnVjaksyV1VWdlIzOGgwSkE2VHFJYjFFUF9LQlM0OWJPVWhEQzJTNjBmS1gxSF81RFVBTnFNeTBEZVp6UFk?oc=5",
-          "pubDate": "2026-11-08T19:56:26.000Z",
+          "title": "Campetrol advierte que el gas importado cuesta hasta cuatro veces más que el nacional",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUJ6NUtVNG1VYXBSZk8tNU5wSnF1cE9OTTlYd0hQUU9XUVdhYzBhVWRsaDNWMFFkbjl1VnF1MHRGWjBuUGVTUVlBYUFGT2lCN3BtUW1qYlJMSzlOcTVnRjJsMlU4eElLSUZnbU5zZTlWa24zZERlUGl6S21URU9FeGl3VTZXbGZFMG4wY1ZBMzBCWFFHclJtNkpYUm5pSXRQcElIUzFFcUVTZ3dfRmFuZW52SGlpN3I2T3NrNHR0eERMQdIBzwFBVV95cUxPdjZJYlhBTnB0QmwxWmhUQXNPUlo4ZXF5czNMbjZNS1FpMjJMenFmVy1MdjlEbFoxeGJTQzdFa3lIc3FvWFRRZ0xEYmhtb1F0MlJEX3VwYlFUM3d5azF1Sm1SNHM3NGt5WmQ4bkVaYi10NFdMQVRHZE5fWmVIMnFDUm1td3RBSFlQVGNlMlRRdm92eEo0VWY2aWdZTlg4VXphRmJtTW1zV3oyWEo1QS1FQjczT091Y0xndVFZU1Fmd0FMb2lrTHB0amxRcWNYZGM?oc=5",
+          "pubDate": "2026-11-09T16:23:31.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -210,46 +195,46 @@
       "color": "mint",
       "items": [
         {
-          "title": "Iván Cepeda y el Pacto Histórico piden que Fiscalía mantenga competencia en caso contra Uribe",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjNIZnBLeE5FRVhJSTJlaGt0bWo3MDNobXlfR0pYVWZGaUJCOU9LRGYzRjFucU5EZmlLdW1nOHBBekdROTBZSVhsRnJMSnBpRzZKYVJ5OEhZdGdIYmhPQUNIRXdvS1NXM0prb3RKNHVvb3JqZTl1dHRqZDdVZ1VrVTBMSmUyVU5FTVVNWW5FcVQyS2wwalFrMXZOM29BcVhSbURna2t4T3pPb2x0Mmp2c2haMzlSYXVOWkF5WHhVdTFNaUhuU0hZ0gHbAUFVX3lxTE9JaUhLaGJhdmJBdmt3WU5GUVdEdF9uZzloWHlJT1hfSTRtd1FNSXpqQjNyU3NhdXRvYzlGVmxCQWI1QUdBN1lXZ0FhRlRRbHEtMXZ0LVk4YWp3UThMNFVRc0ZJYkRldWlvc1VoRlJmU1lZdmNzMzZKNG5ta2xEMFRNRUhneXdhOW1kTVVzWV9nbmZxNF9DWjZyMjFoelNPUmhHaFNEQkVtV2ZfLXVBUDlfcl92NTZhdnk5ck1ocktEYUFWbXhqbmNWUkV6ZmQ2Wkl5TC1VSml0UnhLMA?oc=5",
-          "pubDate": "2026-11-09T01:03:38.000Z",
+          "title": "Campaña de Paloma Valencia habría sido infiltrada por el petrismo: revelan contrato de su estratega",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHo1Q3VTc3VuR2o2QmJhalY3clBqNngtRHozNzdOWVd3cXJCUXYtMXNjY042VDd2eE9GNGF6LUFQaTlLWnJCNTlJaU9NdU1GY0NwckptcU5NWjV1V0pQazc2QkRsdm9xLXJBWE9EczljNzBub1UybGVMLTZFeU82VGZST0NuOTN4cmlkdnU4Y3lUemZkVTdNX29XSjNwd0w0YW5UMERpSmlVcC0ybDVfemIwdl9YUHNyYU42eVlqSEtOVVVwVnRUYmJIUHBDUdIB4gFBVV95cUxNUnpoeFhCcVhwbGUzbXZvT0ZJVW84dzhxZVlqVldQV0l5ZWJYc0JXVFo3bndYQmYwNU1TaFdtb2RrZUl5d1B5aFFERmpjVXlsVF9QWGl2amdZbVpJSUExNzlNRnVDRnoyS2NsbUs5ZGxzOV9oLUlUcko3TVVoXzcyckllajBOODZEV1QwLTN5RVdCWkNER3kwOWhHeTg1bWlSUEc2VkNzdkhpcmE5ZmxnWU5kcGVDUXhrcDJhNG5XQ1RIX01MR21CVFhocXhwWHZGUmNMTVd4emo3Nm9mTEdDT2h3?oc=5",
+          "pubDate": "2026-11-09T17:39:43.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Tabla de reclasificación Liga colombiana: Tolima y Santa Fe se afianzan, Millonarios se complica",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1hWOGNpY096UnNhczlhS1YyM1hlYzFUQkFsZExiWXNGTmNxLWF6Vkc0aUozb0d6Qzc1NkEwVXVJRDFOZGZlMjYyLVRLMU1rbmxRY2g4TUtHazBsZEZIMUlVemRtTndOdHRkTFNlTjBZRzQzQ3cxNzc2Zk82VUJjMm1SU2dzaDhINk1UVGQtSWIyaVFYVjdSeU5uSFA1Vm5DRFFvUWlpenUwUmNfY2ZYTTgtZU9nTEk2OHF1bVdnOE11RldCNkNnMNIB3AFBVV95cUxPd0dYeXQxNlp2QmN1Q2tLUWxPbWZnNUFXZ21XUFN4ZHAtQ2F0R3Y0cHQzZWxKa3RmOVZaU3dHRWNnOFNydGxlNVVhQ0FzWjV5NXVPRXdBMFFfeHJhWnpyTWFpSEpTQ2dtdEJVWUVoZDg4SmRvT0hRRzJvZmV2T0YybmwwaVI3cDdSNGNHOUpERWlKM1FZQkdxSDNoUmNtUER2SlUyWEI4THEwMDdKTDM3S2V2UVZtTkRGa2dFbFFLaDBfRldyQlBFa2xhT0ZCZk1jdG1fUjl5OE5MdVBW?oc=5",
-          "pubDate": "2026-11-09T03:53:57.000Z",
+          "title": "Bucaramanga tendrá observatorio del delito: estará articulado con la Policía, Fiscalía y Ejército",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFhEY3p3RzFCQnNmOUdWSVZxcjJxRlVmV1lOZkZCYmtRT0Y4MV82M0h0OGtjMWJXSHNLRWVFV25WdXdfbERSZFdGaTFHZUVCZE83eWZYVmZYSWFpWUtTcDZOb1o1WjZuZVZ1NlZNZF9UYnpRbGxYcW1tN2lWODVZV0ZuQ0FMMG9nRXdiRjdEMGJnMkxYTWxxTURVbGw1ajhyRWZ4TGRaMVhJdThWNnNjZU1rcWZGLVhTcVZTd3BWdEZ4bWlOeWNjMGV30gHeAUFVX3lxTFBUWlRLS1NfSnppU2JXWC1TRkpIbUs0dGlTQjFlT2x0dGRyRDZqbUNRdDlOVHpLczN6VHJRYXNJN3Y3UjJ4MDVSQ1B5bGRLY1Z3b29KczRBOGZ0YjNOWlhhaGlSVnFlTkNVVl9pMXkxUXRjYzVLWmx5LTRSNUJCaWhYVEw2YXgxZG01elp0andKYzJiMnJXZ0JhcV9xZDVGeXhQNVpXbnZhcjBPVkJRa1I1aEJGTWwyME5CT0RxQUlWSzdFSGpfbXZsOVlMMW9tNjU1bjQ4VEZUblc2SzBXUQ?oc=5",
+          "pubDate": "2026-11-09T20:01:18.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         },
         {
-          "title": "Tabla de posiciones Liga colombiana: Millonarios perdió ante Tolima y aplazó su clasificación",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWNRZnNLcDg0WEZJVVhHNlpoTldjdEFtRDlmOTB0cExyRDJmMHBTMURfSjJFcnFPU0NSNFlmLWl5MlEtYXduaXFNWFVjLW9ReUYxSUVnSTJuYjBmcEtJazdFLWVRWURjLUFzbWVxb3NNekpYRy1ad2RKbXA1QTQzbTVnR2RmZ0RRTGRUczB4bkRTR3NKWElSdFZBNG1kUS1jUkJ0YjR4OHZjbzBiYmxXbHhFdXJKOF90cUdEQmFuTXpqYjRUNnfSAdoBQVVfeXFMTUViclFQZy0zc3NJUnhOenZ2UGJuSFd0T3RmaW8wYXRhVG4zcWRfX1JkcHVpVWFLM0NjWDlLS045Nlo3SWVVZHRRNVdXY2NBTmJJa1BheWFzRTM5dGVCLVJNcjAwOGdCUmdXWnFTN1RSM0xTUDFvM09qYmF0SmQ2b0JweldWOE5GTGNNRkl0QWt1ekE1MDN4VmcxbmZhal95cXNKSF8xUmd6RVViaVRiT1JSMlBVM1ZTOUFja1M2OUVaTHBSSEpsMmd5VUlfLVlmeFVfeEt3cWZGZUE?oc=5",
-          "pubDate": "2026-11-09T03:21:23.000Z",
+          "title": "Ejército confirma la captura de 22 personas por minería ilegal en el sur del Tolima",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDJEOTYwX09ObGt1ZmxUdlZGcDhtcmp3RWd2bmt5MUdsbGQxM1hsdVFKajEwaDlqc1VxejliUHhraUFTNjZ1UDlScnF4bUlhc3k3aGdHYmhIQ1EwN2NJTHQ4bV9hSUFGZG9FNjYyMXRVbFdVTGthaG1VZXpOZWl5d25SemxTZzd1SDNoM1dGd0ZMZXk5MmZwUWpNdi0yeTM0NVk1UWF6OEpqNUdCcE01SEE1ZzZoWV8zOXfSAc4BQVVfeXFMTnkzZ3BYOGV6TlN3MUlCcmhHV3lYWTQzVURpYjZQVlNtNWhFREdNUXNJNHdmRlo5c1BONEhGOU5lZXdLZXFTOUdiWlA1ZWViR2ZiUl9UQW9LV295X2gzS2JuTGY1RG10ZVJZVlAxbmpLQzZjcURTcTc2NUxoQm5EaDNkVmFRTnZtMmp6SDJobVJJQllUdy1YcGJQaHdMcVRhVHJybENEVVVwMXRvQXpQeUhLSnVaWkZHY3ZkY2hzeWNnQ3FkREU0MVBWVHczbnc?oc=5",
+          "pubDate": "2026-11-09T18:32:36.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         },
         {
-          "title": "Llaneros venció a Alianza en Valledupar y cerró la fecha 18 con una victoria",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUtTVEZKalR0d1J2X2RTNDU4eVVVeUEtTFBRcmNkdDRiajdNSUxBZV9Ld0s3VVVITWJqc3NCQlBkX0lfVTNGM1hVVnA1bDJLUThGbHVLSjhJS2VPUzZpaThrblZEMWtkdHNaVkNxR3JZM3hQSEFObUtmdF82ZkFNVFNKYmNoRW1MNmJvRzFzYTM0MHhtTWtvRDdUMzBWaXBRaGfSAbYBQVVfeXFMUE1lMGhLbmR5VzZfM21nNzJnYXVJZWhaZWpEeFRudE4xOEdmdG45eWdLMmFDYkh5ckNJRk0ya0pYOVlfR3JzVHBZUHdUb3gtTTZfNWYyY0lQR1JiMzA3LU5nMjZpSkx0d0x6LUxTTmtuNDJzeFQxM0l1dzNvQWV0eTFzTHp5dUsyWl9NQ3RrMmd3N096MzJnckdyM2Zwa1J5WmV4ZG9velFsLVV3VG9leGVid3RtN0E?oc=5",
-          "pubDate": "2026-11-09T02:36:07.000Z",
+          "title": "“Va a ser la suerte de este y de muchos”: Lucena advirtió fusión de MinDeporte ante la crisis fiscal",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZF9Sc1RscDd3Qm9Ec056d3lLT0pSb2JpNUtKazU4T3lpMWdXMjUyV0Y4LTZWLTlSQ1lxSUt4NkZiZHBSNDY1b01yTktPTUpJZjBJQkl2Y2ZRLUhySlRaZlVRMENLMURLUGlkd29oUEpnQUlnbGZPLWExVGs3dE9vMktQSjVJWE42VzBhNGhRd1JGREJmWHlvOGhtYUVsOWZtNFRwYXlqbnluTHlPY1Vid1RoVlRid0xvS0VnUEtyVFNCcWZyQWxxa3NLdFXSAeABQVVfeXFMT3pTYXFvY2N1cEllRjRUM0JSc0dPZm4tS0RpX05jNkl6NU81UWR3aEFhazY0NG5pamsxaWVwTlljVk80T19RT3BxQjQydUd0YThOeDY0V3FoUXhJaTltbWwtNEUwXzJJUExreG9JRURWcElhQ0FLUmZtNWZNSzRTeG5yZFdUVjI3YlhLaXdLUWhBeGN1cGVULXFBcTRGOE1Yc2NGOXpVd19VSndpWVdVcndXUmdtR0xwNV9qTHNLWG10cEo4OWgzWmVncmlsUm5KMWdPaEx6czgyTXNpYnFrT0M?oc=5",
+          "pubDate": "2026-11-09T19:57:56.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         },
         {
-          "title": "Jhon Arias jugará la final de la Copa de Brasil: Carlos Andrés Gómez fue eliminado con Vasco",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnZvTk9ESUN1eEd3aFJDcUlhWE40RzJOajJuOEtBNFY1LWlOMUFQcjVKUkZBTWw3RnNUWXYyRDdyVHR4VURSMi1ueVMwWGx5cU1LamRRZ2ZtWU9xeGhyT0hIQTMzSnJtek5LRTBtNjFwczRiZ2t0M0V2T0ZHRXRwcEMwSjA4LUFCaW13OHNHcnM1WjVQXzNFUGJZWFM2dUhHUldpM2sxdnhDV0FkUmpQdjVURUhtOTFuVjBGR01Fa1lCc2FF0gHYAUFVX3lxTE5iUUUtay1BRmpzdU95ZGZvN2ZaWjFRUVE3bmY3YXpiWFFFdVBYLXpBRlNVNnVxd19xZ1J5Q0VTMnptU0lET2NnenNjSmJCTTZDaE56Y1prbUR1aEV3RGpEX0hVZE9hckk1Z3lKcjBkelF3ajNNLU9aQ1cwVVREX29JRmtBemhJdGZUNVFoOGM1N0t0WkZLTHQ2emhfN19KUjJ4X1dha3pLVllVRUdmRGc0cXhyQ1lUSkFTS283cE1yMllwV3V1eWtJdktIWGN2VHMxWThtNWJhcw?oc=5",
-          "pubDate": "2026-11-09T00:57:32.000Z",
+          "title": "Cárcel a exsupervisor de seguridad por presunto homicidio en club de golf al norte de Cartagena",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlVldzh4QVhRaGVCRGRNNThOSzFKWXRGSmRaRnFMS09fMlBuRmhNZEVRNzZvd1B4c21RVTNpd25JWDM4c1VsM3FYcnpBT3J0UWxhZGg2am1fU0VtRlJsVTZEbXIzWnlYbk0xalpMU1VjNmVYNGc2anFnTUNPcksyeERoMWEwZk9JQng2eEo2bDNNVE9ZUS1wM3p0S1loSXIwODF3eXZjLXlBTkR3TlBIbVVhWDdLLUIzRWJ6bzJVd2JxeWR6NXZfQVhR0gHeAUFVX3lxTE5iQ05PNl9hM2ZocDRidEFUemhoQWFGUXNwejhBeW40N2ZhdzJLWENYUG5hZmhpMEROM3RaVklhM1dubXZGWkMwaW9fYUdzdU1DMzRFWW5SM1VIZGhWREp1U2NhQ1BCSDRqa24zRmhCZkYybHFBVmw1THQteldCN01pNHNCXzBIckRQRnJmUVhpUTZERndMSHF2TGwzQVl2ZDNLNGhhZ3RhNWF4aHhEejVFUExjMGJyMkR3czFkN3hXQmpKSWJxbmNnVXgtZUs4bHlGTERielZiYXRBUW9ldw?oc=5",
+          "pubDate": "2026-11-09T19:57:23.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         },
         {
-          "title": "Bucaramanga goleó a Jaguares en Montería y consiguió una victoria clave en la Liga: resumen",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWm1yRjFrWnJwVDVZanllRGhuYkRXYm5NT2d1Z3dNQVhCdWxELUVTa08zQjVhdkJHeVJjUDFwTnNWdERhcGVEdzRyNHJzZ0JXSnZ0Z2s0NXExR0tRUlBtMERwVkRzVVlObWFsYVpfLW5FWDBFcnBDRUpxRFhaQ29obWlZZ2M3cmtLTnhVY09lVV91RlRadElGRC1nNHJxb2lMSGhDVWswYXBBbGtQWGpFQXFkUkxkSE1MTjgzSEdnVjh4VUXSAdcBQVVfeXFMT1RrUTdZMFJZV0xBaXYzNFA3UnN6SzlWR0VtdGh5b1RDZHV1YkUzNjFkdXpYTXVrMjZEUVAwcXpmM2wySWJVR2wzOHh0UFB6RVprOGdqOEh1Mml3blBZMWtieWFVdXA3cHVBT1JCVmxXUG9uR2FHTm1lRFhlY0ZaTVpldzdiajFRMmZiVWR4bXpwcVBmdmVQcUwyeUpqTWo5OWZINFZ4bWlWbF85aXQwMm1FVnlabzNiZVNyeV92M3g5N0NTQlFZcTFnR3I3U2NWdWVyUy16d0E?oc=5",
-          "pubDate": "2026-11-08T23:17:11.000Z",
+          "title": "Dos hombres vinculados a presuntos delitos sexuales fueron enviados a la cárcel en Cartagena",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeHNCdGVBeEpDd3lDSzNxSG1seWQ3ZV9nRFFwRnRMVEhkZGJtZFZxTlVGSjR0bXFMdmVpc3pLMHpxTW9hYjlsRjJ6LVBWUlAza014eDViSDQzWmRjYUpINmlyYWQxdkdwYzFVc1R0YVdBSVZoNE82Yk9FeWptYkNqUko0bXZLbzdQRk5kVkFDUWw2Y21Zc192QlZDQkh1bFVnUmhvemVfTnkwSWxUdHd2bFJLaHdFMS1DUlFjYkxUSlFLbEw2QnfSAdoBQVVfeXFMTVVUWmt3OWkxVHBidTdQbFVzNzM3d3NMV3IxamlHQlVtdWZmdTN2TzhQdWFSeUpjYnNSMDI1MW1Bd0hyNUVlOU9nb04yRk1JOUwyekZlV1l3Q05nMXlYYjZZQzcwdWtfYjYzMjV2bGN6MXhoVXYzVUkwSDlHZWtfaFliSzd6Uksza0NlR0MwZG1wd2lLQU14VEJqTVI2MEVxV0g1Yk5yWlo3ME1raWFrTWZGUXNjMF9jQnIzaDVhRFZvVEwxTVgwWC1WVTY3eEVCMV9uTjR6SzRKMlE?oc=5",
+          "pubDate": "2026-11-09T19:49:17.000Z",
           "snippet": null,
-          "_priority": "DEPORTES"
+          "_priority": "ALTA"
         }
       ]
     },
@@ -257,6 +242,27 @@
       "name": "RCN Radio",
       "color": "grey",
       "items": [
+        {
+          "title": "Nuevo POT en Medellín: estos son los únicos barrios donde se permitirán las viviendas dedicadas al turismo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT2RFQTZZZGlBUDRoU1NTei1IbjBDU1B6T056ME5aVXhtMTFFdEdka2VRSmdUdkoyUWxBVnc3XzVVZDRZd3JUdjBsNGhIVy0xN3JCcjBqVnhfWVRiUl9jZFBlNVlGM21UUjZkcXIwZnRUZFNzcnlROFRNbmRsM2doYWV2UnQ0V1R4WTA1ZE1kVGxkYWZiSjhnNlRaQlh4TGprR19KcWZqQ0VhZFhhU25rdUM5dnVFLU1xM3hXMkJIS3ZSZ3ZDMlJHSnpsaVRKdnFWWmVBQXRMSy1ZREl0?oc=5",
+          "pubDate": "2026-11-08T12:05:41.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Renta Ciudadana y Devolución del IVA tendrán quinto pago en noviembre: Estas son las fechas",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFZ4TmxZTzBRaE5KSGwyakMtZTVYUFZsRHBjcFExUk1FZmZjZG1GdTB3bnNBMmx5ZDRYMEVQdHdqNG9uNGdtVUdZbHV1LUhYckhTYndVeG5nbzJwbHczUWhlZXdnWWpQWWk2ODNuQzQ4NkFQVm92U1luSkhrVU1VTG1lSU0tWldoeWdTSlZtQ05qTzl2Rnl4dExkQ2s0aEI3V1BFTFJBbHRHZzZFSWc0cHdnQzJCdnQ1NWZCbjRTeDZiWjN4RnAwRw?oc=5",
+          "pubDate": "2026-11-09T16:56:33.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Nueva prima para militares y policías en Colombia: Estos son los rangos que podrían recibirla",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0J5czlwR2ExRVk3dEpUcVNPalVjSTA0VXhlTGRxNWNoMkhHMjhwUmtKVUg1Vi00M0J5YVhKdGd1ZFZvdXBfWEszZ1kzdnR3VVFpWVFGVVpORGdteTFDVmQ2aE5CNHpaM0JIMTdWQ0cwejNRUVNCOU1wUXpSc1dRMElpdTY4RzcwQWJZSHNpc3VMSHBnWnVQZXRTNTJzUjlsaDVNSnV5dWNqaHQ3ZHM2QXdQaTZaQ1hUVmhLOS16WC1HdDJobWFSV0MxVQ?oc=5",
+          "pubDate": "2026-11-09T13:42:45.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
         {
           "title": "Reforma tributaria de Abelardo de la Espriella: productos de la canasta familiar y servicios que podrían tener IVA",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmJYRFkzV0tndl9QR3RfTnBlcGM4RzUtcmdVSF9ra25jQnJtRUd0WURta19wLUhTcnBxSzRjcmhqN3FlTWtJYW5tSHB6bHhXWVNta0d0aVcybDlfS19pTkxFcDJQYlVjYTRKdHZkTVVYcms0TXE3b0NRMkdZUzNPbEsxeTBhWFdYd1R0aW5ETUFzbzdtLW1ab29sc3NsRWxPZEt6WjF0M0dLbVEyeE9wRUhwOS0xM1I2ZTJUeGNVYzNNck1GRWhUWFFBTlY5M0NsZWF5S3k2NG42SG9HTVpmYzV4TWhHSFU?oc=5",
@@ -272,9 +278,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Contrarreforma pensional en Colombia: ¿Cuáles son los cambios que está revisando el Senado de la República?",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ2pBSjFBbFpyem1vN2ZIajJRbnJ1YkFxeVFFZWNLZjF4N1NsWnhfWHJKYjNVdWl1dnFHVHR1M1FFTFc1bDRiaWNZa2t6SWZwZkV2VGc5aDJ0RnFUWXJ3LWtsX0IyN2VBM2FqbGVWdm1vXzhzci1sMzlSek9LREMyd2pVTlBfcGNnNW03UTN3RlJPRzV4ZzZIWHVxUHBkWWM2LTdZTzBnMkhRTWJJNlFaWVk2MzczdHc2NVFWQ0VidGw3czVZQnFJSVdkcXA2RHo0NWNrWEY5b2ZnWWM?oc=5",
-          "pubDate": "2026-11-08T09:33:26.000Z",
+          "title": "ESAP abrió inscripciones para estudiar en 2027: Estas son las carreras profesionales gratis y posgrados disponibles",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYVlTd0lZUklYYlhQdV9tWGtjQk1oMjhvRnVlQWR0akRPc3RtZFVlWnhVdVQyVTNvQjF0N3d0NzFsSmpPSUtRbmFRY2Y5TmtsX3h1S3JRQlNncm5ucUlpdnJQMktxV2ZMa2RENFktT1AzZFduc1FrMHFGLUQzeE5ZeEIwQlZ3VUZMNk9hVVRaVG54UTRUX0JxbzB3bmU4d1doaWxKMlhydWRGbmd6a1ExczhXR09ldEJhT2xZcldmcGlkanRUUktQVHB6d3l1d0pBeFNxZzhqTzZIdHNvMk9VOEM5MXBWV3Fv?oc=5",
+          "pubDate": "2026-11-08T16:48:41.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -285,24 +291,46 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Inflación anual de octubre continuaría subiendo y se habría ubicado entre 6,35% y 6,41%, proyectan analistas",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdjhaSWh3dXNEX3VyU2xieUVNRkRPSDZJaFdBVExTY2NsSGZiMGtnY0dEQWZsLUtSbHZPZW9Hc2lvYjJIV1RiZmc3cXdxZEVYY1o0WUdqVktWYk85eFZFWGRfMDNjYXNBc2ItamNsX05Nc01MTGh3LTJJdWVTZklnN0Jkd0ZVbHRkTTBhTlBfdVZSdFR6bFg3ZExVUXZqNHVuQkowb3g3cmVEaWhVRDBETUM5dHpSeFl4SkVKQ0NaeVhqUU4wa05paEIwZWdZT284cVYxX2NGU3Zjd9IB3wFBVV95cUxNNlB3UXJXcndad3NDNEpEZldCX1QtcXA2MV9MYUlCcWkyajV4V0xHbUFRR0x5QWxLZ3lDaWZ2VmRuNmxwTXBiakhSaUlpQ0ZNenRuUDFPVDVUWDhCS1FuR0k1U0NhTnJodzdnajQxSUs4S0lUSzlvcUFoR3V0VXFEaUloSFc3ZDRCSXQ5aUtPeGZqX28wbTMyYnlXLXhsMUZISnQyb05iNUtrTFc1QzJtbEoxZ1N6amV4SWUtbnpfSllTcnFJczBrR2NSUlNKN1g5SXcxQVBYNV9HT1FrVHYw?oc=5",
-          "pubDate": "2026-11-08T17:16:59.000Z",
+          "title": "Gobierno y Congreso acuerdan trabajar en mesas técnicas sobre ley de rescate, tras 'cónclave' en Barranquilla",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN2FJNlV0YzkyM1lGZ3VnaDMtQXNHSzAzZ2lnbE5UNXIteDlNc2szRW5pWTNicWdYMVZmUTZUWndSYmpVdTBoZW5GOTB2SnRsZ0lFdVdEeDQ2eWtuX01NbUxUZDZPVDlSanhSS0w5aU5BX3ZlRVIxWEJKU2l6TFdFcHVjeXh1THJRQjJTNFhEcWNNSnphS0VBXzdWOWNfcWRoZFMyZm92VTA0cnRyTkFnY0V2a2JiZnNEQXJWbHMxeHA1X0ZOSzJHaEZNR1FCWUJiWGN0OXBIbGN3QXZOVy1vZ2lOLWI5YXllQWpsMmdB0gHzAUFVX3lxTE1aZGFqLXBqN3VkQ0FnQ1BzUnpJUnowRU5hQjM4czZhVGxyN3k5WkE3bjZJNlRENlJua3oxUXphaDhKejhFZWo4UGp1WEJvbDRNLWQ1ck04QnNkd2lHUURxX2lFUEVkQWp5V0d5TWVuUV9KUE90UmIyUFl0TmRldGQzU0JfUHNpblo2MUk3M3VpeVJUVzB1NHMtOV9LZlFsZ0NfN19LWnlTekJsZVhFblVxTVZxelZCYVVIRktSMVFTejdiNnQ4NkZPQUFyMmpNWkt2dkpfYW41NFQ0VWs4YTRVaElrVXBSMjFKU0d4d1JSaGhhbw?oc=5",
+          "pubDate": "2026-11-08T03:34:44.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Salario mínimo de 2027: comerciantes piden 'recuperar' la fórmula técnica basada en inflación y productividad",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWFYOF9MMDNCT1QydGZwUWgxUG03U1dnZk9yOVM3b2M1SkhhY1lWQ05CRFJnSkNoMXU2RmZscmd4Q28xOU8yY3QzaUZNUm5mem4xQkpTNTF5VGZwZl9zOGQyYmVNLVl2Rm1qS2RFdjhqcUFITElheFdON0JYN3oycTBZNjdhU0Q1Y2hlWDk3ZWJ3VUpxSFNDTktLMm9BTTYzUzZ2eDZRZ1lVTnBWblJNWUtBeUZmNENqSlhtY1RaSXZKSmtlcG1uVzY1d1M1aVlzbHJFek1jdjVvSlJOdlFMQjlvZUlzZnpYekdsa3ZQRjNqZ9IB9wFBVV95cUxNTy1BTnhUTDlDc3M0SFdwa19EQjlmLXpRUEwtV2Q5U0NxZGE3UjFySmJybmR2MnhUanNLWklITUM3STE4LVV6dzdyZ0NqX0FKZUU2Vy1semlvYkIxSkdnVFNpUUVDVlk3ZVctZUpNR2xxTmtjbFVLcFRmbnJrQzNFUEdDX2tFbWRsMVY5NllEbzVFTnlTWkNsY25iSXdwX050NWg2ODFjdnhKRmtSVUV6dEJqenR5TlM2RHJkaWtobDhvcWZaMU1qUDZXNkc3UXFrRkZ0Z2RhcFk4bF91dkUzMHBCZFZvSXlFYkpha0twYnc1VXpSWWxn?oc=5",
-          "pubDate": "2026-11-08T15:43:09.000Z",
+          "title": "Centro Democrático cuestiona IVA a alimentos, internet y servicios de salud en la Ley de Rescate Económico",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOVVxbXhqWkVNNjlGV211SFkxVjlQRkdub1FlSFNzZUctbVB6aDJKVFFoUk9HU2JNSW8teldjNWluU2tJUUJmQ3dmWXB2VFlRT1RKNEp1VXRqcFBRTm1DWjhqX2dpNmZLdVhPVGhJZmlYMU5Mekt1TWNIZzJwVW5ZdmZtQUF3R18tS2tzbFNMM2Q0UDY2LXZhdWVEdTBXYmp2cnA1alFUaXJCOEttdFFKRG8yWm82c3JDNi0xTFl2cllwWHBPX1ZyUVBBVWo3dWFHV25UZXRWbFhabGU5YXBCTURVZlpyMmNjamdWQ2RQdkvSAfYBQVVfeXFMUHI1OVhEYm1RdHNBWVRrRGVPRjMwWGpmLUhCMFBHZkJLaGU3YUg3YXM4YjNVTnQyZzJ2X3NZWlhuT2NFM3RQTHU3bXZCXzNGVXNjREt3eXp5Y3VieEQyRnhlX21DS0UtREpaRlJTTklsQkZSblVqTnFZYXNRMW8tU2tIZDVMYTRUaEY4SWRyM2hBZlRNdXd2eGlwWFRaTzBrQkVteTdIOXItaFFKeXB2Vkc0Z1Bza05KZWxtUmNuenpOYjZyUzhkanhISlJ3b25UM2Q1TlJValdPSTNnXzVFVElIYU5tRjRPWXdrNUtlU1JEaU9SbDJR?oc=5",
+          "pubDate": "2026-11-07T21:50:32.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "#TPN: Cripto robo histórico, fraude con IA y Neuralink",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGtLcUZLYlJsQ1Q5Uk5YZjl0VFE2UU8tTXJsbHNjSFhTOFN0TVRWdnlpTTJCU0k4M1FFcVBsWi1CX1ZZZU9aVG8tckx0eENxWllfVDJucnp1RE9zWVZqQnRvZXQ5Nll0b1d4SlhGbjhpcGxOcVlKUFdia3dqQjBFMEYzU0FRa195MzJfeUtvVFZYaWZPbWxpSF9EUdIBoAFBVV95cUxNZnl0TFhiazdNUUFoTHN1S1JEb1JSOUZYWlhDYTdPaFZWUU14WGg3YUhweVNJRUVUcV9fSnBXMUFtdkFLdVQyR3pXRWxuWlZrOGpMY3dJb3FqZFp3dmctYzZTNWxXNmNoY1RpYTdNeUR0bzVTZWJ1aHNPeWZTV19nbU9ONkxqVEt3NUc5MVQtOEl5cjYyODhaN2t6am5mYjlx?oc=5",
-          "pubDate": "2026-11-08T23:12:29.000Z",
-          "snippet": null
+          "title": "Aumento del IVA a carros eléctricos pondría en riesgo a 19 marcas en Colombia",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjU1TUx3X2R6Q0dvQUZ1dXZqTlJ1YzY3dU9oN3RhU3ptVTdBNU9mQjd2bElkWnhxWmpkcGNEVk1hNjlyUlNfbTA3Y3RZUDFaVUJWSU9VUVgxeVV1OFFuWkR0clZtRTJFdmNVM3M4akxnWFBEZmhTSHMyaThibGxRRkh1d2Rhbk5sSEFraFRHTGYxOXhjd2kwZzZlMFFoenc3Z1V2RzlWcTJQWW1QcEFIcUFvMnBKVVo3dThF0gHAAUFVX3lxTE9lbHRrY3Azem9LeERaVHJwbkZKdWdNVlpraHJBRi1sdmRJTjBWUDFzN2dFZ2JZSC1BeWdaREQzTEdyTldrYWRzOUJxczNtYkhwbm5aZmhjSU5oNDRiRVFGcDRzckRaN3hrSjNDQk9MenlwX3lwR2FrNWNnSF8zZmlSNU0xWlFiR3R2NnhXODBHczdONnFrU0xadmRpOEJfdnBPR2pyNUtKWTNuX3JuZG5FVHlMRGowb0xUcElzRUU0Zg?oc=5",
+          "pubDate": "2026-11-09T16:29:12.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Proyecciones de inflación: ¿qué tanto habrían subido los precios en octubre?",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYnZCd1VZNlpuYmtXeHJBNnpWVFVvU3ZteHhzdUhUTy1zSW84Y1BPTE54a3c4THM0ZUFWZkVGVFlybDZXWXVOam43Sk9xQjBjRUhpTDZhaFR5V2g3X2J6aG40UGtwczcxV2FOcXBwMnV4RmtOT1RXSHFsbkt3OG00WHNGQlN6azR1WWcyT2xqMzlkUVR5XzJ4U2NNcElpT3BRNUM0Z3pVQzUtMFJTdlJ0RFNiWGstT2FtYWYzRmtiTEVVMkFHa3fSAcsBQVVfeXFMT1JDcWxNeFFSZTExajRjZFZ0SWlwb0JrX0FCQTJSNlUyeFlncGVvTkdVSFZFTFM0R1ZFQ3NSOERodHlrd2NwQ0I1SFVTX1lLZko1VDh2S25NQjlMSG0tcGs5UVRaUFNpWlVRazZRNGxod3dCZ3hsWmdBZ1dNUHJvYmx5alNxNnRGMkpGWTNyaGszbXJzemFCeE1JTmNJRjRfaUVvUVZ0RGNXbnIzU1hOelcyQXlUTEpfZjV5ZDZoakpZUHJybFZyb095UEk?oc=5",
+          "pubDate": "2026-11-09T15:25:37.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Bogotá habilita 2.946 vacantes esta semana y realizará tres ferias para conectar empresas con trabajadores",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdl8tQTJuY0NaNGNuUC1WNkU1MW00RWI2bnZPY3hRRVY0elk0OU4ybExrNGpudDFGeEM3NndxaE5JclBNVVcxT3VhTVVCY29EbDZEZVRWMW1OTjhVYW1abmhRZ2JyRnE2aUhZd3JZS3g1cHBteU9NSVFkOUNhenVhOFJIR29sMTRXZDRkdGdlaU91NVJmZGEzXzNnTUdkMUswbWFMeUFzU3g4VDNCUFRSQTJ4N3ZCcVRIclQ0X01VNzgzUXFlTjE1V1hkUU5Ya0VxR0hmVUZ1b2xSbUhWWUFCSDdn0gHnAUFVX3lxTFBpUk1zRFpWMjlnVmhhblpURy1uV1FUa2JhbkFVSzNRQmdiT0pkdEZYa1IxbmxxRFhUZEFFT0Z3dGlyVUtyeGR3aFd1V0VLZEgzQzBOczVON0lIY1FVOFpqTW1CRW1DY2JWOE1aTXZZTDJISzBOMjBzZ1BjSVVaZUxUdmxVVU1UclBPWXl5R1gtQ3V5VTMyMHNlVUJSSk9IOG5fcXRxN0RRbzFPWW1pWV9nYU8zMVZ5MUFndExYbVlzQzBGdUhOMy1tWmhrZmVEeVdlTXh5RTcyd3RHUzdpRnRlX0Nra1J1NA?oc=5",
+          "pubDate": "2026-11-09T14:32:18.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Ley de Rescate: empleados que superen dos salarios mínimos podrían perder $52.526 al mes ¿por qué?",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMl9HTDNlVGJqajlNcUYzREpETGxmSXhWSzBCRll1Vy1iY2hqT05BZFkwV1dyWVRDNnVnclVld3dGWjcycnVTakthSnVyOFRCWTZqT3BKZFBxZ1o3NTliTlZ1MmdnRkx1emxxcFhKQTlTV29pNXNWY3pReW55aENwRHNDeF94REs1VG0xVzVNOFZMMTNWWVpJRnA1YXBZM09nNzRRTnFNNkxZcmlsYWRFS3N2SlFFbWp1TTB6dzRyYmV0VmNRSDd4UmlXdFhYaFlvRXJn0gHYAUFVX3lxTE9wc3RCSWxWOTdVNUluZ1FBSHhVZFFORFNkT28yRWUtb1MwcUZCQlE3bDUzM2gxNm12S0thVmpTUVRSUFVod3U5WmVqNTRGTTcxa2hyZkZZN0pOdlk4Sm1PY1h6N0RZU3JkRXVpcjBpZ0xuUTBwUmpCbzZPcnp6bi1hdXRVY3BQdllodFloMGNzMW5wMUpXeGhvTW9QZ2dmYzRISkpxdlRZb2tDYlNfdS1BaWp2UkVpZG5zWkpfb3dhSEZGYnRMOWhLQy0tR2JRZEg0TDVQSDlWQQ?oc=5",
+          "pubDate": "2026-11-09T12:38:30.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         }
       ]
     }
