@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-11-06T10:01:58.018Z",
+  "generatedAt": "2026-11-10T10:02:17.150Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Escalada del conflicto en Ucrania y colapso demográfico",
-      "titulo_en": "Escalation of Ukraine conflict and demographic collapse",
-      "region": "Europa Oriental / Ucrania",
+      "titulo": "Guerra de Ucrania y negociaciones de paz con interferencia estadounidense",
+      "titulo_en": "Ukraine War and US-Mediated Peace Negotiations",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 50 víctimas mortales",
-        "link": "https://elpais.com/internacional/2026-11-05/el-ataque-a-un-centro-de-ayuda-en-la-provincia-ucrania-de-zaporiyia-suma-ya-43-victimas-mortales.html",
-        "fuente": "El País"
+        "titulo": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+        "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "Los ataques continuos contra infraestructura civil en Zaporiyia evidencian la intensificación de operaciones rusas contra objetivos no militares, mientras Ucrania enfrenta una crisis demográfica sin precedentes por la guerra prolongada. Las implicaciones geopolíticas incluyen el riesgo de colapso institucional ucraniano a largo plazo y la presión sobre la OTAN para escalamiento o negociación.",
-      "analisis_en": "Continuous attacks on civilian infrastructure in Zaporizhia demonstrate the intensification of Russian operations against non-military targets, while Ukraine faces an unprecedented demographic crisis due to the prolonged war. Geopolitical implications include the risk of long-term Ukrainian institutional collapse and pressure on NATO for escalation or negotiation."
+      "analisis": "Trump presiona por una resolución rápida mientras Putin mantiene posiciones inflexibles, lo que genera un desajuste fundamental en las negociaciones de Abu Dhabi que arriesgan consolidar ganancias territoriales rusas. Las imágenes de refugios civiles convertidos en fosas comunes subrayan que cualquier acuerdo de paz será percibido como capitulación por sectores ucranianos y europeos, complicando la legitimidad política de cualquier solución.",
+      "analisis_en": "Trump is pushing for rapid resolution while Putin maintains inflexible positions, creating fundamental misalignment in Abu Dhabi negotiations that risks cementing Russian territorial gains. Images of civilian shelters converted into mass graves underscore that any peace agreement will be perceived as capitulation by Ukrainian and European factions, complicating the political legitimacy of any settlement."
     },
     {
       "rank": 2,
-      "titulo": "Crisis institucional en Paraguay y vacuum de poder",
-      "titulo_en": "Institutional crisis in Paraguay and power vacuum",
-      "region": "América Latina / Paraguay",
+      "titulo": "Tensión tecnológica y espionaje entre EE.UU. y China",
+      "titulo_en": "US-China Technology Sector and Espionage Tensions",
+      "region": "Global (EE.UU. y China)",
       "noticia": {
-        "titulo": "Paraguay's President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-        "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-        "fuente": "The New York Times"
+        "titulo": "Trump asegura que el FBI investiga el caso de la presunta espía china vinculada al director de Nvidia",
+        "link": "https://elpais.com/internacional/2026-11-10/trump-asegura-que-el-fbi-investiga-el-caso-de-la-presunta-espia-china-vinculada-al-director-de-nvidia.html",
+        "fuente": "El País"
       },
-      "analisis": "La renuncia de Santiago Peña por el escándalo bancario genera un vacuum político en Paraguay que pone en riesgo la estabilidad institucional de la región y abre oportunidades para actores no estatales y corrupción de mayor envergadura. La falta de gobernanza efectiva en un país fronterizo con Brasil y Argentina multiplica los riesgos de contagio hacia la seguridad regional.",
-      "analisis_en": "Santiago Peña's resignation over the banking scandal creates a political vacuum in Paraguay that threatens institutional stability in the region and opens opportunities for non-state actors and larger-scale corruption. The lack of effective governance in a country bordering Brazil and Argentina multiplies risks of contagion toward regional security."
+      "analisis": "El caso de infiltración china en Nvidia, empresa crítica para la inteligencia artificial y defensa estadounidense, expone vulnerabilidades en el sector tecnológico durante una etapa de competencia hegemónica por la IA. Simultáneamente, China mantiene un superávit comercial récord de más de 1 billón de dólares, lo que refuerza su capacidad de inversión en espionaje industrial y compra de tecnología, mientras Trump busca endurecimiento de políticas comerciales sin una estrategia coherente.",
+      "analisis_en": "The Chinese infiltration case at Nvidia, a company critical to US artificial intelligence and defense, exposes vulnerabilities in the tech sector during a period of hegemonic competition over AI capabilities. Simultaneously, China maintains a record trade surplus exceeding $1 trillion, reinforcing its capacity for industrial espionage and technology acquisition, while Trump pursues trade hardening without coherent strategic coordination."
     },
     {
       "rank": 3,
-      "titulo": "Incertidumbre geopolítica estadounidense y reposicionamiento de potencias",
-      "titulo_en": "U.S. geopolitical uncertainty and repositioning of powers",
-      "region": "Global / Estados Unidos",
+      "titulo": "Crisis política en Israel y conflicto interno sobre gobierno de Netanyahu",
+      "titulo_en": "Israel's Internal Political Crisis and Netanyahu Government Stability",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
-        "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-        "fuente": "The New York Times"
+        "titulo": "New Knesset speaker could be key to ousting Netanyahu as Israel's PM",
+        "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+        "fuente": "The Guardian"
       },
-      "analisis": "Los especulativos encuentros trilaterales entre China, Estados Unidos y Rusia reflejan una reconfiguración global donde los aliados europeos temen quedar fuera de negociaciones estratégicas clave, particularmente sobre Ucrania y Asia-Pacífico. La volatilidad política estadounidense post-electorales genera incertidumbre sobre compromisos en defensa y comercio, incentivando a potencias medianas a buscar alianzas alternativas.",
-      "analisis_en": "Speculative trilateral meetings between China, the United States, and Russia reflect a global reconfiguration where European allies fear being excluded from key strategic negotiations, particularly over Ukraine and the Asia-Pacific. U.S. political volatility post-elections generates uncertainty about defense and trade commitments, incentivizing mid-sized powers to seek alternative alliances."
+      "analisis": "La posibilidad de desalojar a Netanyahu mediante cambios en la cúpula del Knesset indica fractura profunda en la coalición israelí cuando enfrenta presión internacional sobre su política en Gaza y erosión del apoyo bipartidista estadounidense. Una eventual caída de Netanyahu en medio de la guerra con Hezbolá y tensiones con Irán redefiniría dinámicas regionales y complicaría la estrategia de Washington en Oriente Medio, especialmente considerando los cambios en la administración Trump.",
+      "analisis_en": "The possibility of ousting Netanyahu through Knesset leadership changes indicates deep fracture within Israel's coalition as it faces international pressure over Gaza policy and erosion of US bipartisan support. A potential Netanyahu collapse amid war with Hezbollah and Iran tensions would reshape regional dynamics and complicate Washington's Middle East strategy, particularly given shifts in the Trump administration's approach."
     }
   ]
 }
