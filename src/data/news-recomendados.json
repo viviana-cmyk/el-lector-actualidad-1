@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-11T10:01:50.996Z",
+  "generatedAt": "2026-11-11T17:44:57.472Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile",
+          "link": "https://insightcrime.org/es/noticias/alcaldes-policias-fiscales-ante-expansion-grupos-criminales-chile/",
+          "pubDate": "2026-11-11T17:24:07.000Z",
+          "snippet": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile Una serie de episodios de violencia contra alcaldes, policías y fiscales en Chile evidencia cómo el crimen organizado avanza cada vez más en el país. The post Alcaldes, policías y fiscale…"
+        },
         {
           "title": "El Tusi no es lo que usted cree",
           "link": "https://insightcrime.org/es/noticias/tusi-no-es-lo-que-usted-cree/",
@@ -12,10 +18,10 @@
           "snippet": "El Tusi no es lo que usted cree El tusi se ha convertido en una droga sintética cada vez más popular; sin embargo, sus consumidores rara vez saben qué sustancias están ingiriendo. The post El Tusi no es lo que usted cree appeared first on InSight Crime."
         },
         {
-          "title": "El bombardeo venezolano contra el ELN sacude 2 décadas de tolerancia chavista",
+          "title": "El bombardeo venezolano contra el ELN sacude dos décadas de tolerancia chavista",
           "link": "https://insightcrime.org/es/noticias/bombardeo-venezolano-contra-eln-sacude-dos-decadas-tolerancia-chavista/",
           "pubDate": "2026-11-05T20:12:59.000Z",
-          "snippet": "El bombardeo venezolano contra el ELN sacude 2 décadas de tolerancia chavista Ante la creciente presión de Estados Unidos, el gobierno de Delcy Rodríguez bombardeó un campamento del Ejército de Liberación Nacional (ELN), que por años ha usado a Venezuela como un santuario crimina…"
+          "snippet": "El bombardeo venezolano contra el ELN sacude dos décadas de tolerancia chavista Ante la creciente presión de Estados Unidos, el gobierno de Delcy Rodríguez bombardeó un campamento del Ejército de Liberación Nacional (ELN), que por años ha usado a Venezuela como un santuario crimi…"
         },
         {
           "title": "The InSight Take | ¿Venezuela le declaró la guerra a la guerrilla colombiana del ELN?",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/vigias-inhibidores-y-asaltantes-asi-funciona-el-robo-de-carga-en-costa-rica/",
           "pubDate": "2026-11-02T20:48:20.000Z",
           "snippet": "Vigías, inhibidores y asaltantes: así funciona el robo de carga en Costa Rica El robo de carga es un lucrativo negocio ilícito en Costa Rica que involucra un alto nivel de organización y planificación, como lo expone un reciente reportaje de InSight Crime. A continuación explicam…"
-        },
-        {
-          "title": "Cronología de los ataques de EE. UU. contra presuntas embarcaciones de narcotráfico",
-          "link": "https://insightcrime.org/es/noticias/cronologia-los-ataques-ee-uu-contra-presuntas-embarcaciones-narcotrafico/",
-          "pubDate": "2026-11-02T16:34:12.000Z",
-          "snippet": "Cronología de los ataques de EE. UU. contra presuntas embarcaciones de narcotráfico En la última semana, EE. UU. lanzó cinco ataques contra presuntas embarcaciones dedicadas al tráfico de drogas en igual número de días, lo que la convierte en una de las semanas más letales desde…"
         }
       ]
     },
@@ -102,6 +102,12 @@
           "snippet": null
         },
         {
+          "title": "La 48va Reunión Anual del Foro Económico Mundial | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd3A0amJibnNDSWFWQ2ZibFowZ1RBYl90QU5pdVZvZDNFUk1nMVREQ0MwNWdDbngyY182NjBYbVkzMkJrVkNZSlJkVDZ4OWt1V0RWWnh5Sk84bUd1cEtLUnZoZzNJVUlPWER3eURQWGtDRkg0aUdMcmVoenJVNzVIYUNaNWlYajJLYURvYWZWcTgxZVNSdi02amd5bTNLWGtxOEN2Qkh3VHdmeVhyZTBmMFAyLWpIUkU1WF9TNVBuenF2RkxZZlRMMEhNUDE0UmJPSGhRUDZiUzlYUXJhMm5TV1NJN2VOQQ?oc=5",
+          "pubDate": "2026-11-10T07:47:37.000Z",
+          "snippet": null
+        },
+        {
           "title": "CFO Climate Resilience: Playbook for Value Creation | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2NOTEJEN1dJcElCQzJWRmhKa0hjTnpDdVlVbFUtNnhMTHRrWkU1ZnZsYWhZTmhpN3JQWl9KV2U0SmNCUGhSdlFqRlZfbmctUC1OYnRueFRXWGdMU2l6c3ZkeFlOSFRsU2hqR2FkdTl1RVplVDRPVUxzLTJYQkc0ZmloVWQ2TThFalE?oc=5",
           "pubDate": "2026-11-10T05:11:05.000Z",
@@ -117,12 +123,6 @@
           "title": "A qué países beneficia el recorte en la producción de petróleo anunciado por la OPEP",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEtKRVR1V21EX3BwQmZrTTNDWmQtQUlBY1R1SVVUV1NPekVtZXNYUzBhX0JBZXJQTjhsSDZZWDZDNFduMUgyeGFHdHVkdXpVdm5VVmcxU1Z2YzQ4TzRaOVJkVHJkVUQ4TmdJQS1XRG9Fa0pSVElFTUlHalpDUnZJYkI5NkZRZVVLU1k0TFIwWGhDaFZYNFdPczlDV2Z6ZGtTaDJKbTRIRmRucXk4RjY2TFVYRFdFYktrMFU5S3JJTWI5WlhKWElPUXk5ZExmdw?oc=5",
           "pubDate": "2026-11-10T04:09:40.000Z",
-          "snippet": null
-        },
-        {
-          "title": "La verdad sobre el TLCAN",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWdsZkh3bW80RmVpcF9UQ1htMmhOQ0JCTnRrWlNjVXI5am1IeHpJSl9IMUs3TFdqLWVsamhVOUo0OW0yeUoxYUR6amRzcjZuR1JKbWFEbWVOVnJsdTBlVFphTFVYenlwTmZrTTBpdjZERGFBbHFka2FQSU5INzVIWTF3?oc=5",
-          "pubDate": "2026-11-09T22:54:33.000Z",
           "snippet": null
         }
       ]
