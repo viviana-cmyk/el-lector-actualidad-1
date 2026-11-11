@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-10T17:32:27.207Z",
+  "generatedAt": "2026-11-11T10:02:12.449Z",
   "dia": {
-    "nombre": "Día Mundial de la Ciencia para la Paz y el Desarrollo",
-    "descripcion": "Conmemoración de la ONU que promueve la ciencia y la tecnología como herramientas para el desarrollo sostenible y la resolución de problemas globales."
+    "nombre": "Día Internacional del Ingeniero",
+    "descripcion": "Se conmemora la contribución de los ingenieros al desarrollo tecnológico y la solución de problemas de la humanidad, promoviendo la profesión y su impacto en la sociedad."
   },
   "dia_en": {
-    "nombre": "World Science Day for Peace and Development",
-    "descripcion": "UN commemoration that promotes science and technology as tools for sustainable development and the resolution of global problems."
+    "nombre": "International Engineer's Day",
+    "descripcion": "It commemorates the contribution of engineers to technological development and solving humanity's problems, promoting the profession and its impact on society."
   }
 }
