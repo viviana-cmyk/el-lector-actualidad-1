@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-11-10T10:02:17.150Z",
+  "generatedAt": "2026-11-12T10:02:08.920Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Guerra de Ucrania y negociaciones de paz con interferencia estadounidense",
-      "titulo_en": "Ukraine War and US-Mediated Peace Negotiations",
-      "region": "Europa Oriental",
+      "titulo": "Conflicto Israel-Palestina y ofensiva en Gaza",
+      "titulo_en": "Israel-Palestine Conflict and Gaza Offensive",
+      "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-        "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+        "titulo": "Strike on Gaza Hospital Kills At Least 6 and Injures 20, Rescuers Say",
+        "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
         "fuente": "The New York Times"
       },
-      "analisis": "Trump presiona por una resolución rápida mientras Putin mantiene posiciones inflexibles, lo que genera un desajuste fundamental en las negociaciones de Abu Dhabi que arriesgan consolidar ganancias territoriales rusas. Las imágenes de refugios civiles convertidos en fosas comunes subrayan que cualquier acuerdo de paz será percibido como capitulación por sectores ucranianos y europeos, complicando la legitimidad política de cualquier solución.",
-      "analisis_en": "Trump is pushing for rapid resolution while Putin maintains inflexible positions, creating fundamental misalignment in Abu Dhabi negotiations that risks cementing Russian territorial gains. Images of civilian shelters converted into mass graves underscore that any peace agreement will be perceived as capitulation by Ukrainian and European factions, complicating the political legitimacy of any settlement."
+      "analisis": "Los ataques continuos contra infraestructuras civiles en Gaza, incluyendo hospitales, intensifican la crisis humanitaria y el aislamiento internacional de Israel. Las operaciones militares mantienen la escalada del conflicto mientras organismos internacionales documentan posibles violaciones de derechos humanos.",
+      "analisis_en": "Ongoing attacks against civilian infrastructure in Gaza, including hospitals, intensify the humanitarian crisis and Israel's international isolation. Military operations maintain the conflict's escalation while international bodies document possible human rights violations."
     },
     {
       "rank": 2,
-      "titulo": "Tensión tecnológica y espionaje entre EE.UU. y China",
-      "titulo_en": "US-China Technology Sector and Espionage Tensions",
-      "region": "Global (EE.UU. y China)",
+      "titulo": "Guerra Rusia-Ucrania y negociaciones de paz",
+      "titulo_en": "Russia-Ukraine War and Peace Negotiations",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Trump asegura que el FBI investiga el caso de la presunta espía china vinculada al director de Nvidia",
-        "link": "https://elpais.com/internacional/2026-11-10/trump-asegura-que-el-fbi-investiga-el-caso-de-la-presunta-espia-china-vinculada-al-director-de-nvidia.html",
-        "fuente": "El País"
+        "titulo": "Ukraine hit by 'significant' Starshield disruptions as US envoys meet Putin, Zelenskyy says",
+        "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+        "fuente": "The Guardian"
       },
-      "analisis": "El caso de infiltración china en Nvidia, empresa crítica para la inteligencia artificial y defensa estadounidense, expone vulnerabilidades en el sector tecnológico durante una etapa de competencia hegemónica por la IA. Simultáneamente, China mantiene un superávit comercial récord de más de 1 billón de dólares, lo que refuerza su capacidad de inversión en espionaje industrial y compra de tecnología, mientras Trump busca endurecimiento de políticas comerciales sin una estrategia coherente.",
-      "analisis_en": "The Chinese infiltration case at Nvidia, a company critical to US artificial intelligence and defense, exposes vulnerabilities in the tech sector during a period of hegemonic competition over AI capabilities. Simultaneously, China maintains a record trade surplus exceeding $1 trillion, reinforcing its capacity for industrial espionage and technology acquisition, while Trump pursues trade hardening without coherent strategic coordination."
+      "analisis": "La interferencia estadounidense con sistemas de defensa ucraniana mientras se negocian términos de paz evidencia la complejidad de las negociaciones multilaterales y los riesgos de sabotaje tecnológico. La participación de enviados estadounidenses en conversaciones con Putin sugiere un cambio en la estrategia diplomática occidental respecto al conflicto.",
+      "analisis_en": "US interference with Ukrainian defense systems while peace terms are being negotiated reveals the complexity of multilateral negotiations and risks of technological sabotage. US envoys' participation in talks with Putin suggests a shift in Western diplomatic strategy regarding the conflict."
     },
     {
       "rank": 3,
-      "titulo": "Crisis política en Israel y conflicto interno sobre gobierno de Netanyahu",
-      "titulo_en": "Israel's Internal Political Crisis and Netanyahu Government Stability",
-      "region": "Oriente Medio",
+      "titulo": "Crisis de inseguridad en Haití y militarización salvadoreña",
+      "titulo_en": "Haiti Security Crisis and Salvadoran Militarization",
+      "region": "Caribe/América Central",
       "noticia": {
-        "titulo": "New Knesset speaker could be key to ousting Netanyahu as Israel's PM",
-        "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+        "titulo": "Haití: Amnistía Internacional advierte sobre despliegue militar salvadoreño",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0FJdDRTZE82Y3RnZlJaOUxLZ1A1YmNzbXFKT3NFZ1NTRC1qaDZrWVlhRW9YUEhvUk9pSjdpcGI5RmNBbE1oZnhFQXFxYUcwSHp1SkhiMEt4TzZydFlMWnhveDJYZ3BkWlF3TTFQM3k0SFpiRE5xc0pCcWxuZURyUm95NXc0bldkSEs4cUdfeWlvOWc2eUlwX2tHd3hHYU82UE4xOTFaalFZMHpUbVJuaE9fU01zWnBLaElMNWMxUV8xR3ZWREg1bg?oc=5",
         "fuente": "The Guardian"
       },
-      "analisis": "La posibilidad de desalojar a Netanyahu mediante cambios en la cúpula del Knesset indica fractura profunda en la coalición israelí cuando enfrenta presión internacional sobre su política en Gaza y erosión del apoyo bipartidista estadounidense. Una eventual caída de Netanyahu en medio de la guerra con Hezbolá y tensiones con Irán redefiniría dinámicas regionales y complicaría la estrategia de Washington en Oriente Medio, especialmente considerando los cambios en la administración Trump.",
-      "analisis_en": "The possibility of ousting Netanyahu through Knesset leadership changes indicates deep fracture within Israel's coalition as it faces international pressure over Gaza policy and erosion of US bipartisan support. A potential Netanyahu collapse amid war with Hezbollah and Iran tensions would reshape regional dynamics and complicate Washington's Middle East strategy, particularly given shifts in the Trump administration's approach."
+      "analisis": "El despliegue de fuerzas salvadoreñas en Haití bajo justificación de control de crimen organizado corre riesgo de convertirse en ocupación militar con escaso control internacional. Las advertencias de organismos de derechos humanos reflejan preocupaciones sobre accountability y el potencial de abuso de poder en un contexto de fragilidad estatal.",
+      "analisis_en": "The deployment of Salvadoran forces in Haiti under the justification of organized crime control risks becoming military occupation with minimal international oversight. Warnings from human rights organizations reflect concerns about accountability and potential abuse of power in a context of state fragility."
     }
   ]
 }
