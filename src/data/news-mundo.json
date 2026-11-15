@@ -1,14 +1,28 @@
 {
-  "generatedAt": "2026-11-15T10:01:44.028Z",
+  "generatedAt": "2026-11-15T16:51:15.572Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "Gobierno de Trump responsabiliza a una contratista por la suspensión de vuelos en EE.UU.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkg3UzNMX2lIeDBVa2NFck1FLTZoWHV3NmhuR1I1elYxM3JPQ0RXeHBmYmJIQ25WNjVhOHBNMlV4enpzNXJkbTNMNDJ0S0pyaGxWMzZTMmJuVjFiLVBnTFFFVW9MMjVlRDRITU5nR0JNc3NDNXdHWml0NHdicy1KRWJYMXZjMk9NM0ZXZWdUa1ZFb0Y1cHVLR3V6WQ?oc=5",
-          "pubDate": "2026-11-15T02:59:04.000Z",
+          "title": "Israel mató a un alto comandante de Hamas en Gaza dos meses después de la muerte de su predecesor",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkNxeDVCb0tOR0NEQ08wMlZnMjdQQ1pfdjZBRjBrdkdjMW9kaWJYRGRCbmRST21OSTBBb1RWallHdFNKMkhzSjhOcm1WYmpNWHA3emxlWTBoQ0phOXAycWM5X2FBLUZpSE9ReC1QR0s4M0lJZ2VwSjdpWWRKOW40RWktNA?oc=5",
+          "pubDate": "2026-11-15T16:44:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Trump hundió al Partido Republicano en 2026. Podría volver a hacerlo en 2028",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1c1bEJ3X1F2R055cm9NMEZsS25NX1d4TUhFczFKWHh5ako2VDhFQjR1RjdTcmpCd2NLZFFyaEh4ZEVYanhnT0RzN2VLcFZJOHFKLWtJZExIZTViX1dyRnR4RlEyWGE4TVBZLWtpcGJzc2VUUXg5SUM5eVduR2lhWHpwT1dKTWxpVnpYVlNn?oc=5",
+          "pubDate": "2026-11-15T13:45:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Cómo el secretario de Comercio de Trump se acercó al CEO de Nvidia mientras se debilitaban los controles sobre los chips",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTYyYU9hdGxkQ3R6T1ZhcnNQVV9vOF9NZndEWFprMkxtcUJZaHJEN3FuT2R2SjZZQUQxbDlCNFVSNFBuVC1IV1g5WkpWQW9VZHJOaVZxUm10ZzUwTkZoV1NDVVVrMHJJOUVmel9yY0U5MzdXZHRTZ2VITkZLZUhfSjUxQ3BubFp1N2VnUA?oc=5",
+          "pubDate": "2026-11-15T13:28:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -20,30 +34,16 @@
           "_priority": "ALTA"
         },
         {
+          "title": "Gobierno de Trump responsabiliza a una contratista por la suspensión de vuelos en EE.UU.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkg3UzNMX2lIeDBVa2NFck1FLTZoWHV3NmhuR1I1elYxM3JPQ0RXeHBmYmJIQ25WNjVhOHBNMlV4enpzNXJkbTNMNDJ0S0pyaGxWMzZTMmJuVjFiLVBnTFFFVW9MMjVlRDRITU5nR0JNc3NDNXdHWml0NHdicy1KRWJYMXZjMk9NM0ZXZWdUa1ZFb0Y1cHVLR3V6WQ?oc=5",
+          "pubDate": "2026-11-15T02:59:04.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Qué sabemos sobre la causa de la suspensión nacional de vuelos ordenada por la FAA en EE.UU.",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGFtRWhRa1FqTVVRUlhGbHBVRTJNVnc3WDkzTHBHMG5oN2ZkSkJ5bVY1dTYxby0wMWVMek5LR2pTdE1xeFp0RU5FdklDcFpEWmRITUlmT0Z0TE90anh1R0RLTnBfd1YxWTJ5UWstaUdfcm9fMXRxQXFPQmlBd1l0OVFaX2h5RnRiVkg3d0lMREQwb2hWc3c?oc=5",
           "pubDate": "2026-11-15T02:14:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "“Sin respuestas”: fallas de comunicación agravaron el caos aéreo y la desconfianza en el Gobierno de EE.UU",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOEluOHFHNjhvX3JOX201NWR2Wk5ERkdsN3M3ZnhqWHAydEtYbjZOX1JKREE4dlVFaWJmOG81MjFyX0N4c2YxaVZ2LXNFeDRNQnF4T19FZ3BlY2JjS19KbDBGV01hRWRkVDRCcHljVnZBSV82LXBpTXF2TTczaVZZd3hpcEFaMDhhTDlZUUE4aw?oc=5",
-          "pubDate": "2026-11-14T22:44:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Policía levanta la orden de evacuación tras el hallazgo de una bomba en una planta de etanol de Illinois, según autoridades",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBESlJTNFlIT3BHaGgyRjVfUVVJdVJqZ1U1LVdFNnFXdlNPZ3VaOWYyYUI5ekpqRk5kUURFZndHWFVPeUlCS2w1UjV2alFwS0dIbkdQU2pmc2FyOUJUbjEwUURFbnNzaWxWT042Mjl6eE4yd3lLeVV4eHZNV0R1dw?oc=5",
-          "pubDate": "2026-11-15T05:11:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Esto es lo que debes hacer si tu vuelo es cancelado o retrasado por la suspensión de vuelos de la FAA",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2VXdUdqSFBzNjJ4Q0V2TzlEaUtrSWswUERycWtqU0hWMzEtQlMzSXdhMmlETWRUc3dnSjZod3ZTd1dPdjh0ZWRtcmtIdEI1UVpTNW9kY3hhWHBIZHFhNldpNFFUbEc0TjRpTmZIY24wbHFxVGtmVkRCb1FWY2JrTjZLaGdzSldINzFoeWVB?oc=5",
-          "pubDate": "2026-11-15T07:59:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -54,45 +54,45 @@
       "color": "sky",
       "items": [
         {
-          "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
-          "link": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
-          "pubDate": "2026-11-15T04:45:01.000Z",
-          "snippet": "El español gana puntos en el tramo final de carrera gracias a un contexto financiero inestable y a un complejo juego de equilibrios entre las capitales",
+          "title": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html",
+          "pubDate": "2026-11-15T16:48:47.000Z",
+          "snippet": "El documento de 114 páginas de los socialistas contempla también un Pacto de Estado por la seguridad ferroviaria, un “escaño ciudadano” y la abolición de la prostitución",
           "_priority": "ALTA"
         },
         {
-          "title": "Ciberataques contra refrigeradores y falsas bombas: los frentes de la amenaza híbrida en Europa escalan en plena tormenta política",
-          "link": "https://elpais.com/internacional/2026-11-15/ciberataques-contra-refrigeradores-y-falsas-bombas-los-frentes-de-la-amenaza-hibrida-en-europa-escalan-en-plena-tormenta-politica.html",
-          "pubDate": "2026-11-15T04:40:00.000Z",
-          "snippet": "Enemigos habituales como Rusia o Irán, pero también agentes no estatales, explotan las vulnerabilidades europeas para desestabilizar",
+          "title": "Estonia se prepara para cerrar en diciembre su frontera con Rusia tras un presunto intento de sabotaje",
+          "link": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+          "pubDate": "2026-11-15T16:02:05.000Z",
+          "snippet": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
           "_priority": "ALTA"
         },
         {
-          "title": "La guerra en Ucrania salpica al este de Polonia con el eco de explosiones, alarmas antiaéreas y evacuaciones",
-          "link": "https://elpais.com/internacional/2026-11-15/la-guerra-en-ucrania-salpica-al-este-de-polonia-con-el-eco-de-explosiones-alarmas-antiaereas-y-evacuaciones.html",
-          "pubDate": "2026-11-15T04:40:00.000Z",
-          "snippet": "Los habitantes de las regiones fronterizas conviven con las alertas por SMS ante ataques rusos y el ruido de aviones de combate",
+          "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con más de 1.500 personas",
+          "link": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+          "pubDate": "2026-11-15T15:56:26.000Z",
+          "snippet": "El ministro Ángel Víctor Torres admite que el repunte es “muy importante” y que este año han llegado unas 17.000 personas a El Hierro, donde quedan ahora unas 1.600",
           "_priority": "ALTA"
         },
         {
-          "title": "“El idilio de los medios con Trump ha acabado”: la victoria demócrata cambia las reglas de la prensa de Washington",
-          "link": "https://elpais.com/us/2026-11-15/el-idilio-de-los-medios-con-trump-ha-acabado-la-victoria-democrata-cambia-las-reglas-de-la-prensa-de-washington.html",
-          "pubDate": "2026-11-15T04:40:00.000Z",
-          "snippet": "La debilidad del presidente tras el revés de las ‘midterms’ reabre el debate sobre cómo cubrir a un político que se nutre de la atención de una profesión a la que ataca constantemente",
+          "title": "Ábalos pide la nulidad del último registro en su vivienda: “Solo tengo conocimiento a través de la televisión”",
+          "link": "https://elpais.com/espana/2026-11-15/abalos-pide-la-nulidad-del-ultimo-registro-en-su-vivienda-solo-tengo-conocimiento-a-traves-de-la-television.html",
+          "pubDate": "2026-11-15T15:10:37.000Z",
+          "snippet": "El abogado del exministro ve vulnerado el derecho a la defensa y a la inviolabilidad del domicilio",
           "_priority": "ALTA"
         },
         {
-          "title": "El bloqueo aéreo destapa la pesadilla de volar desde los aeropuertos de Estados Unidos",
-          "link": "https://elpais.com/us/2026-11-15/el-bloqueo-aereo-destapa-el-infierno-de-volar-desde-los-aeropuertos-de-estados-unidos.html",
-          "pubDate": "2026-11-15T04:40:00.000Z",
-          "snippet": "Cancelaciones, atrasos frecuentes, accidentes e interminables colas de seguridad evidencian un sistema colapsado",
+          "title": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html",
+          "pubDate": "2026-11-15T14:10:56.000Z",
+          "snippet": "El líder de Vox asegura en un mitin que “los españoles son minoría” en la ciudad, cuando según las estadísticas representan el 81% de los vecinos",
           "_priority": "ALTA"
         },
         {
-          "title": "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/psoe-y-pp-recrudecen-la-pelea-por-el-primer-puesto-en-la-recta-final-hacia-el-29-n.html",
-          "pubDate": "2026-11-15T04:30:01.000Z",
-          "snippet": "Sánchez apuesta por su política social y el miedo a la ultraderecha y Feijóo por la España hundida en la corrupción y su perfil de gestor",
+          "title": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+          "pubDate": "2026-11-15T13:45:32.000Z",
+          "snippet": "El líder del PP reitera además su propuesta de no pagar el IRPF durante el primer año del primer empleo",
           "_priority": "ALTA"
         }
       ]
@@ -102,45 +102,45 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-          "pubDate": "2026-11-15T06:22:32.000Z",
-          "snippet": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn tha…",
+          "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+          "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+          "pubDate": "2026-11-15T16:39:02.000Z",
+          "snippet": "Hundreds of thousands rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom. The gathering on Sunday to save the mand…",
           "_priority": "ALTA"
         },
         {
-          "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-          "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-          "pubDate": "2026-11-15T06:00:05.000Z",
-          "snippet": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark c…",
+          "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+          "pubDate": "2026-11-15T16:18:49.000Z",
+          "snippet": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional…",
           "_priority": "ALTA"
         },
         {
-          "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-          "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
-          "pubDate": "2026-11-14T22:35:06.000Z",
-          "snippet": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171…",
+          "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+          "pubDate": "2026-11-15T15:59:04.000Z",
+          "snippet": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arab…",
           "_priority": "ALTA"
         },
         {
-          "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-          "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-          "pubDate": "2026-11-14T20:14:27.000Z",
-          "snippet": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol production plant. The di…",
+          "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
+          "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
+          "pubDate": "2026-11-15T15:40:04.000Z",
+          "snippet": "Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767 Two planes collided with one another on a taxiway at Miami’s international airport on Saturday night – a day after the Federal Aviation Administration (FAA) issued an hour…",
           "_priority": "ALTA"
         },
         {
-          "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-          "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-          "pubDate": "2026-11-14T17:11:18.000Z",
-          "snippet": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flight stemmed from routi…",
+          "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
+          "pubDate": "2026-11-15T14:01:32.000Z",
+          "snippet": "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnesses Two people aged 22 and 23 have died after their car was hit by a BMW being pursued by police. West Yorkshire police said four people had been arrested after the crash in Leeds on…",
           "_priority": "ALTA"
         },
         {
-          "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-          "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-          "pubDate": "2026-11-14T16:58:33.000Z",
-          "snippet": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that ha…",
+          "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+          "pubDate": "2026-11-15T14:00:19.000Z",
+          "snippet": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email, free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a US ban on transgender people in the milit…",
           "_priority": "ALTA"
         }
       ]
@@ -150,10 +150,24 @@
       "color": "mint",
       "items": [
         {
-          "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+          "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
           "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-          "pubDate": "2026-11-15T09:36:59.000Z",
-          "snippet": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+          "pubDate": "2026-11-15T16:32:31.000Z",
+          "snippet": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Iran Attacks Bahrain for the Second Time in Days",
+          "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+          "pubDate": "2026-11-15T15:55:09.000Z",
+          "snippet": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
+          "link": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+          "pubDate": "2026-11-15T15:42:25.000Z",
+          "snippet": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.",
           "_priority": "ALTA"
         },
         {
@@ -165,8 +179,8 @@
         },
         {
           "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-          "link": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
-          "pubDate": "2026-11-15T05:01:19.000Z",
+          "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
+          "pubDate": "2026-11-15T05:01:20.000Z",
           "snippet": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
           "_priority": "ALTA"
         },
@@ -176,20 +190,6 @@
           "pubDate": "2026-11-14T19:23:20.000Z",
           "snippet": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
           "_priority": "ALTA"
-        },
-        {
-          "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-          "link": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
-          "pubDate": "2026-11-14T16:51:55.000Z",
-          "snippet": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
-          "link": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
-          "pubDate": "2026-11-14T13:57:37.000Z",
-          "snippet": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
-          "_priority": "ALTA"
         }
       ]
     },
@@ -198,9 +198,30 @@
       "color": "green",
       "items": [
         {
-          "title": "Majority of Americans disapprove of Trump’s construction projects, poll finds",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0lqcnlGWVZ6UTd4a3pGUVB5R1c0MVlpWGJyRktHWXF0dHlWdVM1SzBXVlZWQmVxc0dGc0dzeWlJRWFYQlAtMnFOdWdmTUZHczJoQ0N4Uk1QWGFpMWNIbEVLQXdRaUVZY0dHTTJjSVpGZ2NwYUxaY25ZYTBqNkVLcVZWZk9ROFI1dEcxNVM0ZTFvXzFzcEdDbjRNcnhCU1NpaXhpSl85YmVOYlpPZ0JQaGdydkY1YVBQN2gxNXdB?oc=5",
-          "pubDate": "2026-11-15T06:00:00.000Z",
+          "title": "It’s not just an affair. Nvidia’s bigger issue could be chip smuggling.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2hPSWp5RThSSER6RU9KM2xsRkplcUx2eXVFdUlLYURuQ0tkQVFPeDRUa0t6cUJ2TmRMU0pFaGV1YU1GalExUWtqVTc4LS10THUyRFJJeXI3cUt4Sm9uRWhTOElzYzJhekJUWTR4RXRoQXV4aGR2NzRMZmdDTDFQVXVrSkd3Z0N6OFhvTGNFS0U0M1A0bGJKMUVOaTdscEZQakYxR3hoakxMdHpCaHVEVExyZ0o4Q1FLYkE?oc=5",
+          "pubDate": "2026-11-15T16:03:09.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Pentagon prepares its own prosecution of general accused of leaking",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXdmb3dHRlVnbDBSclF5N2xlN0VrdWRnN0FOYXg2ZEQ5SXNrSjBUSUZsQlpKTGMtVnRfNmFMcEdOZE9mUWhodENZME5LWE45clhiSU1Hcnd1aHhLYWp1STlqZFRMU19FeFo2ZTYxODdMbTNvcG5UemJPX0dVSnctWG5WLU5zVmt2ZWhLaF9KVk9EMTlRSW01LVYwQUs4eDEyUmVUTDhrRXJyN1dRUTRFNjBHNEozMmN0ZkE?oc=5",
+          "pubDate": "2026-11-15T15:32:27.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVB5QVo4WFV2TFBGRnF1ZXFya3RmSGJtZzlDWVRZcTdzVTlLUTZIUEpzdWNXTUNjX3U3RzJoamhfaWZXRGc3M2RDay1hWVItdGRVdm1DVVFid256SEk2RGVGRnhsUm9fc2dHTTB0R190UzZ4SVhqZjFqeEdqLVZOcEZOYXFhNlV3QW1KaTNTX1pQdURhY3FCb1RQQ1BiOXI0cTY5QVlyN1hRZ2l4a2FjeXY3TldiNkY0ejlDc3hR?oc=5",
+          "pubDate": "2026-11-15T06:17:35.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Florida city cancels St. Patrick’s Day event, citing DeSantis’s anti-DEI law",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWFJeWFsNGZITURGX1FJSm5XTjl5TGxQWkpSdEpDUUZFeFE3MkpXWVhfU05GbnRoNzFWTFE4dmJPbXd5bEdTWndwMTJtSWdaSmUxR1VxM0hHbXRYNDRYRzc3Ui1xTlo2T3lKNVdCT2J6Ymp3TVFnNjRWSjdTejZ6OXdJdm9JMlZyWGZ0ODNBdEE2bXJLalVEZDNYaUh3SC1DRUJFRDkxN3U5bUEtZ1drSFJka2J3LWFKVDE0Q3Vaaw?oc=5",
+          "pubDate": "2026-11-15T05:19:47.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -217,27 +238,6 @@
           "pubDate": "2026-11-15T04:37:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
-        },
-        {
-          "title": "Outlook went down, then air traffic systems. It’s been a bad week of outages.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1d3VFZ3Z0JMZkQxdXB3S2oxbmhMWDZDRUM2X1hHMWljOVhoV28wQ1VkMkZIMFBuRWl6MWFMSEY1OUNjN3dYQ2V4NHZfWnA5Qm9EMEdJaERlN0hrRFdWeHpoZUR4emF1TXhlSDFsS3d0VVBXTElaTklCa19hZlBCZlJnSjJPV1BmeUpJbEI5MjhvZDE2YWRDVlZDQnZxbjhyZndySF9wOU12dW9fOGRXaHdxZzZwUVE?oc=5",
-          "pubDate": "2026-11-15T02:42:31.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Judge in golf course case says inquiry into DOJ lawyers will proceed",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGZQOHRpa0RST211RkVqQzV1dUppSE9DbGZtRk5Fc2oweXQ3UHp1a1owX3EyeThWTkhNUmViRmhnbDVyY0ZGamlORVpQeEpjX194T2RvOFBZMVNQRzRORVRwWGYzOGpOTU9zeVVyUTJmUExNekV0V1RqMFBaemxnQ1ZIVGJXRUZOYTZiQnFqbjZESVFaRUItaVcyRHhnUkFCbDdxaXI4VUJPV2VOcm9zQlF2NGQ0R18t?oc=5",
-          "pubDate": "2026-11-14T23:30:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5",
-          "pubDate": "2026-11-14T18:00:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
         }
       ]
     },
@@ -246,9 +246,9 @@
       "color": "lilac",
       "items": [
         {
-          "title": "World in brief: America resumes flights after ground stop; Ukraine warns against Donbas concession",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXc3T0dQSkhDQ3Fua3VvTzJJanhqQUtTRU85LThtUEFEWFJzTzZyNndMZ2R2ZDV3Z1k1RjFUZ19qd0pUa3Z4OUg2MzBSSW9rOGZxUlVhMG9nWnlrSlRSdE5SUzFvZ0pxcldFckRjYnRqMGgzT2dXWmg4c0thQXdQUzY2LVkwUE5taHZtZ2M2dk03UlZ1OTZj?oc=5",
-          "pubDate": "2026-11-15T00:00:00.000Z",
+          "title": "SpaceX achieves another historic first",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1ZrSG9jcU9OamNRSTQ2ZFNrOU04NlhMSm1QczdrdlhNTzJUaDE1WnAwVHVCbmJudVlMVUxKRXV1T1dGUXhfZXBvaUNnTjZWRXlWd2h4TERSUTJuM3pzcGo1VVdNMlctX2N4OHBCZFlsdXh5TDBfbnBOZmNZNm9IdzNkQWlVVHVaMWMzdlZOWjdZY0thSW5YT256c0E3RXc?oc=5",
+          "pubDate": "2026-11-15T11:33:37.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -260,9 +260,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "World in brief: America halts all flights; Bessent blames Lutnick for lax chip controls",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjB1b0JxaVRaUDFKajVnTEpuUUlpd205RGJEYWxmakFRV1dCa2I4Y1hpN21uRVoxWjl5WUNSM0lOUjhaMkltUWZJWmVuREhWczItd29lVzkwYzBTTDRHTERnMEUtUUZKb2htMFJsTXkwcTdjLVo1S3M4V2ZBUW4yMnJtZVNISlRvVFAyMnJhM0NmUDNwbjZ3?oc=5",
-          "pubDate": "2026-11-13T21:39:40.000Z",
+          "title": "How badly did Republican gerrymandering fail?",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2dMWENIR0JWS0RjRDdTZi16QjRRbWFEc0dWVnd1b1dTcXR1UnhiT3N1M2pkMlVzSmJKMGRKd1FKUlVTMmRzUmt2SUU4bklUdGFxRzBiR0JBYlR5R3hzYzlvYkZxRndYTlM1d0FSRkNORHo4Z09WOUd0bDR2OUY0WEtud1VHZEZCQ3B3NFpkTnJiZ1dabm40RDVOWmFXQW9FLWQ2X3B5VUZPUXBZ?oc=5",
+          "pubDate": "2026-11-13T22:01:23.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -294,16 +294,23 @@
       "color": "peach",
       "items": [
         {
-          "title": "Plantean a INE vacuna contra supermayoría para 2027",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDItRUs0dkFabWthYXRRN3ZzUzJCU3paNkpRUlpGbG9sMlNoekdEbzU1cmcyQS13VlF0U0tCbkNVaWUzUTZiRmZwMVNmNUg4MFRKZjRGVURvbS1oTGdsTkQ5Q0JDcGRrT1dnWXlXTy1pZS0yd2M4YzhySVlxNWJaY1BlTEtwaTlielozYVdlM1pJeUNY0gGoAUFVX3lxTE1pTGtIMnRmVFJ1M2Mtc3lobVpNS2RkSV84V2dfUzNZSU5yenVUdGMwRk5ubXpWenpXdDN1d3doYmpCTVlrMkk1b0x6U3VKanl5S0UwQUJQb2wwUHBJdUl4WTZfdFZVRGpRZTg2TVBUNTZ1a3VqcHFlTVFvN1Z1Wjh3SHRYNjUxUDE1WVBvb19kVHdoZmZDY2JoVWkyUnhVZlQ1LTV1c3FSaw?oc=5",
-          "pubDate": "2026-11-15T08:46:31.000Z",
+          "title": "Cárteles montan cibervigilancia en la frontera con EU",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX01jNU93Y0EzSlFqTzBvNTlFS3dsWXRtWVdSellHSnpBWGFqLThmR2ZJeENUUHFNX3p4WDVPRFJQQ1NSbFpCektaaVJnUjY1b2hBNUJJenJDZ2FFM1U3d3dLenBfR1dIVlZKVkF3WjlzVXZ5YmRyMEJVS1FkeVk1Q0hNX24wbmxtNk5CbHhQZnFqVk9GZ19GMnpfRWtneV9SRWhwS3NFazl2UTBOX0JzNzc0ejkzbzlrLTZuMGlmUGI0TEpYSGVwT3Bob0g3dFF00gHkAUFVX3lxTE56aXFtRU5QYjBDVW5qZktvWmE3RXAzNkJlMjh1T1VEMklySC1LMm5yQmtGbFlhMWJSZEc3LWI1VVZYQUpydlpOTFNyTUxnSEMwYnREQ3lETjVCcjJISnFMdU1zNUVwYVpyZ3I0TlBERHRaM2xhbGRWS3Y2SXlWU2ZzSEtnTDF2LW1LWVRrb1pZTVZXRDc1THZscG9GMllMM2hlZ1dBOFNmUHJHZkZ3RnJmS0Znbk5nT2xUOU5HUGtxbTJwTk84UmJpUzZwRnMwU3FkZWZDLXV2TzRTc3ZYMGd1b181ZQ?oc=5",
+          "pubDate": "2026-11-15T14:09:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Cárteles montan cibervigilancia en la frontera con EU",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX01jNU93Y0EzSlFqTzBvNTlFS3dsWXRtWVdSellHSnpBWGFqLThmR2ZJeENUUHFNX3p4WDVPRFJQQ1NSbFpCektaaVJnUjY1b2hBNUJJenJDZ2FFM1U3d3dLenBfR1dIVlZKVkF3WjlzVXZ5YmRyMEJVS1FkeVk1Q0hNX24wbmxtNk5CbHhQZnFqVk9GZ19GMnpfRWtneV9SRWhwS3NFazl2UTBOX0JzNzc0ejkzbzlrLTZuMGlmUGI0TEpYSGVwT3Bob0g3dFF00gHkAUFVX3lxTE56aXFtRU5QYjBDVW5qZktvWmE3RXAzNkJlMjh1T1VEMklySC1LMm5yQmtGbFlhMWJSZEc3LWI1VVZYQUpydlpOTFNyTUxnSEMwYnREQ3lETjVCcjJISnFMdU1zNUVwYVpyZ3I0TlBERHRaM2xhbGRWS3Y2SXlWU2ZzSEtnTDF2LW1LWVRrb1pZTVZXRDc1THZscG9GMllMM2hlZ1dBOFNmUHJHZkZ3RnJmS0Znbk5nT2xUOU5HUGtxbTJwTk84UmJpUzZwRnMwU3FkZWZDLXV2TzRTc3ZYMGd1b181ZQ?oc=5",
-          "pubDate": "2026-11-15T08:21:22.000Z",
+          "title": "FGR realiza diligencias en sede del INE; indagan presuntos actos de corrupción ligados a Taddei",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTW91LWFhYkI5OFRKSm9HcUZPOTZxdW84RWZ1aGYzNlQxRVpBdXVlT0x1bXBwdjBQWXlLV3pfRDNvV3NQNWVTeERvS0dsalZDZ0VoOUlsNS0tLUJKa3JRN1VKMXNJR1NBa2hVeXVEQ296QzJyQ0ZqN3p6YWFRNzV5TFl5Wk1kUDNDOFdZTTItSkhHMlk0cEt6UUdRV21od2JuMDZHb0Vuc20wN3duUm5WeWtWQ1ZqNjl3UGgtdDVZbUNUTHhyVGRDVjAyYWxCQdIB4gFBVV95cUxPUHFkc3dWLXRRcndvTWx0LWFQYU5JOUEza1poTThoUDBobncxbkZZUklCa2dvcDJQa19pdEttWnlKSjdldmlkeUg4b25DYWVSUjlORjl5d1VxUl9hWl9MdFJzTHBOVlVnWUtCR054S01VYk5uX2NtMlBhTzgzQ3VCcWlRekkta2RsZXFHMkE1QnpORHhSckJicGJTanFFaWJ0Ry1jSGdQeU5xZTJVRjZkLUtIQkVLY3F0SFZPckV6Ql91bXhHMFZwdmxXWEtJV0pUSEJ4RTRVQ0dwUW4xNnh3OEhB?oc=5",
+          "pubDate": "2026-11-15T11:30:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Plantean a INE vacuna contra supermayoría para 2027",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDItRUs0dkFabWthYXRRN3ZzUzJCU3paNkpRUlpGbG9sMlNoekdEbzU1cmcyQS13VlF0U0tCbkNVaWUzUTZiRmZwMVNmNUg4MFRKZjRGVURvbS1oTGdsTkQ5Q0JDcGRrT1dnWXlXTy1pZS0yd2M4YzhySVlxNWJaY1BlTEtwaTlielozYVdlM1pJeUNY0gGoAUFVX3lxTE1pTGtIMnRmVFJ1M2Mtc3lobVpNS2RkSV84V2dfUzNZSU5yenVUdGMwRk5ubXpWenpXdDN1d3doYmpCTVlrMkk1b0x6U3VKanl5S0UwQUJQb2wwUHBJdUl4WTZfdFZVRGpRZTg2TVBUNTZ1a3VqcHFlTVFvN1Z1Wjh3SHRYNjUxUDE1WVBvb19kVHdoZmZDY2JoVWkyUnhVZlQ1LTV1c3FSaw?oc=5",
+          "pubDate": "2026-11-15T08:46:31.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -322,18 +329,11 @@
           "_priority": "ALTA"
         },
         {
-          "title": "IA rebasa planes de estudio en escuelas; expertos advierten falta de 77 mil especialistas en ciberseguridad",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRG5HM2xjZVczdEZmeFBpWU1qaHRmXzBYY1l0QUtPdldhVGxuZVRrcXpKQThjYThRX2FoamRpQjgzbFBua3lXeGEtMDBhVXBIMWFXelFjdEhsOEpTSURQTU53TWctMGp4VnRPSEV3dnY1OEp6eVhidjN4emI2cmtRRS1lOUZKZC1OR0dmWXZ6VTNJTGZWNWpvU3ZOYVFXeVFyVHN3M0YwTnBZb1BLOUlmZ3BOYVBnM2VvS2pqSU1PV1ZKNFFLam1hdmxpbDd5SWtVZUlVek5IZm1fRkQ4U0HSAfIBQVVfeXFMUEFxU0lZZG95V3Z1RTQ1TEo4d1VaNFdJc0JkN3Q1SF9XN2RmMTl5YnlEZnVDS3pTY254cGdSTVctS1BmMjNwNlRSamZiVFQ5LU5sYUJvLVFQeTJQLUQ0U1h5SXpReXBLb3NuX3lvMEtfbjRJQkR0azM1bDQ2UFp3ZjMzdVA2M3VpVklfdkFvNzJzeDFKQ19sUWxPMkk2UU5neUdMU0ppUkJ5b3NkM0VVVkp0ZTJmQkpFT3gzRG5HcHY2S3ZLQW1HTGxJMEFvdzN1OUdzdHR0dEVIS2NQUnozSnpwQlNzMTZjRUlIZWRNeElhSUE?oc=5",
-          "pubDate": "2026-11-14T20:14:00.000Z",
+          "title": "Caribe mexicano continúa con su actividad aérea: Mara Lezama",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeGFkM1QySmk1d3FoR2dobmIyaENZUjVBSGswMG5FN0V2bGx1ejZlV1I0bGdKbWFrX1pNblZuRHVyVHFtN0J0UU95YlN2N2hmOUlJRmM5SEplbS1ZX1hZcDFRVlFReHp1VEpUdEdkZE1Cbm0wcVVfcTVGZkQ3WUtZazNSckJnalVvb04yeFJzcmt1cXM0ekdPSTZQdTJQUmRFMUlqTkVRRU5XTjZOb25PUWU1bktoUF9KMDNZeXZmZ3k4ZVZmb0F2LXVxMXFYcUZONlBNeE5aTTR2OGJjVzNPX0dIMDlwMUtN0gH8AUFVX3lxTFBHdWhENklWQ2lGMWNfVUYxbXNDVGk0NmJPam5PT1lydGVPT1Y4cE5wQlNMX1phMjZ6TklqVzJoVWRvc1FqLVpUcXppWFpvWGdwU1FhX2dMSml4ekFYMnVfTzFNTlpsZWpxd1k1MU9yV0dMYldmd1ZZNkhXVm51cGttUUZkSXhZZHZlNk9uX3N2Mmo4TG1BdlppY1pVZTJLYmFXdzlBcmw2aTV2ZTRQZmpndFh0NVdYR3dqcnhkVHJTMEt0V0V4cjBaa3h5YlRhT0Y5T0JteENaSW9yYjFfUVVaeXRYLXNuTy0tdlQyV001bW9Wb3ZJX3NMYWJWbA?oc=5",
+          "pubDate": "2026-11-14T22:00:04.000Z",
           "snippet": null,
           "_priority": "ALTA"
-        },
-        {
-          "title": "América y el Red Bull desatan fuerte campal en New York; las Águilas pierden el juego",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQl9BSDcwNGpYR3haenZPWlBjcElaOWthOGZ4bEZmTkV6MnBZVGFGSFMwT1BKVW5mbG1CQWhMdUpQdVA4S09MOHJPdGNSakcyZWd5clNLOHBOa3hkRzg2RFZoQ0RLVHEzOC1oZldjNGo5QUY1eDlNb01tVWlGRWl0X0tVU1NuVklzUkYxUDJLM1Y5U3VOZFdEVV9QMTBjeFNUMWU5c3hHQlNIbnRlSXZBbXNaY1pQTHNRSkRLc0JsUmVyVkXSAdcBQVVfeXFMTnZCaDdvNF9sRlNFNXNsaTVnbjNYRXdvWjU1VFZWMHk3cEtIUEQwMFV4dFZ3SDZUaWFDN2FWdkp0eXgwMDdXb2pXTVdpWnJ5c3dodkRLd1I4VndFb3ZVU0R0MGlvd1dYSGNNM2QxZ0s1bVZWeXAyZ3MxdFlCU2dqU0RxOXNFWEszUktBWUlNTEV3bEFLaHVUb2Y1SGNJcEJ4TXBSVFZUbnE0R1hKZ0pQdjZTZ2pPNldaMzFHRjJGcXAzVlpXdmVfTGIyME54MmZiU2J2dTFSN1k?oc=5",
-          "pubDate": "2026-11-15T04:33:09.000Z",
-          "snippet": null,
-          "_priority": "DEPORTES"
         }
       ]
     },
@@ -341,6 +341,13 @@
       "name": "Diario Las Américas",
       "color": "blue",
       "items": [
+        {
+          "title": "Los tres congresistas cubanoamericanos resisten la ola azul en Miami-Dade",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanNoRGFGX0swYkFwbUZ6RDl0ajhMQlFZeUxEaEZRWVhabzVENzFPdEVWTEkxTlFmQXZsRDF6UndnRlNWYjBfdnFLMlQzUk9WVXFjSDI5Rm53ZDNVYmpGd3VWU1VqVHJwZk9uVlpWLVR6UTZRZURBWmpWU1l0cU4yTlRnb21yTHFuUllOTnRicnFKYVBUeDhsTFQzN2tKQzB0RWUxZlR6Z2IyQXFiN3Bva25CU2hkZXZNcjVtd0h30gHDAUFVX3lxTE5xUlhOTnF6MXpJVXpiN2h3Tkp3R3o0OHVaZ1Y3UFhvZnhfVzluYTUwcjh3b3VnZkgyQWw5aVBNWGZWYTM4bzJkdHJBT3Ayc1ljYTNzNXUyX3pqa1JSbmo0Y2hYVnk5Umw2N3hsY09tZ2l3MGRoaHhJajgyLXNUUGtoMkdiUWRoTW5uVkktbGlhd2sxcGdIdWl4VTFiNEluWktwTmZyYjY4Uk9GVFI5S0hEcXR0M2Y2ZTVsd2Fxem9McFRMOA?oc=5",
+          "pubDate": "2026-11-14T23:02:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
         {
           "title": "\"La presión de Trump contra Maduro responde a una política de Estado que trasciende los partidos\"",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU0hpS2xad19wUnNoTzJXREc2MDRidWMtZkZLSWFBeTRSUzRoSkl4VWs1NGQyTVhlN2F2UzU0cnk3Z21KZ3dzSTZxTlRqbUxnMnBVSVZqd0ZrcFVIN2xfamhPclNHRF9EWkFtTUlHbnZfLVVJVzNhcUZDaXdSQ0l4R1F2d1NVVzdabTNIMjdVZ1dOZjVjLXp3aElYR3h6RXBHVkZIZ2lSNDRlSlVjOFE1Q0ZKdklyajc0akwzNHp0a05MODkzVmF1a2tBdl9NSUhMdUNtU1pxeGlWZ2haUjZOUy1NMNIB4wFBVV95cUxOU0hpS2xad19wUnNoTzJXREc2MDRidWMtZkZLSWFBeTRSUzRoSkl4VWs1NGQyTVhlN2F2UzU0cnk3Z21KZ3dzSTZxTlRqbUxnMnBVSVZqd0ZrcFVIN2xfamhPclNHRF9EWkFtTUlHbnZfLVVJVzNhcUZDaXdSQ0l4R1F2d1NVVzdabTNIMjdVZ1dOZjVjLXp3aElYR3h6RXBHVkZIZ2lSNDRlSlVjOFE1Q0ZKdklyajc0akwzNHp0a05MODkzVmF1a2tBdl9NSUhMdUNtU1pxeGlWZ2haUjZOUy1NMA?oc=5",
@@ -363,13 +370,6 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Chinchilla ve un régimen cubano \"agónico\" y pide sostener la presión",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1NVY2RwTUpzZFBIbGpKal81ZHlqOVN6QWQtdTlpdWZZN2hob3hzLXFDd3RobHl2ZnktV3pIVFMzOGtpSExWbDhQUUl6am5KdXpNZmtYR0hsQUh1amR4NVNrcFY0SXY0cTVPWFRZTmJXUXZjbDNtMkRqYnNvS0g4WnhuY3QxdEpTU1Q1TUR3MUtMUmNGX0RCZDROVVBTakU2OVl2Sm5ES3JBUEVYc09DV3ZZSDJfY1Nk0gG-AUFVX3lxTE5TUHZXbkpYRHUzWXVjd3Q4UlJFQTVNWkNRRG9DcEJrcXVoa3dodUk2V0s0eGs4NXpCWWRxNi1RUllHcFZRa1plcUI1eDgzOV9YejRxc3RHazEyajdxSDBoaVNkNW1mUEg5TUY1RjktUldERzU0eU16eFFTU04yMGJzUEFCY1NQbzl2elJJZk0yWGZ0aW5ISHFzNUl5MkUyTDI4YkZDa0FrWExnTmxtT1VicGo2ajJsaW9CZGxnbWc?oc=5",
-          "pubDate": "2026-11-14T15:49:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "Trump frente al Congreso: la batalla por su agenda y la alianza con Israel",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSV9SM1lOakJfNWUtbFZqZjB6SjRLTTJyUUczaHhLSmxkcTJDRHRBNzNaQTB2OHN5WHY5Q1YyZkFZZmVGQ2tiNnVQTUtVVUNYUFhyUkpCSzlMS0pGYUFjYXVKZzJCOUtrOU1QdFQ3RFF2LXBGRVZtZUN4S0JtSmZ4ZHRoQi1Cb1RMXzEyaUlHSHJwNkFfVm52T2VlUzhCMUVaTDhEUHFUQ3FmOW5rYnJ1a2hkQ0ozR2fSAbwBQVVfeXFMTWlkeUJSQ0Jua0pUbWlIR0RnSlRac015VFhMV2t2LTZHNTNBV0g5NzQtUzloSGZvUGFuN2pRRWpBWUM1emp6SktCZEl2RC0xMDlTaDFqMzcwOVhmUVZGZ29vMXRHZE16MHAzTE8zbFQybGNoRWp6OGtTdDF6YWg0d3JXUmg1MFFtdlZrUUNUNEpfdGUxQ1VIZ2MwVjgyS2FMWmdxMWdKeEJtNDc0cFNFZkpleW5xdDU4NDlNdXg?oc=5",
           "pubDate": "2026-11-14T15:00:00.000Z",
@@ -377,9 +377,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Putin pisa las islas que Japón reclama y Tokio no sabe qué hacer",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkpfMHRYOE9QVG1LVzYtQ0lrZWs5aXhhQXg1cUJMUzRoLWxlRFlMbnNkaUFXWEVhWW4yOHVoZlhJRGVsdmtUNWJjMW9rN1Zqa3h4aW5jS2JsOTJVVEJYWjBGNTJvbFl4NzdLTVJmREhNQk8zeHJQM3dTX2l4MFlRRkNZdWloSDEtbHZDYjJPdWkzUVliZmM4ZFF3TFNBMGd0dUhvSGo5TW1wYjh0WmVQajJ2ZExKd9IBuwFBVV95cUxNV3pUMmszYngxejFOd2IxMnlfTUZkQ2tyU2JWck5fZWlTeW1jT04wQ2ZKQkxuRGZpRFN4Yko1WVd6VVlVMGkzbUhuQktXSDBpV3ctRFVaN20zcmtqQmVpU2NhamFBRUd6MHFsVC1taXZOSWlkVS0wQ1pLbWdzR3VhX29XR2JLMVdSa2tiU25kV0pZUVZZVlN0b2Z0dXBpOTJIN2N4X3F4RjZqdjRDWGlSNXZHY0JMeXg4U3I0?oc=5",
-          "pubDate": "2026-11-14T14:48:00.000Z",
+          "title": "Corte Suprema le otorga otra victoria al presidente Trump",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGVyMnJvQmJtanJTeWhxdzc5SEJGNndRSFduRGVNV0JrSHlkbnhvOExWRms5dXdwWjFNSjBTSHFOMDdMSDFjWFA4UXpnTWRBTFp4UVdXZWRMRlMzMHgtYjNSenExVHJaMXhJcmVSckJLN3RSd3BoSGFGV2VjNUkweVFVaW5pRGhIUEM2Y0tBbEpuQ1BDWWppNWNmTWlDRTRYOXZxT0Z4aDJRWkJNWGfSAbMBQVVfeXFMTmdPNENJZ2RHRXZnZmhWZFBMcy1vVlo3SklIczhUTkJoUldhYURjZFlTckRXajJMMVZXNzBPOWZtOUk3bE9xSWZCNzdQNWJQUFVMbmtHRDlvSThmclEzRXdxRmJxYnNsQnJ1alU0bE5qLVhKel9qZEJraTZZLVZyQUp3cllMM1BBc2VuUTFSdVJpSmJ2eDZNZ0VlYk94RG10SUJydDRsYWQwVDkzRFotdU91VVk?oc=5",
+          "pubDate": "2026-11-14T02:40:19.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
