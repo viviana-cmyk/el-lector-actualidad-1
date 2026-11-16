@@ -1,31 +1,15 @@
 {
-  "generatedAt": "2026-11-16T10:01:50.239Z",
+  "generatedAt": "2026-11-16T20:02:42.597Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
-      "items": [
-        {
-          "title": "El niño y el calor en RN",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkN4WVdwYlQ2Z0E2MUpXNGJZMWM5WGVTbkxZa1o0czhQazVuZHZHczFNalhlM0ExdU50eWJSbXhrVXdMSnNUaTUzeUNCUUh5dmlCLU9tUlJ3MUN2ZzJfNG54MEdtaDdOaDl0TW1WU053cVVVVWIxVXJpOUJCbzNSaE4yZTJ0T2lMS2dVb3k2V2luM3BlTzhPTVhOb1FsdGRLT09GYm1SSW1YOTZka2fSAbwBQVVfeXFMTjZPbnlaalBOaGV1QkI0UXRXVEhwZ3NQVWJqaDhlWG1fcXpZOTN3bWo3aFlzTDdkTXZlOHVSTlZuajJ2azVHM2hMdTFERndyRm1pYzV5TjNNQWNkNy0tMDlVR3oyY2w4NnlKbmt4WXhqQjR3MFZyQVY0c19qc3pLbXM2cnVuT2RBaGxEenJwckRTN2lhR0JTZDBOa2t0SmRibVNqa0Vpa3dITmxVYTU5bVNKS1U0d3Bhd1FUTi0?oc=5",
-          "pubDate": "2026-11-11T01:32:37.000Z",
-          "snippet": null,
-          "title_en": "El niño e o calor no RN",
-          "_priority": "ALTA"
-        }
-      ]
+      "items": []
     },
     {
       "name": "La Nación (Argentina)",
       "color": "sky",
       "items": [
-        {
-          "title": "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
-          "pubDate": "2026-11-16T09:00:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
         {
           "title": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVXlRVDVFTDd1YmU5TFhDYTEzQVd6ZzBCTmkxd1lzNWl3V05Xek1sejlSZnhhMDdFeFVZX2V0UWN4Z0U4R0R4c0RpUFBaR1ZSQ0dRb2EydEJRTVVFekUxbWVEUXJRdWdUeFB1amRDNUl2cnpqRzdkcnZURFh1R25TQlhsNnNGSU1yTjd5LVk3bXRJY0RvWGFZRjYtVDZld2l2UDBFZkxmX09iY291UmlFMm80MGotR1h3Z0I4Nm9CWDNraUtRd1o0UEk0a0R3bUMt?oc=5",
@@ -39,6 +23,13 @@
           "pubDate": "2026-11-16T07:55:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
+        },
+        {
+          "title": "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
+          "pubDate": "2026-11-16T09:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         }
       ]
     },
@@ -47,23 +38,23 @@
       "color": "rose",
       "items": [
         {
-          "title": "Jornada de búsqueda en CDMX, Edomex y Morelos deja 39 hallazgos en su primera fase",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHMxWnlUVVZIejhyRUkwb0R2R2NTRFdrNndaTzIxTXMtcjhWNGpYeHJocGo4ajBPeGZHOTJicWJZSU4xQ2VDZnpMcldTekp6ZUc5dVNfY09GdTJpWGFELWwwdmZmZXlLRkJhNEw0OERwT0RvekRWbHpsOWNHRUdRNHA5dndrUGtGenp3Qm5sdy10ZnB0U3M1bVoweGo2SFFBUEJzZ2UwcktGTzlRSUR6cHZyMUduTzBkTW4wNHo0TVJ0SlV2dVNxLV9JVWtNUlRsTlJ1bFp1czVVU19m0gHwAUFVX3lxTE1fNjVqRFZCRVlmQzB5Nzk1OS1PUEtCQm15Wi1ZNzlqYk50SWdEOG1ZckxzVG5iUU0tcnpQOFphN1lQaUpBcEFMaExHTmRlQXF4Y1EtTWtTc1JBdzRNM1kyZXEwNFdRaVM4eVdJX25Sb0ducUZFZnpvN0g4Xzl3NEExY0FHRE10b1JidVB5ajIxOE1DWklteHc1MXdBQWJucEEtYnV4VDF4el8zY3l3bV8tTERlMzNSbERGM0wxMGItTzlsLXhkWHFMLUdya1c3empuVXBEWkJQaW9SZHVrTHBLY1EzTzhUcF9Rd0lIUkJ3bA?oc=5",
-          "pubDate": "2026-11-16T06:13:49.000Z",
+          "title": "¿Cuántos mexicanos han salido de la pobreza desde el gobierno de AMLO? Esto dice el Banco Mundial",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVjVXczdBTEVBcm1wOXp4Nzlwd0xXTGFCYkxZOEdvVmlHSElhWXFMTXg1LWdVbjdlU1paanFGdVB4a28wLTJpWDhFVWR1cWY4T1AxU016QWlidkRncm9TNnN5NnZNSXRZUzFrdTZhRFhMX3RVZmdqQ1lrREVBSl82LThCRDBaWl9tZGlrQlhkX2h1THdDaXpPYzlqMlZzWWYxdUlRYUxhc2ZsMFROTzhPYnNTVU9QRkhfZGVLYkt5bW9MRGs2bFppbm1BMW5SVnPSAeMBQVVfeXFMTkRVVW1LajRWeDgwOWtMdXA4V2Y4cW1BWEEwNHhWcThLRUcydS1MZHowTi1JWU9tNE5ZUVFmUUlQYUl2ZzFpZkxheWxFTWFRa1ZCOTJKTGE1c19DZEd6em91d25BdWtVeEdPS0FhaDAtY24xV200MlJfOFVDcC1BX1Y1a0NVb1I0M19Ra2JyZnJtSVdDT3Q4WXgzZlJvTFBYc0lfbUkzbWtPcGx4djY1R3Rsa2JMZnJOVjlLMkhXTEI4cDNoRXBzMl8wLWYtX29oUmowQzZ0Uk9URTRFaGUxUHphVkk?oc=5",
+          "pubDate": "2026-11-16T15:57:16.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Comando armado secuestra a cinco hombres en Tecate, Baja California",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNclVFbkk2QjR6T3pNNXJQNTlhN3RHNjR2TU5HdzlJSThZWTBqa1FQNmZmeUc1RWV0TkRKWm1ZNTRQZXdUcU1MOGp5anNZd0xQM0Q0TXBlUGVSaUo5dHpKTG5zMDk1dGFqSHVXZFdtNk1mcHU4Q1JTZzFsczlDWkFJd2RkWU1xMERDX3pkUGE1bFV1ZXpYWVJfZFQ5ek9hdEpJZnRaU0h5QW1kMC1BUnNjblVxNkRaT2d3Ujlsb05BLXVJNUdFa01rcDNROXpoRzRtdDFlaUhEUXQ5MWhwSGtSQzlZT1RBLWltcHc0X21vclJiTXFCYXRIek9RUElsQnJWQnV1TlU3UjVfWVdW0gGgAkFVX3lxTE9QZ08zYWdLV1QwbGZUa1dGNGNiTlF0dFBpVWRFWnV4RjhKVWFSVGJ2Y2t0OHl3bURuYjlqckR2TVhUbWpTaEhleDB1U0VwdmRXVXVhaFRLZms4ZFhnN196a3g2blR1enVtajJHUldaMmNvckRzdnQ5MGx4ZHpMTVRJeDFPZ0poZGVta2RJdlRVaS1GbjEtQ0Nia01sQzktSkIzWldoLUIyU2phNXpsRVhwaVBlQWxDZ2JheHlpTFkxOHBWMUhTa1M3ZG1SQXN5Vlotb2xnNnRNcGp1clZ1bjJzdUdWQ1pJazltdEU4aDlUTEZWUnVHYm5SejBwcGc1ZFV6eWx6VXV2Q0YyazZmOTNNMGdGZUZObHpSM1Rzbm1KaQ?oc=5",
-          "pubDate": "2026-11-16T01:42:51.000Z",
+          "title": "Segob apuesta por diálogo ante conflictos agrarios",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelVPdTdiODBXSEtEX3pJV1NZcEJ1Qkh6cnZGeUZ6SG56SV96Q2l4dlpSbEY4NkRLMUtwTldQQklDVXY3T2JOVWVJSGw3bXZBZjd5Wm1hNVZSSnYzT09zalk5WWZrT0p4aWNPbXpiM3VMeFB2dFU4WThCVkpxVEY5anMxYnQ5R3RHSDBIT25TWDlhVzVGVjVnS3ZRQ1lCUFRDZzJ4UThObkdwcjhibGUteG9EZlR2QUZXMnFfTDI5eGFzWmdJLWhwS2F2eVJMaGl1V2pLdXhib3FnV2EyS1dJRTRiNS1QazdDSUhr0gH_AUFVX3lxTFAzR0U5dlU0clRCS0xRdUh5dk03RGpWMTh4V0Q2aVVEdGJRVXNubi1XWWYwdUp3MDFEeHM3QzFhT2huZVNJQjYwSzdYTHdfbEFiVzZyV2pfYjhCOU1OUTVGTjFWbFBlN1pBLUxjN2VZZ3U2cjFaOVNRYURlQjhqSHA3NTFfeFJCaVJKaFF1T2R5blNsNnNhd2doTVFqY1ZPVXViTk9NYmFQYm9jMkpSZEtCVUJHRy1oeHVvS0RKLTlpZHp1VDBYWk95YkRtbzlYQkFOVHlvRU5pOGlCVXotb05aNUM5MExYX2FPSzhSdXlQbmczLXJIdGFlVHYyWTRBaw?oc=5",
+          "pubDate": "2026-11-16T16:22:50.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Proponen reformar sanción a delito de robo a autotransporte de carga hasta con 20 años de prisión",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTGoxRFlNc2htLVVXRS1JRUxzcmlaWUFkM3ZTOFRTcW1mTkxZbnlmUFFnYWxoUVVaRTZBVlpodS1zRUJueWw0TWZydkFwejg2QVdLU2JFTEVUU2l1YWVoZ0QzbEpGZXVTbkVLekVwdUZYTlhLajBFb0w5MHUzaVpKV1I5VzdBeEFZTGdpWVYxVm9xcVFuYm9nUG5jMm1vU1JGV2FicUlBWW1xcWhnc1lRRHNvSHdiSGFxQ3JYY2pvOHR0dGFnek5hUmpkNFpILS0yRnBHNHFSMmlMRG92NzZuODJINW13eEHSAfsBQVVfeXFMUGl0M3BkLTNzNGNfdWRlT2gtRzJFalpiRkhGSnBEaWxMUHBaUVpFeWtpUlJvY29hc28wQzl5U1ZSNml3N0NFcndTNlREREFtT2JFbzc2VGdFbHNwRnQ4UzBhS1VxN2lBWE1RaEZUTGRsX2J6T1o1MXRXUVVzUDJHd0VIWS14NGFHTEZYVllBODlQTzBvVU9EYjVMb0pIN2E1eHc2T1plWTBiakJITW1scFdLYjN0akwxNjgxdmQ4dGlXY0hfLTR3VFh6UlVyc2k3aDBqSUxTN2RvZkpTSGhMR252UU1ua2pTeWlwZHJLM3B1TXlWaTRyek1aY2s?oc=5",
-          "pubDate": "2026-11-16T01:37:07.000Z",
+          "title": "El Jefe de Jefes y las redes de poder en el trasiego de droga: así tejió Félix Gallardo un entramado criminal",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd0hySnJBNHNzbkdJWnJ4VlhIQ3BiY2hqTWNsQnh6X0NpajFGRVM4SGd5Mk42ZlduSnUteUNGVE90cUJxLUx3LWFKcFJTS0t5STFjN3ZpYkctdk11SG9TZ1ZKanU1Mllua0VxOGw0cktRd0s2dENfeHlqRWFESVl3b2h6bWVSM05lQVZDbGJQbEhEeTVTSTQydEw0cl9mOC1TQjc4SXZ2NTNPU19RVFJXZDZ3WUZzRTdQeTB0cUYxa2IzQ25aa1gxQTh5MjlYRXM1SVBiOHplWFN4XzNOTGRVTdIB9AFBVV95cUxNU3M5T3ZsenBLLXVDWjNoQnZqbXVGalpaQlJtU2d6TlRqM1hMMm1Pb1cyUDlzLVhTMmY5NXNSNFBTeVZxOWF3VHk4bWZGZDRGT2tDRy05aWFyMmVOLVJ3OFNVRWdHR0prcW1mc2FVbFZVaE1DR21Yek5kdE12ZEhnd0NNUjk2OFhtbFFpUzJEQlEzamhXTTZPMEV6b2taWDNhWUdiNFZIUEtTcGRNTmNfNFJoVFptZEJ5SUZiaEEtQWhZSHV1b1ZpOTJCY093aktNQTBQUm5MUVlLMldYdG1hYW9BeGM1aGJwcXZyRWZWX3M2cG9Z?oc=5",
+          "pubDate": "2026-11-16T17:08:18.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -74,22 +65,25 @@
       "color": "peach",
       "items": [
         {
-          "title": "Papa León XIV recibió patena y copón elaborados por artesanos de Ucayali durante misa en Pucallpa",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbFgyazI1SkZKVVVqdlUzd0VqMGV5REhRc3VQN2dhSXAwVmI2Zl84djJKbnk3cWpZdWdFMEttRGtJaUJVUkRwS2NLMnQwRk85aW5Oa1RBTVVKWDhiZDlnQnZWdHpyZW0tYnJxa3pRMnJCMWRHXzRnYmw3c19Yd1NjUlFfN05keW40SzVQVjJWU0szeHE4UUx4LXQ1eTR1OEJEaUNPeE1zS2F3b0U1cTdxREI3WVFjbGh2ZnZhMzN4bmhHWmZqYUg2bmJON2tremp5SkJhOUwwRjNMN2lIOUxHTXlfR0VKOGp6bUtxRjFWdno3XzFObG01T2dlZnBmRzJlLUVrUXBPNGhHTWlxdnV0VzBWMmVmSXfSAasCQVVfeXFMTzVjc3k2X2xlTVFiZkxCRnFBSmJUeUx3Tll6Y3N2enR6TVNobXlzbnpZSDVKM2FoNkw0RG05d3B6Y190eWl4SXJBLWp4MnBTbEJER0lpekZtaklEMW94TEdfM19sOWpzYkEyRlRWZUNuajl4eDE5X2NELVV0dllVR09yeDZDcm9seUNINHd5ZDlLUnVUSUxTTUNBWW5XeTQzejIzR1gzSXBkd2VDZGVfZVkxV0JQcGp2SW1jQ0Y2TTg1U0xtRXpwVlNwcC0wbHlzaXo1ejNyc3AwS0x3MlZxWVB2c0oxNlFRT2VGVWZfREY1MUdNcHQ3Tmt1TDFfbGdZQ0pIa0ZPS09QcW5rRnlTQ3BfVE1ycWpMX3V0SHl5RXpSaWhxOXBtbVZ4bVE?oc=5",
-          "pubDate": "2026-11-16T05:01:11.000Z",
-          "snippet": null
+          "title": "Más de quince figuras cercanas a Pedro Castillo reaparecen en planilla del Congreso",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1laamlvU3FNYlRsSUJaSXpsZkRucjlIRnVYalh3VGpISDlZaFdyZlZ5dG96V080QlhCQVdwc1NEc0l6ZzVuUW0yMzhLSW1VY3RWVDNoR21vcEt3c2pwWUo2MVBfbDdsZzQzRFFDSUNYZnM3MEhGVmtQY3BvR1JEcnZ1dFFRcGxSd3hoeFZrWkpIbXl0WWVsQVdraXVNbFM5R2o0anh0QjJvS2s?oc=5",
+          "pubDate": "2026-11-16T17:46:41.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         },
         {
-          "title": "Con la fuerza de un León: crónica del paso del papa por cuatro regiones en una jornada histórica",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeS0wcTZxaTB3YmVPSG5HOEl1UDQ2MFMtME5GWjlWUFFzclVZZTZXOXB5elE3Mk9IdnFwLW1rUlZpSEZ0WUJJX0d0bVFhbnpYTnRxNWRMYnBpeFZfTzNjY2drZi1PVkExeFVkaXl5QXJmUF92YVlFZlFLV3R5elc5Uk4xZHdjVHZmdWJfelczZ3V5QmNscVJCWkswWnhqTm5nZjBBbzRjNFV3Tl9BNmptZ1JyTEphdXdjUGhJT1E1cVA5NFpBT2pVcGVOSnpFNERMVlVTRE5KQWTSAewBQVVfeXFMUGdVeVZiRUJWb3piT2VhMTBIM2lkOHNYdmt2cmF1dUlEQ1F5T1JCc21yUTRldDVNeTJNVHVqRThZN00yOGxUR1BTOXdBcFdoOFUzc2ZTaHRyc0c4dWdpSm1OSVhGZmxBeFpLc2N2a0lYMkxaMExGc21GcU1ab0p1ZC1JWEtMTWhGTThDOFJjTTVuSHhWaDlNektnUzZib0lHTkt3NzNVM3JBV21qRUVqS3hsQ1BxMnpHTTl4aHBtMlMxNmJHMld5RWZyS1ljbjFScURCaDhGcklsR0dZRTB1bVR0RVNwNk53R2pRZEQ?oc=5",
-          "pubDate": "2026-11-16T05:01:00.000Z",
-          "snippet": null
+          "title": "Wall Street abre en rojo arrastrado por el sector tecnológico y la crisis de Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONXFCejIyUFpCSEkyS2VlOXN5b0pIcENyT2V0cHJzZy1BbU5QNTQ1VVlZeG1HU0NpNEVyUi1oREdHYmw3U3pSSEZTbEdGZHgzWjZPd1lhUHh4Vm5mUVltbjB6eWdRTHljWm1LMTlnbGF5UEtOYTdnRnJUSWdhTjg3TGJyV0xyV1JUaXlvR1hUSVV4S0c2OTF3c21wWHJhRFA4WVlGM3Rub05ZbUVqLWZaejY0VnRCaENocmpBR2tBTDlhbzVpR2YyWjZZX3lMNnQ3SjJzZDlWbl9JcC0wX3VBMjU4X0x0azc1U3pFX3hiSTZvLWVfNnlYb000d9IBjwJBVV95cUxPY18tR3B4ZkJjWnBjUFdFdTEta1R6RE0ySmJZUW1Rd3NpOUwtdVpwV0NGTHRuc2RQdGRudUMxcDNlanpmSkJGUWttNWd0a1dzUlk4RE80VjFTamc2SnN4cFd3NXliR01uLUs4MnQ2ZXV2WXpDejd1aFVaVGFzRmEzT3pobmxqbGNRbEtvR3VVWFRBaU1OeGNyNzVCU3pvOGxJdFpxYWJBSkVQblRld3cyRGJ0b214SndsZGtsckZKUHpBVTdMY0E0UmNxRWduMnFKTnFtanFEZ3hSNk5Kak93Ql9IdEdVSndkNUpEemJvUzV6YjJ1dDl1X1lwLTh2UlQtdlUwRWVRTldMRDdiZG5v?oc=5",
+          "pubDate": "2026-11-16T16:54:39.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         },
         {
-          "title": "León XIV alza la voz desde la Amazonía: el enérgico mensaje contra los crímenes, la impunidad y la devastación de la selva",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOR1NzSDlIRC1Bd3BFM3BJQTEzSUtUTlpwNW1IZms2Ym9JSWRIT3duNWdBYVNzSWYzOUU0Xy1NaVREcVpRRS1yeE80YmQ1d3hIdHliQV9teFREX2JadFF5STgtVmt1QVRJdW1qbngwM1ZFbFFTbXpnc2RjbVFJc0FubkhiSmE1S293MjBfMmJ2eHVCcjRsRXBQS1JsYmZOc0VEdUJydm1nNENkVVM1UVFOYzU1cy1NRGpDdGNBYmxUQnRPWlAyQlhubTVnVjJSM2xzVFUzTy1ucmkyLXFIWkRGclZHNjNjeTVHWlNWaUQ0VVhIRGYzeEh2ZDhONlI4aXI5bXBhUNIBmAJBVV95cUxQRTJqdVRfckZNQUxDdklhMTFWd2JVTTZKZDJ5RkxpTUJuVXNoZ2ZkaUZ2UlpRdUNmak9BV001NU90QUJJUG5pbTlWYW5wa1lLNkplclNBOW5HNTRGbGIxcFBPcDZGaURvWTZ0bG9kdTZqYjJYZ3p1aHdSd05scDdCRVJOZjlJSWZ1aG9GWXpSUWYyYXhCblhNXzJiMFAyR2hfdnlNVTVOdWU0Zkd1dTQyd25SSi1tcXN4aGN0Zk1hZmwxdmJkVG9JS3IxaVpKVTZDdGxtM1ZpUEJtenJDd0x0SkZOZVhHdWFHWmh1S2dRUWZER3JzeE1CYnpLM3htcW5jV015S0lPcnhBWTZ2OVJaajNBQ0kyTVhN?oc=5",
-          "pubDate": "2026-11-16T05:01:00.000Z",
-          "snippet": null
+          "title": "El dólar abre en S/3,40 ante fortaleza global de la divisa y pagos de CTS en Perú",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbVpwb1VSTW95WENPLThSWWdyTGNZdGhvb043alBBbTBJUnZwb2N5TDhXeWZDeEtUMS1kNTlZZnd4UThEWW0yZVdaOVN6SjhZVnljQ2pGTGlwQnZGd3B6WW1hQTVKOGRLQ3MtalB3b3dLWGZscTlXX3pNMmw0SlBxMjZtbVQzQkNwTnpMaDFLcEJuelpmQ1dEUU9rQkh1OE8yaTd2cTl6ejVUcVJMcUluV0pUTjlOdlQ2OW00RmZia05FMUxpU3l2WC02Q05TZzFZV3RTVVJPUU9nVEhfY3U3RDZCR0NOUlhxeEpNaUN0aTLSAYQCQVVfeXFMUHZ4bE9kZnFNZ0pyQVZuRHZrdEVBTF9jMGc1MEV4anVxeGhtQk9YZ0tGS0JPRUZXX18wSmtteUJ0aXJnMWNjR0JranVyVGNhcnk5eXVBNHRZWkVCMkpkVlFjYW1vUkFqTmVwYnlRbHpSMExqVHpnZ2k3cmNVOFM1U3BhLTI1YzZqM29CVm5KWkZnR3hrS1V2X1kwSHRBSURDWmZrOTA4SGJsMWtISXU1ZWNNN0hOc0VwZEVwSHFNdTBpNGhzMVRQRVN6d3htN1g1TU9XM2dnamJzLU5nNFQwS0xzNENzaWRmUDFkbEs3dWcxalZNbVRNVUhkaHIyRHVPMmYtYWo?oc=5",
+          "pubDate": "2026-11-16T16:34:57.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         }
       ]
     },
@@ -98,23 +92,23 @@
       "color": "blue",
       "items": [
         {
-          "title": "Cómo los trastornos del sueño pueden alterar el cerebro, según una investigación",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdVRJMlNJc290UzVESFZVaTVJSjBCYnl2c0paSjZpcVNKTVd4WE1GdDROQVgzUEhHTm45TFg4S0pFNXhHejZ4Y2oxTGg2SmZHRzU1by05SnhFNHdQT3FHNGxlUTM1ZkY3d0xBdU1IMXdiU0dwZ2NVdDVWUnVBVVF3aGtoeU9GN3lDOHVsMmw0OXZLa3JaNW9WTzdZbDd5TGNyNXc1Zy1iZjBBcVkxTElGLTVlSE1Yd21Cek1URGg4bWV1TXc?oc=5",
-          "pubDate": "2026-11-16T09:03:00.000Z",
+          "title": "Kast justifica homenaje a Ho Chi Minh en Vietnam: ”Quien habló en ese momento era el candidato\"",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0pfNDBvUkVyMkpJQTR1VDRJR2s3V0ZyaUVMWEhyblFJUWNMNHVycWx6cTZBd2FNeW5ZNXZGYzR1am5fdHBrX0YzTjFwdG5FakN2SHVGRVV2cXNmYlFqaHNaNTJwRGZYTUFfZ2FFVFdaM0tRd0x6aVFMb1JXeEtmazFDNlB2SFBHYzVxdkhqOEg2aXVxYUxBUVpYa1dhNE4zWmxvRGZGY9IByAFBVV95cUxQbm9DVi14WV9GenczQ0xKaDVCa2FXQTFfRWdWOFp6QURWa3R3YUtyYmkxMzhSZnNpZGFGNFpPNnI4ajBDbkU5Vlk3OTdiZjQyYVphRG5kN01DQ3J1ZnNFY25uNUJ3ZFV0cXJxb0ZTSmxjRWNFMVVVV3Y3cnB4SnlHeHVNYzJWb2I5T29UaUVYT0NjeUlVOUdtV3NtQ2JWQ3VaZ3cwU0g3c1pSVk1ma1FHOVhnUXU1amVuU2VtSlp3bU54dmNrRzZPVQ?oc=5",
+          "pubDate": "2026-11-16T19:37:19.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Subsidio de incapacidad laboral",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHhQbEpXbDdhMHZGT3pyZ2hPeUtCTHQ2U0VEQzJhVDN0X25ibEktekZ3VUtFVldISElkV0VHTGZENUNna3A1RDNzNHdCS1JLQ0dOUlNyV0FUZkJEcFBkb0xtU28tcVJPV09PNmlvQl9RSGxjU2s3eTV2dm1ESHV2VXZNQURoM1Byc2U1LXVR0gGvAUFVX3lxTE1HZDIyaVczckNyTmNkanJ5MldGT2N2UjlvSEpocTY2c0cxa0UyNWF2SUN0bFBJcUM4Zm9NOWZqRlpnRlo4b283WlRhVjBFbGtmZFJjTHgyNWhNY0FsMkRJUm5nWW5rMVRfQTBQX3p5czRJeG90bWtXUUJ4S0kyanB6ZlB3VXNtbWhvU3d3cE5PcXhwSUhidVdjcml2N1VvUnpoQk11OVg2NE5ndUZvbDg?oc=5",
-          "pubDate": "2026-11-15T23:58:00.000Z",
+          "title": "Sebastián Claro: “La economía está más dañada de lo que pensamos”",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNFlWWDIzT2RHUlB4SU5rTnFVT2tKbmZvM3ItemRJclJORXhBdVJRYWNJWWhWemkzLWFVLXhWRVJyQWVlZzU4bVJvSExpeU5aNnhfcFZTcXk5Z1NJUVpleUVOWVlraFNPTGlsY3lsVlI0RmR0d3l4WktmQVpiTlVVTGEyTkZnYnEtb0Y1ZXNNRkx2bl8zVDlMQlhEX3o1MW01TjlJRzJ4NNIByAFBVV95cUxOcTAyOExoQzl6RzNWWDR3TGZBMEV5V1BET3I2bjBsbW5wYzM5TG0yU0dHYWd4bzM3bi1DZ0dRUHlBbkdGdjNpSWdHdXE0cEY2YlMwNzJpblg0UDNBVk45WHBfNGpCa0pzX0N3YkJYUGpBaEJzRG9MekpXOXRHLWR0WFUxdHRhYi0yUVFyWFF6Q1czMXBaQnk4dlBYQUdwWkFvMkVnQlI4YV9IaDFIdE82TXpoeUpWMGtGblNCLVNMbkQ2WUFaU0pZcg?oc=5",
+          "pubDate": "2026-11-16T19:13:28.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "El costo de despedir es un costo de contratar",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDdxbDJKRFp3V3NmV1NZcEw3dFNBclhhbDkxd1FLaGhwWUFLcXIxSW5oSl9DU1J3NEZZSUJhU0VpX3lZb1Y4YUNfTGs0SzlPYkF4d2c0WEVZQ012WWJfWTltXzB5X01ZVXJsUGdhRXBiNktOUzJvOU9zT1BlNUhIcnRudFBfcWRvTE5SeVlXcTZ6QdIBswFBVV95cUxOSnV1dXVuanFhNFJKaFdEQnRhYUJNd19YdndLUVZjU3U1QXM4bU9NTl96STRWa3hBaDBsZ2cwQk5sWEdVWFF6eVlXdkZRSGVyblIyNy10bTlTQm1zek5VRUFMRTFaQWtoTHpNUUNnQi1XUTVaRi1iMHc5OVBaS25aLWFleC1aX2pMTlZjQVJtUlNpZlFOUnpDMkxLQ29YUmYybG9PSmtjWlh6OFBreW5BSmcybw?oc=5",
-          "pubDate": "2026-11-15T22:02:00.000Z",
+          "title": "Trump espera verse con Kim Jong Un durante la gira asiática de los próximos días",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVNVcG1uaXVVeENVc2JraHBnSFhmSXpXakVCNVREcWU0YlJIMEgwTjloZTJNY1pJUlhveVh3b3NxX1ZlTEgyNTE2NGRKYkRWUExmUE1rN0p2ZTdtY0pCOGFUOTNYMU83RjI2R2FLbzQzSzRoRkp0SEYweUZZQmY1UjJCaDhWTF9xQ2R3ejBkZk53YVpYWWFXRHVBbjZOcWNxZnk1dnB2X0pIN1YzT29CcVRoZjZ6SV8zZUd5RkF30gHfAUFVX3lxTFBGaHI2a0RyakVYVjd6NnVPSDFEVmtiTVBRRzQ4ck9KcVFJcEdETUVqd2ZDUk0xb1l5T0NKVHJXQW5rVXVhTGRkckNwU3Zsei1wUUdGOHRTV2tMWnBqemhtNzV3LXhrR0lhaGpibEpBUTkyMTB6OFloM1Uxel9lbUZyTXZNM3N1akRlWVZfLTBISk41eE1yanhldE5UNTkzenI4UTVRWHc5X3ZBY3FHTndOUVNjUlJxbThTYkRESllSSzhhZUR5SWF3cVRROHZsUXlkMTRoRVVKdlJCMzlvQkE?oc=5",
+          "pubDate": "2026-11-16T16:36:47.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -125,18 +119,11 @@
       "color": "yellow",
       "items": [
         {
-          "title": "El consumidor ecuatoriano cambia sus hábitos y optimiza sus compras este 2026",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGxueklLdGZaWmpzSEtTbjM3N1hsbUoxNHI5b3EzN3NENFR3NjNpRjQ3bFhqT0NGRV81eldSNWwwUDFzUTByblpIQ3JwWm51UVR1YVFPekZsWkxyRGxWQ0J2ek5ZRjNsdGlRZWs0MUp2dnRYSzZobzNnZnM5cmpwWUhvYjMxTVpjRFh1cGJueW1NRGhkeUE?oc=5",
-          "pubDate": "2026-11-16T01:36:34.000Z",
+          "title": "Murió Miguel Ángel Félix Gallardo llamado Jefe de Jefes y fundador del Cartel de Guadalajara",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFBMbnhVVWlWRXBWV3pldG5ucGhWSFptOUEtbWVockxBeUVLV2VEVjViaU5EaFlhSVMxdk1UNU5iNmVPWk8yVXg5dHNZRkFQRVE1T3oydE93SDd1dWNncWV0Uk1CTDAzU0tMNGpfWnVfN2VBaFJOZ3VjX2J3S3FzYXZYSTJUeU5ydlVIc2NjTVUwcFRHY3J3dEFSV3BIT3FsS2RYTW4xNUxMMFBtMlZfWjcwd2I4bjdMdHV3bnBNYVVYVTg?oc=5",
+          "pubDate": "2026-11-16T00:09:35.000Z",
           "snippet": null,
           "_priority": "ALTA"
-        },
-        {
-          "title": "El MetLife Stadium sufrió un incendio luego de un juego de la NFL",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEpldkFaSXBGQW9nX1QyQk55V25aZ1lGTnZ0WGdFLXREelFHeURVNVJQUEg1SXRVTjVJdnUwSTQ3bmJ0SjB6cDd4MERfNmxycWo5NkZqZGNLY0tveXBVTkcwWFI0T19WdTJvX0wyc3ZXb2hsZ0FralByNHpNUEl6WHlQZU5LR1BoUlE?oc=5",
-          "pubDate": "2026-11-16T01:15:59.000Z",
-          "snippet": null,
-          "_priority": "DEPORTES"
         },
         {
           "title": "Inglaterra vence a España y le arrebata un invicto de 43 partidos",
@@ -144,6 +131,12 @@
           "pubDate": "2026-11-15T22:26:37.000Z",
           "snippet": null,
           "_priority": "DEPORTES"
+        },
+        {
+          "title": "El consumidor ecuatoriano cambia sus hábitos y optimiza sus compras este 2026",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGxueklLdGZaWmpzSEtTbjM3N1hsbUoxNHI5b3EzN3NENFR3NjNpRjQ3bFhqT0NGRV81eldSNWwwUDFzUTByblpIQ3JwWm51UVR1YVFPekZsWkxyRGxWQ0J2ek5ZRjNsdGlRZWs0MUp2dnRYSzZobzNnZnM5cmpwWUhvYjMxTVpjRFh1cGJueW1NRGhkeUE?oc=5",
+          "pubDate": "2026-11-16T01:36:34.000Z",
+          "snippet": null
         }
       ]
     },
@@ -151,13 +144,6 @@
       "name": "ABC Color (Paraguay)",
       "color": "mint",
       "items": [
-        {
-          "title": "Meteorología prevé lluvias dispersas y tormentas eléctricas en Alto Paraná",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWdESXR0RGtLWkpLNFg0dDQtbk1jaExURnMzQW9SYm1ab3pJS2JfRHhuTnZRVjFGWTl1WVFRWU5qRGlaT24zNXRUVGxZckk5MkNCMnM1eTdtbXpRT2M5QTg0YzktcmE4ZUh2QlpreGxXQ0FjRmdHRkY5cUM0ZExnQThjbEkxQ1VnUXRqQk5ad1Bxd1JzajRCMUhRa0VyWl8yclRHc0VQbzNMajdDbHRkUXQ5MGc?oc=5",
-          "pubDate": "2026-11-16T09:34:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
         {
           "title": "Ueno Bank: Tras el pago de los anticipos del Fondo de Garantía ¿qué pasos vienen ahora? - Economía",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlZ2cnhzTFdWMGJIQzNOTUwyeTgtTHM4dnlCckJnMFpJVC01SGx3X1R2YXdJNS01OTZMSkhmelN2dFJsR2VMdnF6UUhobElleDluUGg5U0Q0aUVaczlBQUVuMGxNMmFsc29HUnE3bHZJSzZ5N3MwQkNQdklJSnFyTksyN3hyU1AxX3NnSF84UEE5eEkzYTVFckpzSEhpM3NtMG1NTFNLSHQzbWIxNG5uVzhxaWxDV3l2NlFuZ3NITTMxN1ZyUFBB?oc=5",
@@ -179,23 +165,23 @@
       "color": "slate",
       "items": [
         {
-          "title": "Patente 2027: intendentes mantienen valores para autos a combustión y aumentarán los de eléctricos más caros",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBzYzZhcDJFcTVKRlJVSHpXUFkyc21iN0V4X295OEIxYmdnazRRTlJabXA1dml2NV9TZkREMVU5Mm0wLXRJNS1hMWQ3YTNBdVYtamNQcHNzVi1xZzJfZEVhNnhheHdkMS1VdWptVVRaSWROWlVLT3ktSlF0UWxZUmZlMWFmcjNxeUY2SHJfRkxxbE45R0kydWoyRy05R0ZjdGFLN2EwTE5vZ1EybF9BNE9taHQwQm1EU19UNDFwdzUzLU5Sb29NRjBOM3J6VTlsSkpXTy1GakM5Q1VFXy13OVkwaERockJTYUE?oc=5",
-          "pubDate": "2026-11-16T01:11:50.000Z",
+          "title": "Trump, Xi y Putin se reúnen en China: 10 claves de una cumbre histórica que deja afuera a Ucrania",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYml1V3pjREJSN1A5SDI0TXBldU5GQWYyOThXNW13M0xrMWhiVVdTU3FkWkZ1a0V0U1k3M2NxYXlhWTZXMlpwNkxfUFdaZTZocXRtbWJ2eHNVdTdKNWZYemNHRWdENGRnaHRCYUdjN0tlM2ZVMTVuUXJtbmdpMU45SzBsZURiMEI3M1daVXdfWTMtZlgweEtCUV9FQ0NaVFg0SVFyaGdONG9ZMFZjMmp5SDlKNmktR1VzLVZobWtkcEtwYUpsSWc?oc=5",
+          "pubDate": "2026-11-16T16:32:46.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Estados Unidos podría seguir afrontando problemas con su transporte aéreo hasta el lunes, según el gobierno",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWWRzOUZRRWdPRDB5THhNNVR0SEtRMlFkeEwtRzlsNWhqcTNjT01mc09TVjY2eWozcWNSQ21xVF9PRXpLR2tmaEZWc1oxdnotMURtajNPbC1UTk1pcjdVX0R2LXh1ZnJhR0xQY0wwV3lPRUI3aDdzWFFZeDd1LWt4SXBYcFczanBnczB4R0lFTVF3RG9YMTJ5ck1OZFhfemo1WThhNW94MTJpUEM0b2dHV2pQbWF1UTVKZmtzMlVGQXBLbWJRdHg2TVZmb2kzS1BrYW1qT0NsdWFNcjFBZmwzcXBXTnN3SEl5?oc=5",
-          "pubDate": "2026-11-15T19:04:55.000Z",
+          "title": "\"Siempre se favorece a la misma empresa\": Bordaberry cuestionó a la ANP y el MTOP por el transporte fluvial",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYndwTW1lcDdVb1poVGx2S19hYXl4UDVyeFBXdEVKN1cyS2d4QkpOWFpBcF9pdjgwMWlkSnZxeHpQQWtOMndRSzdYX2Y1U1ZJYnBGUjhMWDVyeGl6eUJSc0MxVDVKRHBpakRGRmlYVnktd3BLNjBRXzRCWGNYODBua0l0ejlyeGdXdUFIWTFfVVR3TGZLRjJwUjdEZFFVeU00THJHaFBOaUozQ19rSTl5YzRZZGI0UUJTUXBGV0tGbld2RnQxRFVOQnRrR0Uxcnhkc2FjVVVEMENpZXR3OXI4eHBn?oc=5",
+          "pubDate": "2026-11-16T14:28:13.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Jorge Fossati tras ser campeón del Clausura con Liverpool: \"Conseguimos el éxito, ahora vamos por la gloria\"",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2FMY01wOFhHc1JlSzIyTkNNM2dDUHNXNFhUX1ZudlB0WEFncGJOcDItVnl0YUxNMkdZS2FxajdfMl85NGc5eklaVVdybl9GVEFXaTM2NHlmc290RlhTcm81NFItZzBua0FRczk5eFRVbjhsRVVwd3A3a0hfRW9YLW5xSGpfUzBWYm1EMWNaMFMwVS15NkNPblhfM0tmUDFZM01Mb2xSYWpwek02aHZSc19PNWhFY19EcHBRTXZ6MFF4dEU1NUI4bUNkMTFkdjc0bG9Yd0hKbnZrczBzUkE?oc=5",
-          "pubDate": "2026-11-15T22:52:18.000Z",
+          "title": "Uruguay vs. República Dominicana: día, hora y dónde ver el último partido del año para la selección de Forlán",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbmcyRS01QURzNTBWc1BiSEJrN1o2OEtFOG5CT2Z5NXpYUW9uOF8taHo5NXJfQWdLdW1LZXR5QVU2ZWhmcmdUaHlSWkRMZkpTc1VrWllWZU0yalMwcWxVVjRITF9KUVJBQndQN0puN1NSZ0xxTmRaRHB4Vm4zTXBQTzI3M3hHYnNkNzZtdUh5WTNuM18zVHB0QkF0MnZfd2swTzZFUWJucHdJb3JKazNWcTJ2TV9CaXlwRklWN0M4T2lOWnFkbmw1Vk5SMGZRYWFRLWFPMVh5SnlkbUhza1ZaSQ?oc=5",
+          "pubDate": "2026-11-16T16:44:50.000Z",
           "snippet": null,
           "_priority": "DEPORTES"
         }
@@ -211,23 +197,23 @@
       "color": "grey",
       "items": [
         {
-          "title": "Jorge Enrique Rico Arrieta: cumplió su condena, pero sigue preso y en huelga de hambre en Ramo Verde",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVFhWDFsVm1STTF2OGYtQ0JDWTczMEVqZVRDQTlVS1pnVWdNNlhyWXdMTWZMcGdzcVNIYmROalhJbW1MVFhzcEs0Z1E2eHVCaDBmLVgwajRxa2xkcWJ4NlVUekZ0U2Jqd00xSWFsUEprQVBpd3VDbnJCMEtZRjlOdnJOU3pJbjAtZUQ0T2RHN0xueVVrYnFHMzltTUhpR19xdkdGNFBqaXVqbm1TVjFUYm9udEJpWkZuejd3RDN6ZVlZeFltcHU5bXN6eDY2RjA?oc=5",
-          "pubDate": "2026-11-15T20:55:47.000Z",
+          "title": "Gremios y sindicatos inician paro nacional de 12 horas por mejoras salariales",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUjA2TUZzcVRPYXpqaTQwbXl3S3owQXBwS2RkZHkwZ2hRNUlxZ2Jqc0RmOGJoUDlGV2RqZW95ekd0dkhTRzRidTFXY0ZRUWhvS2NNM1l5WHNtQnVUUFVJSE5iRkd0Snl2b0QwU29kTkMtVWpnZkpBLXhXVW5KdW5WTlZtVmVuTTRiaWV2UURSaTN1aTNPWi1pUndyaU45MHgzWDZuQjBlOTVucGM2a1czU2t3X1d4WXA2R200emlqc3NIZw?oc=5",
+          "pubDate": "2026-11-16T12:30:24.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Delcy Rodríguez arribó a Emiratos Árabes Unidos para impulsar alianzas comerciales tras visitar Turquía y Catar",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd29sMDJvd05pREZaajdkQlFKWXpSMjJneHFBOFZuNFBodUdUd0Z6NDc0eENSTGRDMWs0N3J6RXA0Qnd5Z3pqQlp2SVI2Nmw2c2NoYkI3VkM5VEJMQjd1U3ktdDBHWjFRVTZSVVpLZ3dzVHNsT05WbGRoUThXb1dhcGxxSUh5YnRnSjJfa21adEFtVUtiOGdlQ0FhdEUzNzFjbEFjOTFqSjk3TTJZZzV6QWR2RHRlZWc1VHltZk8ta3hOSzFCNUEtcjhEaVpaLUNWSkJ2VTl4R2NIOTBaTjUwMA?oc=5",
-          "pubDate": "2026-11-15T23:13:06.000Z",
+          "title": "Irán advierte a EE UU que no es Cuba para bloquearlo ni Venezuela para forzarlo a rendirse",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUFzTVVBZEkydmFuN0RUV2l5MWlDV0k1cW05dU1yMTNHUWZXbjZEQ3M2Q3dSbVJERGJzZlpueDJMSEdwcy14clB0ZVN1YTQzRER1ZDN6VGtLdHJIbFpqRmoxLVZMSzEwT0t0Smp2c2l1M1Z2ZEtpYmVXQnJ1b3dXVkpTWklJQUdVSnJGV2NfQkhQdTJVRExTZC1RZjVKY1RNTXU1R1VSeFFQRmozenhwaGktMTFUOXBGNmMyTUV3YjdQaW5n?oc=5",
+          "pubDate": "2026-11-16T09:54:31.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "IDEA y la dignidad humana como frontera de la democracia",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRklYTm9jdXRHSUp1eG80WEJldnRPZzlRNUZTMkRMZVdKbTJkUFZTVC1OTXQwRmQ5UGpjN3AzSUpib3J6SmszSGZFemw3SVVtVHBpQk1fYmVjdTJDbWZPeWhpWkFRc2IwWW96Z2JQU2NURzZ2MjNVZFN2TTZmNzM4alRHUkkxWXNVQTBGdURKZGJ3aUdqVDcwbWxmRVNkYzRlWlhZ?oc=5",
-          "pubDate": "2026-11-16T05:26:14.000Z",
+          "title": "Abren Muro de Berlín",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSVU5BSjFXSHhWQVBScVVoLUlUZmdrQlloLTVBX3pDaDRqb1BPd1hkN3BMNjBTcGl4UEVHZk12SWNwaHoyUkowUFUtWXN1OFV4Y3A4Q1FzMnJjZWVGLVNldHZpR1A3M19Nb1I1SGFYLTVJdU5hMHc?oc=5",
+          "pubDate": "2026-11-16T18:38:33.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -238,23 +224,23 @@
       "color": "teal",
       "items": [
         {
-          "title": "Salvadoreños y estadounidenses encabezan los movimientos migratorios de extranjeros en Guatemala",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2JuNUlraUZ1d3I1REdOc3Izb1EyRXhJbzhJR1JRUnRzblIyVUVWNjlvaEJFdlQwVzUwbXhZUFdQUWZqY0NQMzlFb3QyWVZibXJVUkRhX0xKVWtKN2d4OVI4TklRMlhRejY2aXdUb2xlbmNxM2FiNjNmbUpPcjdVU0FycXFETlBZTnhsSzJ1RC1UNHAwYW5SYkVFOWM3OGxMajNxbnpveEdPT29FUmVHYzA5UkNET2hSYm5ZaUtiQkdzNmJoNzhoTGNaRm1UMGc?oc=5",
-          "pubDate": "2026-11-15T23:10:16.000Z",
+          "title": "Ordenan repetir el juicio a Lindsay Clancy, la mujer acusada de matar a sus 3 hijos en EE.UU.",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb1JhZ0kwWXczR2tQTHhIM3dta1pxYm1qMVBjV2xCZGRvOTJpT2JSZXlkZzNPQWF0SF9fejBxaW11WUFRYVpMV1NuVUtaelJOUjdiclVtTGJHR1NRVlRKTFZpSjRadEdTSk1PYjFjNGpiYlI2aTRDejJZMmgtUFJMVkx1VG5PMTNtclg5QjlUX1NVX21qTlQ1VlBzQlp4RExMNTdNOWdVYWtSelR1UFM0YlJEUURKRF8xdWxvUWZ4b0dfUmlhX3NMMHhEaXk2QjROSXN5Um5LZ056RFRXcUd6b2Fhb1NqVmZLaGxVbDhXMkZ6c3JmSUE?oc=5",
+          "pubDate": "2026-11-16T16:11:07.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Presupuesto 2027: gasto en salarios públicos de Guatemala alcanzaría récord de casi Q45 mil millones",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXh6VFQzVl9UQ2F2TlFEZ29TbU15ZjlybnVhaDJXZDhGTFZoTXhwOEVxanc2NUwxZ3Q0UWhBYUpUeUphRFhsR0puSGhtVnJhN3Jnd1o5eVVCMG1rRkJUN3RWamNCcnZHWXg5X25vNUdSX0toLWRld3VLdWdCdUtqYzlQSkRadXVTaUNHUVVlT0d5MnlGS0Ezc3pwZVE2bXdpZGtaWHpob0FFUkE4SmxDa1ZGNkUtRUc2dDlYN1R1LUxUV1p6UmRHWF9zQWMyQ05rR0JV?oc=5",
-          "pubDate": "2026-11-16T06:10:00.000Z",
+          "title": "TSE afirma que proyecta 11 millones de ciudadanos empadronados",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2N4VGpOeDZwYi1qY3VmdFg0WlVlZHlLZjQzSUtSd3VCOWU0N1dPZnZOejFCc0x1bGxoRHJJd3B3NEdoNnczaHZXa3JONVQxaEJCeEtXLUFpdXNzcDFaX2dmRVRWbEt1X1Z6ZUJZVzBONFdkOC1TRngwUDRRZU1sUHFFQV9Zb3VVSFp4YzZSYXI5aHExeWl6YmpocG5FTTBXdC1FRm9WVnI4aHpiaVJZbTZfejN6Zkk?oc=5",
+          "pubDate": "2026-11-16T15:32:46.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Cuando el hambre condiciona la permanencia en las aulas",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjJ0MVNuMmZBT2NDcGt5cGhSYjNGRjhEa3ZhTzQ1WnBZSXNWWDEzcVNVNElrOGRRVFRvNmUxTHdYRFZkOG9LZTlTYm0weFRWcDltVXhZT2lkeXd0bElLVWNFeXp5VWJYZVJYSEE4MnhVNzYwTW0yMnFYYmFzSzk2Sng0OTZJMUdmenpqWUFUQkhrazR0VU9BQ1BLUTNGYmJpTnNHUVdQT3dSUQ?oc=5",
-          "pubDate": "2026-11-16T06:05:00.000Z",
+          "title": "Posible venganza sería el móvil del crimen contra madre e hijo en Zacapa, que está bajo estado de Sitio",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTE8ydERHT0FSb1k2ck9RblNBN2Q4YkR4MGU5NkpWOGNuYTZmRlAyV01RbHg1WWpoY0NlcURWQXdWSDhGOXRqTHVMbEJPSmhwcGwwblRNWHQ1em92ODdHbkZ5VkxNNkhmdUpyaU1qM3RXYkU0YWhkakJ4ekluc3lDMllJWnJlZklJMTRDZ2VpMjE3a1RJWTNVVE8zOUd0RXR2MGZGVUJIMnpVTm9SM0Zwc0JPUG9JY0RvNFA1b1NuamhraWNaQUUwRzB2TUpJZTdfUkVuajI3dFJtNGx6TFJtOTUtX1FVcmNMRVNEQzYtOUE?oc=5",
+          "pubDate": "2026-11-16T14:57:26.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
