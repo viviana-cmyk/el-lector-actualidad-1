@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T10:05:46.025Z",
+  "generatedAt": "2026-11-17T19:00:26.732Z",
   "dia": {
     "nombre": "Día Internacional del Estudiante",
-    "descripcion": "Se conmemora la lucha estudiantil por la educación y los derechos, recordando movimientos históricos de resistencia estudiantil en América Latina y el mundo."
+    "descripcion": "Conmemoración de la lucha estudiantil mundial y la masacre de Tlatelolco de 1968, celebrando el movimiento estudiantil como fuerza de cambio social."
   },
   "dia_en": {
-    "nombre": "International Student Day",
-    "descripcion": "It commemorates student struggle for education and rights, remembering historical movements of student resistance in Latin America and the world."
+    "nombre": "International Students Day",
+    "descripcion": "Commemoration of the global student struggle and the 1968 Tlatelolco massacre, celebrating the student movement as a force for social change."
   }
 }
