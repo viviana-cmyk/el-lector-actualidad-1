@@ -1,10 +1,22 @@
 {
-  "generatedAt": "2026-11-16T20:02:42.597Z",
+  "generatedAt": "2026-11-17T10:01:51.084Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Clan del Golfo – Autodefensas Gaitanistas de Colombia",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/urabenos-perfil/",
+          "pubDate": "2026-11-16T21:39:09.000Z",
+          "snippet": "Clan del Golfo – Autodefensas Gaitanistas de Colombia El Clan del Golfo, también conocido como Gaitanistas o AGC, es uno de los principales grupos criminales de Colombia. Quién lo creó, qué hace, quiénes son sus aliados y enemigos y qué le espera. Perfil completo y actualizado co…"
+        },
+        {
+          "title": "Estado Mayor de Bloques y Frente (EMBF)",
+          "link": "https://insightcrime.org/es/colombia-organized-crime-news/estado-mayor-bloques-frente/",
+          "pubDate": "2026-11-16T21:25:43.000Z",
+          "snippet": "Estado Mayor de Bloques y Frente (EMBF) El Estado Mayor de Bloques y Frente (EMBF) es una organización criminal colombiana cuyas raíces se remontan a la antigua guerrilla de las Fuerzas Armadas Revolucionarias de Colombia (FARC). The post Estado Mayor de Bloques y Frente (EMBF) a…"
+        },
         {
           "title": "The InSight Take | La organización criminal detrás de la quiebra bancaria en Paraguay",
           "link": "https://insightcrime.org/es/noticias/insight-take-organizacion-criminal-detras-de-quiebra-bancaria-en-paraguay/",
@@ -28,18 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/bombardeo-venezolano-contra-eln-sacude-dos-decadas-tolerancia-chavista/",
           "pubDate": "2026-11-05T20:12:59.000Z",
           "snippet": "El bombardeo venezolano contra el ELN sacude dos décadas de tolerancia chavista Ante la creciente presión de Estados Unidos, el gobierno de Delcy Rodríguez bombardeó un campamento del Ejército de Liberación Nacional (ELN), que por años ha usado a Venezuela como un santuario crimi…"
-        },
-        {
-          "title": "The InSight Take | ¿Venezuela le declaró la guerra a la guerrilla colombiana del ELN?",
-          "link": "https://insightcrime.org/es/noticias/insight-take-venezuela-declaro-la-guerra-al-eln/",
-          "pubDate": "2026-11-05T18:25:46.000Z",
-          "snippet": "The InSight Take | ¿Venezuela le declaró la guerra a la guerrilla colombiana del ELN? Venezuela lanzó ataques contra el ELN en medio de la presión de Estados Unidos para que el gobierno de Delcy Rodríguez tome medidas contra la guerrilla colombiana, que durante años ha contado co…"
-        },
-        {
-          "title": "Las vidas detrás de los titulares | Temporada 2 del pódcast de InSight Crime",
-          "link": "https://insightcrime.org/es/noticias/las-vidas-detras-titulares-segunda-temporada-podcast-insight-crime/",
-          "pubDate": "2026-11-03T18:58:23.000Z",
-          "snippet": "Las vidas detrás de los titulares | Temporada 2 del pódcast de InSight Crime Detrás de las historias que conocemos a través de las noticias están las vidas reales de personas y comunidades afectadas por el crimen organizado. La segunda temporada del pódcast de InSight Crime, ya d…"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "color": "teal",
       "items": [
         {
-          "title": "The View from Eritrea",
-          "link": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
-          "pubDate": "2026-10-30T15:29:06.000Z",
-          "snippet": "The View from Eritrea hschaub Fri, 10/30/2026 - 16:29 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Africa 30 October 2026 1 minutes This week on The Horn, Alan s…"
+          "title": "Gideon Rachman on the Risk of World War III",
+          "link": "https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii",
+          "pubDate": "2026-11-13T14:32:56.000Z",
+          "snippet": "Gideon Rachman on the Risk of World War III mloukili Fri, 11/13/2026 - 15:32 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Global 13 November 2026 1 minute In thi…"
         },
         {
-          "title": "October Trends and November Alerts 2026",
-          "link": "https://www.crisisgroup.org/crisiswatch/october-trends-and-november-alerts-2026",
-          "pubDate": "2026-10-30T14:08:18.000Z",
-          "snippet": "October Trends and November Alerts 2026 oolofsson Fri, 10/30/2026 - 15:08 Loading Map Resolution Opportunity Risk Alert Improved Situation Deteriorated Situation Unchanged Situation Standby monitoring Not monitored Scroll down to read trends & outlook Share Facebook Twitter Email…"
+          "title": "Mo Ibrahim: Sudan Unravelling",
+          "link": "https://www.crisisgroup.org/vid/africa/sudan/mo-ibrahim-sudan-unravelling",
+          "pubDate": "2026-11-12T09:22:54.000Z",
+          "snippet": "Mo Ibrahim: Sudan Unravelling saureli Thu, 11/12/2026 - 10:22 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Video / Africa 12 November 2026 1 minute International Crisis Gr…"
         },
         {
-          "title": "After Serbia’s Election, Foreign Policy Takes a Back Seat, and That’s OK",
-          "link": "https://www.crisisgroup.org/anb/europe/serbia/after-serbias-election-foreign-policy-takes-back-seat-and-thats-ok",
-          "pubDate": "2026-10-29T16:58:19.000Z",
-          "snippet": "After Serbia’s Election, Foreign Policy Takes a Back Seat, and That’s OK cmoore Thu, 10/29/2026 - 17:58 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Analyst's Notebook / E…"
+          "title": "Frank Giustra on Why Business Needs Peace",
+          "link": "https://www.crisisgroup.org/vid/global/frank-giustra-why-business-needs-peace",
+          "pubDate": "2026-11-12T09:02:28.000Z",
+          "snippet": "Frank Giustra on Why Business Needs Peace saureli Thu, 11/12/2026 - 10:02 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Video / Global 12 November 2026 1 minute Internation…"
         },
         {
-          "title": "Don’t Go Backward on China Policy",
-          "link": "https://www.crisisgroup.org/opd/united-states/united-states-china/dont-go-backward-china-policy",
-          "pubDate": "2026-10-29T14:33:59.000Z",
-          "snippet": "Don’t Go Backward on China Policy mloukili Thu, 10/29/2026 - 15:33 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Op-Ed / United States 29 October 2026 1 minutes Originally…"
+          "title": "The Shell of the Scam: A Journey through Cambodia’s Empty Crime Compounds",
+          "link": "https://www.crisisgroup.org/phe/asia-pacific/cambodia/shell-scam-journey-through-cambodias-empty-crime-compounds",
+          "pubDate": "2026-11-11T10:46:52.000Z",
+          "snippet": "The Shell of the Scam: A Journey through Cambodia’s Empty Crime Compounds cthuratong Wed, 11/11/2026 - 11:46 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Photo Essay / Asi…"
         },
         {
-          "title": "A Political Shake-up in Serbia, Business as Usual in Bosnia?",
-          "link": "https://www.crisisgroup.org/pod/europe/serbia/political-shake-serbia-business-usual-bosnia",
-          "pubDate": "2026-10-29T12:58:37.000Z",
-          "snippet": "A Political Shake-up in Serbia, Business as Usual in Bosnia? hschaub Thu, 10/29/2026 - 13:58 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Europe 29 October 2026…"
+          "title": "Briefing to UN Security Council: Update on the Situation in South Sudan",
+          "link": "https://www.crisisgroup.org/spc/africa/south-sudan/briefing-un-security-council-update-situation-south-sudan",
+          "pubDate": "2026-11-10T13:07:55.000Z",
+          "snippet": "Briefing to UN Security Council: Update on the Situation in South Sudan mloukili Tue, 11/10/2026 - 14:07 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Source: UN Web TV Spe…"
         },
         {
-          "title": "Centrafrique : contenir les effets de la guerre au Soudan",
-          "link": "https://www.crisisgroup.org/fr/rpt/africa/central-african-republic-sudan/323-centrafrique-contenir-les-effets-de-la-guerre-au-soudan",
-          "pubDate": "2026-10-29T10:01:08.000Z",
-          "snippet": "Central African Republic: Containing the Fallout from Sudan’s War mloukili Thu, 10/29/2026 - 11:34 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List A soldier with the Zambian…"
+          "title": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It",
+          "link": "https://www.crisisgroup.org/opd/middle-east-north-africa/israelpalestine/palestinian-voters-gave-eisenkot-chance-govern-he-should-take-it",
+          "pubDate": "2026-11-05T10:58:48.000Z",
+          "snippet": "Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It mloukili Thu, 11/05/2026 - 11:58 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Op-Ed / Middle East & N…"
         }
       ]
     },
@@ -90,9 +90,21 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Cómo puede la nutrición mejorar la resiliencia de la sociedad",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUhmODhZNzNtTmJYLUlMVGEwN0JVazJmMzRBYVhzSnRmc0UyWGhVVXFKN29NYnc0cDdPSFZtWkVCTTBpcEEtQ1FydWhPQi1fdFZkRjJMOFdJZFNXVjZrVHllQ05pUkUxUGk3Z1l0MG0wTzN2TzJ5V2RGcmRjblVPci1pYV9GZmEzV01tbFFzcEd6OFNEYzh3TWVEekt0dndSaWt0V2dhLXVxQmc?oc=5",
+          "pubDate": "2026-11-16T18:55:39.000Z",
+          "snippet": null
+        },
+        {
           "title": "Plan estratégico sobre cómo los países pueden impulsar la inversión en carbono azul. | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGN2MTk5LWF1M0kxYkEyRkUtV3NFdGJUbFNyVDdNcFl4bXJiY2FHRV9kNGI1MW0zRU9pNm5rQmVNLVpJaWVTWWtia1hVbjUxRmxNYVFVWDNTbXRfN1NVX0xPWmhUM181UllySER0X0NaNjlCYmFoaWRMenpjeTBya3VzQm9qWG1pblpoQWFfSjVVek9EaU1hWVBWRng5RVh0VUY3WFRRVmJmOGpxS0tjeUdESElOOEda?oc=5",
           "pubDate": "2026-11-16T17:33:31.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Un plan conservador para combatir el cambio climático",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnBpNmhTUVNQdEtOT29NdFAxTUJyT3Q0NHVzT29zTzBWcnRhdEFaN0pYNjJscDZkeFVvTWZNTWp4MDBBMzcyUmd4OVVxeDI4eTN6MmtiWTVuUHN6a2twNjRHVERJNjJnaEVEV05XaFFWV255aFlQNGlWZVBuZG0xc2hLT2VBaUZNODFMZHUzeGhMZw?oc=5",
+          "pubDate": "2026-11-16T11:28:10.000Z",
           "snippet": null
         },
         {
@@ -111,18 +123,6 @@
           "title": "La eurozona todavía es vulnerable",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVRpdkM5UGtpa0NaRGtaNnBVa09WLVVuV2IzeHpBelRFOFVpOTk1NkU4Um1vLWUtWUZlbzVQeC1TbTlVcjZhM2NPS1lyTGMyVjd3bV9CVHlQbzFDaXJWNmRQU3VZRklHV2s4a1ctTlBSR0lhVzdsSVhvdE9ldm9FZW0zc041TEE?oc=5",
           "pubDate": "2026-11-16T06:45:57.000Z",
-          "snippet": null
-        },
-        {
-          "title": "El 'corta y pega' llega a los genes humanos",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckV4eVk4S0I3SUN0SHNDTkhFVnpkYTE2eXpJUVdPbnVZNktxR1E4b0YwdjJaZE5vME5NYTE4cTFWTFhpOFFFM1JqcFVzRjRzaGtjYUN2b1VaZ0JlbHhVWjJNSVpCVFFsNTVUaGFpYVktTDJkakhPRS1WN1BWajRrTWdn?oc=5",
-          "pubDate": "2026-11-16T05:57:41.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Cómo América Latina puede ayudar a alcanzar los Objetivos de Desarrollo Sostenible",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFI0QkdjZzAtUFc2b3RtSTVHemkzYVNZUEoyOUU1YXoyeWRqWEpMb3ZZWVpLNWV2RzlHc2RhbC1UdFhWV2dRVjJ6eVpvc1NvcS1aeXRqOHlOSEZfbUV6UEUzQkNaMDhoelc2N29YSEYyRnJfNldkYW9mM1lJdnhGR3JWY1NZS3RxTVdtdEk5Yl95NEo0UVZZTjVWVWJCLUlkaVJFM2F3cE5OajZ3NTdJaVdBQ2lpQUxR?oc=5",
-          "pubDate": "2026-11-15T17:10:09.000Z",
           "snippet": null
         }
       ]
