@@ -1,10 +1,47 @@
 {
-  "generatedAt": "2026-11-17T18:59:12.595Z",
+  "generatedAt": "2026-11-18T10:01:40.610Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
-      "items": []
+      "items": [
+        {
+          "title": "Clan del Golfo – Autodefensas Gaitanistas de Colombia",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/urabenos-perfil/",
+          "pubDate": "2026-11-16T21:39:09.000Z",
+          "snippet": "Clan del Golfo – Autodefensas Gaitanistas de Colombia El Clan del Golfo, también conocido como Gaitanistas o AGC, es uno de los principales grupos criminales de Colombia. Quién lo creó, qué hace, quiénes son sus aliados y enemigos y qué le espera. Perfil completo y actualizado co…"
+        },
+        {
+          "title": "Estado Mayor de Bloques y Frente (EMBF)",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/estado-mayor-bloques-frente/",
+          "pubDate": "2026-11-16T21:25:43.000Z",
+          "snippet": "Estado Mayor de Bloques y Frente (EMBF) El Estado Mayor de Bloques y Frente (EMBF) es una organización criminal colombiana cuyas raíces se remontan a la antigua guerrilla de las Fuerzas Armadas Revolucionarias de Colombia (FARC). The post Estado Mayor de Bloques y Frente (EMBF) a…"
+        },
+        {
+          "title": "The InSight Take | La organización criminal detrás de la quiebra bancaria en Paraguay",
+          "link": "https://insightcrime.org/es/noticias/insight-take-organizacion-criminal-detras-de-quiebra-bancaria-en-paraguay/",
+          "pubDate": "2026-11-12T19:30:20.000Z",
+          "snippet": "The InSight Take | La organización criminal detrás de la quiebra bancaria en Paraguay Paraguay enfrenta una crisis política tras la disolución de Ueno Bank y el arresto de su expresidente, que exponen décadas de vínculos criminales en el gobierno y el sector financiero. The post…"
+        },
+        {
+          "title": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile",
+          "link": "https://insightcrime.org/es/noticias/alcaldes-policias-fiscales-ante-expansion-grupos-criminales-chile/",
+          "pubDate": "2026-11-11T17:24:07.000Z",
+          "snippet": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile Una serie de episodios de violencia contra alcaldes, policías y fiscales en Chile evidencia cómo el crimen organizado avanza cada vez más en el país. The post Alcaldes, policías y fiscale…"
+        },
+        {
+          "title": "El Tusi no es lo que usted cree",
+          "link": "https://insightcrime.org/es/noticias/tusi-no-es-lo-que-usted-cree/",
+          "pubDate": "2026-11-09T17:05:06.000Z",
+          "snippet": "El Tusi no es lo que usted cree El tusi se ha convertido en una droga sintética cada vez más popular; sin embargo, sus consumidores rara vez saben qué sustancias están ingiriendo. The post El Tusi no es lo que usted cree appeared first on InSight Crime."
+        },
+        {
+          "title": "El bombardeo venezolano contra el ELN sacude dos décadas de tolerancia chavista",
+          "link": "https://insightcrime.org/es/noticias/bombardeo-venezolano-contra-eln-sacude-dos-decadas-tolerancia-chavista/",
+          "pubDate": "2026-11-05T20:12:59.000Z",
+          "snippet": "El bombardeo venezolano contra el ELN sacude dos décadas de tolerancia chavista Ante la creciente presión de Estados Unidos, el gobierno de Delcy Rodríguez bombardeó un campamento del Ejército de Liberación Nacional (ELN), que por años ha usado a Venezuela como un santuario crimi…"
+        }
+      ]
     },
     {
       "name": "International Crisis Group",
@@ -53,9 +90,27 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Cómo puede la nutrición mejorar la resiliencia de la sociedad",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUhmODhZNzNtTmJYLUlMVGEwN0JVazJmMzRBYVhzSnRmc0UyWGhVVXFKN29NYnc0cDdPSFZtWkVCTTBpcEEtQ1FydWhPQi1fdFZkRjJMOFdJZFNXVjZrVHllQ05pUkUxUGk3Z1l0MG0wTzN2TzJ5V2RGcmRjblVPci1pYV9GZmEzV01tbFFzcEd6OFNEYzh3TWVEekt0dndSaWt0V2dhLXVxQmc?oc=5",
-          "pubDate": "2026-11-16T18:55:39.000Z",
+          "title": "Global Shapers Community Annual Report 2025-2026 | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1d3RDRoY2c0VmVLNi1ZQ2diamhlRlpxMXpSNTJSVEZ3clJLX2JsZUZFSVNMdlhVRHlfY3RReWtLVXprWTk5YUxRalFidlRsclFFeXdsYTVjOE16VjY2cFgycjkzd21saXBYMmgwS1Z2Smt1ODRzRVhra2NjMk1WOUI5eUtEX3JVQXB3Xw?oc=5",
+          "pubDate": "2026-11-18T05:17:45.000Z",
+          "snippet": null
+        },
+        {
+          "title": "The Foresight Brief: Chokepoints Past, Present and Future | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHV5YWNoTzZ0ZENnZVh6b0JjUDVNcDNNRkREZy1pMHVnQ2NfdGlHT3Z3dVdRcngzdHRfdFctTEJ5Sy1hR0VDZmdtRzNVeXdMam5DTWhidE1YWnVWMXAxbWJRNVZxWFJoWEhnMExWM2tuRzAzaHVxUTU0aWNtQXM3U1phZUxXR1B6dFY2Nk5INVV5Sml6bFE?oc=5",
+          "pubDate": "2026-11-18T05:17:45.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Geopolítica y transición energética: nexo entre clima y seguridad | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY19iRGVZNk92NFFFeF9xZFRsbkJNQXRvUGpFbHAxLTNqWWlUT1cwNUpWdmFoMFp5Qm1lRUYzRDhXTTlQYlgtSllwWHJaS0dkaldOY29hdEZ4dFBxZFljNVA2T3lISmsyNkVNVDd2UUQzSGo3UGUta1N4VVNDbURpbXkwNG9lN0FaTjF2MlMya1N0SXlqRUx3MURHZlhzYW1aQmtWT0FKcw?oc=5",
+          "pubDate": "2026-11-17T21:30:38.000Z",
+          "snippet": null
+        },
+        {
+          "title": "250 cursos gratis online de las mejores universidades del mundo",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFdCc2lMYTdtVmtxN2dBM3R2Wkt3ZUdNLXpSYnBhTHNOeUpTT014WEpDRVp2a09tOTZDMDAyR2VYMVdMRElOd2VRZGlHdzRFR0x4THJmLXVTRWs4YTBHYkVtMVN6Qmk4cEp2RklyVDFGNXNpNXpjdG92QWgyRTc3Z2tOZFQ1Um1FUmpoaXpRUU0tamNoWTdvMXdnVTZObVE0amd0dGFGcFBEeDhTV01jX1FKN2I0QQ?oc=5",
+          "pubDate": "2026-11-17T13:56:12.000Z",
           "snippet": null
         },
         {
@@ -68,24 +123,6 @@
           "title": "Un plan conservador para combatir el cambio climático",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnBpNmhTUVNQdEtOT29NdFAxTUJyT3Q0NHVzT29zTzBWcnRhdEFaN0pYNjJscDZkeFVvTWZNTWp4MDBBMzcyUmd4OVVxeDI4eTN6MmtiWTVuUHN6a2twNjRHVERJNjJnaEVEV05XaFFWV255aFlQNGlWZVBuZG0xc2hLT2VBaUZNODFMZHUzeGhMZw?oc=5",
           "pubDate": "2026-11-16T11:28:10.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Reforma de la inversión y cadenas de suministro resilientes en Egipto | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3hCX1JLUzUyLXZwUWZzbmdLRFlxS19wZkZ0UnFxUWt1aXhLNHlvOHU1NE1YSW9UVk5qeDFTUkQxZ2Fhdm5OamJ1c1BhbjZXdTFIQ3E1SHZiQVZNSXZwdENScWtiWGFCQU8xZ1pLQm51VVBZNzdNTWZYd2FFZkwxdDkyMlhNekFYU3I2NnNEbmVIemx1MlNMZmZicEJUMGFk?oc=5",
-          "pubDate": "2026-11-16T08:12:06.000Z",
-          "snippet": null
-        },
-        {
-          "title": "5 hábitos diarios para ser feliz mientras trabajas",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmFaUjU4TkNabjh5VWpmZkJteFF3MEZ0eXNvc3NteWNraUdMNS1WcVJhS1k5OTdScFB2eE5wdlRIU1JUOXhSVk1vUVhIcEQtZ0p1WG1oYS1oeFc0Tjg2V1V1NjlHeWdXY3NLZHk1Tm9WQlZ2eVNOOF9jOHR0dmUwaFNGdHV3MDZfcmJKZ01n?oc=5",
-          "pubDate": "2026-11-16T07:08:09.000Z",
-          "snippet": null
-        },
-        {
-          "title": "La eurozona todavía es vulnerable",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVRpdkM5UGtpa0NaRGtaNnBVa09WLVVuV2IzeHpBelRFOFVpOTk1NkU4Um1vLWUtWUZlbzVQeC1TbTlVcjZhM2NPS1lyTGMyVjd3bV9CVHlQbzFDaXJWNmRQU3VZRklHV2s4a1ctTlBSR0lhVzdsSVhvdE9ldm9FZW0zc041TEE?oc=5",
-          "pubDate": "2026-11-16T06:45:57.000Z",
           "snippet": null
         }
       ]
