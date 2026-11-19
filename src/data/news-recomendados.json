@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-18T18:41:53.633Z",
+  "generatedAt": "2026-11-19T10:01:40.983Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Ejército de Liberación Nacional (ELN)",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/eln-colombia/",
+          "pubDate": "2026-11-18T22:06:57.000Z",
+          "snippet": "Ejército de Liberación Nacional (ELN) Ejército de Liberación Nacional (ELN): quiénes lo lideran, dónde opera y cómo se financia. Perfil completo y actualizado en 2026. The post Ejército de Liberación Nacional (ELN) appeared first on InSight Crime."
+        },
         {
           "title": "De la extradición a la libertad: cómo la justicia de EE. UU. recicla a los narcotraficantes que cooperan",
           "link": "https://insightcrime.org/es/noticias/extraditados-cooperaron-y-quedaron-libres-como-justicia-de-ee-uu-recicla-a-narcotraficantes/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/alcaldes-policias-fiscales-ante-expansion-grupos-criminales-chile/",
           "pubDate": "2026-11-11T17:24:07.000Z",
           "snippet": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile Una serie de episodios de violencia contra alcaldes, policías y fiscales en Chile evidencia cómo el crimen organizado avanza cada vez más en el país. The post Alcaldes, policías y fiscale…"
-        },
-        {
-          "title": "El Tusi no es lo que usted cree",
-          "link": "https://insightcrime.org/es/noticias/tusi-no-es-lo-que-usted-cree/",
-          "pubDate": "2026-11-09T17:05:06.000Z",
-          "snippet": "El Tusi no es lo que usted cree El tusi se ha convertido en una droga sintética cada vez más popular; sin embargo, sus consumidores rara vez saben qué sustancias están ingiriendo. The post El Tusi no es lo que usted cree appeared first on InSight Crime."
         }
       ]
     },
@@ -88,44 +88,7 @@
     {
       "name": "World Economic Forum",
       "color": "yellow",
-      "items": [
-        {
-          "title": "Global Shapers Community Annual Report 2025-2026 | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1d3RDRoY2c0VmVLNi1ZQ2diamhlRlpxMXpSNTJSVEZ3clJLX2JsZUZFSVNMdlhVRHlfY3RReWtLVXprWTk5YUxRalFidlRsclFFeXdsYTVjOE16VjY2cFgycjkzd21saXBYMmgwS1Z2Smt1ODRzRVhra2NjMk1WOUI5eUtEX3JVQXB3Xw?oc=5",
-          "pubDate": "2026-11-18T05:17:45.000Z",
-          "snippet": null
-        },
-        {
-          "title": "The Foresight Brief: Chokepoints Past, Present and Future | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHV5YWNoTzZ0ZENnZVh6b0JjUDVNcDNNRkREZy1pMHVnQ2NfdGlHT3Z3dVdRcngzdHRfdFctTEJ5Sy1hR0VDZmdtRzNVeXdMam5DTWhidE1YWnVWMXAxbWJRNVZxWFJoWEhnMExWM2tuRzAzaHVxUTU0aWNtQXM3U1phZUxXR1B6dFY2Nk5INVV5Sml6bFE?oc=5",
-          "pubDate": "2026-11-18T05:17:45.000Z",
-          "snippet": null
-        },
-        {
-          "title": "El dinero público malgastado en América Latina bastaría para acabar con la pobreza extrema",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV1dMbTU2WWl2MVZFeTJJUUlVbmQwNVlab2VxcUdUY0I2MW83NmxSc3JNbzVjSDVxTkk4SEs0VHBUeFg0blY4Skd3ZDR1T0tHZGd6b1N6NE13d3NRWlR4cGNKZHVRMUVyM3g3RktzOU1ka2hGcmhha21zYkNHVFF1dEg3TmJONHMwQ0djb3VsaUVFXzJmN19MM2xnQkxySEdrdnpScDRuemVNMndlQ1dQQm5LOGhEbXpOLV80RC0zTi1EdTJ2LVFQRkF6U2huTEtsa1NJ?oc=5",
-          "pubDate": "2026-11-17T16:48:38.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Plan estratégico sobre cómo los países pueden impulsar la inversión en carbono azul. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGN2MTk5LWF1M0kxYkEyRkUtV3NFdGJUbFNyVDdNcFl4bXJiY2FHRV9kNGI1MW0zRU9pNm5rQmVNLVpJaWVTWWtia1hVbjUxRmxNYVFVWDNTbXRfN1NVX0xPWmhUM181UllySER0X0NaNjlCYmFoaWRMenpjeTBya3VzQm9qWG1pblpoQWFfSjVVek9EaU1hWVBWRng5RVh0VUY3WFRRVmJmOGpxS0tjeUdESElOOEda?oc=5",
-          "pubDate": "2026-11-16T17:33:31.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Un plan conservador para combatir el cambio climático",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnBpNmhTUVNQdEtOT29NdFAxTUJyT3Q0NHVzT29zTzBWcnRhdEFaN0pYNjJscDZkeFVvTWZNTWp4MDBBMzcyUmd4OVVxeDI4eTN6MmtiWTVuUHN6a2twNjRHVERJNjJnaEVEV05XaFFWV255aFlQNGlWZVBuZG0xc2hLT2VBaUZNODFMZHUzeGhMZw?oc=5",
-          "pubDate": "2026-11-16T11:28:10.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Reforma de la inversión y cadenas de suministro resilientes en Egipto | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3hCX1JLUzUyLXZwUWZzbmdLRFlxS19wZkZ0UnFxUWt1aXhLNHlvOHU1NE1YSW9UVk5qeDFTUkQxZ2Fhdm5OamJ1c1BhbjZXdTFIQ3E1SHZiQVZNSXZwdENScWtiWGFCQU8xZ1pLQm51VVBZNzdNTWZYd2FFZkwxdDkyMlhNekFYU3I2NnNEbmVIemx1MlNMZmZicEJUMGFk?oc=5",
-          "pubDate": "2026-11-16T08:12:06.000Z",
-          "snippet": null
-        }
-      ]
+      "items": []
     }
   ]
 }
