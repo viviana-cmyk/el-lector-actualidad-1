@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T10:05:41.086Z",
+  "generatedAt": "2026-11-19T18:55:17.663Z",
   "dia": {
-    "nombre": "Día Mundial del Retrete",
-    "descripcion": "Conmemoración de la ONU (19 de noviembre) para visibilizar la crisis de saneamiento e higiene que afecta a 2 mil millones de personas sin acceso a servicios sanitarios básicos."
+    "nombre": "Día Internacional del Hombre",
+    "descripcion": "Se conmemora para promover la salud, dignidad y relaciones positivas de los hombres, equilibrando la igualdad de género a nivel mundial."
   },
   "dia_en": {
-    "nombre": "World Toilet Day",
-    "descripcion": "UN commemoration (November 19) to raise awareness of the sanitation and hygiene crisis affecting 2 billion people without access to basic sanitary services."
+    "nombre": "International Men's Day",
+    "descripcion": "It is commemorated to promote the health, dignity and positive relationships of men, balancing gender equality worldwide."
   }
 }

@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-19T10:01:40.983Z",
+  "generatedAt": "2026-11-19T18:54:59.538Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México",
+          "link": "https://insightcrime.org/es/noticias/muere-jefe-de-jefes-de-mexico-felix-gallardo/",
+          "pubDate": "2026-11-19T17:48:45.000Z",
+          "snippet": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México La muerte de Miguel Ángel Félix Gallardo, tras 37 años en prisión, lleva a InSight Crime a analizar el controvertido legado del fundador del Cartel de Guadalajara y la corrupci…"
+        },
         {
           "title": "Ejército de Liberación Nacional (ELN)",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/eln-colombia/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias/insight-take-organizacion-criminal-detras-de-quiebra-bancaria-en-paraguay/",
           "pubDate": "2026-11-12T19:30:20.000Z",
           "snippet": "The InSight Take | La organización criminal detrás de la quiebra bancaria en Paraguay Paraguay enfrenta una crisis política tras la disolución de Ueno Bank y el arresto de su expresidente, que exponen décadas de vínculos criminales en el gobierno y el sector financiero. The post…"
-        },
-        {
-          "title": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile",
-          "link": "https://insightcrime.org/es/noticias/alcaldes-policias-fiscales-ante-expansion-grupos-criminales-chile/",
-          "pubDate": "2026-11-11T17:24:07.000Z",
-          "snippet": "Alcaldes, policías y fiscales en la mira ante la expansión de los grupos criminales en Chile Una serie de episodios de violencia contra alcaldes, policías y fiscales en Chile evidencia cómo el crimen organizado avanza cada vez más en el país. The post Alcaldes, policías y fiscale…"
         }
       ]
     },
@@ -88,7 +88,44 @@
     {
       "name": "World Economic Forum",
       "color": "yellow",
-      "items": []
+      "items": [
+        {
+          "title": "Inteligencia artificial en la educación africana: beneficios, riesgos y soluciones políticas. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakw2dHV2emF2d1VPM3JrdWhFMUxvem5XQ3RCN0tjTHZrSk82NHlVX2c2N2cwM2xkY1p6QkdOb196c3QtaUZjQlJ6cmVXZHpKdUM5dHhMUWtJb2tURHZrLTk5cGtKYzBrNnEzazk3Z040bDJQS2hwYmVnX3diSUswbkZZdnlaTEc5dkNMbndJdUVFTzRZUHdlWXR1T3lsUQ?oc=5",
+          "pubDate": "2026-11-19T12:34:50.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Transiciones positivas para la naturaleza: sectores",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10c1ZPVUI2aGUwaTBudzBoLUYwb1dvZjNJLTQxY2NjdTRpVTVnazJHX1BxLVZMaWc2ekhLQ3ltR1V3S3p5Rk1HbE9WeXFTSl9GNWppd3dnb2pYYVcwOFkxaWhfR2V1RktrMEd3MWRfVlZ2NC1j?oc=5",
+          "pubDate": "2026-11-19T09:28:44.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Global Shapers Community Annual Report 2025-2026 | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1d3RDRoY2c0VmVLNi1ZQ2diamhlRlpxMXpSNTJSVEZ3clJLX2JsZUZFSVNMdlhVRHlfY3RReWtLVXprWTk5YUxRalFidlRsclFFeXdsYTVjOE16VjY2cFgycjkzd21saXBYMmgwS1Z2Smt1ODRzRVhra2NjMk1WOUI5eUtEX3JVQXB3Xw?oc=5",
+          "pubDate": "2026-11-18T05:17:45.000Z",
+          "snippet": null
+        },
+        {
+          "title": "The Foresight Brief: Chokepoints Past, Present and Future | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHV5YWNoTzZ0ZENnZVh6b0JjUDVNcDNNRkREZy1pMHVnQ2NfdGlHT3Z3dVdRcngzdHRfdFctTEJ5Sy1hR0VDZmdtRzNVeXdMam5DTWhidE1YWnVWMXAxbWJRNVZxWFJoWEhnMExWM2tuRzAzaHVxUTU0aWNtQXM3U1phZUxXR1B6dFY2Nk5INVV5Sml6bFE?oc=5",
+          "pubDate": "2026-11-18T05:17:45.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Geopolítica y transición energética: nexo entre clima y seguridad | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY19iRGVZNk92NFFFeF9xZFRsbkJNQXRvUGpFbHAxLTNqWWlUT1cwNUpWdmFoMFp5Qm1lRUYzRDhXTTlQYlgtSllwWHJaS0dkaldOY29hdEZ4dFBxZFljNVA2T3lISmsyNkVNVDd2UUQzSGo3UGUta1N4VVNDbURpbXkwNG9lN0FaTjF2MlMya1N0SXlqRUx3MURHZlhzYW1aQmtWT0FKcw?oc=5",
+          "pubDate": "2026-11-17T21:30:38.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Fuerza laboral preparada para la IA: estrategias de compra, desarrollo y préstamo. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVJ6MGttSlhKWnhyVmFOQzRub210OElZUlVhV1lDdnVId2lPLXJKM1Y5YzlqWVM2T004TjdmaVlha1BpNGRCV016eW1wbXg4UmZJN3RNQ3FCRzd4dk4ydEhaeTAzamhlZXZrODVkbDFGN2xsSFFsVEtVNjg0eGs5b01SN1p4Z1N1TERaS0JLRjZ1bVctdnNWZ0hxbF91WGZGbWh0M1B5QUI?oc=5",
+          "pubDate": "2026-11-17T18:53:33.000Z",
+          "snippet": null
+        }
+      ]
     }
   ]
 }
