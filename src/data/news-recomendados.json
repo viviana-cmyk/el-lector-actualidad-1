@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-19T18:54:59.538Z",
+  "generatedAt": "2026-11-20T10:01:43.761Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Descripción del puesto",
+          "link": "https://insightcrime.org/es/la-organizacion/descripcion-del-puesto/",
+          "pubDate": "2026-11-19T20:29:19.000Z",
+          "snippet": "Descripción del puesto InSight Crime busca un editor o editora para ayudar a dirigir su cobertura del crimen organizado en América Latina y el Caribe, seleccionar los temas prioritarios y orientar el enfoque […] The post Descripción del puesto appeared first on InSight Crime."
+        },
         {
           "title": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México",
           "link": "https://insightcrime.org/es/noticias/muere-jefe-de-jefes-de-mexico-felix-gallardo/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/estado-mayor-bloques-frente/",
           "pubDate": "2026-11-16T21:25:43.000Z",
           "snippet": "Estado Mayor de Bloques y Frente (EMBF) El Estado Mayor de Bloques y Frente (EMBF) es una organización criminal colombiana cuyas raíces se remontan a la antigua guerrilla de las Fuerzas Armadas Revolucionarias de Colombia (FARC). The post Estado Mayor de Bloques y Frente (EMBF) a…"
-        },
-        {
-          "title": "The InSight Take | La organización criminal detrás de la quiebra bancaria en Paraguay",
-          "link": "https://insightcrime.org/es/noticias/insight-take-organizacion-criminal-detras-de-quiebra-bancaria-en-paraguay/",
-          "pubDate": "2026-11-12T19:30:20.000Z",
-          "snippet": "The InSight Take | La organización criminal detrás de la quiebra bancaria en Paraguay Paraguay enfrenta una crisis política tras la disolución de Ueno Bank y el arresto de su expresidente, que exponen décadas de vínculos criminales en el gobierno y el sector financiero. The post…"
         }
       ]
     },
@@ -90,6 +90,12 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Cyber Resilience 2027: What Leaders Need to Know Now | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRscnpoZkIyVGo0dkxva1ZWZ2pNOVY5ZVU1WmlqX0ZxOGcwX2Z2UW1waEhiSEZiS3pfd3JxbVlsa29BVHpjUmhGVHJWenFjQkk0d01WVnpYLTRZZ25DTDNfdXhTWERTekNiNWs0M3pneV9JRW40bDJ6TUwxUG13Z0xibzhROGtmbGEycEFTODRZRGFWalNMekVpQ2Vycm0y?oc=5",
+          "pubDate": "2026-11-19T17:57:19.000Z",
+          "snippet": null
+        },
+        {
           "title": "Inteligencia artificial en la educación africana: beneficios, riesgos y soluciones políticas. | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakw2dHV2emF2d1VPM3JrdWhFMUxvem5XQ3RCN0tjTHZrSk82NHlVX2c2N2cwM2xkY1p6QkdOb196c3QtaUZjQlJ6cmVXZHpKdUM5dHhMUWtJb2tURHZrLTk5cGtKYzBrNnEzazk3Z040bDJQS2hwYmVnX3diSUswbkZZdnlaTEc5dkNMbndJdUVFTzRZUHdlWXR1T3lsUQ?oc=5",
           "pubDate": "2026-11-19T12:34:50.000Z",
@@ -117,12 +123,6 @@
           "title": "Geopolítica y transición energética: nexo entre clima y seguridad | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY19iRGVZNk92NFFFeF9xZFRsbkJNQXRvUGpFbHAxLTNqWWlUT1cwNUpWdmFoMFp5Qm1lRUYzRDhXTTlQYlgtSllwWHJaS0dkaldOY29hdEZ4dFBxZFljNVA2T3lISmsyNkVNVDd2UUQzSGo3UGUta1N4VVNDbURpbXkwNG9lN0FaTjF2MlMya1N0SXlqRUx3MURHZlhzYW1aQmtWT0FKcw?oc=5",
           "pubDate": "2026-11-17T21:30:38.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Fuerza laboral preparada para la IA: estrategias de compra, desarrollo y préstamo. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVJ6MGttSlhKWnhyVmFOQzRub210OElZUlVhV1lDdnVId2lPLXJKM1Y5YzlqWVM2T004TjdmaVlha1BpNGRCV016eW1wbXg4UmZJN3RNQ3FCRzd4dk4ydEhaeTAzamhlZXZrODVkbDFGN2xsSFFsVEtVNjg0eGs5b01SN1p4Z1N1TERaS0JLRjZ1bVctdnNWZ0hxbF91WGZGbWh0M1B5QUI?oc=5",
-          "pubDate": "2026-11-17T18:53:33.000Z",
           "snippet": null
         }
       ]
