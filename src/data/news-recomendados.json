@@ -1,15 +1,21 @@
 {
-  "generatedAt": "2026-11-20T10:01:43.761Z",
+  "generatedAt": "2026-11-20T18:22:59.673Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
         {
-          "title": "Descripción del puesto",
+          "title": "Perfil de Costa Rica",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-costa-rica/perfil-de-costa-rica/",
+          "pubDate": "2026-11-20T16:45:04.000Z",
+          "snippet": "Perfil de Costa Rica Costa Rica ha sido considerada tradicionalmente como un refugio de seguridad en Centroamérica, una región asolada por la violencia. Sin embargo, en años recientes el país ha experimentado niveles récord de violencia, que según las autoridades se debe a su cre…"
+        },
+        {
+          "title": "Oferta laboral: Editor(a) en inglés",
           "link": "https://insightcrime.org/es/la-organizacion/descripcion-del-puesto/",
           "pubDate": "2026-11-19T20:29:19.000Z",
-          "snippet": "Descripción del puesto InSight Crime busca un editor o editora para ayudar a dirigir su cobertura del crimen organizado en América Latina y el Caribe, seleccionar los temas prioritarios y orientar el enfoque […] The post Descripción del puesto appeared first on InSight Crime."
+          "snippet": "Oferta laboral: Editor(a) en inglés Descripción del cargo InSight Crime busca un editor o editora para ayudar a dirigir su cobertura del crimen organizado en América Latina y el Caribe, seleccionar los temas prioritarios y […] The post Oferta laboral: Editor(a) en inglés appeared…"
         },
         {
           "title": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/urabenos-perfil/",
           "pubDate": "2026-11-16T21:39:09.000Z",
           "snippet": "Clan del Golfo – Autodefensas Gaitanistas de Colombia El Clan del Golfo, también conocido como Gaitanistas o AGC, es uno de los principales grupos criminales de Colombia. Quién lo creó, qué hace, quiénes son sus aliados y enemigos y qué le espera. Perfil completo y actualizado co…"
-        },
-        {
-          "title": "Estado Mayor de Bloques y Frente (EMBF)",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/estado-mayor-bloques-frente/",
-          "pubDate": "2026-11-16T21:25:43.000Z",
-          "snippet": "Estado Mayor de Bloques y Frente (EMBF) El Estado Mayor de Bloques y Frente (EMBF) es una organización criminal colombiana cuyas raíces se remontan a la antigua guerrilla de las Fuerzas Armadas Revolucionarias de Colombia (FARC). The post Estado Mayor de Bloques y Frente (EMBF) a…"
         }
       ]
     },
@@ -90,9 +90,21 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Brecha en el tratamiento del dolor en la salud femenina: la innovación para cerrar la brecha. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamNkTnBQaVU0dVpfejhyWmhVOTd3VzV6bHNrSXBQYVNzaGgtOEVuUjFQWHN6emFNMl94Ri1XV09YMXFsd2djdVlnQ3MtVzhzNEEtaElwSU1hSlFPUEI4SUxpNk5aUjNjUENhb1ZpSjR3dC1EYldVamZjVXk4Q1p2TkJWbjgxTXpUdlZ4NHRIR2N3ck96QVR6Wkg4NnVocW1KQjhucTdsTDVQUkRZRXY1TlBLdG1icGg0TE1vMDJFV1k?oc=5",
+          "pubDate": "2026-11-20T14:33:16.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Sistema eléctrico preparado para el futuro: 10 acciones para las redes eléctricas | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUJlMGpqSjZtOVhCaHNMVjJFWm15NDV3T1p1T21IdkJnUVNyY01hbzZrZGxhdG1FTVdHOHhXZTN2ZDRocHBadUtfSjlEZ3RuNklSOFh6LVVJVzZsVHhoWHRyWG1XRVViTEZRblFTekx6eFBHZ3dxZnNWaEJqQzBwdE1kYTZBRWUtVDM2emZncHpkZUhqZm5YTU9pcFYzSTBwaEE?oc=5",
+          "pubDate": "2026-11-20T12:25:36.000Z",
+          "snippet": null
+        },
+        {
           "title": "Cyber Resilience 2027: What Leaders Need to Know Now | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRscnpoZkIyVGo0dkxva1ZWZ2pNOVY5ZVU1WmlqX0ZxOGcwX2Z2UW1waEhiSEZiS3pfd3JxbVlsa29BVHpjUmhGVHJWenFjQkk0d01WVnpYLTRZZ25DTDNfdXhTWERTekNiNWs0M3pneV9JRW40bDJ6TUwxUG13Z0xibzhROGtmbGEycEFTODRZRGFWalNMekVpQ2Vycm0y?oc=5",
-          "pubDate": "2026-11-19T17:57:19.000Z",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUZjU3h5eS1PemZvcWxxYU42VlZ2ZjJzOUVmTzF5eWVzV0d2NS1OeEwzbEhPOGh0Um9wRmhvZ2VIc3VnZ3V2QXpYbWVOeUZoSjlrQnpiQkN4WkRnZDVWdWFUSHNBeThNWnJHdXhqLUZSQThGNW9IalIyeFZiUG52NjFVbWgxUQ?oc=5",
+          "pubDate": "2026-11-19T17:57:54.000Z",
           "snippet": null
         },
         {
@@ -111,18 +123,6 @@
           "title": "Global Shapers Community Annual Report 2025-2026 | World Economic Forum",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1d3RDRoY2c0VmVLNi1ZQ2diamhlRlpxMXpSNTJSVEZ3clJLX2JsZUZFSVNMdlhVRHlfY3RReWtLVXprWTk5YUxRalFidlRsclFFeXdsYTVjOE16VjY2cFgycjkzd21saXBYMmgwS1Z2Smt1ODRzRVhra2NjMk1WOUI5eUtEX3JVQXB3Xw?oc=5",
           "pubDate": "2026-11-18T05:17:45.000Z",
-          "snippet": null
-        },
-        {
-          "title": "The Foresight Brief: Chokepoints Past, Present and Future | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHV5YWNoTzZ0ZENnZVh6b0JjUDVNcDNNRkREZy1pMHVnQ2NfdGlHT3Z3dVdRcngzdHRfdFctTEJ5Sy1hR0VDZmdtRzNVeXdMam5DTWhidE1YWnVWMXAxbWJRNVZxWFJoWEhnMExWM2tuRzAzaHVxUTU0aWNtQXM3U1phZUxXR1B6dFY2Nk5INVV5Sml6bFE?oc=5",
-          "pubDate": "2026-11-18T05:17:45.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Geopolítica y transición energética: nexo entre clima y seguridad | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY19iRGVZNk92NFFFeF9xZFRsbkJNQXRvUGpFbHAxLTNqWWlUT1cwNUpWdmFoMFp5Qm1lRUYzRDhXTTlQYlgtSllwWHJaS0dkaldOY29hdEZ4dFBxZFljNVA2T3lISmsyNkVNVDd2UUQzSGo3UGUta1N4VVNDbURpbXkwNG9lN0FaTjF2MlMya1N0SXlqRUx3MURHZlhzYW1aQmtWT0FKcw?oc=5",
-          "pubDate": "2026-11-17T21:30:38.000Z",
           "snippet": null
         }
       ]

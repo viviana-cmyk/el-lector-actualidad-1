@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T10:05:35.464Z",
+  "generatedAt": "2026-11-20T18:23:05.034Z",
   "dia": {
-    "nombre": "Día Nacional de la Revolución Mexicana",
-    "descripcion": "Se conmemora el aniversario del inicio de la Revolución Mexicana en 1910, movimiento social y político que transformó México y tuvo repercusiones en toda Latinoamérica."
+    "nombre": "Día de la Revolución Mexicana",
+    "descripcion": "Se conmemora el aniversario del inicio de la Revolución Mexicana en 1910, movimiento social que transformó la política y sociedad de México e influyó en Latinoamérica."
   },
   "dia_en": {
-    "nombre": "National Day of the Mexican Revolution",
-    "descripcion": "Commemorates the anniversary of the beginning of the Mexican Revolution in 1910, a social and political movement that transformed Mexico and had repercussions throughout Latin America."
+    "nombre": "Mexican Revolution Day",
+    "descripcion": "Commemorates the anniversary of the start of the Mexican Revolution in 1910, a social movement that transformed Mexican politics and society and influenced Latin America."
   }
 }

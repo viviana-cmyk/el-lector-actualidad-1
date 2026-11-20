@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-20T10:01:43.761Z",
+  "generatedAt": "2026-11-20T18:22:59.673Z",
   "outlets": [
     {
       "name": "G1 (Brasil)",
       "color": "green",
       "items": [
         {
-          "title": "El Niño enciende alerta por aumento de casos de dengue en el verano",
+          "title": "El Niño enciende alerta para aumento de casos de dengue en el verano",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRElxaXN5dVJ0MHZhRTVpN0JsZnpQZk5SYnN0aTVfMWRmU0lVQlQ5clhuQk9RRkRNYkwyQnkwMGQ0TlpoT2RVcFJuYmQwSnlqVW5VajF4WFRKZEo0Rm5jRmVKZmNybEZ4S19xUXVONUdHaER5TVA2cFoydGJodGFEVk52UmhTR0liRlhmMXNqemVFTUxiUWRmRVNhYlgxRFA4eU5OZjBidnMzOWxhQ3ZCTW5LWFQ1YW4xREFqdURyNmZuNjNacld2SUFPYW52RUVoQ0FiM2s2RmF2ZFhfYWl6a205TdIB8gFBVV95cUxNbWsyTG4wY2RqWklVMzRtS1o3ME05am13WFdxWTlTZkhmSGliZS12RW5wNHd6M1BwdGxLSUcteml6WTJ6MXdFbGdpb3hISDVTcGJ6cmhEUjFQZGE2blp4akpoTF9wb1dpVGk2XzRycEZZNmo3QW1ubFlYcVdBZll6TlBsdTB1ZUItOE1iTkh4VVFLSFo0OW9MZ3hSckw0RzRmNXZwUTJIOHdLOEhTVmt6U01hWkdfTUF0cGp3WlVoTTRaTEhKTXJCV0dTY005bTBfVFAzMDFqQTZ0eEpEQlhIQ1ZZWkJvTmpmZ3YzdVlpQ2dfdw?oc=5",
           "pubDate": "2026-11-16T18:09:05.000Z",
           "snippet": null,
-          "title_en": "El Niño enciende alerta por aumento de casos de dengue en el verano",
+          "title_en": "El Niño acende alerta para aumento de casos de dengue no verão",
           "_priority": "ALTA"
         }
       ]
@@ -20,9 +20,23 @@
       "color": "sky",
       "items": [
         {
-          "title": "La Corte declaró inconstitucional la decisión de Milei de permitir que las prepagas fijen libremente el valor de sus cuotas",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUtOU3J5ME1MTHdDNm91RzAzUHo2Q2RFY05vc281VlQyaVJjYmloRlZJQ1lSUG1jQ2o4WFFvX2dxTzA5eXJkVjcwYkk2XzdrVGdXUjJ4NXFnRjRwR3N6WlhDTzU2UUhjTXRMRGQyVGgxMndEcTBFXzRGSHVFMzdBS1NCcFY5Uk5GMFlQc0Rodl85bmZMQzlveWkxbUw3TnJSeFVCanJFMmJlSG9xNUtqSnZSd3poRDdacWUzX01qN2xMVk85cnpOMUVRQVFHSTVNQzg3RGE0bzdzQW5jNlJqbG1MdU8?oc=5",
-          "pubDate": "2026-11-19T17:41:00.000Z",
+          "title": "Un paso hacia el vacío: qué se siente dormir en una cápsula transparente aferrada a una montaña",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVmdaek1mcm9sckxIZUtBa3l0UHFSN3h3bVo4N1pLRjdCXzJUcHM3T0pLQ29mMXdtWTNoUzc1bTBRTGxzcVRzaXJhcWhuRjFWMlhKRXJFY1ZLdkRmYWpzLWpvRTlrdEw1R01jRkNLbmdFcDc5SHdjdzBEWTUxZlFUZjBhNEJVMGJSNDFmYkJOUnIzTEZjZHh2VVg2bUIyOWZmUzJfNmRjbGkzcGo3b3AtTmVGek5CTWhaNHg4ekxHc1NMSkxTdGtjT3FhX0w5TG9zbkRyU09IbXA0bGlDMlE?oc=5",
+          "pubDate": "2026-11-20T17:36:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 20 de noviembre",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbk12NmVpaldrOFZBTWdRRm9CVTRFZk5LZnBoZkEzM0NQSjJzM2ZzY3QyVEh3Q3JKcGxQOWotRmpuRzZkMjJmZl9Db0JKdVF1RXpaXy0ySVFOVF9HQ0taazFXcG5ob1VUQnBNS1pfeUl6ZU4xWEJhNWNaWlVhbmk3QzVFRmtLbUF5V2g5Z2NVVTVmNnk1elZfWEp4SlB0RXJZa2dDbmZfdWJFMGNxVWJabTJWbXh2OWlZdnN2TTY2TV8yZG80OGltSWNpSXE?oc=5",
+          "pubDate": "2026-11-20T15:20:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "El video con IA que Milei publicó para darle la bienvenida a Tesla a la Argentina",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORkM3SFR5bkVwcGRxeG02clh1alZmYldVTnlKQTZIUGsycmpoeGtWSmFnVk10eXl0MzB3MDI5ekwyaDVGX0ZfUFRwZWtGLVVvekJtdS0zODVDV0ZDckhZU3pRYXloRlNudDN1cTVUc25mRDcwa1ZHNkhTd29Cb2ZHVGhqSHRJNnBZRXhoLS1KR1NLZ3A3Z3h3dXIzVzlUQmtkUml1SFdia1hEa3pXM21wOHdxV0hsWVBCR1BMbG1SdFJWN1hJZVNr?oc=5",
+          "pubDate": "2026-11-20T14:11:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -33,23 +47,23 @@
       "color": "rose",
       "items": [
         {
-          "title": "Fija INE criterios de paridad en gubernaturas rumbo a 2027",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHkxRV83a2VfeTlaaHZ1RUY0empzengwc05adlJFRkpWVmprTTQ0M1hwVkVWaTVwTkxZY1laYVFsekw4N2ZkRG0wUXprYlAwVmNVZVBPS29SdE9qM0l5aHpzcURYT3FvOXhuWlMtNEdpWklXQW8tMGJqczVtb1AtUmdIVFFMTlpWNmhOc1RlZUxYS2dwRzA4Q0dNMTNmSWJ3Ym5GZnNWQWRjLXczWnd3bkNOT1M4MndPSGF6a1dDdmxLVmN4VTRHOXRJMW9iN3lranRHN3ZJS29DekdvYy16QdIB9AFBVV95cUxPWUE0TUZBU3JXbFlXNWJ2WVI2c2RQQkZtaklBVk94QmNIRXp2dm1Vd0Zyd0h5cjFzbzQzZWp0aldoRnh4VFRlUmxZVk5jQkYxODJyTzFKOVJqa2R3QjdhRk1PUEY4WTZZVTJxUjU2MGotcmV3cGVUb0NQbl81M09YQjloakdCOHpEQVNJbVFVRnlIay1vLWNQMjNrU3RZTVVsa1JBWTFVMUdsN0FqNU9YTU9LV1NPcEFKaUQwaEJ5Mk9fLWVlSzY2OUVseE1mdnFIWjJldy1rZXBGck5nVWd2aEJOTDVuMWRYLUNJT1R1blRBYnhI?oc=5",
-          "pubDate": "2026-11-19T16:40:26.000Z",
+          "title": "Sheinbaum llega a México tras visita de trabajo en China; sostuvo reuniones con Trump y Xi Jinping",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZU1pdGlHTENrYXllX0l3aW12NDREeWVCazhRc3dLTWpkeTRXV0hEWWZEckp4QU96MFpNZVBsSEo2d3pQd0NuNlY5OFYwUk1SdnJBVkQyam5wdmlaMWV4YUhFM2FHV2NpRkF2alFKZ0NKNEdLUkdscUtYSzlSZ19fX2JjSms3Si1vdmxUYmFQQzVRZkRUZTVXaWc1MWY2a2xUbFY2cVJMTUVIaF9nQWwtVVhXdHIzbi1RaGNTNy1RSFFlckFld09EVEg2M0lzcWxteGfSAeYBQVVfeXFMTnJaZjBKMEdBemNSekJfOXc4TnFPQTFndldqQUdvQk4tMjd0WnRuX05hdnV5WTQ5M214LU9CblBrck1LSWw0VlNYNUpfN3NwZ085Umt4VEpzVEVrNVFtaThseTlhZXh2MXVPQ3FJRXpHeEtWbDdyOEwyZFZFSV9XX0NyeGZoV0V3STlrUDJuUnY1azVDOG5pNlhhR1hrb0oySGlseTN5LXFSMDZ4WE51dWhlZlM2OE10alctckpzZzlyY1dqM211NTJ5OTc2bXNrRHlvb0VXNm0wMy1Sdm45UnpSWlZtaFE?oc=5",
+          "pubDate": "2026-11-20T06:22:17.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Jueces denuncian opacidad en el Tribunal de Disciplina",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXBmSjg2OTNtc1RWUUNsZFdIaC05RTY0dlc4NTI3UHFTSE95VFEzbjkzcUhXRnduWTk5eEhXU2NhZXlQY2t2Qy00S1AyMjYxVjFpbmluT0F1TDVjZV9SRDU2cDZlOUVVZFJBR285RU0zel95UjZrcElfMElpRDhVNHZVVjBFS181aVJ6MmRUNFBtaXU0RVVLMXotYVdrU2pTbXNHRWdWb3FpcDQwN2pRWWlpdjN0djVyV3M5WHJyTWVyOTFZUU0xWGYxOFdNMUFwSDVCZVE5Z01tN3dVSERCanNR0gH2AUFVX3lxTE02X29rME41ODQ0Z3gtUFZkcXdtNC1xYWV2NzNaRF9yeW13NmRMSXhRb09ST28wTGpFd1lLb3FRbmlEU0J6NGY1QnlzQWxVNFZ4c3QwLS1IZHFORm40NFJuTjFub09MYzYtLWU0V0Z1cnpOeEN3SFFzMF9SMjVTMkN3T2h6Y1FuOHpFMUI3YVFncnpja2xrWl96QjF6TXk0Nm9zY2NLRXlqZGY3MGduZGxicUNjY0tURTdPd2VFRllqWjF0UFhMWk42M19NeG9KblItQTRNUnQwRkdNWF9aUnpBdkdSNzctVE11bjI0T093Mkc0OGY0UQ?oc=5",
-          "pubDate": "2026-11-19T17:57:04.000Z",
+          "title": "Embajadas de China y EU se enfrascan en dimes y diretes",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb1ExWFZPcWY4aGtCVEpkai1KX3FYLWtLNzBSSVNzbk5DNWZTZUlNczFYcTVmdm9aQmhDckxvTThLRHpKOGtSRTZMUW8xcnlvWTJ4bThGNWpleTV3UVpGV3ZoaHpXY2FpcU84U2hzOXVsejFaYjNmTGlCNWcxYm5UeWVoUGZkUlk0bW02eFVtdEVvakRPSnJXc2ZOOFBodE5HbXN4WVRTdkl3Ny1ZVUdBUW1RVl9fQUVwNW1ZR1VqdGdRWWJwSzNRcDRtX0RPdHN3WmItSnFHTVhzSlBhZFU2NFJENGFMOTR30gH8AUFVX3lxTE5lZHBOVUFmSnRwQ3BUbWdZRUpzS3lkX2J2cXNlbzNlYVBISmFDMWV2ZG14UGdZWFp2Y04zTEdNLUpFcGhNMjRZai1WeG5lQ2cyX1N1WWlvRjhweDl3WUVSOEMwdVprSDE2cTY4c016TnJXVnQ4RENhTHZpbGt0ZGlrMk5FUzM4VXkxRkRNbV9BdmJROTFMbThxUnYtVnoyWWQ5X2dJRW1LVlY1bFJKV1dFeWVJbzdKbGo3YTZaNlU5amlvQ0NGTWtMck9BN28xY2h4TWVWYkpmclFzdDA1Y283U1haM2c0aEpsZEE0VlJNdWVZQkZPTnlwMHRDWQ?oc=5",
+          "pubDate": "2026-11-20T14:03:56.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Segob relaciona caravanas migrantes con dueños de líneas de autobuses",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOamVsS3BvN2Y0N0d4WDVrWFFtcGh4RTlDUTVvRXg5bnp2ZHFDVTlNbkZEb3hGeHJST1hnclExUnhVWDl5eTk5ZmNZRG5fdHBoWWVLb3B0bkFzcEJpNG1Xb1BSTnBMSks0QVFPUThYTFd5STlxUmwzRWFiRGhUX2diU0tZWXFrNDJoT2pCQnBZeXpJdVlMYWJTOFM3bE92R0l2Rk1mdXJZTmdndnBjVFFWR2RRVUUwNWdwWkk1VkRJc2NUN081eHBvOXNjMURNVU1CNl9XMFN0aFdiSDF2bWR6Rk5GM1NSZFVteGt0Q2Z0VEV4dFNrcDlJMFlQOWhRVTdw0gGUAkFVX3lxTE5yU09ZMWJEWEt6Q3VIMVBYTFJMVXZ1OTFaMGhOWXJiV0p0TE1OMkRGaXJzMS1oQk5IWnl0TGdSWmk3eDhMOUE4RVAxakw0N1JWRmdPR1NpbzdnZ3daaGhQRTNJWDN4ZFNqVkdFRTE5YjEtMTF3Zmp0enBSenNwTk1nSmlKekVpWWNLWmhvVHJqN1MyRldtUi1sc09IVnhoaFZYcTk4WE5MT0NEd2NOTHpqZzZVVjJUWm1ycEJsY3dRb2Vlbjl6VUdTaWdHSmtRMm53S2VvZzBsbkFGMnl6end0bm13cF9FRHVWbVM2TWVYYUZSQjVBclFBcW1GbVZrRGJZd1VMdXdjV1FWTnRDeEVueGxaMw?oc=5",
-          "pubDate": "2026-11-19T16:32:58.000Z",
+          "title": "Jesús George llegó al INE con aval de todas las fuerzas políticas",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDc0MkpmTDVxWGhNMjBOREpBZUtyaG1vSVBXMjY2cDh3SWtTWElyS1d0Z2lzZURleFdicEplMGNKRERTMkNBUUFWTjZCUmxQVWpEYmZmdXI3aDQ5dW84a3BKVEpzWkJFbWVwOENiOVNxcFVrRTExUmFYVXJsOElQZFJ3bWFVSkFuWUx3QlFNNG4xT3hMbEFsRWhpYlk3YXZOb3JjM0pjWdIBuwFBVV95cUxObTJIaDh6ang3NlpxeEdtN2dqRVJNXzY4Nl9OOV9kTW80Q0hpRENjRmZac2tyOGhueVh5dVpIN2pHSlpFMjdXTUItcTk1TzlFU28xNGlNcGpRV1BKYkY5RVFMYjZSU0lPTUxKbUIxdi1qWUhxS0FzR2RLdlAxdnFkdEQyRXVxQnlqUmg1OTRNOGJodVItZTVDMVc1N1ZmTGV1QXNYcElmNVplcm9PT0FTZF9ORlF0bERMZ2FZ?oc=5",
+          "pubDate": "2026-11-20T11:02:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -60,22 +74,23 @@
       "color": "peach",
       "items": [
         {
-          "title": "Nuevos retiros de AFP y CTS: el debate sobre liberar fondos ante el fenómeno de El Niño",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTU5Qd1FVcWNDUGZsMHBaZk5CbUV2ODJ3eTRSZUlSN0pfUVNFem9tSzRIcUo4VHJlN1AtcGhLZEh3cVdlSmNXc250U2MxSDVXNldKRlhDU2YyUWRTdDg3SS05U1p5SmZWb1dqUUFMUDAwTFE4c0NaWFJBS2FPSmhPd0pVbU5XSC1VUGt0bFVIck91VnlVSnJyQ1ctakh0RkxvV21HaUwxcDQ1X1lWdGhjdkFBcGpqb2ZDZkVkemg4MzhLMC1vQ2lB0gHbAUFVX3lxTFBRUGpFOXUtSGtBZnlLa1lseDViUU5PRjBkV3RaYWdxejExcXI3QzZJbWRYZzllVnFjYk5qd3hCVEtENnAyX3lFT1hEam9hN21WMnEwdW95cFVTT0NLMFVQWk9kaEdkZVA0TGxTT0lWTUhiRnd4QmlNQURBZnJ5YzU0NlRwc2hDclhkajdYRXptMEQ5SmFZeTlCaFJXdXhPd3ZWUTRtRTVDYV8wZjkyQnZUTm5neUZrNms0QlBlZnFWYWhFX05GbnYzRF9KYUV3dGItUndxNWY1M0tFMA?oc=5",
-          "pubDate": "2026-11-19T23:19:54.000Z",
+          "title": "Temblor en Chile EN VIVO hoy, viernes 20 de noviembre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el CSN",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNTGdRWkU3ZzN3aENOdXo3RFRYQ0NoR3hBaEp0UnpVWjNaUURGWkVhYWZJOEJCSEVXWEFqR180SVhveDdWUFNnbllpRVdfUVlRRlc3bTh0Vm1nb013QjRMUTVzREFINkdPTGJXLW9IaXhTYTg5U1JWRWRGemZSTlF3cTdCcWlzc1haN0FBSjRWWGNCdkNaVS02WDJDamVkcEo3UEJfNVdWNGtTVU4zY3NGU1JSc2lYOGphLUwwcTFUMGRLQ0R1bmNVeFRqOU9IVTV4NndEYzZwbHF1QVk0cHM0Y2ZNS2RueWd5V1g5Sm5DVnRqSF9uNFFBZkhtRllud1E1cWZqY0tGdnFRMnhQeWd6ZUdxYkFrYW9o?oc=5",
+          "pubDate": "2026-11-20T17:14:30.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "¿A cuánto cerró el dólar en Colombia hoy, jueves 19 de noviembre?",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEZieFBHRjY0T2hvVHJNQWZWZU9hVnZjR1Z5Z0NNZnNWeDNvQ3pKQkJKZkZGQ1ZBcHJsdEJQRmREWElLa1hDZ3FUcDBCVHEzWmtwQUNkMEJXSHJBWHA0cUhRdXNhR2tJQl9KdE9teXM1YkhoR0duNXhBSl80T1pzWVU4WW4yWXFTa3FpUWZySmdJS1VWV1ZnVEg2MWd4d3JMUzZqb2syMGo3X0k?oc=5",
-          "pubDate": "2026-11-20T01:50:43.000Z",
-          "snippet": null
+          "title": "Lluvias récord anegan Florida y California: ríos desbordados, rescates y cientos de vuelos retrasados",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPenlBTDZYTTlGWTJCYmVMMWVpVDJQQ2d0VzNGZWpDX2xFbmlhY0hmYVo5TGQ2anNlRDlvbmQ5X3FWS0ZYNGw0cmVxbEk5SkhvcnZSOWpiZTFfZ2pIQUYwdGxfOFB3YWZlZmd4aFNpLWZfTW9UYWtURGtoeWcyVTJ4ZlJMV0Fhd2dYX0RqN05ucHJkc2FIT3RzUXltRkJMa1BZOTRCdk0teU5oS2RVZk0ydUx5cjFMYzQzVFdHMXhoSTl3aExCOUFfQUY0OEdyZ0daTmZhQTBXTXR4MFlo?oc=5",
+          "pubDate": "2026-11-20T14:38:51.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         },
         {
-          "title": "¿A cuánto cerró el dólar en México hoy, jueves 19 de noviembre?",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYXhCQ2kyTFJXU292Y0o4VUlkZEFQbm1JS2NmMXJBLVVEWFRVVGtFZkJ6ZnVIY1lTeEh4VlhhS19XbTFlTFBfQUttU0ZfMzZGR25BVldTM1JqU014RW9Yc0JjV0lZc2VNZ0ZWZVRfZFJ5NEdSTWF6WWVTbjNNMVR6UGpnTGhoa19WY0xpNHBWTTZMMHIxcUV5eE0tVmtEUnd0bmo4dGxqdmJWUTVmdzNGVy04bXNlSEVfaFNr?oc=5",
-          "pubDate": "2026-11-20T00:51:14.000Z",
+          "title": "Príncipe Harry revela cómo cambió la vida de Archie y Lilibet tras volver al Reino Unido: el colegio fue clave",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVjd5YkpoOXpXM05zNFp4VW9SQzdfMUdQV2N1NzJnZmVfV1JEUGpHUnY3V0U3T1RJclI2cWFhaEl2S2FCVkpldEpjOUJfQ1psT0pMYklMdExiOUtVeC1pejBKYTJ6bXlhaDllN3pSVU9TVjVmcVkxNjRmNUxDQ0dBTEVFUlpHdzNsQ1FuYUQtWnZuenZOaWFOcjlIcTdKcWNuVzByN2dDUnJfREF5MWFKTldULXhrR1F4dm04aTc1YzlBRjR0T3VTMzdwMjB4a242R1pGc0NxZE1uc1I1NHJBQzVYS1NZckEzaXdMd1A1eWlEQzZsVlhTd2tn?oc=5",
+          "pubDate": "2026-11-20T16:48:31.000Z",
           "snippet": null
         }
       ]
@@ -85,23 +100,23 @@
       "color": "blue",
       "items": [
         {
-          "title": "Presupuesto 2027: Senado rechaza partida de Agricultura tras recortes a Indap",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGNEd1N3ZkhjRUNSbDNWZHhFMEpGYmxsUENPZTBWNlhOQnlUVDNjRlpET1ltVGNpTzBraHRjN0VieHRULTRzeVBJQWh5cmlUNk5INDlzc3k0SmpkckdGSzBQNW91all2U3F6U203UzdHYW9UNjdxQXB0MXUzYUs3dUI0V2ZGblBwQzFkOW1QNFR0UGdmX1BrQ2k2RUNEM0xKZEJ0VF92UU4zSlpHSmdxX0QtQ2NVVlBKenB4RtIB3gFBVV95cUxPNEJtbWprdk9kalZLVmNvQ0pmcl9WSGxUeWhhRVFUdHF2QmRRU3BDdGhHYzVPdmlzSkJxUUhHekpUU0pfRHlPNnl4cEZQX0pMLURpUzdGR2ZPX1ZscXl4T1dhRmxVNU9SODJocEgwdEtpbV80NDBpV1cxMmtWNVpBXzg0b0hLQjk1VGZWdVVGa084LWVscFZ0UTF5UEVjLTJEUE9HWlBFSGJ6WVQwTHUxaGR0T2pzM2hFUXVUSGdjS25FRlNQM2NOalBrNVUzTmdoY2pNVFRQQ1FkaXQ2LUE?oc=5",
-          "pubDate": "2026-11-20T04:18:21.000Z",
+          "title": "Radar LT | Nova-IA: inteligencia artificial para transformar la industria alimentaria chilena",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1J2aWFZSEpRbUQ1Unlod3BfTnhCZkFscXpaeHU0Z2hySHp6NkRHcm9IWlRkRTNreFlxUWJabnd6YUpOMkxzUUY4Sng3VG5wcUdmcGd5X1lFQkZrVDFCaHNzTS01cGVMUTJsZEl5bnpLcEk2UGc2Y2E3WDMycUFuTVBsZ3FZbC1rZ1dkbFdaZnVVRmZ0ZTFOLWtsNElyMm4wSUJEa2NVX2NCcnV5OWh1QlNfemI5c0dOWWZDcFM5cWQ2Y2duaHZiOVNBMGfSAe4BQVVfeXFMUEkzNjhISmN2c2ZsSFNlZmk0OEZya2t3R0szTFRqcWNfUV95dGpNejdEaE1COFc4THVvbGpHVHZiNUJrQlNkU2xpbEFVU3RqaHNWc1RaZWloWF94dkdiNzBoTzJ3anc3M1pjSHlSLWdTNmc5em9lTDNfQ3VTMWlUS2xnb1NqckxQeVp3UGl1Z05kOVBPbTUxaUJfSmZGNkxPbW95bkdTMm5udVhWRDliTWlydXQ0c1paUi1LMkpaQUJvdFJqMG1ENU8zRkNMekFuRW9Jajg3cTVEalZjdlMta1llejlKTkJqcUZjLW5Xdw?oc=5",
+          "pubDate": "2026-11-20T17:56:35.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Tras acuerdo de Quiroz con parlamentarios de oposición: Senado aprueba partida de Educación en Presupuesto 2027",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOa0h5YjZEVTU0U2VKWk5TRklTQjVYT053bkFMdmhtZVZBUURHb0pGbFFYd2dIVk5aaDFNSVJKY1NTUzdLYXl1Znlhc0F2RVlUclNSRHNjRmhsM3dTb1dLUUotWWRFdDd1ZU9FQkdRVkxYV2JQS2NjNUloZ1JBNVNuam0tQ3U2ckxZVzVnenVPUFhXUGFMQjFVV0dKSXVfcFI0Q25Ydm1lZF9Td3h1UDYzZ1NNd2hBcFNWWm51VEtlYi1DcVozVWJYUDNtUGViWFhhU1ZLZzVDUEc3MXFHOUFZNXdmbDk5eGdibGfSAYsCQVVfeXFMTTNTY254b2FUdnRTSVg0amo2MktuQ1RPUUpoSDNuWW1FYlFnTk85T1ZobnFCWjBFdjBuU2ZpZFRJV2F3TXRsckwzQWFPb1R3RmNiYUp3Vm53MFcyQUZUemp0VHp5LXllZk51Z1JjTldFY0IzM2JLaGJVUW1PLWRjTWQ2cm82SlBLMFNqUHF6VTI0dXlZMXFkMUh5LTU1cGkwZDFSSjVJR0lMN1pDZXZ3bHJiR1RsTmlISlFPTmVUUVkyU0M0LTlKOEt5QXRVdzBoZ2RZOEZ1M3VLRXRKOWxDX3JVYlVzclRGRTVaUmlYSTlsTXVJc1U2eC1UU2xHTU5UbGZGU2JfVWJ4TEVF?oc=5",
-          "pubDate": "2026-11-20T03:18:49.000Z",
+          "title": "Capturan a prófugo de robo con secuestro en La Florida",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmNEX1J1dFAxalJsdWJzelRGYXlDRndvekh3aHFTMmxxY0F2cWNWNnMwcjhobTFDMUJYT282V20zSG9pZHF0dWJndERwTzFYWloyeXFHY096SmlYcHZGVXNlM19SZnBnRXYzN2JrTHk0aEI0VmpOUW9ObGwzM3QzMUFGX0ZBaWNEODVFaVFMX2l0SXh6dER0dGM3eHM2bHfSAcABQVVfeXFMUF9RWF90VUtiX2QzakZBb2NOZWxhbHJPU1NHTjUzZkhkNjVVR2NIQXUyMGRqRW05d2RrRGxZSHhEbjBtVnExOTVhQ3JndDBsYy1KUGlxMU1QZ1hrSnNlUnloYlJ0ZlVWa3dRYm9xX2VzNHFXY3J5UXBpOFhubkRrdnNQTDJyYWswbXFxaWtXOHE3bGV2elc4SUI2UVkxS1JXR3h6R00ycnhRbXZmWldVdWhtcDVOVjF0d1lQMDlrVGs5?oc=5",
+          "pubDate": "2026-11-20T17:30:53.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Presiones para frenar reforma a licencias médicas",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNTVoU0owVkFIc0hlQ3RVLUtoa2N1NTJrTVhZTk5rd0VxWWdITWxROTh2NlBzcE93cXFlMkVnM1RXWXNyNkxhUzNWSEpjQXduX1JZTU9STmdLWVZfU2tUSVE3N1ViY0t3dC0tYVJCU0N4dWY5UEpKcUNKZ24zZXNRVEt0blFDTmlQOVB1NFhfM3VEYkpzQzhJVDNR0gG7AUFVX3lxTFBfcTZiZVA5UHdDakthV0NRZVVLT2FnVk9ZZ2plbGJaZ2NMM21XTzE5ZXAxcG94N3pLNVV3Z2JRWmhpWlZnY05wQVdibGtwWEQxZ3I2U0pDY2pKNTJBMnYyeUJGLUtwUEZiNWVjMW1lYThYM3p5anZERWpQNFNZWmx1ci1lUmtPbjJNSkw0VHBpb2Qxc1ljSVd2ZnlJeG5LZl9fUS0yVmh1dWppeUU3X0tyaWJKOEFCQkJvTWs?oc=5",
-          "pubDate": "2026-11-20T01:06:20.000Z",
+          "title": "Por las rendijas de la inteligencia artificial",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc01jWjg1ZEhLQnFCdjRWdTRQNUJKanZ0T0xoM1RnVFNSa2s2dmxxb3NXOElwY211RnBfOHc4SmttZnVoTTZPY0hjWGJiV3g3aWI4TjNSU0VhRGZ0SEkwRGR6TmYtaGFBMUtmRnp5M0hnTC1QajV1SDBvR1hGUE1VbkRmY0NydkhsVHcxWWw5M3FwYWfSAbQBQVVfeXFMTXBuak1xUzN0eUowMVdIQVMtUHBOZ3VyenJld1JucmFfS3ZaSjRCRndhMzM2REx0SXRLTExSeDRHUWU3MlNxaFJIOTIwVkZNWEM0WTEycU1XVU5qY3Nrd0NhejhTbDFQalJkMktyRkJQT0ctUEtDQ1JIRC1QUzhQbC0tb1JhYkVTbzdiTXdSbmR0MzNnd3FOSDk0V1hoNmVWNUgxdjE4U19YbUtUNlIzczRSVHhk?oc=5",
+          "pubDate": "2026-11-20T16:30:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -112,6 +127,13 @@
       "color": "yellow",
       "items": [
         {
+          "title": "Deslizamiento en Alausí bloquea el cauce del río y provoca cierre vial",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTNtMTJCLUxod1N0VGx6Tm00YXM0bzdBOVkwcFhKWV96ZXR1NnoxbjVLX3Ffd3QycFdQcjN3VVZnVXJpNzlfbHZvaW9xMHFGVmpDWXJCUmozcUtDTVhLa2VQM2tkVEJCeTRUYTNXTjVZMFRQZVc3WDJLWW13ckt4TUFkbzBKUFd5TlJCdTdob1RFcjVXaXhDVW9CVXdHNFk?oc=5",
+          "pubDate": "2026-11-19T13:57:27.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
           "title": "Un sismo de magnitud 5.1 se registró en Guayas este 19 de noviembre",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS196czN1ejVPQ2R4ZEY0U1JVaVBQR3oyM1NWajJKTDZnVTFaSUhPQllsRlJhMmc1WGJiNTBZVFBzVWRaUU92RnJvS0ZVWjJNVUxnbml2QnhTakU0SVVmMkg1SHAyb2hwdmFNR2k4RTFQMkxaZkVoUHJHS19KZzZrcFRjbW9EbnRiMjFXSUVQVjVnb1djTkFMUQ?oc=5",
           "pubDate": "2026-11-19T06:09:51.000Z",
@@ -119,16 +141,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Noboa revisará cooperación militar de EE.UU. con Pete Hegseth en Ecuador",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDFKMnFJS0ZNeG92NzR5RTZqZXlsVVJ2Y0ZVWkc2YjYzbUtCUjZxeHVmUjZfRllGVmZTb2pacTZ6SFBpMmY5NzQwRWE4V0g0cWNOX3ktYnJDazlqVVNzU3BuYTNicERtanEyRkxlQ3h1aGx2Z01sdU50bUpPeWdLdE9qd2ZWSTVUWXNPTFFvaW1HdnhMUTNiSmd6QmdjVWdzaFEyd1pBTWJURFdKUHk5ZmRycVQ5cU5jaXpoMW1Pd0Zxdw?oc=5",
-          "pubDate": "2026-11-19T03:10:58.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Reos de Los Lobos y otras bandas son trasladados a otras cárceles de Ecuador",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdW9pV2MzTHA4Z3hiZmwwVlZ5SzAtdmV0NjJRTkg4RlplZDFaWHpQdVp5bk9LelUzbUd1RHM2WWo3NXdoVnpVTTFmY002Xy03U1V4cG9ZY0lOYzA1Wks4ZTBrS2JjcERYbVBJaWhsamVTUXI3Y09OcjZ1Q2hHMGx2OEhKVTg4Q3NEUlNGLUFlcjdfdUREUGZzaDYtVW8zUW1PRXhsVFBzRGdTVEF1SnNIWFJQbFM3OVZGakg4cEhWT1hxQjdsZkVFZGZn?oc=5",
-          "pubDate": "2026-11-19T00:04:37.000Z",
+          "title": "Alcaldía de Quito: votar exige conocer las propuestas",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdF9YR0sxcmdFb19GYWgyVURoWmNUaklXT3d2SXJvdE1IOHN1R3h3ZjNYdldmWHo1X2oxdm5lS3Q4V0xQSnRyMld6Vi1RUk5USzNnTjU5b3YtS2JPMk5icmc5NmpvTGpnRFFwWmZiZE12QkNNZ1JvcjNoZkpBd0dnNXVDOEh5N0NXYU40WFU5TzlJbW80Z0UyNDI1ZWExc1U?oc=5",
+          "pubDate": "2026-11-19T05:06:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -139,23 +154,23 @@
       "color": "mint",
       "items": [
         {
-          "title": "AUDIO: Ejecutivo financiero detalla las omisiones que permitieron el colapso de Ueno Bank - Periodísticamente",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMElyM083cDRLR3hQcklISUd5OWo4Y3NuV0dwU0JZdm9QSzRGc2pMNWVZY2o2RktKdE9JeHpTd05nekdqX3FILTd2dXA5QWpXWmk3SXk2WEozTE5OU2JJdEQxY3ZNc0ZPc0JlVnNwaDRlcURPVlNTYmNOeVhrVHMxWFc5R2dZcEY0N2hHWTN4REZYV3REbzFHM2EyVDR3ZzVJNVJaT2NqVFpvWHFnenRZSkFBSVc1R29YZGJaZm1DMElqeF9HeEYzVVRmaWd0bWhBX3BUM1kwdlRFN0FUSk1icg?oc=5",
-          "pubDate": "2026-11-20T00:57:00.000Z",
+          "title": "Tras fugaz salida de Hugo Vera, Alliana oficializó a nuevo viceministro de Transporte",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3dvOXNkTDNPVmNFU3B1bWNwbjRqMDAtZXdFTzdZcG9xdmhmWGI3VjlSMUhLdHhDLXlTSUllVHFLTjZrck5PS0g4ZGlab1F3SFVHOE1HREV6TGt1YnhaX1JsSjVwTVVpOGxsd19CTEdYUmVUZklwSVZPS3RqMEQwOEJJMnpRVnMyMEFMc0NUbGg2dnVKbVh2TEwtQkV3aHpITWxjZzVtdnRFYjFZNUsxRVFTbllneTM3ckVlQXlpNU9xUnBRMTd3?oc=5",
+          "pubDate": "2026-11-20T17:51:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Ejecutivo financiero detalla las omisiones que permitieron el colapso de Ueno Bank",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGJzOFZVZnV5SmEwZjRZdE92aWpJU1hSX3RXTko5QTBJTTZwbU9GTjV2Smd3QW1vWjNiT2QwMTZMaWtDR0htWHNKb0M1bDY0MVFEbGhCd0xERjAzTWlhSHRXY0ZaRmpSVU1EdGt4LWNDb29kUzdmaWR6cEVpRUJTd0JSZjVVa3VnZXhvWlByMW5FMkhWc0UyQUdfYlNQRHdIdHczcTlNWjFjSEZCNEc1Z0hsZ0UxaEE3WmxpczlXTk5RdTlZ?oc=5",
-          "pubDate": "2026-11-19T20:50:00.000Z",
+          "title": "Senadores colorados buscan eliminar “superpoderes” que dieron a Valdovinos",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcm1HQ0YybFhDTnpTQ214Q3V6elMtbFlqV0VTcVdCeWVCdkZKZDd2d1AwX0xWUEhSOVVKRjhVV1N2cmtqS3kyYzZ3UHBvYXE1MWVGYjZ0YXh6a0VoLTF5SEtHLVNCc0JHRVhOOC1lQVAwMjk4YUZodzVXLW02bXB2VkU0ZklhLTdEWUZIMkd1bGluN1B5aGlDaXg1Z1lzWUlKaWllbmE3Nl9vdV9OMEd0MEp5Rm9yWFk?oc=5",
+          "pubDate": "2026-11-20T17:45:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Hugo Zárate asumió en Itaipú, pero no explica aún su firma en la resolución que habilitó a Ueno Bank",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGlFTUpOOTZac3RnZEpuSzRBSXJfRk9MUmIwMVNQZ1VhaU1XMEdnZzBYZXZBZXF2WmNhYmlfck5HR094N3hMZUd4cU1HTGVMYnlvUl9BZnBHU0RDWjdmU01FN2RyUHd5dmpqazJZeEhLMnFqMzQ3ZURNb1hON2NjUWRIVWRQMDNBWVhjZ3pQX21MWFJyczRTeHBrU0dHUzJMeFNHdGV2RHV3dkNUU21oQ3k0NUhpSjRsSTN4T0tvejUyYWJaSGtJN1Nnb0Q1UEJVcElrU0U2NGVkWms?oc=5",
-          "pubDate": "2026-11-19T20:13:00.000Z",
+          "title": "Nuevo viceministro de Transporte no pudo responder cuánto cuesta el pasaje",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnJwX2NqblFaQkNOWDZqVnBRclNxQ29KQ0tBUm1XeS1seUd1LU1oQl9FdnM1LXVxODRkcEJMQzV1czNzLWdWRjJTOUw2X015dWZBOExiVlZPS1pDUWNJSWRtUHkwU1pyZzk5RF9raDM1RVdaS0RtUUhSXzVuV241NlJXMWZxbE1GNUNHSm5xUU5DLUFzcWdITVdnU2ZuMjkzc1g2cWpZeHdCWldIZWlZYUx6QkE1SDA2VVE?oc=5",
+          "pubDate": "2026-11-20T16:51:30.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -198,24 +213,25 @@
       "color": "grey",
       "items": [
         {
-          "title": "Tribunal aprueba petición del gobierno Trump de mantener en suspenso el TPS para venezolanos",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU1VjWkcwXzZEaXUyZnNPLU5GdVpCM3RLZVNmYVRObE1GZnZaXzQwcnJRRlAxNFgwaHhIU0RxY0hWTklzQ2NYX3EyM29mTkt4ZENZdWdkOXZMTjk2a3JOZ1VJUENhT2phUTF3S2dzdG1URVVBN1d6WUR0TkN0aHI3Sk9NbVRWMGVrQVVibjdVaklRQmdhZTJZU3kwUjVPTnZ4YnZwTnlZd3hVRzB1c1dZRDFFbHRoNnVtZjQtbXBWSmRfbFFxbnhtSVZB?oc=5",
-          "pubDate": "2026-11-19T15:17:58.000Z",
+          "title": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYnJPbmJTMGwwbk9RNFJBT1psN3ViOXJXbUhxNUs1YWh2ZThfMXlhd1BsOUk0ZzYyM0wxNEVCY0UzQWZocF9udkJpNlFoVW5hakttSGJYdmJFWXpUeDV3UXJtOWNPQmU0R2pEbW1md010RndzcTFaZzlicURWNzdUcU8ybWtYMm5vWjJGSmFxT0JseWczMExta2JXM00zZ1JPVEFwVjBvMlJmZHlyemVoN3V0cktZQUJpMGI4Y2Z2dnJVNW41eEZfZmowOUd1c1JzZFRRMHdtTlBTT2pORjEtTWpKcWpBSEdpcWpxOHZuRGNyRDQ?oc=5",
+          "pubDate": "2026-11-20T16:05:17.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Los grupos guerrilleros y la minería ilegal no han dejado de expandirse en el territorio venezolano",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSTBWTEFRZUh6WUxGQkRLT1FaUDZXN3dSdkdKLU43QjJ3ZjRZOUhGUVRmX09mNDdyd0YwTVR0VXpmWDBfMi00RVhVLWd2eEV1VW4wakFLQXp4RHowYnNIQ1pLMUZWWVpQVC1TdlFfQmJDMGQyYk5lQXp5MUV0UXBFVkwtWmZRWF9JSVJ3elpOLTZJMGRCcVM0N2J5SnhyaGdrLU1BWWlyZ2RaR0ZKRTM4cXc1QUgwUkRCT25jem1vLTRpMmQwS2pZZkE5WTdWOGEx?oc=5",
-          "pubDate": "2026-11-19T06:02:59.000Z",
+          "title": "Defensor de DD HH denuncia nuevas detenciones irregulares del Sebin",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQS03RWhfbzJyeDhNYzdnUlhQTVgtTWV1Rm9fNmd1RHFERU9KNEYya0s5VjNkVzZnMGJSSE9fN2wtY3ZQZEoxRTRYN1VGa2NLbzBYU1J3aWx4bUlnMEQ3S0s4ZUpQYjFfMWFKeklUNkR2UDZlYTZNTl9pV2JhbG9mWGwxOS1OWXpBNkhUdUJtdlcyQkJ1T2JjVWVNY2p4elUweWw2Q1dn?oc=5",
+          "pubDate": "2026-11-20T15:18:26.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Ekaré: hacer libros para jugar con la magia de brujas y poetas",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFZFVzhjS0VMUTY2Qml0VW50b0dpSXkxcEx1SEQ1b0pINFVDclQ2Y1hPdFNWZUc5ZFhjbk9oTi1UemwtbXIwSHlobS1Tc2J4cTU0R2RTaHlPaDhQY2dxQWtCWFBLSFhnZW9EZ2RDTnBacXI2QUNBWmVSYW1HalAxbW9IZE1qbHpPZDlya3BOSzNYUTEwbmxGanhMWnhBZw?oc=5",
-          "pubDate": "2026-11-20T01:31:18.000Z",
-          "snippet": null
+          "title": "EE UU enfrenta una ola de fallas tecnológicas mientras crecen las dudas sobre un ataque con IA",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTUzcXlnR1ZnWnA5eHgzTG1IRUxsYTV5MVlRaVVHbUFLNnFFNFk1VjdHUXRBZFVJNWVaa3JJQkh1U2tNY1UweGN4bUxWdlJxTDdjNXg3NnE1NFd2TXhPV0NCY0xpc3I5SXpGa01NZ1k5LVlkWE5LRTFYeTNXQmdfQl9vSkVTeTZXMkQteW4zOWFibC0tUmZwT2pmU2NhdXl0Wld0UE5tc3NYeVd4VXpjRzBBRnN5UVk1SUxhU0RJV1d4dER3T0RKc2JR?oc=5",
+          "pubDate": "2026-11-20T13:07:28.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
         }
       ]
     },
@@ -224,23 +240,23 @@
       "color": "teal",
       "items": [
         {
-          "title": "Congreso se apresura a dictaminar las reformas a la Ley de Contrataciones, mientras analistas advierten riesgos de opacidad y corrupción",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORzNHRFZpdmJmQUNuY0Z0NUVBNDhhYzlUUVVwcm9JRTk2ZC1rQVg2UXRlNXBqb3NvVEdfczZ3MzJfYXdWQWh2LUxraU85TXVpeldfczNFM29iN3Baa0twY1hqQVplQ2NrNzRBb013d1l6QjlmNEt5WnBRNVpWZzZRbS1pdmJWQmk3SFhUd3FwRndXQnVGbm5WV1ZlVGl0azdEUGZyci1RR1AwNmFlV0Zpb2pYR1NORmVtNkY0aVdmakFKRDNVRUN0YVpBRVZaamRTRDU5ZWZfOEtkaWJQNTFWUUZmNzhuellqZ016dENrVFotMDRRZnJ2MTlISGFRSmVRT09Vem5pbFdWM2c3RlE2Sw?oc=5",
-          "pubDate": "2026-11-20T06:05:00.000Z",
+          "title": "Bitcóin cae por debajo de US$60 mil ante salida de fondos y retroceso del sector tecnológico",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR21UX2NUQUsyQUczZ2ctSm9VbC05XzRGXzlEZkRWNnJrX29TMmY2UUVGcHNOTFFlZGR6UHl3d0pCN3c1UnlGcnZFU0tVdFJ2aEV5T01NUE5XTEcycW9RVHBVOHQ2ZDljVjcxZldzYW9MQjhpVEhzUExXZmZwdGdxRGdITWFTbGxDbHBMby14U0V5QVV3bFpFNDZzR1VWWXVzM0FteEgyUzcwMzRSUUw2RnJKRUZQTjB1aGJGTHJ6NzlpS0dhVEVWWHhGVEk4Yzcz?oc=5",
+          "pubDate": "2026-11-20T17:35:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "California exige explicaciones a Nvidia por presuntos vínculos de Huang con una espía china",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeG5lSFhtQUJ2SGRsOEpULWZITGVLMkM2SEFwa3MwaFhJQmtlWGNyeFAyeWcxU25pdUJ3cVdrTlE5MElwUXJCYnRjLWkzQ3BseUQwLXQzNXR6ekp2R2dzWVY0Uk5jYnc4RTBuSnE1cVRBdlVnSnpxdjlpdHZJUDRJVFVfX0xHY1hQUC00VGlxdWctdHBGalpYOTZwTHZKS1hLMXYzVWl2SDJldkl6RFA2SmpucHRRMllyTlRhMXBnejAwXzRRekNWS2dwM3VCM1NPZEU0X1JXNA?oc=5",
-          "pubDate": "2026-11-20T01:21:00.000Z",
+          "title": "Temblor en California: sismo sacude Los Ángeles y activa inspecciones de emergencia",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmpvcUNjTXVTNVJzanp2c0dUWWVkWlU4SDcxRWJmQzkwY1RNSlB1b0xwYVZrYnF6QjI2cmhTeGUydDRzbXdMZWQ3VWtCcmNxQlByNDF2eDFiWXhCX3BNV054N3FTY19FU19RYkJ3alM3bGNWOUVyQ3BteV9RMmtnVjhId1VUSGRQdzhhdG1pOVBaVTg4OGpPZ29waUgyNDZRUG9uTTBwZ3FLTmtZR2RhQzVrQmpZOXdvemFFNDlKRkEwWEtVSW5HYzViajF6MDZEd1ZfRlJKUjd4TnFkMVNN?oc=5",
+          "pubDate": "2026-11-20T13:35:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Precio del petróleo podría bajar en el 2027: Guatemala mantendrá exoneración de combustibles hasta junio",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcGxjX1lzdnJaMEpqX1NzelBnT2U3Y0k0c1BlaGlrZXFpYXl0a01yOHNqQ1VxV19pSm9WTGpEMW5lMV9pWl95SFFDMGtwZlhiSjYyMjBSZnVYekNIU2prMjBCQnZMbkwxRFlxb2NlVGRqcVllamZNelRMZXlha0J2MlVSX0FCbnVBUkREUWhQUmJRczMydFNvcDQ1eGJRMFJINmdGYWNLTktUTGdTR0M1Nlh4Y2Y5MlNqd3JVdlNMTVJ3d2Vtb2lXRlRkREppYi1ubDAyVEpSNmI?oc=5",
-          "pubDate": "2026-11-19T22:02:02.000Z",
+          "title": "Accidente de bus en Tecpán Guatemala deja 15 heridos y percances complican el tránsito en la metrópoli",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzBvbm1acmJRNnMxa0hCV2hkTWFmcldVV1hWRHZFQjZkNEp4YkZhU1l5cHB3YUxHTFlLNjgzNTBUSWx1eE9tOWpGLTM0Z2J5alRpMEpVYjVhdzlGa0k5VDNzSnpqQVNZODk3azhER0phZW0zUnRTcGNuQnZGaTNXUS1idWRwTmFObWFQNWhTeG5HTTZxR2UxMDc0X3NXYUlmWk5nb3RZNVhGOW91dFdQQVNJaWlBYXlKNFFLckljVGFhZWxQQzNVc21yclkwTGh2eHVkSExlMzJ2bVh1a0tnaDNxVQ?oc=5",
+          "pubDate": "2026-11-20T13:12:29.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
