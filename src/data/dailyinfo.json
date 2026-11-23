@@ -1,11 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:05:30.216Z",
-  "dia": {
-    "nombre": "Día Nacional de la Esclerosis Múltiple",
-    "descripcion": "Se conmemora esta enfermedad neurológica degenerativa para sensibilizar sobre sus desafíos y promover investigación, diagnóstico temprano y apoyo a pacientes y familias."
-  },
-  "dia_en": {
-    "nombre": "National Multiple Sclerosis Day",
-    "descripcion": "This degenerative neurological disease is commemorated to raise awareness about its challenges and promote research, early diagnosis, and support for patients and families."
-  }
+  "generatedAt": "2026-11-23T21:55:59.349Z",
+  "dia": null,
+  "dia_en": null
 }

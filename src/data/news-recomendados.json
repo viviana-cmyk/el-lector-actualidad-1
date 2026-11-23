@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-23T10:01:36.166Z",
+  "generatedAt": "2026-11-23T21:55:52.646Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "José Adolfo Macías Villamar, alias ‘Fito’",
+          "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/jose-adolfo-macias-villamar-alias-fito/",
+          "pubDate": "2026-11-23T21:12:47.000Z",
+          "snippet": "José Adolfo Macías Villamar, alias ‘Fito’ José Adolfo Macías Villamar, alias “Fito”, fue el cabecilla de los Choneros, uno de los grupos criminales más importantes de Ecuador. Tras fugarse de prisión en 2024, fue recapturado un año más tarde y extraditado a Estados Unidos. The po…"
+        },
         {
           "title": "Perfil de Costa Rica",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-costa-rica/perfil-de-costa-rica/",
@@ -22,24 +28,6 @@
           "link": "https://insightcrime.org/es/noticias/muere-jefe-de-jefes-de-mexico-felix-gallardo/",
           "pubDate": "2026-11-19T17:48:45.000Z",
           "snippet": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México La muerte de Miguel Ángel Félix Gallardo, tras 37 años en prisión, lleva a InSight Crime a analizar el controvertido legado del fundador del Cartel de Guadalajara y la corrupci…"
-        },
-        {
-          "title": "Ejército de Liberación Nacional (ELN)",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/eln-colombia/",
-          "pubDate": "2026-11-18T22:06:57.000Z",
-          "snippet": "Ejército de Liberación Nacional (ELN) Ejército de Liberación Nacional (ELN): quiénes lo lideran, dónde opera y cómo se financia. Perfil completo y actualizado en 2026. The post Ejército de Liberación Nacional (ELN) appeared first on InSight Crime."
-        },
-        {
-          "title": "De la extradición a la libertad: cómo la justicia de EE. UU. recicla a los narcotraficantes que cooperan",
-          "link": "https://insightcrime.org/es/noticias/extraditados-cooperaron-y-quedaron-libres-como-justicia-de-ee-uu-recicla-a-narcotraficantes/",
-          "pubDate": "2026-11-18T15:57:49.000Z",
-          "snippet": "De la extradición a la libertad: cómo la justicia de EE. UU. recicla a los narcotraficantes que cooperan La captura en Guatemala de un narcotraficante condenado en Estados Unidos ilustra cómo, frente a los grandes capos del narcotráfico, la justicia estadounidense puede ser un ti…"
-        },
-        {
-          "title": "Clan del Golfo – Autodefensas Gaitanistas de Colombia",
-          "link": "https://insightcrime.org/es/noticias-crimen-organizado-colombia/urabenos-perfil/",
-          "pubDate": "2026-11-16T21:39:09.000Z",
-          "snippet": "Clan del Golfo – Autodefensas Gaitanistas de Colombia El Clan del Golfo, también conocido como Gaitanistas o AGC, es uno de los principales grupos criminales de Colombia. Quién lo creó, qué hace, quiénes son sus aliados y enemigos y qué le espera. Perfil completo y actualizado co…"
         }
       ]
     },
@@ -90,39 +78,39 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Brecha en el tratamiento del dolor en la salud femenina: la innovación para cerrar la brecha. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamNkTnBQaVU0dVpfejhyWmhVOTd3VzV6bHNrSXBQYVNzaGgtOEVuUjFQWHN6emFNMl94Ri1XV09YMXFsd2djdVlnQ3MtVzhzNEEtaElwSU1hSlFPUEI4SUxpNk5aUjNjUENhb1ZpSjR3dC1EYldVamZjVXk4Q1p2TkJWbjgxTXpUdlZ4NHRIR2N3ck96QVR6Wkg4NnVocW1KQjhucTdsTDVQUkRZRXY1TlBLdG1icGg0TE1vMDJFV1k?oc=5",
-          "pubDate": "2026-11-20T14:35:05.000Z",
+          "title": "Economía azul regenerativa: por qué son importantes las redes de puertos deportivos | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ25nOHN5LXZubzBFb3gzTERiNUNhSWRCdmpJMGp3VzJBTEg1empnY2gzSVlQcWhDMU5NRHg5RzN1Y3VFLW9LbjFlYkdBYjdLMXRiN25uQ29CNmRUWGU3YlEwaHp2Vm10XzlqeUNmQmRaQUxVNDFyUXVSWXNncnVwdVlPbW9fNmJYRWN5Um82dEJDZU9SYkpla3c3MkJyakNaUnp2Rmd2WlVyRm1TY1E?oc=5",
+          "pubDate": "2026-11-23T18:43:41.000Z",
           "snippet": null
         },
         {
-          "title": "Emerging Technologies Energy Transition: 5 Innovations | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVpSbnJCd04zRjJ3djR4ZFVDZkZHMndFS1ZVRUk2ZmVaUjdRQUo4WGRrUW9rM1NvTXVpQlpscjZsU0hLb0pFQ3BRY2tNekQ4SnhwME5DZm1ieVhUdjRPVVYwSWJ3U1c3Q2otVEFBQVM2aWNzVjd6VFdWdlI2RWdTVFJ4azlJQmM?oc=5",
-          "pubDate": "2026-11-20T13:15:47.000Z",
+          "title": "Conflicto en Yemen: La tierra que la cooperación internacional olvidó | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSG5IbVVZczRyNjJaYWFONjcyU2V0LVB3Y2V3TFpXMDhJMThEXzBnazU2cDE3X1Mxd1FIMkZTWjFDZkdlOENxZnppcjF0WFdkQnJ4c1M1OEtjWEJzWXRyaTE3THhCV3lOYnNVTi0xQUNmMjRlQm10d3RUX0xiLXlLWFIzYmpWellvbEo1em9QVUxicnUyY0NuZFBveGFmOHlFd0s1Wg?oc=5",
+          "pubDate": "2026-11-23T16:40:51.000Z",
           "snippet": null
         },
         {
-          "title": "1985 Mexico City Earthquake: Architect's Career Journey | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEQ5OGhpcEQ4X2kzdktOV2JzSnVaSGszd1locVFUdjlSOFI4aGtFQVZMSGYwSXJ4TmppZlFhVUE3Y21aaEY1eUFkTGFPRnc0cjg1eTlDWWI0dHl3Tm5rRkNKWnJXbVVVTXdCa3VtbVNIWEFubWRXakJ0eFd6WVg3VFlfTXBnX0VlTTZUQXVWSHRMeENTamNZZWUyTng?oc=5",
-          "pubDate": "2026-11-20T12:22:11.000Z",
+          "title": "Soluciones para el turismo masivo: Cómo lograr que las ciudades funcionen para todos. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmZWRzZzcXAwQzZfemhZcjk0bjRid0E5R2ZwMVhpMDFNTFNURl9hSmhUa1lCUEQ5UklrX1dsZnNtcy1QMDE1M1ZNLTRROUp1cjFRZVNJSkZlZEVsaEt3d0FydXBOV3lScWdYcDRZWEh2UDUtWTB0cUdETGlxVG1hNUhKNGJRVk1lbTV0U293U1d1WWxMQjN4cGt3?oc=5",
+          "pubDate": "2026-11-23T15:32:42.000Z",
           "snippet": null
         },
         {
-          "title": "AI Energy Readiness: Aligning AI Ambition with Power Systems | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXM0R1B0dEl1UnhGMld3UlhsTTZCNEpaeVhZeHhSc0ZIdm1lSTdoTGhvZmJFSWNzOTRDQlp3Ujl2VVhnMVZRWXJWVW5ObHJDY1NqUUtPaTBUWjhWeGdJNDk4MC1WOWdOTUhBZlJyUHljUVRtdThOMmtoVkRNZlloZnBROVNBbWo2OXBjYTRwdFptVThidmJWQi14VldPdEl0R0lqMEFyNVJnZUVuc01GQnJYS1JVRWVx?oc=5",
-          "pubDate": "2026-11-20T05:19:56.000Z",
+          "title": "Flexibilidad de los modelos de IA empresarial: por qué es importante cambiar de modelo. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTR1d0VGSkd3cUU0RU9mTERkRERLYmc1V05Sa0tfUjFzR3BNSW9zUC1Kc0VaMVZ1VXFhX1hNM1dtR1hqNG0xMXg4c0lqQjR4V1hDUnBLN1UteWt1TWNrZzJhWGNHa21PcXhVeEhoX08yRzZTS3lKUHZnc05XWFBrUEQ1Um1UazB2TzlodnVDTmt3a2tqT19kNTFrc0xuWnhnLU03Ry13?oc=5",
+          "pubDate": "2026-11-23T14:35:02.000Z",
           "snippet": null
         },
         {
-          "title": "Cyber Resilience 2027: What Leaders Need to Know Now | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRscnpoZkIyVGo0dkxva1ZWZ2pNOVY5ZVU1WmlqX0ZxOGcwX2Z2UW1waEhiSEZiS3pfd3JxbVlsa29BVHpjUmhGVHJWenFjQkk0d01WVnpYLTRZZ25DTDNfdXhTWERTekNiNWs0M3pneV9JRW40bDJ6TUwxUG13Z0xibzhROGtmbGEycEFTODRZRGFWalNMekVpQ2Vycm0y?oc=5",
-          "pubDate": "2026-11-19T17:57:55.000Z",
+          "title": "Política educativa en IA: 3 lecciones de Japón sobre inclusión. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEdBYWJBb3gxR2t3ZHZXaDc2cTEzTjAyQkVSU3psMmFaQnB0VkZ5NHBLX2x0dUU2Z2tHTEkwTlU2OWEwTk8xdDV1X0NQSDV3S0s3RGtNczhYNFlPc1Q3LUVSR2VSR3Mwa0dLbDRKdGExeXRzWlJXTzVLaHpkazRza1oxTV93bzJ0MlVmRncxcVNMd00zN3FiRjdTQldRdDNMUk9ud0ZnUnk?oc=5",
+          "pubDate": "2026-11-23T13:10:32.000Z",
           "snippet": null
         },
         {
-          "title": "Transiciones positivas para la naturaleza: sectores",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10c1ZPVUI2aGUwaTBudzBoLUYwb1dvZjNJLTQxY2NjdTRpVTVnazJHX1BxLVZMaWc2ekhLQ3ltR1V3S3p5Rk1HbE9WeXFTSl9GNWppd3dnb2pYYVcwOFkxaWhfR2V1RktrMEd3MWRfVlZ2NC1j?oc=5",
-          "pubDate": "2026-11-19T09:28:44.000Z",
+          "title": "Youth Perspectives Global Change: Reading the Youth Pulse | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkEydWxPR0dMcVRLRU1ZT0ZYLWR1ZUFhc0RFMzhUNHd3LVlGRzgzbWV3MWwxNTRfU01PaVMxVmMwN21heXR6TnJiNnJnVkN0T2dWMS1qWm9TWlhIWlFnN3duZkVPVURtRXFoM0ZTX2RoVzE4T1NDbFBEMDJwQVNzTXR2S0xBV0pJd2p0dg?oc=5",
+          "pubDate": "2026-11-23T07:45:10.000Z",
           "snippet": null
         }
       ]
