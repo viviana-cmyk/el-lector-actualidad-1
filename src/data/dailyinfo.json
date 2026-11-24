@@ -1,5 +1,11 @@
 {
-  "generatedAt": "2026-11-23T21:55:59.349Z",
-  "dia": null,
-  "dia_en": null
+  "generatedAt": "2026-11-24T10:05:37.659Z",
+  "dia": {
+    "nombre": "Día de la Oenegería",
+    "descripcion": "Se conmemora la labor de las organizaciones no gubernamentales (ONG) en la defensa de derechos humanos, desarrollo sostenible y justicia social a nivel mundial."
+  },
+  "dia_en": {
+    "nombre": "Day of NGOs",
+    "descripcion": "It commemorates the work of non-governmental organizations (NGOs) in the defense of human rights, sustainable development, and social justice worldwide."
+  }
 }
