@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T10:05:37.659Z",
+  "generatedAt": "2026-11-24T20:32:43.831Z",
   "dia": {
-    "nombre": "Día de la Oenegería",
-    "descripcion": "Se conmemora la labor de las organizaciones no gubernamentales (ONG) en la defensa de derechos humanos, desarrollo sostenible y justicia social a nivel mundial."
+    "nombre": "Día Internacional de la Eliminación de la Violencia contra la Mujer",
+    "descripcion": "Se conmemora para visibilizar y combatir la violencia de género, recordando casos como el de las hermanas Mirabal en República Dominicana y promoviendo derechos de las mujeres."
   },
   "dia_en": {
-    "nombre": "Day of NGOs",
-    "descripcion": "It commemorates the work of non-governmental organizations (NGOs) in the defense of human rights, sustainable development, and social justice worldwide."
+    "nombre": "International Day for the Elimination of Violence against Women",
+    "descripcion": "It is commemorated to make visible and combat gender-based violence, remembering cases such as that of the Mirabal sisters in the Dominican Republic and promoting women's rights."
   }
 }
