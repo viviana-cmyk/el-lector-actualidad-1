@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-25T10:01:40.471Z",
+  "updatedAt": "2026-11-25T19:48:27.659Z",
   "trm": 3592.03,
-  "trmTrend": "up",
+  "trmTrend": "flat",
   "dolar": 3516.051988,
-  "dolarTrend": "up",
+  "dolarTrend": "flat",
   "euro": 3853.418804318045,
-  "euroTrend": "up",
-  "brent": 88.37,
-  "brentTrend": "down",
-  "cafe": 2.676,
+  "euroTrend": "flat",
+  "brent": 90.5,
+  "brentTrend": "up",
+  "cafe": 2.6855,
   "cafeTrend": "up"
 }
