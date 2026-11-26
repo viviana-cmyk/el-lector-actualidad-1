@@ -1,49 +1,42 @@
 {
-  "generatedAt": "2026-11-26T10:01:54.398Z",
+  "generatedAt": "2026-11-26T19:27:11.250Z",
   "outlets": [
     {
       "name": "CNN en Español",
       "color": "grey",
       "items": [
         {
-          "title": "“Venezuela Renace”, la apuesta económica del Gobierno venezolano",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXdsRnl0RWNvOTRjOF9Mc0lsN1c3QnB0MHNGT05kSEZBQ0R5M0w1dmdHQVR1cGVCZG1tcVN5aTZYOVJ0TW5odHNJckR3bGpCblRHbldVTUdudXU4NTltd0pJQWgtRVZiOUd1Q3BuU0NoX2xJeE5wdm1hNkVkYVV2c0hJcjhvWS14cGppZ3hNWXptV2pEWkNtbnR5dEpVcTJvajhjSE9YX2ZsYko4a1ZHTDhueWF0eGFwa0RNcw?oc=5",
-          "pubDate": "2026-11-26T03:05:48.000Z",
+          "title": "Dos italianos mueren en un presunto ataque con drones iraníes en Kuwait. Teherán niega cualquier resposabilidad",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmhPQUhKUzlNcXZ1em5jTENZeXVOMkltbGNrMGJrQlV3QjNfSVNBMVN1bXNxZVBRQXRNenA3YmhjTmNINEhzNmJCbm5ZZTdfSWt6X0NJVHkwTFhFMGtnYnp5OGFidUFaOXdGMnZkWXFtb2Yxcy1UbVpPOFMxazBrTmNDTXYybWliY05JU19KVQ?oc=5",
+          "pubDate": "2026-11-26T18:51:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Al menos 31 muertos en el incendio de un camión cisterna en Egipto",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkpJUjJDRmVReXJRWExqaFlTUjFBTWI3cnM3WjByeVhxT2YxaWdUMVdhXzhwTFZjYkZ6aXQ4M2RPS050dW5raWQ0VlMtNXluOUMwbk4tWHRielVzQkttREIyWEdiUDdzVUlic2R0azBKc3U0QzFCUzExUWtFZ1RfLXRKQXAzMG1PZ29WRWNB?oc=5",
-          "pubDate": "2026-11-26T02:01:56.000Z",
+          "title": "Humo negro visible desde el espacio tras ataque reivindicado por los hutíes contra refinería de Arabia Saudita",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDh1Nm02N0JiZUhGN0U5ZXRrSzByZnZnRWR3N092blZ0cFVnX2lrZGp5cDVKaUZBbF90NVZUeDZQZ1hLbVJsWTZ6OFhISERaQ0xBLWV5QUdrSkp2b1g3N2xYam1mMVVlbHByRV94RUtoMFNLMkpOcDZoWTZQZjRTNWRPNGxveXpkdnRtOFRybms?oc=5",
+          "pubDate": "2026-11-26T14:22:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Al menos 31 muertos tras el incendio de un camión cisterna cerca de El Cairo, según las autoridades egipcias",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVJNS0NSZHNrRXBPQ2xfOXVRbk5OZTJIbW04OFprQjdCVWFGT0VnV2FyM01kSVQzU0F0Qnp0S190dks4RGd6Zk44NkVhZ05ES3VzeHljeXZfRVYtN0pPZUVlSW9XZHNLT2hBUzE0dEw1NGlMT0FrVjllV3NTdGxyRjRUNTBiZ3VIZDk3XzlVYkhJUQ?oc=5",
-          "pubDate": "2026-11-26T01:36:00.000Z",
+          "title": "Comienzan labores de limpieza y análisis de contaminación tras la enorme explosión militar en Iowa",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0xKTG1nenp0djFTM01BUGY3QW5QNWdVSHhpdGcwUDRWTDFXZk1PTU9LaFN3RUNRU3lYSHU2cVBxcGxfeEQ0dUdoMW5mMEM1Zkd4RS1fdnB3UjlkNXJpeWktbmZrVmVGUjZpRzNCWGpJQlgzbkVHNmI3RTBFQ1RaWXljc1ZnS21wYVE0eUpNVXBUQQ?oc=5",
+          "pubDate": "2026-11-26T17:56:34.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Un hombre de Boston ganó US$ 1 millón en la lotería. Luego, ICE lo arrestó",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTEtMnh5VUotMVBLN3RIeVAzbkRUT3hidTU0d0dYTnJ5ZFdKcHdBazYtdkNBNFBIUmN6UU1CcUFFUW82cldad3cwWDVOWjdYQUo3ZXN2alIxeFIyTms5REdBM1p2eGlZdmtOVlJwNUhVSFlacVNOaFNRLU5RQXdHQXUyMjhZd01EYzktWVZTbEo4XzdB?oc=5",
-          "pubDate": "2026-11-26T00:38:00.000Z",
+          "title": "“Es una figura histórica”, afirma Jared Kushner, enviado especial de EE.UU. para la paz, sobre Vladimir Putin",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVEwckVJYUJRYjBKTk9Qckg0c2JYdlo5V1RLYi1NMUc1TDhRWFpSY2pnWnoxRW10akpmQnpVTWt3UXc3My0xN0RSQmVITlJxajNTVFc3ay1RZ0NtMm1jN2V0VkZ0WE9TdkJOMUV1aHlkWklwS3dreFRRTl9kNFE0Qg?oc=5",
+          "pubDate": "2026-11-26T16:23:36.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "\"Todavía hacen falta mejores resultados\" en la lucha contra la violencia de la mujer",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnhRaFhVQVI0ZGlwMFkwTl9mU3lDdlp0bnNJd0FvNmJCNFFYdjljSnpQYy1pSW9JVUl6R3hrQ3Uxa2wxU3o4UnRjMUdTNE8zcFNudnhWZkowOXNHMHZYQXFJTmMwcHZpQnhqZmdaOWlYeDZrNkg5VzBkYUV2M1NqMXJMSUJlZHM2YVNoTjU1cmNrQmQwZE1kNHlGdHJ1SmhGbUV4ZUdKbFhxbndWVTc3bDY0aw?oc=5",
-          "pubDate": "2026-11-25T23:46:57.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "La economía de EE.UU. creció más rápido el trimestre pasado de lo que se informó inicialmente",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGt0LXdWTVZ6ZFNSYWtXRjM0YXU1WHZlX2d6Nm5ISXpmSTNFMHZWX2trdzBWRF8tYmZ6TWVYM21SUjJ1XzI3ZnBQVHBxQzlhZXFLRk9rQkQ4WUF5RDM5VHRIYmo0SFg2NDVpWVV0LUhqWFZpaWZTVFBuWVQwNkRwSWZaMHZxMDBWWS12Z213TlJyT0dPYXc?oc=5",
-          "pubDate": "2026-11-25T23:41:00.000Z",
+          "title": "Putin demostró \"moderación\" al no usar armas nucleares, dice Kushner",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUc5Rm1pSzNvTWhyMmI3aVlnSmVVSGlIVkFDaGE4cUhTSzVVUUxXZzljeGc4TUstQU1taGlRSnNlVzgyZ284cFc1Y2dzYTJEdXJfTm5CeHBBUHpsaVEwaUIySE9HNzRZRlYwR0IyM0txRFZsWXNaT0hwRFIwNm12QXE4OEVfdGFoTjNoLXdyZTBRSWc?oc=5",
+          "pubDate": "2026-11-26T12:52:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -54,45 +47,45 @@
       "color": "sky",
       "items": [
         {
-          "title": "China se reserva “el derecho a responder” a los nuevos aranceles anunciados por Trump",
-          "link": "https://elpais.com/internacional/2026-11-26/china-se-reserva-el-derecho-a-responder-a-los-nuevos-aranceles-anunciados-por-trump.html",
-          "pubDate": "2026-11-26T09:47:42.000Z",
-          "snippet": "La nueva remesa de tasas comerciales estadounidenses llega menos de una semana después del encuentro bilateral entre los presidentes de ambos países",
+          "title": "El Gobierno mexicano pide a España que aplique el tratado de extradición con Inés Gómez Mont",
+          "link": "https://elpais.com/mexico/2026-11-26/el-gobierno-mexicano-pide-a-espana-que-aplique-el-tratado-de-extradicion-con-ines-gomez-mont.html",
+          "pubDate": "2026-11-26T17:31:36.000Z",
+          "snippet": "La Fiscalía confirma que la presentadora no ha sido detenida y pide formalmente su arresto para ser enviada de vuelta a México",
           "_priority": "ALTA"
         },
         {
-          "title": "Campaña electoral 29-N y actualidad política, en directo | Vox da plantón a la Diputación Permanente del Congreso y se ausenta del debate de cinco decretos",
-          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
-          "pubDate": "2026-11-26T09:45:00.000Z",
-          "snippet": "Colau asegura que no ha hablado con Sánchez para preparar el debate | El debate a cuatro centra todas las miradas a tres días de las elecciones generales",
+          "title": "El planeta cruza otra línea roja: una semana seguida por encima de los dos grados de calentamiento",
+          "link": "https://elpais.com/clima-y-medio-ambiente/2026-11-26/el-planeta-cruza-otra-linea-roja-seis-dias-por-encima-de-los-2-grados-de-calentamiento.html",
+          "pubDate": "2026-11-26T17:27:36.000Z",
+          "snippet": "Al mismo tiempo que naufragaba la cumbre del clima, la Tierra ha alcanzado esta barrera durante 10 días, siete de ellos consecutivos",
           "_priority": "ALTA"
         },
         {
-          "title": "Detenido en Cantabria el hombre buscado por el crimen machista del miércoles en Murcia",
-          "link": "https://elpais.com/sociedad/2026-11-26/detenido-en-cantabria-el-hombre-buscado-por-el-crimen-machista-de-ayer-en-murcia.html",
-          "pubDate": "2026-11-26T09:29:22.000Z",
-          "snippet": "El presunto asesino se ha entregado a la policía, según la Delegación del Gobierno",
+          "title": "Debate electoral 29-N a cuatro, en directo | Abascal, el primer candidato en llegar al último debate de campaña",
+          "link": "https://elpais.com/espana/elecciones-generales/2026-11-26/debate-electoral-29-n-a-cuatro-entre-sanchez-feijoo-abascal-y-colau-en-directo.html",
+          "pubDate": "2026-11-26T19:24:52.000Z",
+          "snippet": "Los candidatos de PSOE, PP, VOX y Frente Amplio se enfrentan en un encuentro organizado por la Academia de Televisión",
           "_priority": "ALTA"
         },
         {
-          "title": "Dos años de cárcel para un hombre por llamar 100 veces y enviar 92 mensajes a su expareja",
-          "link": "https://elpais.com/sociedad/2026-11-26/dos-anos-de-carcel-para-un-hombre-por-llamar-100-veces-y-enviar-92-mensajes-a-su-expareja.html",
-          "pubDate": "2026-11-26T09:20:19.000Z",
-          "snippet": "La Audiencia de Huesca confirma la condena en primera instancia por un delito de coacciones en el ámbito de la violencia de género con el agravante de la reincidencia",
+          "title": "Los sindicatos temen un cierre exprés de Plus Ultra ante las dificultades para encontrar un comprador",
+          "link": "https://cincodias.elpais.com/companias/2026-11-26/los-sindicatos-temen-un-cierre-expres-de-plus-ultra-ante-las-dificultades-para-encontrar-un-comprador.html",
+          "pubDate": "2026-11-26T18:42:02.000Z",
+          "snippet": "El comité de empresa duda de las cuentas de la compañía y pide el reinicio del expediente de ajuste de empleo",
           "_priority": "ALTA"
         },
         {
-          "title": "El Gobierno convoca 14.373 plazas para la Administración General del Estado",
-          "link": "https://elpais.com/economia/2026-11-26/el-gobierno-convoca-14373-plazas-para-la-administracion-general-del-estado.html",
-          "pubDate": "2026-11-26T09:11:47.000Z",
-          "snippet": "El BOE publica la oferta, que incluye 6.508 plazas de turno libre y 7.865 de promoción interna, con 1.679 reservadas para personas con discapacidad",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Los profesores catalanes arrancan la segunda huelga del curso ocupando durante dos horas el Palau de la Generalitat",
+          "title": "Unos 5.000 profesores catalanes vuelven a salir a la calle: “Necesitamos manos, en cantidad y calidad”",
           "link": "https://elpais.com/espana/catalunya/2026-11-26/cataluna-vive-la-segunda-huelga-educativa-del-curso-en-un-momento-de-caida-de-la-movilizacion.html",
-          "pubDate": "2026-11-26T08:27:26.000Z",
-          "snippet": "Los docentes han entregado una carta al ‘president’ Salvador Illa, que no se hallaba en el recinto, pidiendo reabrir las negociaciones",
+          "pubDate": "2026-11-26T16:12:48.000Z",
+          "snippet": "El sector educativo protagoniza la segunda huelga del curso, en una jornada de huelga que ha empezado con la ocupación del Palau de la Generalitat durante dos horas",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Los sabotajes que Europa atribuye a Rusia se perfeccionan y disparan el riesgo de “víctimas en masa”",
+          "link": "https://elpais.com/internacional/2026-11-26/los-sabotajes-que-europa-atribuye-a-rusia-se-perfeccionan-y-disparan-el-riesgo-de-victimas-en-masa.html",
+          "pubDate": "2026-11-26T16:04:04.000Z",
+          "snippet": "Una investigación del Instituto Internacional de Estudios Estratégicos (IISS) advierte de que la intensidad de esta guerra no convencional aumenta, con el fin de socavar el apoyo a Ucrania y aumentar las divisiones entre los países del continente",
           "_priority": "ALTA"
         }
       ]
@@ -102,45 +95,45 @@
       "color": "yellow",
       "items": [
         {
-          "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
-          "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-          "pubDate": "2026-11-26T09:47:58.000Z",
-          "snippet": "Net migration fell in the year ending June 2026, according to the Office for National Statistics And this chart from the ONS report shows how immigration, emigration and net migration figures have changed since 2012. This chart from the ONS report explains how the net migration f…",
+          "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+          "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+          "pubDate": "2026-11-26T17:59:44.000Z",
+          "snippet": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and struggle to fi…",
           "_priority": "ALTA"
         },
         {
-          "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+          "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+          "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+          "pubDate": "2026-11-26T17:51:17.000Z",
+          "snippet": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency Europe live – latest updates EU leaders were bracing for a clash over long-term financial aid for Ukraine amid an effort to finalise…",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-          "pubDate": "2026-11-26T09:41:10.000Z",
-          "snippet": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Irish prime minister Micheál Martin also said he was confident the EU and the EU “will be in a position to resolve the outstanding issue” of tuition fees, as he hailed the deals on sanitary an…",
+          "pubDate": "2026-11-26T15:59:13.000Z",
+          "snippet": "This blog is now closed The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large and not sufficiently future-oriented,” she said, call…",
           "_priority": "ALTA"
         },
         {
-          "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-          "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-          "pubDate": "2026-11-26T06:10:56.000Z",
-          "snippet": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washi…",
+          "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+          "pubDate": "2026-11-26T17:50:54.000Z",
+          "snippet": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s b…",
           "_priority": "ALTA"
         },
         {
-          "title": "Older Australians suffering under Labor’s ‘botched’ aged care at home program, inquiry finds",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report",
-          "pubDate": "2026-11-26T09:37:47.000Z",
-          "snippet": "The Support at Home system has ‘baffling’ bureaucracy and ‘rations and denies care’, says Greens chair of Senate inquiry Get our daily political email, free app or daily news podcast Many older Australians are dying before they can access home support, paying exorbitant fees, and…",
+          "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
+          "link": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
+          "pubDate": "2026-11-26T19:16:35.000Z",
+          "snippet": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the House An industry-backed “permitting bill” approved by the US Senate would gut key clean water protections with changes that would do little to speed up the development of major e…",
           "_priority": "ALTA"
         },
         {
-          "title": "New defence laws could have ‘significant’ implications for human rights, Labor-led inquiry finds",
-          "link": "https://www.theguardian.com/australia-news/2026/nov/26/new-defence-laws-could-have-significant-implications-for-human-rights-labor-led-inquiry-finds",
-          "pubDate": "2026-11-26T09:20:16.000Z",
-          "snippet": "Anthony Albanese defends laws and calls criticism ‘nonsense’ and ‘conspiracy theories’ from far left and far right Get our daily political email, free app or daily news podcast New powers allowing defence officials to use lethal force against suspected trespassers into designated…",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "UK regulator admits error in calculating car finance compensation payments",
-          "link": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
-          "pubDate": "2026-11-26T09:18:11.000Z",
-          "snippet": "FCA also tells Barclays to stop making settlement offers while it works through data problems Business live – latest updates The financial regulator has admitted that it has miscalculated part of the compensation scheme for victims of the car finance scandal, and told Barclays to…",
+          "title": "Man who stabbed passengers on train to London guilty of attempted murder of 14 people",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
+          "pubDate": "2026-11-26T17:43:24.000Z",
+          "snippet": "Anthony Williams stabbed two boys before assault on rail passengers in ‘ferocious and frenzied’ attack over 25 hours A 33-year-old man has been found guilty of attempted murder in a “ferocious and frenzied attack” in which he stabbed 14 people, including 10 passengers at random o…",
           "_priority": "ALTA"
         }
       ]
@@ -150,6 +143,34 @@
       "color": "mint",
       "items": [
         {
+          "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
+          "link": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
+          "pubDate": "2026-11-26T10:04:17.000Z",
+          "snippet": "The president of El Salvador has widespread support among Haitians, who are tired of violence and hope he can be the one to finally end it.",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+          "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+          "pubDate": "2026-11-26T14:52:43.000Z",
+          "snippet": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shafts flooded. Rescuers said they were losing hope that those still inside would be found alive.",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+          "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+          "pubDate": "2026-11-26T15:27:03.000Z",
+          "snippet": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
+          "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+          "pubDate": "2026-11-26T11:08:41.000Z",
+          "snippet": "The assault on a security headquarters in the northeastern city of Hasakah was carried out by four militants who local officials linked to the Islamic State.",
+          "_priority": "ALTA"
+        },
+        {
           "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
           "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
           "pubDate": "2026-11-26T09:14:29.000Z",
@@ -157,38 +178,10 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
-          "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
-          "pubDate": "2026-11-26T08:31:47.000Z",
-          "snippet": "The assault on a security headquarters in the northeastern city of Hasakah was carried out by four militants who local officials linked to the Islamic State.",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
-          "link": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
-          "pubDate": "2026-11-26T00:11:25.000Z",
-          "snippet": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
-          "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-          "pubDate": "2026-11-25T22:30:27.000Z",
-          "snippet": "The prosecutor recently fled to the United States after Mexico issued a warrant over his involvement with the C.I.A. Now authorities are investigating him for suspected cartel collusion.",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
-          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
-          "pubDate": "2026-11-25T20:45:09.000Z",
-          "snippet": "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country. He denies all wrongdoing.",
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
-          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-          "pubDate": "2026-11-25T19:02:51.000Z",
-          "snippet": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
+          "title": "The Unbearable Heat of Delhi’s Summer Nights",
+          "link": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
+          "pubDate": "2026-11-26T18:16:29.000Z",
+          "snippet": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.",
           "_priority": "ALTA"
         }
       ]
@@ -198,16 +191,37 @@
       "color": "green",
       "items": [
         {
-          "title": "Israeli parliament advances bill that could block Netanyahu from forming government",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOEpRenp5c1pOb0MyS0FPTFlQWmtKUkpmV0RZdXluaGhGeGVDVjFERWVnRGtscGlvM2lfdWpTenkwQVZXaFA1dkJnWF9GdUxoTl95ZkxDQk9HeGpjQjRiYzdvWnJwb3haNjUzU1RWNWltOG9Oc2paX2R5bmxmRU1INi1rTUhlYWEtXzdkVjBCZjh0N2xOTk5NbVJDNjc4OWJ4VEJmQ00xSVBpZy1KYWxwSmRWN2dwUF9fTm9paV83TnhvRmpSRFE?oc=5",
-          "pubDate": "2026-11-26T03:15:00.000Z",
+          "title": "Two Italians killed in Kuwait as a strained Iran ramps up attacks",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5",
+          "pubDate": "2026-11-26T18:34:52.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Judge halts FCC review of ABC licenses, saying it probably violates First Amendment",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaVlPenVsb2oxV3NSbTBUWU5xcGxKNHEzUXBLRkxoQWJZVjdqSHItbzdMVlN5cndEQllLUkhmeWZ4eVlTQm5WaWNhYmVXTkpTXzFZdHZpMU5uUkJKRVh1ZVU4eE01MkJsT2Nfazg5QURZd3NJd0M4TTA3MzJQTE1RQ0xOU1lTcFNPdmtpeUVfR19kWlpZV0xxdEU0djVsTkIzRWgwMGlub2IwelZiV2IyZEVpY095cXRUb2NKUGFnbjVqX2djS2pISElMYw?oc=5",
-          "pubDate": "2026-11-26T05:09:00.000Z",
+          "title": "Iran imposes sweeping austerity measures as U.S. economic pressure mounts",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXVKN203dmhrRzdjSEV3RC1tMTJnQV9XU1pUdnpwdXVucnlpQzl6RTBjVGhHQWZDRjAxV0Rxd0IwOXNSckNTeDc5TEtjZTRQdFFWdlMwbkdkZTBkNWRtWmVfQzFZT0F6c0Y2TTJjOXJRU3YzRUplVG1FNVVsRzE2M0Q5TkJLSEF4anRtci1LU3BQLVNKQlo2aDBObUZBNG85c0V5dmJDaG9ZcUNSX2R0eHlYeXg3RE1BTHc?oc=5",
+          "pubDate": "2026-11-26T18:00:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
+          "pubDate": "2026-11-26T06:32:48.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Flight delays, flooding and outages grow as storm batters East Coast",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV91OWdaQ1cwTHRxZU5wdzBlZjViam1uYmV3Wmd1bTV1QjJlS2dXLW1STjA1WTFUWElVdlNpMDF1Tk5BZmY4MTN4WVU1UHoyN1NoNUxZdXVkdzFzRVFpZWNfVzl3TW9iRTJNU2xaS3J1SWQ1OGpxV3NwdFhHOU1iSUtYWG9tYlZVX2lVR21yWFZIS1NkQWxOODVlS2dNalRwR01JbUZ0NmhKNVpLMkJHYTZmb1IyVkZaSHZGUEdOZzNlcDQ?oc=5",
+          "pubDate": "2026-11-26T19:02:55.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Top official admits ‘wrong decisions’ and ‘deaths’ will result from wildfire shake-up",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekpPZ09fakV4MVNZNTZLczUzRDRPdE1YcUFEX0R6Y2RLeDFyenM1aWs1dHd3Rl9RZ2FNbl9rM3JfTGp5TXFBMUdHMktNM1VwSnVOUGFyYXh3NXYyNXZpdFFUTGp3ZllDdzBQZ2wzd2dQaW93VVc0X1cyanl2MDBaQm1ZX3BZZTg0aEY5dDItMEEteWJQQkQxVkpDcU5WSmV3YlpzbFdNZDZjcXpfb2VBOGR4LVNrWVdhUWtKLWdYX0xETUVBNEFHeUtXRlo1Zw?oc=5",
+          "pubDate": "2026-11-26T18:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -217,27 +231,6 @@
           "pubDate": "2026-11-26T04:15:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
-        },
-        {
-          "title": "Where to expect stormy weather, travel delays and power outages on Thanksgiving",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmx5U0thbWZJUDhmbzBYdGNBQVI1aG5kQTVNR1puTGhqQzBqR1ozbW84Y1VwTXBwT3BiRkdZUTIwT2dyS21WT1gtR2NxSDRlc1ZrZG15UFlQeHk1UGlCSTVocV95M0RmZFdISFI1RnNCV3RXZUtEYk5yUkVkaDNCR0NRMjhoMmJZYldGWE54M1ljS3hyd2lOS2pKN1BKZm1feHozYk1qVVRoeXhoN1dzX3YwMTdUdTBSYlhB?oc=5",
-          "pubDate": "2026-11-26T03:45:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "NASA hit an asteroid to test planetary defense. Here’s what happened.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXU1X0tEY2FuVDhXM1VmQkZPNGRzNlBwMmxXX1JmRUduem5qMFkzVlZnZmZuTlVsdHpOc3p6bTBCanhYM0hZalc2OXM4R0M4UWZvekZkcjhzZnM1QjdrUHJ3Z1BHVnAzcEhybEhFcVRDQlBvM1FfN3RJRm94ZlhvZDBGUFBmZVN3N2lyUUJKT1BuMXkzdnI2NURfakJ2c09TV0dZajNkUE9tS2ZFdU9NX3d6ejk?oc=5",
-          "pubDate": "2026-11-26T01:53:27.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "Steelers release Aaron Rodgers in abrupt, ugly ending",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmtjMFNNZWp2NXNsTDlIY0xlSWthSllPdllkMzRGZmxMeTJOM1RmUWI3M2tXY0xVWFlLNjBFM0FmSHp6SWdwWDAxWWVzRzg4bnFFRktVMVI5b0V3dE9SeWVwYkVfaUVveFFpTjVacHUza25yOG1sOV8zSVA1YnFjcFZoQ1NNU3p3Tk1UOXYxX0NnU0p5Zm5aUUZxZDJZa3l3?oc=5",
-          "pubDate": "2026-11-26T05:30:00.000Z",
-          "snippet": null,
-          "_priority": "DEPORTES"
         }
       ]
     },
@@ -246,37 +239,44 @@
       "color": "lilac",
       "items": [
         {
-          "title": "Can America’s government afford “affordability”?",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkNaOS1zSF9BYjRYT0duT1ItUDQyNUVOZmZIcGhZNFI2SVNNYW1HTXJDbkdJY3l4NEFPVzBZUklEYjFNYkJMRVczWi1fR05rQklLWldQRGpHZl9lelhpTTdzM2FLdEs3U2JtOHJWajhFV2IzQkRhR1FYUjZCZUFjRGJrb3NXYm9xRk1fYi1ueXFwcjZKcHNmdjFzbmh1akJja2pPbll3?oc=5",
-          "pubDate": "2026-11-25T22:33:27.000Z",
+          "title": "Cyril Ramaphosa is letting South Africa drift into chaos",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXVHWnEtQ25PLVZZRHhmNGY0WHd4U25BNlY5aWRNN2prTkRFQUE4RTRXcFhRS1g0aTlHVTRMLXhyVURmUmVVNlFWakJENDA3OGh4NlJNMTRORkZTOW9XWW0tN1lKYlN5c0xsQ3luYmwtYVBHNlh4M1pfaURSNHVtMUpNbm1wNjlLejJQcV9NQjFOV1lOQU5VRmxsdDZGblV6MmdXYi1JMEhJUV9qZzhTUXRDSW5ab1U?oc=5",
+          "pubDate": "2026-11-26T13:45:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Nuclear-arms control is on hold until China catches up",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmpSekMybnFNVjBFcVN2NWhGenhaRFZUNFhNaVBVSXpPZmRHNjZNUkxaLU94WXR4WlQ4ck1wVmF2OWZIQWp0NXJ2YmhGS1Y1YU9Jbm5YMlpTYUV3VFVEZjdMUi11bnpBVnFqQ29wQldIREF0aWJXSW9CWm1OTWlCVUNVZFlIa2F1Q1VDcjlWV2NIUFZEUWNuMnp1UzFydw?oc=5",
-          "pubDate": "2026-11-25T19:48:17.000Z",
+          "title": "How Democrats and Donald Trump can make it easier to build",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDdtWEpTSThFWFV5UHZzVW80LVlnaURzRWdkcTE2SUFYNklYMG50SFdKSDBOWWptZEQzZFlJSElvczlKdVVnckpaVFNCN09HVWJMTE4tNXNaVGo2alZQR0Z3eWhMdTRZQVRzTlhrQ1NqSzFabVRmVmp2OURJajREUWs3NGhuM1NRbk0wZlp0TFhLT1NGRlZ0dGUzS2k3OXBQaGxpdExR?oc=5",
+          "pubDate": "2026-11-26T13:45:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Do Americans have a right to own assault rifles?",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVQxaFVPRkhTLTdGRnZ0TWhyRFZzZy1rQVphWVBKLVY1SEpMYkdEWE5lRVQ2MGtacXNrN1JDTlh5elJlNmkwQlVCckwzV2o4QTJMSWJlRkV6QzBZNkhRbVloZHpPb2h1eGpTR09hNXQ2QjNCdU1GUm1CcTFqNkloRjJ2NVBKSjF1RTV6d1JnalkwTC1pMTZkY004YW1ZQ2s?oc=5",
-          "pubDate": "2026-11-25T19:13:48.000Z",
+          "title": "After a kingpin’s arrest, Sinaloa’s drug war could get worse",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazNnUkZVd0Q0NHp4Szc1Xy16YmhLMXJJbm1NRy11R29xV0RvNEtoRkpFV2RtR0tvZ2xOeXBCYk8xTUR3amFzX0MwSjVtVFM2TUtHV2FpNWg2UDIzckZvNUdoampycG0yZFJubEd5b1NEcW5LNk9iQ1ZURVhZVnJMTkZDS2RGMDNOR1BRcWJGSDVxYjN6cTdJcG5ERV9qdTlGUDBXbDhFSHk3YlU?oc=5",
+          "pubDate": "2026-11-26T13:45:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Shanghai’s boss is purged from Xi Jinping’s top team",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDdSUXVwMkkycnpKS3R2NWdFZTYxUldCenh3dXpPYWpLbjUtWnplalFkTEpHbktFaUVQeW5QdmNzeXBROHl4UGdJZk9NYTgtR21lamxxemNTOEN1eXRyeFhxTnh4cVNpcjhieDUzVXZ6RjBGc19pSVlRMHZfaWJDR1dnNUExR1FsYTQtamtreU9rTGdCbzd0Ng?oc=5",
-          "pubDate": "2026-11-24T18:45:56.000Z",
+          "title": "Turkey’s peace talks with the PKK are inching ahead",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3U1WDZhY1VJTU1PR1laNzRqYkhoRExNbGxMTkM4bHBwb2R4ZGlYTjRhSndVUUtRcFlpbllGSWFxNnhRRHdJZUM3VkY5dTgtX2hWOWMxSkE4OTIwLW1NbVZlVWw4MEZFTnB1QWJweHJGdlF0SzlwZ1NzaXNiRklSNUxXaFhzVmZjMW9vWlpvUW5aNFBTZUh4LXpn?oc=5",
+          "pubDate": "2026-11-26T13:45:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
         {
-          "title": "Why mathematicians must rely on machines to check new results",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMU1wVVViSDE4QmNBN0xiUUcwa1JqVjYwVmNoNWJidlo0YzMyWFA1V09YOV9NcGdYV0hPeGtLS2N6U3FuczJzbUd2aDh1QVEySGdCVGRpVjN2ZVJWa2ZrZnNuUXUwTnhsN280YVE0Wkh0VHE0YUhhN1hMa1BGVVpwUzZYenJSUE1MUmFzcGREYU5PRTlDWGZuQTJyZWk3dU1qMlhKbjRNUl9rdUliWGRpZlBVc2tXQkhUcTgxMWRR?oc=5",
-          "pubDate": "2026-11-25T18:23:57.000Z",
+          "title": "Britain’s EU deal: a user’s guide",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTFNVms2WHBkdDF6UThFNEl5QzJmUjNnNmZ1VnN1ajVRUUMxdkJONm9EWE9EYzhsd010YU96dHlfQTByOEFfa0tiSWVrMTRzSnVPY3ZlTFZXVWdyMzJFLWU1Vk1wb2RxR3pEM1A2cmY1d21GMENvaU9JdVo2endBSg?oc=5",
+          "pubDate": "2026-11-26T13:45:02.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Chinese cities want to become “token factories” for the world",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEN3TjNRNzhxMVhKeUltVG45RGxaQnJCeXdsb1dvX1VWMkJBUlJRMU9ocmlLYUdSdjdHR3ZWeFJkQ3NSdkl0OFZnUVNnZEcxZktKeUYzeVpUWDNsbGNlUVBxLXJqckZNMjRlNkF1MU5oaGdnUURYX1poWmZiOXlFbmFkSmcxQVRlT2pvclNEVFpVN0FsUk85dExLNlQzM0NCMnc1OExTM2o?oc=5",
+          "pubDate": "2026-11-26T13:45:02.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -287,9 +287,23 @@
       "color": "peach",
       "items": [
         {
-          "title": "Crisis en IMSS e INE afectan cobertura en medios de Sheinbaum",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzdaYjdXVENtdXMxeWgxa2xmUENfX1poX2JZM0hVOFhQZTBMLUFMcWtWMHdRMEk5T21halBCbFg4aWZ2c1pYUURGTlZmV0JqQkhaM3cwRmItT1hVVWJSWTh4RmU4R0Z0MGM3YVZXeFZvYlJsS3B6ekgtcVd3R21HcUJmeGx2MDg3SlQ4V0c1Q2s2UnNNMkpqU0x0aHd3LVhrNlE?oc=5",
-          "pubDate": "2026-11-26T07:31:18.000Z",
+          "title": "Sheinbaum acusa injerencia de la DEA por abrir canales de denuncia contra cárteles en México",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZWV2LVBHMGtJcTRlMTUxTEpjbUJ2aG9YbEtBSXdIRHBUUzI2bVBVQklRa2lOWlJJU2xTZjM4OGgyak81ZTdkN29QbkNLXzByMUtOWngzXzBtTmRfZEU2cC1GRE8xNF9sQ1NTYlQtLXVZX1d1Sm9yYmhETnRhUmhWZUsySF85dF91SHkyMzh0OGhhQzBZQ3ViY1VEUzhrd0RPSkdjMW9kdFcxbEhOdXh4alRTTHlvRW5PWDIzc0VSYWgtVmxnZmV3U3hERHFJcU92UnVUSVhTbl9HXzFIQ09sQ1RuUmJ5Qm16QkFFY9IBgAJBVV95cUxPVHV6NUpEOU1iVm1YRUVaUEhvYm00RGhld1lmN1NrR2lyWC05a1E3MHlGT29RSHdwRlczR1c0cHI0UmE1Y0xfUWQxRVN6bDdqVzhRdVJxYkJweUlOMlh5UTQwT1FSU2JtS0hVV2VXM3RPUmpkTW5KYnZMX1dTdXZWbDJaTy1nUElrd21Mek5yVHdSTE5tZFpBbXVvOGxORDVpY0F4a0twc2VFbFhHTDJnX3ktWG1VOVdhbHVSWUtELU0tc3pJc0F2cXNEVEt0RWU0b0JsZnFJV0ZBdk5oN0JKdG5ZSTd4U3BaNXpvbTVDT25rcmw3NmRnWC1jRUNNRWRH?oc=5",
+          "pubDate": "2026-11-26T14:39:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Sheinbaum se solidariza con escritora Ximena Santaolalla y ofrece apoyo para presentar denuncia",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeTZCdXBsOS15a2VGWnRzVzFFZnZQV1BoZkNiNVlqWklmRXZBSG5RLWZBT1JJVENhQ2NRVUVJWWwzOVkxc1pNYkRDaXNLLVBzNkExZ0EtNEZEdDFRTmVLQmk2TzZzS2lwWDZWMGpzY1BQMnNaRWs4ZDdPX2wwWnp3OUhwamxsSDZMQ09LX05DaF9jUzRKNGtRSTg0bjhnQ29BakNMNE1pbTRTejE5NGNPbXlRNzVVN0dJOGh6YjlZWU9uWEk1ZXhHYTNJY0NneW1Ybk9mNnBoX0tqRXk4MVRCU3otY1N1eUV3NEJr0gH_AUFVX3lxTFA0ZUc0Q0U1OVpNem1mZGVXWU1ULVJoRjZuS2M0aU1tRjBNRU9adDVPamcxbGVsb2hiTmt0WXVJWVQzVEhnZ3dSRnFmOTZQQ1liR1hxZExMQ2tBWHN4NUdYdS1sTmRwQnhXcW5XX3hqdkVoaEZUZnpHVEdDem8xUngxUlpWRWthSUlsMmZ1MUh6aUMxWXJzLVRpT253VFlmNDZEaVhqVndyUEJKeGpSckthSk83ekJhYS1QRWVZSHk4TEQzczVhcVFjLWJJcnNJWndoVXZVb2hXdFlEb1NDN19XbDJTRWhsSFBlZXdDQmppakp3aUgxeXNfdUZ6Wm5Rbw?oc=5",
+          "pubDate": "2026-11-26T15:58:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "Mujeres marchan en 25N, recriminan falta de seguridad y justicia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVp1MGFISmRMeUo5dmpLd1ctMnppMG9vSDdoUWoxYkdLTEZ1UzZIWGNwUmItaWJINHItMlR4ZnJIa3AyQVI2eHdFTDUwTHdScUotaDEwUm94RVF4cDFVQjlYZVJSX2ltbWpiMmtHOThfcHBEbUNCMlFkbDBEd185QmM5ZGlSUm1nUzF0LWVkX09uTDZXSXVSaVhDUU92NHZiV0ZzbNIBuAFBVV95cUxQSjBqV3Q0bkpHNl9jbGN4Z2JwVjk3TFlwN3ZmeURtWnViY2lLMmdIT1RpeUx3RGhxU3ZTc1poUVlpWG1BMTdkeFVrQnYwdU9PcnZhQThURk50S2NibXN1LXVDa2pOdE5DOTFrdjdZZ0lpSEt3X0Z0Z0FCYTdiR0JwSzVtNlpZemU2eU4zUG5yZGhVOU1XY0JLMzlqTmpLUjFXOExNODhZVXoxYzh2SE8yZmZhaVNkaDN6?oc=5",
+          "pubDate": "2026-11-26T07:00:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -301,13 +315,6 @@
           "_priority": "ALTA"
         },
         {
-          "title": "México y Luxemburgo van por \"más cooperación, más inversión y más comercio”; canciller Velasco recibe a ministro Bettel",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkV4RmwwV0kzeEt0Z250dUpPNVFCcWx0bFFoV1dLWUJTMFdfQmhfYm9lRUt6d01IWXdtN1QyLV9SQUtEZ2dobFJrV1lfLV9aTGROZmtyRUU0andhWDZiNWNlaFUtZ1hKb3djYUpvdDBzZkUwa2pwSEd5TjR0ODNSUHF5eWVaRDA0Nlg0T1d5VzJEdi11MVlCekdST05vOXk3M1VXMVJGZy1CRGxuVDlVMXFlLUlzNVRIRndzcTFRVGxNNm5TbjB0S283MDJBWVRTeWVIM25tSmNiQVJCRlBEWHROQlhMSk1pMXfSAf4BQVVfeXFMTVBiRzc1czgybEw1XzBqRWVCNng3NXdFUklzSjJzXzJGVTVOcDdMaTVibVZueTJZLXZzd05aTlNwQnJ1YVEyaFdDajdSX1ZKcXE1cll1WVlGN2lBQk5wajVMZEkwWk1oWFpnemRKcnFPdjRiN3NqR0YySnNQNFZsdlVaMHRlVXYxaU1ScHZwMzczU0UtRmt0M29wU3JtakU2MVdxY29mUk5jbGN0anUycERDUHJLQWZiQk9VOTNjMEpaM3ZfallyWkszY2pOS1dBV1RlR05WQ1FKblg1Yk5oLXp2YmRNQV9oSHdxdjlCbXVTRzZxV0loN3FxYm1IcGc?oc=5",
-          "pubDate": "2026-11-26T02:54:11.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
           "title": "Partidos firman pacto contra violencia política de género; descartan postular a agresores",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFRtbnMzclpKYWhiYkRmdVpEaWs2OWJ4S09fTU5nMnNGa2RZVHZXYV9HN2hmZDEwS0stWWZsUTBHZWJvRmtBdjE5aTVxMGRNZTllTVJTWWR0VkhaOVhJWGdodnJEMjN4c1k1Z2hmZHd1TnVkRkVyZWdSYmJpczA2Z2VGMjVxa0VyM3VnR0tzZHBTNjJnSXRuQnVZOXJiTE00XzBya0VtZ2lvdGs0aWZEcmRTQzJKZHBLa3MyMnpuOGs5TWhUcGc?oc=5",
           "pubDate": "2026-11-26T01:08:29.000Z",
@@ -315,16 +322,9 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Tribunal ordena al INE admitir denuncia de Ariadna Montiel contra Maru Campos",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZjNSRFV3M19pckxGOFJ5ZWpiMlFlR2JzaVhpQ2JYS3FWdzRGci10UXczTlhSZHNSSmxGWElUVlhzT2RTNzc0NkZGbTNfcThNNmNpc2Y0UkJPWlphYTIweXlKZzJKbGMzeFZaV2dYNWVUczVLWWJYRnFUNU1lTGxycmtDeE1YbjVKU0JBWW5lMG1DenpZc3ZDSS1XZWlhVzQzQURjRUlKUDhqeDA4cVhYdkVFQ19tYTgwQmtpcktKbzQ1a3NrWFJXWW5JaHBhQWE3cmdtc3ZCRk1aSlZrV2dtVDNEZHZ5NDNEMWRBM1RR0gGCAkFVX3lxTE1Pal9wVHNKM0h5cGNfNW9qdm9ZMy1Lbkh6N0hJc0s2eEpNWGpMMHpEOXNxUFl2c1Q0YjNjVTNNOGpLd0ZoT296c2Z0STRhWkhNNU55OWRGblpHSXVETFF4WUZFdkhBZHZmS25waFFYXzU5UElsdnI5WmNGd1ZRSmFJUkExZEJTTDlyNXlCVnoyRmRRNFhoM3lFNDdTeGVZNnNSUDdaLTlyamhSWDJkZkVsUXVTVGNlblE2MW9iU2h1dmlxODZTY0JiSy1pV1hqcHdoWTRwdEk1QmoyQmRLcnVRemRCZERfQV85aDJSczhoTkNreXdDZnJRV25BOTJzUF9WQQ?oc=5",
-          "pubDate": "2026-11-26T00:20:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "CNDH reprocha sentencia por caso de Marichuy; jueza reclasificó feminicidio a homicidio",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUppNy1TbTVHNGdRS1I4cVRsUm5NU3c4ZUFIOUJGTWNrRnRsbFU2LVNPdFFDNVVyMEFoSVctQ3pjVGdXblg5MDhXZ3pSSzBzLUpaV0xEX1lmWnBuWkFjNGNDU1cxSzdkSnE5eHduOFZKVWYzSlY4TTBjNUN1Um16T1pRRHNfaHlpZm1ya1JLeG5IN1V6cHZTUk1SbHRTTWVxb2lYNS15VU1ZdVBEZTd6b0pBdFNrVDFVbjVETHJFTjAxV3c?oc=5",
-          "pubDate": "2026-11-26T00:08:35.000Z",
+          "title": "FIFA denuncia que fue víctima de un ciberataque; hackers accedieron a \"información personal y comercial\"",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMzV5ZjJHV1JxYWswd09FUEp1TGc1NTFTZUZYZnkxRmliWmFNR2s2OUFYSWQ3Nk1QaXlsd1prSWNoLWZDQ3hmdDgweXNVZkFHMVRHRzFidjRKNlVGTWd3TnNuYTlTc3dsdldOTW9tMmVfbVVVOFJpSjFoSlI5MnVEMU1fUjctYXE4bkV4RVhQb1VCRDFhTzkzZ1NNdGZDOERDZlBUdkxhU3p1Rk84TTJUbWN5eUJYX2NJOEROWEkzTl9vN3NhN1FYRlNnaWdlN19tT1pDWmpXTlY4d9IB7gFBVV95cUxNWlFva3BQV0NUYlh2RUdjYVpyUUFkNGNmSG1zYzRCYTZkcGlMd1dtczh6UVh6R2pYM2FYenBNZEdLcUxzeXJWQl80elA3M3liZFhNNTQ0a2dpYl9ZZTFGenQ2cDFlbEJYcEdaZ2ZLb2xJeE9jMk9MRGNORkFzMUZ5T20yQVRhdHBvcTJ3a2ljaEFvNVlhSHNDcUc3cHdKb0hFUFhkV2JIZzlyamh5bV9jY2xXTDRRNE9Vbl9HUGxLMjcteGNHWHVJdGp1NjhqT2VicHhhUjNlelFUYW5pRzhnV1FuUnJLV0xhRFRRTXd3?oc=5",
+          "pubDate": "2026-11-26T12:56:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
@@ -335,30 +335,9 @@
       "color": "blue",
       "items": [
         {
-          "title": "30 minutos, el tiempo que tendrán en total los abogados de Maduro y Flores para alegar inmunidad",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZmgtT1ZPcldOempxcXZkeTI5RHpGY2tqLTg1VU1xbjN2VHhCMXFVZS1QMEItMUhMaUJ1MEYwVDhzZUhBT0RMZDkzaHVQRzdGdlAwbURxNFk2ZnZTNVRja05DQ3I2OE0xM2sxdUU1NG9EU0RKeGdIT0RnSmVhTTZ4OWhoRlhLM1lPOU1XSnVXQUxDRmRvcm9tbGJoQWYwUDB2Zl9XejhqdDJ1QmVKOWlnXzk4ZnpRTHk5SmhYUUJHOW04dXFuZUF2d25iUjU5QThCQ0NtZzV1VllQQdIB3wFBVV95cUxQTVNQdVBwNjRkc0VCd2dCSWJjb2ZwZUNzSExGRjFVUWtoYTBWREtDOWZ0eVF2bmRBT0d5OTVTZU5OLXB1Si1RNGJWbkp2b3FvdW8zVGxsQWpjRFE0Q0dnQjlqbnE3bEZRMS11dGx0NEVqRjF3a0VmUHVwMEFrMERSdUtyUHFOSDlPUlUxSWNtcGpxX3cycm9heUw3MUFtV1ZDOThwYUtoajJtemZUNEtEQW9DZ185dWJXcExqcWUtRjdhY2hES1d0V1ZrR3Q4YkdCUnpsX3YwOWtXM1Y2REpJ?oc=5",
-          "pubDate": "2026-11-25T23:57:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "EEUU propone nuevos aranceles para la Unión Europea, China y Brasil",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHdsaldyTzVmamNDWldZWnc5eXdMYzRDUzctY2VCMlRhT0I5UVI4Zzh1Mlp3TkZlTTE0QUtwMHRWNTF5YUVqWktySTAzeDdpdDRBV3hPc0M2eUs4MDEwNThWY2dKS2E2bFV6UmwxcmhCdVFtRGtfVGEtOVREQzM0SmlsT25OOFhoRW50eXRrd3FkUU5QeGtEYWx4a1dXa2w4aXBOS0thMW5ya1ZJYUHSAbMBQVVfeXFMT2U3QlNJSDJuYnl5Y0FMWG5wRVJhWngzWmd5cnBIemQxckhmRmRyS0t2Qy1TVU5nd2J0LXg2WGl2cVBkR1FXdjk0MmJKSlg0TFptcDVKRkNxb2xmVWVxeHZTOWpzUXJfUmlHSW4yZ2xFZ3Nlblg2Q09fSlBMNTB4UGJqQzMzRUM5dWZxYkY4eFpYcmFaSUV5bWU0NWJnZWRzd283WkZCeXFreV9xWWQ4MzNHNVU?oc=5",
-          "pubDate": "2026-11-25T15:52:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "La sombra de Castro: Una década de continuidad que empobreció aún más a Cuba",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREJxM0hDWG9pUGdhMDNRYThlU2Zja3VxZ2IxUVBoenRlMHRTQXp3RzE5eEJ4aER4M0ZweExZM29tNVRmZlJSSi1NcW5Sc0dfbE5pSFh3SFpPXzdPZjZzU21BQWR3aS04Nm92dDV3Mkx5UUZvMWtfcElsdnJub1NRVnRXcU9ndnV4RGNtVFJIV1d4Vjl4VEdTaHZGY000QXpJODlqMHJWdEE2NHE5Y1JBZ1ptd1cwS0wzdml0UVJ4SDU0ZFnSAcgBQVVfeXFMTnI3c0dzOFVVakJIQWJ2aTNzYzZ6TVZRVnZMdHhDSUlQYmIwUDExSWZFWUlJR1g3V25CXzhCT0c5SVVXQkNQMUk2S3BYalRMOVpoM1M3WGZ5bkZGanV1aksyMXdsbVJCdDBkMXNlU1BmSUZrUzh3MDBvWnlrR1JwcDBZUjJOT0lvTjdjdmxrbWZyMTdSdFNPX1pMYkFhd3A4bDJyc0JYM3l1VmdXWi1HT1ZNdWE1SVFCVmNBQmR3dmdVRmNDcnpOWVc?oc=5",
-          "pubDate": "2026-11-26T02:28:00.000Z",
-          "snippet": null,
-          "_priority": "ALTA"
-        },
-        {
-          "title": "España entre la continuidad del \"sanchismo\" o un nuevo rumbo",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDVYcG1iS1V0a0FvVnlLLWFWdmV4enktM0VFREFnVTFocXVSMGNPMVhQMW9QeEwtRXJKZUlWNmxwRnFiLVdpS09yODFVMWZNa0NHdm8zclNkeWlxRXFtN1ZaUlptZmE0RUljaUxTeVlTcXRRYzA5eFhVSVVsMmQ3VEUzM2xyeVJvSTdMNzJuZWp6N0pULXY5dV9UMWlwVXN3SHfSAacBQVVfeXFMTTBnXzFpZ0dNSW5YaGlJbkZNSExoWndXb2lXb2djSHhBX25GeTNKREw0TTRuSXQ1U003bTdLOS1kcE5rX3R0enRNeTE5S3hQd2xmYlQ2UGQza0pFdWg1Mm5zVUZHaDVWUlF3M1V1dXFEQl9QRUx2eXhOZG94UnZGSHppNE5qZGJ4NkJxSEh0QUxldV93N3kteGgtLU04dUkwd2Z5S3hzMGM?oc=5",
-          "pubDate": "2026-11-25T23:51:00.000Z",
+          "title": "Edmundo González anuncia su regreso a Venezuela tras dos años de exilio en España",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbGNfaVlGOGlBVUQyckZzYkY3VUl4UXpnVGp6QW9iRzRuMjdZa2k3b0VqZUpWVDJBYUdtVGxKM3FhWU5fc1NZOVJLT041RjBKVWtCNF9VMlRGUmZhSEdGaWp0S3FYZVJzR2NFeEhkZjJCRkRBamI1UzBXQnVUZlNVellrQ0RhUlpLaTRrZGZzT2x2NjlvR0VNa0o0SzFxZ1RmX0JHbXNOZ1lTX2RuaVNpaE9iNy1wWFhZZWEydnNOR2tkTWVXWFQ1U2ln0gHKAUFVX3lxTFBsY19pWUY4aUFVRDJyRnNiRjdVSXhRemdUanpBb2JHNG4yN1lraTdvRWplSlZUMkFhR21UbEozcWFZTl9zU1k5UktPTjVGMEpVa0I0X1UyVEZSZmFIR0ZpanRLcVhlUnNHY0V4SGRmMkJGREFqYjVTMFdCdVRmU1V6WWtDRGFSWktpNGtkZnNPbHY2OW9HRU1rSjRLMXFnVGZfQkdtc05nWVNfZG5pU2loT2I3LXBYWFllYTJ2c05Ha2RNZVdYVDVTaWc?oc=5",
+          "pubDate": "2026-11-26T15:53:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         },
@@ -370,9 +349,30 @@
           "_priority": "ALTA"
         },
         {
-          "title": "Fiscalía de Paraguay imputa al hermano del expresidente Santiago Peña por lavado de activos",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0hxemxGalp2ek56WmJ3ZVZULVZtNzRwdkpaWnl6NENqSi1WNGhjNl83U0pHSEZueHBOOS1jdTZXZVJma0pSclVjX3E3UXh0WUYwb01TY0Exd2Zmcms1czBYN0dILWc5cGJGUHZ0UEhieUp5SmU4RWs0QkdvcUlDQkxBUXptUzRjMmxuSkZkYldaVjNsdnpaN1RBQzNRT3NjZHJzTkxHYW5COGR5TnMxUUJoWU5pY3ZaRkZFTzRYMXF6S2thY1J4cHpVZ095eTc0aFhadEZR0gHbAUFVX3lxTE5PYlZHQVBZbkpVM05CNzhMeTZ4MUlRTFhSbFNuTTVsOTh4NVk3bjIzM09NU254MklieHRYYlFGajB1MWxELWNxTWJtUk5JOTktakcyMnZiSEdpbUF6RTFWZURma3hjUEhYd29MVWhHTzVueUxPaDM1RlFBYXJGamh6VFBYS1dwMF90dUJSbkt6WFFPSDRCenpSLWdYb25FRzFralNoYlAtU0FFVTJYSGdCMkRBWHluSG1vNEQxWUZfRzY3Z0JwQ0FEbjVfZkJzY01GR0tZTGs2VlFFTQ?oc=5",
-          "pubDate": "2026-11-24T23:38:34.000Z",
+          "title": "La sombra de Castro: Una década de continuidad que empobreció aún más a Cuba",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREJxM0hDWG9pUGdhMDNRYThlU2Zja3VxZ2IxUVBoenRlMHRTQXp3RzE5eEJ4aER4M0ZweExZM29tNVRmZlJSSi1NcW5Sc0dfbE5pSFh3SFpPXzdPZjZzU21BQWR3aS04Nm92dDV3Mkx5UUZvMWtfcElsdnJub1NRVnRXcU9ndnV4RGNtVFJIV1d4Vjl4VEdTaHZGY000QXpJODlqMHJWdEE2NHE5Y1JBZ1ptd1cwS0wzdml0UVJ4SDU0ZFnSAcgBQVVfeXFMTnI3c0dzOFVVakJIQWJ2aTNzYzZ6TVZRVnZMdHhDSUlQYmIwUDExSWZFWUlJR1g3V25CXzhCT0c5SVVXQkNQMUk2S3BYalRMOVpoM1M3WGZ5bkZGanV1aksyMXdsbVJCdDBkMXNlU1BmSUZrUzh3MDBvWnlrR1JwcDBZUjJOT0lvTjdjdmxrbWZyMTdSdFNPX1pMYkFhd3A4bDJyc0JYM3l1VmdXWi1HT1ZNdWE1SVFCVmNBQmR3dmdVRmNDcnpOWVc?oc=5",
+          "pubDate": "2026-11-26T02:28:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "ONG nicaragüense exige la liberación de 16 presas políticas, incluidas dos menores",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWFhYVdmRDFscjV5bjl0Q0RqNERiUGdnb3RLNFUzdWVUaVhhLXc4VXN0ZXdUZVpjaWxvajhDX1ZyQkNvcV81bGZ0MXZjTXZsQlFiZG9qOTVpYWdZTlF6MHBIeFZJUkZ0Qy1OR1RZUTFva2FTeENzcnUySEx6QzFrcDMwaEJIS0NtY3hLa3N6aUI0TzVBYVI2Q3BMUWZ5c1FhN1dBWDkzWGEzcmo3dVJobjR6SXJXaERIaThycnJRNktTa0ttUnNCRDBXZno4UU42X215NHZZd9IB1wFBVV95cUxPQWFhYVdmRDFscjV5bjl0Q0RqNERiUGdnb3RLNFUzdWVUaVhhLXc4VXN0ZXdUZVpjaWxvajhDX1ZyQkNvcV81bGZ0MXZjTXZsQlFiZG9qOTVpYWdZTlF6MHBIeFZJUkZ0Qy1OR1RZUTFva2FTeENzcnUySEx6QzFrcDMwaEJIS0NtY3hLa3N6aUI0TzVBYVI2Q3BMUWZ5c1FhN1dBWDkzWGEzcmo3dVJobjR6SXJXaERIaThycnJRNktTa0ttUnNCRDBXZno4UU42X215NHZZdw?oc=5",
+          "pubDate": "2026-11-25T21:13:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "España entre la continuidad del \"sanchismo\" o un nuevo rumbo",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDVYcG1iS1V0a0FvVnlLLWFWdmV4enktM0VFREFnVTFocXVSMGNPMVhQMW9QeEwtRXJKZUlWNmxwRnFiLVdpS09yODFVMWZNa0NHdm8zclNkeWlxRXFtN1ZaUlptZmE0RUljaUxTeVlTcXRRYzA5eFhVSVVsMmQ3VEUzM2xyeVJvSTdMNzJuZWp6N0pULXY5dV9UMWlwVXN3SHfSAacBQVVfeXFMTTBnXzFpZ0dNSW5YaGlJbkZNSExoWndXb2lXb2djSHhBX25GeTNKREw0TTRuSXQ1U003bTdLOS1kcE5rX3R0enRNeTE5S3hQd2xmYlQ2UGQza0pFdWg1Mm5zVUZHaDVWUlF3M1V1dXFEQl9QRUx2eXhOZG94UnZGSHppNE5qZGJ4NkJxSEh0QUxldV93N3kteGgtLU04dUkwd2Z5S3hzMGM?oc=5",
+          "pubDate": "2026-11-25T23:51:00.000Z",
+          "snippet": null,
+          "_priority": "ALTA"
+        },
+        {
+          "title": "La pérdida del cromosoma Y podría aumentar el riesgo de infarto, cáncer y Alzheimer",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdkZXVzltMjZMUGJqN3N1U0dpUEJPMTYydmJ6LVpPWFV1YlhhWUNUd2VTblk2SXZJblh5MW93XzN2UklYaXhNblB1Tk11R0o3czBRQkttZ05paHNreFlWSUZjZlJPbnNfVzVXRTJYOGtwT0pXYnZWWlFKZHd6YThRd1Z2TXpwdC16QXJNczR5LWEtcTdZWkV4azRBSWNDVTg1akQzbFJCUExySjFuR0V0Q1FtTThCNGRCaFVSVXNHaURjaE5WY0F2STRuTXHSAdIBQVVfeXFMT0ZQS2ZJRF96aDdFY1kyajZMYjAybXVkY001X3RUemV4R2xQc2U1eDU4TV9KWjhHMDN3V3NJUjhHREpxRFdTazc1M2wzZkp0NGlvcWRDeW5WV3kwTVByTFVXXzFZMzU4bDVnRE91aTZqb1hTQW1JTFpzSXJWXzlCNEh5QkJFVTJfcktrd2FBRGdrUS1vdlhwSVUxZTh3Ri14Rm1Nay04T3piQlFDUklQNzlhVXc3LS1mZjN3Z2Q1SU4xUmZLRWpQZHRHRmJGeVBzQzF3?oc=5",
+          "pubDate": "2026-11-25T22:24:00.000Z",
           "snippet": null,
           "_priority": "ALTA"
         }
