@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-11-25T19:48:24.888Z",
+  "generatedAt": "2026-11-26T10:01:54.398Z",
   "outlets": [
     {
       "name": "InSight Crime",
       "color": "grey",
       "items": [
+        {
+          "title": "Costa Rica pide a Reino Unido la extradición de la esposa del líder del Cartel del Caribe",
+          "link": "https://insightcrime.org/es/noticias/costa-rica-pide-a-reino-unido-extradicion-esposa-lider-cartel-caribe/",
+          "pubDate": "2026-11-25T20:20:31.000Z",
+          "snippet": "Costa Rica pide a Reino Unido la extradición de la esposa del líder del Cartel del Caribe Costa Rica pidió a Reino Unido la extradición de Estefanía McDonald Rodríguez, investigada por tráfico de drogas y lavado de dinero. Su esposo, alias “Shock”, presunto líder del Cartel Carib…"
+        },
         {
           "title": "William Joffre Alcívar Bautista, alias ‘Willy’",
           "link": "https://insightcrime.org/es/noticias-crimen-organizado-ecuador/william-joffre-alcivar-bautista-alias-willy/",
@@ -34,12 +40,6 @@
           "link": "https://insightcrime.org/es/la-organizacion/descripcion-del-puesto/",
           "pubDate": "2026-11-19T20:29:19.000Z",
           "snippet": "Oferta laboral: Editor(a) en inglés Descripción del cargo InSight Crime busca un editor o editora para ayudar a dirigir su cobertura del crimen organizado en América Latina y el Caribe, seleccionar los temas prioritarios y […] The post Oferta laboral: Editor(a) en inglés appeared…"
-        },
-        {
-          "title": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México",
-          "link": "https://insightcrime.org/es/noticias/muere-jefe-de-jefes-de-mexico-felix-gallardo/",
-          "pubDate": "2026-11-19T17:48:45.000Z",
-          "snippet": "The InSight Take | La muerte de Félix Gallardo deja sin resolver la historia de la corrupción en México La muerte de Miguel Ángel Félix Gallardo, tras 37 años en prisión, lleva a InSight Crime a analizar el controvertido legado del fundador del Cartel de Guadalajara y la corrupci…"
         }
       ]
     },
@@ -90,15 +90,9 @@
       "color": "yellow",
       "items": [
         {
-          "title": "Eliminación de desechos espaciales: estrategias de prevención y mitigación | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd0UzZW1WVWtDb1NDdTRWMnZvOTRrTVNmb1pFVENmaW9rWUdZU3dIOEpmeU44TFUxZHAtUUIwMm1QeFhHN1ZhUUVHQXE5XzM3MG5vYWlxdDlHSFVSaVNqbTZyZlhibkpXWGpHTjdYTFlmRGxlTjZTQWlMb3l4c1NkQ2EwdXNOZ25TRFdJb0pOYk5VTTQ5a2NyZW9vTE4xZ1ZHZ1FFN3p3?oc=5",
-          "pubDate": "2026-11-25T14:26:15.000Z",
-          "snippet": null
-        },
-        {
-          "title": "Fabricación de chips: lo que India puede enseñarle al mundo. | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVk9xbEZWeERmcXR6SG1keVBfNTlHLW5NcFdZMUtkbXlpbHVVOGFqUkZUbVBocV9OUjNQa3N1Y1hzLXg3M1hpSnNaX2h6aC1iMm4wbHdvdjR2cXlRNVUwUE9VSzRWc1BoSkVhUi1ZblNKTEJNdVlfQWlwQkJ5NXhUV1hBTVNvX0FLanVoLXFURUxMOXRfSWt1OENjVFkyNmtxaGlobjdGc3FVM1duQmpUcg?oc=5",
-          "pubDate": "2026-11-25T14:22:49.000Z",
+          "title": "El arte de la inteligencia artificial: Los robots al servicio del bien público",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0t5UXNpYU5LT2Q0UlR6Uk9jZFc0bjZ6NUhsbnNPSDU1TWdXNDZmODBmNjFvdkd2endFSGRwVVlUZ2h4ME8xcWlxQTFLWFJUUkdLc3pvYkZqcnZBX1kwNWNOZ0gtdC1JZlhhbGMtcTFIZDkteFNqNFJpd0hFMXQ2ZjFnLUdRZmFnRHRNMVNoVnR0SnRmTHB2NkVGYzZKdEtXRnNKakVDUjh5cEV6bGRUcGxB?oc=5",
+          "pubDate": "2026-11-25T16:40:55.000Z",
           "snippet": null
         },
         {
@@ -108,21 +102,27 @@
           "snippet": null
         },
         {
-          "title": "Mercados de carbono de la ASEAN: 4 pasos hacia la interoperabilidad | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkpYTUZMdkQteE1ZYkw4Q3B3anM4bWxLRW9wdmxocnlSRkItanV4RHJMcXU4YkdHTFpUT2p2VkJXenFTTEd4elJqWDc3Q0k5d3hkbFJYOTI2d2pGV083Wmc5NEpRaWh4QXpDM0g4emZTUXdONGNFTWRaay16LUZUOEZOUmFFSEdmOEF0MXRkWURoeWtzOXFBd2dCOFRmSTRjTmowbXVIUklQbkNVTEN3S0lzaVM5UlVh?oc=5",
-          "pubDate": "2026-11-25T11:29:27.000Z",
+          "title": "Soluciones para el turismo masivo: Cómo lograr que las ciudades funcionen para todos. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmZWRzZzcXAwQzZfemhZcjk0bjRid0E5R2ZwMVhpMDFNTFNURl9hSmhUa1lCUEQ5UklrX1dsZnNtcy1QMDE1M1ZNLTRROUp1cjFRZVNJSkZlZEVsaEt3d0FydXBOV3lScWdYcDRZWEh2UDUtWTB0cUdETGlxVG1hNUhKNGJRVk1lbTV0U293U1d1WWxMQjN4cGt3?oc=5",
+          "pubDate": "2026-11-23T22:07:46.000Z",
           "snippet": null
         },
         {
-          "title": "Estados Unidos pierde su estatus de país libre de sarampión y otras noticias sobre salud.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1FXNm5uSFIxbFNRcGx5b0FWRHBfS3pZa2stOEtqMzRCZkdyQnJhX1JLODNObzhxMGQzSmd6YVNJTURKMHpVR09JUmk0MmpLdE1SS3BTUmliQkE3T3ZWNmdEeGt4N3B2ZHdKcGI3LWZYOTNlS2dKaXJ1Q253T1hHRTlwVzVOaS03b3hRVEhfWWl5ZmhrZDN4T0EzejNBV2JsdndYYV95UGJvMzZZVGVJYVdOc0RhdjJkZUE?oc=5",
-          "pubDate": "2026-11-24T22:52:06.000Z",
+          "title": "Política educativa en IA: 3 lecciones de Japón sobre inclusión. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEdBYWJBb3gxR2t3ZHZXaDc2cTEzTjAyQkVSU3psMmFaQnB0VkZ5NHBLX2x0dUU2Z2tHTEkwTlU2OWEwTk8xdDV1X0NQSDV3S0s3RGtNczhYNFlPc1Q3LUVSR2VSR3Mwa0dLbDRKdGExeXRzWlJXTzVLaHpkazRza1oxTV93bzJ0MlVmRncxcVNMd00zN3FiRjdTQldRdDNMUk9ud0ZnUnk?oc=5",
+          "pubDate": "2026-11-23T12:40:14.000Z",
           "snippet": null
         },
         {
-          "title": "Prioridad del CFO en materia de resiliencia climática: Guía de planificación financiera | World Economic Forum",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3g3cXljQUpocHJydVZsN1p5X0l6OUt2c3QzLWtYNVljdDRXRVUxdkFsOW9NMmRwcWVVeks2ZTBkQzI0MnN1NWJsYmN3RF96UTlTVENBN1FkSTVCUTBkbi1Gb0ZXRmtpZ1BDRlZkODJvaWNaODV0ZWZUYm9FcjlCakZSekdHQ2thNGlFQzhHU1FMWHdQYlJXNUt4OXFWV1Z4WUpIS1RBcm16M0xwVS1HNUp2UzRpRVk?oc=5",
-          "pubDate": "2026-11-24T21:50:37.000Z",
+          "title": "Innovación urbana: Lecciones de la ciudad inteligente de Bengaluru | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlFQUmFuMFhGRlFyQlZyZ3VBdWFfWmpObVBWSTJWUVdYamhtX1BjUGg4VWV1YXhlM04wTkE2dkItVzlCemVvTmg2OUx4SDBUQWxYckdBak1haG5RcnZmUjVrSTZka3Brem1uSXZlWWhjcWNRS001Z3JWMjY0RDZNRXh0V3hRb1BPbVZwQ1JPX1BkazF6Ym14UGYzbC14M29ITXJid010ek9uOXBXbk5MT3dyR0V6aGM?oc=5",
+          "pubDate": "2026-11-20T15:57:57.000Z",
+          "snippet": null
+        },
+        {
+          "title": "Brecha en el tratamiento del dolor en la salud femenina: la innovación para cerrar la brecha. | World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamNkTnBQaVU0dVpfejhyWmhVOTd3VzV6bHNrSXBQYVNzaGgtOEVuUjFQWHN6emFNMl94Ri1XV09YMXFsd2djdVlnQ3MtVzhzNEEtaElwSU1hSlFPUEI4SUxpNk5aUjNjUENhb1ZpSjR3dC1EYldVamZjVXk4Q1p2TkJWbjgxTXpUdlZ4NHRIR2N3ck96QVR6Wkg4NnVocW1KQjhucTdsTDVQUkRZRXY1TlBLdG1icGg0TE1vMDJFV1k?oc=5",
+          "pubDate": "2026-11-20T14:35:05.000Z",
           "snippet": null
         }
       ]
