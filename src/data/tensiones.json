@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-11-12T10:02:08.920Z",
+  "generatedAt": "2026-11-28T17:59:54.131Z",
   "tensiones": [
     {
       "rank": 1,
-      "titulo": "Conflicto Israel-Palestina y ofensiva en Gaza",
-      "titulo_en": "Israel-Palestine Conflict and Gaza Offensive",
+      "titulo": "Conflicto Israel-Gaza y ataque a personal humanitario",
+      "titulo_en": "Israel-Gaza Conflict and Attack on Humanitarian Personnel",
       "region": "Oriente Medio",
       "noticia": {
-        "titulo": "Strike on Gaza Hospital Kills At Least 6 and Injures 20, Rescuers Say",
-        "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-        "fuente": "The New York Times"
+        "titulo": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
+        "link": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
+        "fuente": "The Guardian"
       },
-      "analisis": "Los ataques continuos contra infraestructuras civiles en Gaza, incluyendo hospitales, intensifican la crisis humanitaria y el aislamiento internacional de Israel. Las operaciones militares mantienen la escalada del conflicto mientras organismos internacionales documentan posibles violaciones de derechos humanos.",
-      "analisis_en": "Ongoing attacks against civilian infrastructure in Gaza, including hospitals, intensify the humanitarian crisis and Israel's international isolation. Military operations maintain the conflict's escalation while international bodies document possible human rights violations."
+      "analisis": "El ataque israelí contra personal de Médecins Sans Frontières en Gaza evidencia la intensificación del conflicto y sus consecuencias sobre infraestructura civil y humanitaria. Esta escalada genera presión diplomática internacional creciente, con potencial para afectar negociaciones de paz y aumentar tensiones con actores como Costa Rica que ya rechaza funcionarios de la ONU críticos con Israel.",
+      "analisis_en": "The Israeli strike against Médecins Sans Frontières staff in Gaza demonstrates intensification of the conflict and its impact on civilian and humanitarian infrastructure. This escalation generates increasing international diplomatic pressure with potential to affect peace negotiations and heighten tensions with actors like Costa Rica that already reject UN officials critical of Israel."
     },
     {
       "rank": 2,
-      "titulo": "Guerra Rusia-Ucrania y negociaciones de paz",
-      "titulo_en": "Russia-Ukraine War and Peace Negotiations",
-      "region": "Europa Oriental",
+      "titulo": "Disputa soberana por Malvinas y recursos petroleros",
+      "titulo_en": "Falkland Islands Sovereignty Dispute and Oil Resources",
+      "region": "Atlántico Sur",
       "noticia": {
-        "titulo": "Ukraine hit by 'significant' Starshield disruptions as US envoys meet Putin, Zelenskyy says",
-        "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-        "fuente": "The Guardian"
+        "titulo": "El Tribunal del Mar rechaza el pedido de Argentina para frenar la explotación petrolera británica en Malvinas",
+        "link": "https://elpais.com/argentina/2026-11-28/el-tribunal-del-mar-rechaza-el-pedido-de-argentina-para-frenar-la-explotacion-petrolera-britanica-en-malvinas.html",
+        "fuente": "El País"
       },
-      "analisis": "La interferencia estadounidense con sistemas de defensa ucraniana mientras se negocian términos de paz evidencia la complejidad de las negociaciones multilaterales y los riesgos de sabotaje tecnológico. La participación de enviados estadounidenses en conversaciones con Putin sugiere un cambio en la estrategia diplomática occidental respecto al conflicto.",
-      "analisis_en": "US interference with Ukrainian defense systems while peace terms are being negotiated reveals the complexity of multilateral negotiations and risks of technological sabotage. US envoys' participation in talks with Putin suggests a shift in Western diplomatic strategy regarding the conflict."
+      "analisis": "El rechazo del Tribunal del Mar al reclamo argentino consolida la posición británica sobre explotación de hidrocarburos en aguas en disputa, perpetuando una fricción histórica que afecta la estabilidad regional y la relación bilateral. Argentina enfrenta un revés diplomático-legal que limita sus opciones de contención de recursos estratégicos mientras Reino Unido fortalece su control sobre la zona.",
+      "analisis_en": "The International Court's rejection of Argentina's claim consolidates Britain's position on hydrocarbon exploitation in disputed waters, perpetuating historical friction that affects regional stability and bilateral relations. Argentina faces a diplomatic-legal setback that limits its options for containing strategic resources while the United Kingdom strengthens its control over the zone."
     },
     {
       "rank": 3,
-      "titulo": "Crisis de inseguridad en Haití y militarización salvadoreña",
-      "titulo_en": "Haiti Security Crisis and Salvadoran Militarization",
-      "region": "Caribe/América Central",
+      "titulo": "Escalada de ataques de largo alcance Ucrania-Rusia",
+      "titulo_en": "Ukraine-Russia Long-Range Strike Escalation",
+      "region": "Europa Oriental",
       "noticia": {
-        "titulo": "Haití: Amnistía Internacional advierte sobre despliegue militar salvadoreño",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0FJdDRTZE82Y3RnZlJaOUxLZ1A1YmNzbXFKT3NFZ1NTRC1qaDZrWVlhRW9YUEhvUk9pSjdpcGI5RmNBbE1oZnhFQXFxYUcwSHp1SkhiMEt4TzZydFlMWnhveDJYZ3BkWlF3TTFQM3k0SFpiRE5xc0pCcWxuZURyUm95NXc0bldkSEs4cUdfeWlvOWc2eUlwX2tHd3hHYU82UE4xOTFaalFZMHpUbVJuaE9fU01zWnBLaElMNWMxUV8xR3ZWREg1bg?oc=5",
-        "fuente": "The Guardian"
+        "titulo": "Ukraine's Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+        "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+        "fuente": "The New York Times"
       },
-      "analisis": "El despliegue de fuerzas salvadoreñas en Haití bajo justificación de control de crimen organizado corre riesgo de convertirse en ocupación militar con escaso control internacional. Las advertencias de organismos de derechos humanos reflejan preocupaciones sobre accountability y el potencial de abuso de poder en un contexto de fragilidad estatal.",
-      "analisis_en": "The deployment of Salvadoran forces in Haiti under the justification of organized crime control risks becoming military occupation with minimal international oversight. Warnings from human rights organizations reflect concerns about accountability and potential abuse of power in a context of state fragility."
+      "analisis": "La expansión de los ataques de largo alcance ucranianos dentro de territorio ruso marca un cambio táctico significativo que eleva el riesgo de represalias y escalada descontrolada. Paralelo a esto, Zelenski critica a Trump por su cercanía con Putin, reflejando profundas preocupaciones sobre la continuidad del apoyo occidental y el futuro de las negociaciones de paz.",
+      "analisis_en": "The expansion of Ukrainian long-range strikes into Russian territory marks a significant tactical shift that raises the risk of retaliation and uncontrolled escalation. Parallel to this, Zelensky criticizes Trump for his proximity to Putin, reflecting deep concerns about the continuity of Western support and the future of peace negotiations."
     }
   ]
 }
